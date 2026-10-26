@@ -1,6 +1,6 @@
 # Visor web del análisis electoral
 
-Web estática local para consultar el análisis de 2023. Permite filtrar por uno o varios partidos, tema madre, subtema y texto, y abrir cada medida en la página correspondiente del PDF original.
+Web estática local para consultar el análisis de 2023. La navegación es progresiva: primero muestra índices y bloques, después temas y subtemas, y solo al entrar en un nodo concreto muestra las medidas y permite abrir el PDF original.
 
 ## Abrirla
 
@@ -28,7 +28,9 @@ La segunda opción facilita que los enlaces relativos a los PDF funcionen correc
 
 La aplicación mantiene dos capas separadas. El panel `Índice original del programa` conserva la estructura propia de cada documento: bloques, capítulos y apartados principales tal como aparecen en su índice. La taxonomía comparativa separa esa estructura original de los temas madre y subtemas comunes de comparación. El selector jerárquico muestra cada tema madre como una opción que incluye todos sus subtemas y, dentro del mismo desplegable, permite seleccionar un subtema concreto. La interfaz explica el alcance de la clasificación seleccionada: qué incluye y qué queda fuera. El tema madre clasifica el ámbito principal de la medida; el subtema permite concretar la búsqueda sin convertir categorías distintas —por ejemplo, vivienda, territorio, soberanía o movilidad— en un único grupo. Las etiquetas secundarias permiten que una medida pueda pertenecer a más de un subtema cuando el propio contenido lo justifica.
 
-Los bloques originales, los bloques analíticos y las medidas se muestran como niveles distintos para los cuatro programas. Las medidas/propuestas extraídas del PDF aparecen separadas de las síntesis analíticas que ya existían en la línea base. Cada registro documental conserva su página y, cuando el programa lo proporciona, su numeración original. La extracción se genera desde los cuatro PDF de 2023 mediante `tools/build_source_catalog_2023.py`, de modo que el mismo criterio pueda repetirse al incorporar 2026.
+Los bloques originales, los bloques analíticos y las medidas se muestran como niveles distintos para los cuatro programas. La ruta por programa es `partido → índice original → bloque o capítulo → medidas`. La ruta comparativa es `tema madre → subtema → medidas de los partidos seleccionados`. La pantalla inicial no lista el grueso de las medidas: solo ofrece los índices, los temas, los subtemas y sus contadores. La búsqueda libre sí funciona como entrada directa a las medidas coincidentes porque constituye una petición explícita del usuario.
+
+Las medidas/propuestas extraídas del PDF aparecen separadas de las síntesis analíticas que ya existían en la línea base. Cada registro documental conserva su página, su numeración original cuando existe, su sección y el bloque original del índice al que se ha vinculado. La extracción se genera desde los cuatro PDF de 2023 mediante `tools/build_source_catalog_2023.py`, de modo que el mismo criterio pueda repetirse al incorporar 2026.
 
 La búsqueda se evalúa a nivel de medida: la prioridad se conserva como contexto, pero solo se muestran las medidas coincidentes. Ignora tildes y admite términos relacionados controlados; así, `inmigración` no devuelve automáticamente todas las medidas de seguridad, fronteras o personas. Las etiquetas de migración incluyen, entre otros, inmigración, migración, asilo, refugio, extranjería e integración, siempre que la medida esté etiquetada documentalmente como tal.
 

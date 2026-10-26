@@ -10,6 +10,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23,6 +24,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -36,6 +38,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -48,6 +51,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -60,6 +64,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -72,6 +77,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -85,6 +91,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -97,6 +104,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -109,6 +117,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "educacion-conocimiento"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -121,6 +130,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -133,6 +143,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -145,6 +156,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -157,6 +169,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "educacion-conocimiento"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -170,6 +183,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "educacion-conocimiento"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -182,6 +196,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -195,6 +210,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -208,6 +224,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -221,6 +238,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -233,6 +251,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -246,6 +265,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -259,6 +279,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -271,6 +292,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -285,6 +307,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -297,6 +320,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -311,6 +335,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -323,6 +348,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "educacion-conocimiento"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -335,6 +361,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -349,6 +376,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -362,6 +390,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -374,6 +403,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -388,6 +418,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -401,6 +432,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -413,6 +445,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -425,6 +458,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -437,6 +471,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -449,6 +484,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -462,6 +498,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -475,6 +512,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -487,6 +525,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -501,6 +540,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "finanzas-publicas"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -515,6 +555,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -527,6 +568,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -540,6 +582,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -553,6 +596,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -565,6 +609,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -578,6 +623,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -590,6 +636,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "educacion-conocimiento"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -602,6 +649,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -616,6 +664,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-local"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -628,6 +677,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -640,6 +690,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -652,6 +703,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -665,6 +717,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -678,6 +731,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -690,6 +744,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -703,6 +758,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -715,6 +771,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -728,6 +785,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -741,6 +799,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -754,6 +813,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -768,6 +828,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -780,6 +841,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -792,6 +854,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -804,6 +867,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -816,6 +880,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -828,6 +893,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -841,6 +907,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -855,6 +922,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -869,6 +937,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -882,6 +951,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -896,6 +966,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -909,6 +980,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -922,6 +994,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -936,6 +1009,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -949,6 +1023,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -963,6 +1038,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -977,6 +1053,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -989,6 +1066,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1002,6 +1080,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1016,6 +1095,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1030,6 +1110,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1042,6 +1123,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1054,6 +1136,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1068,6 +1151,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1080,6 +1164,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1093,6 +1178,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1105,6 +1191,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1119,6 +1206,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-local"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1133,6 +1221,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1147,6 +1236,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1159,6 +1249,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1171,6 +1262,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1183,6 +1275,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1195,6 +1288,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1209,6 +1303,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1222,6 +1317,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1235,6 +1331,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1247,6 +1344,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1260,6 +1358,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1274,6 +1373,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1288,6 +1388,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1301,6 +1402,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1315,6 +1417,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1328,6 +1431,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1341,6 +1445,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "agua"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -1355,6 +1460,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1367,6 +1473,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1380,6 +1487,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1393,6 +1501,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1406,6 +1515,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "agua"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1419,6 +1529,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1432,6 +1543,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1445,6 +1557,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1457,6 +1570,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1469,6 +1583,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1481,6 +1596,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1493,6 +1609,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1506,6 +1623,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1518,6 +1636,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1531,6 +1650,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "finanzas-publicas"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1545,6 +1665,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1559,6 +1680,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1572,6 +1694,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1584,6 +1707,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "sanidad-salud"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1598,6 +1722,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1610,6 +1735,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1622,6 +1748,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1634,6 +1761,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "educacion-conocimiento"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1646,6 +1774,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1660,6 +1789,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1672,6 +1802,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1684,6 +1815,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1696,6 +1828,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1708,6 +1841,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1720,6 +1854,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1732,6 +1867,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1744,6 +1880,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1758,6 +1895,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1770,6 +1908,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "sanidad-salud"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1782,6 +1921,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1796,6 +1936,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1810,6 +1951,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1824,6 +1966,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1838,6 +1981,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1852,6 +1996,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1866,6 +2011,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1878,6 +2024,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1890,6 +2037,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1904,6 +2052,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1916,6 +2065,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1928,6 +2078,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1941,6 +2092,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1955,6 +2107,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1969,6 +2122,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1983,6 +2137,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -1996,6 +2151,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2009,6 +2165,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2023,6 +2180,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2036,6 +2194,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2048,6 +2207,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2060,6 +2220,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2073,6 +2234,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2085,6 +2247,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2099,6 +2262,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2113,6 +2277,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2127,6 +2292,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2139,6 +2305,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2151,6 +2318,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2164,6 +2332,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2178,6 +2347,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2190,6 +2360,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2202,6 +2373,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2214,6 +2386,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2227,6 +2400,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2240,6 +2414,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2252,6 +2427,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2264,6 +2440,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2277,6 +2454,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2291,6 +2469,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2305,6 +2484,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2318,6 +2498,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2330,6 +2511,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2342,6 +2524,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2354,6 +2537,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2368,6 +2552,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2382,6 +2567,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2394,6 +2580,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2406,6 +2593,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2420,6 +2608,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2432,6 +2621,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2444,6 +2634,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2458,6 +2649,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2472,6 +2664,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2485,6 +2678,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2498,6 +2692,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2512,6 +2707,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2524,6 +2720,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2536,6 +2733,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2550,6 +2748,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2564,6 +2763,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2576,6 +2776,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2589,6 +2790,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2601,6 +2803,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2613,6 +2816,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2625,6 +2829,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2638,6 +2843,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2650,6 +2856,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2662,6 +2869,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2674,6 +2882,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2688,6 +2897,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -2700,6 +2910,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2714,6 +2925,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2723,9 +2935,10 @@ window.ELECTION_SOURCE_CATALOG = {
       "number": 213,
       "section": "Regenerar y respetar",
       "subthemeIds": [
-        "administracion-digital"
+        "instituciones-democracia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2737,7 +2950,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "instituciones-democracia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2750,7 +2964,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados",
         "organizacion-territorial"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2762,7 +2977,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "pensiones-cuidados"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2772,9 +2988,10 @@ window.ELECTION_SOURCE_CATALOG = {
       "number": 217,
       "section": "Regenerar y respetar",
       "subthemeIds": [
-        "administracion-digital"
+        "instituciones-democracia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2784,9 +3001,10 @@ window.ELECTION_SOURCE_CATALOG = {
       "number": 218,
       "section": "Regenerar y respetar",
       "subthemeIds": [
-        "administracion-digital"
+        "instituciones-democracia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2800,7 +3018,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia",
         "seguridad-interior"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2810,9 +3029,10 @@ window.ELECTION_SOURCE_CATALOG = {
       "number": 220,
       "section": "Regenerar y respetar",
       "subthemeIds": [
-        "administracion-digital"
+        "instituciones-democracia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2824,7 +3044,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "derechos-igualdad"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2837,7 +3058,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia",
         "familia-conciliacion"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2851,7 +3073,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial",
         "derechos-igualdad"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2861,9 +3084,10 @@ window.ELECTION_SOURCE_CATALOG = {
       "number": 224,
       "section": "Regenerar y respetar",
       "subthemeIds": [
-        "administracion-digital"
+        "instituciones-democracia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2875,7 +3099,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "impuestos-fiscalidad"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2887,7 +3112,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "impuestos-fiscalidad"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2897,9 +3123,10 @@ window.ELECTION_SOURCE_CATALOG = {
       "number": 227,
       "section": "Regenerar y respetar",
       "subthemeIds": [
-        "administracion-digital"
+        "instituciones-democracia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2913,7 +3140,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia",
         "administracion-digital"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2926,7 +3154,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad",
         "instituciones-democracia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2938,7 +3167,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "impuestos-fiscalidad"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2951,7 +3181,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad",
         "justicia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2961,9 +3192,10 @@ window.ELECTION_SOURCE_CATALOG = {
       "number": 232,
       "section": "Regenerar y respetar",
       "subthemeIds": [
-        "administracion-digital"
+        "instituciones-democracia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2976,7 +3208,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad",
         "instituciones-democracia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -2988,7 +3221,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "instituciones-democracia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3000,7 +3234,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "cohesion-territorial"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3012,7 +3247,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "justicia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3025,7 +3261,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados",
         "justicia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3037,7 +3274,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "impuestos-fiscalidad"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3050,7 +3288,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados",
         "justicia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3063,7 +3302,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad",
         "organizacion-territorial"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3077,7 +3317,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad",
         "instituciones-democracia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3090,7 +3331,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad",
         "justicia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3104,7 +3346,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial",
         "justicia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3114,9 +3357,10 @@ window.ELECTION_SOURCE_CATALOG = {
       "number": 244,
       "section": "Regenerar y respetar",
       "subthemeIds": [
-        "administracion-digital"
+        "instituciones-democracia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3130,7 +3374,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia",
         "familia-conciliacion"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3144,7 +3389,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania",
         "familia-conciliacion"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3158,7 +3404,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia",
         "seguridad-interior"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3170,7 +3417,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "pensiones-cuidados"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3182,7 +3430,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "instituciones-democracia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3192,9 +3441,10 @@ window.ELECTION_SOURCE_CATALOG = {
       "number": 250,
       "section": "Regenerar y respetar",
       "subthemeIds": [
-        "administracion-digital"
+        "instituciones-democracia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3204,9 +3454,10 @@ window.ELECTION_SOURCE_CATALOG = {
       "number": 251,
       "section": "Regenerar y respetar",
       "subthemeIds": [
-        "administracion-digital"
+        "instituciones-democracia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3219,7 +3470,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad",
         "organizacion-territorial"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3231,7 +3483,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "organizacion-territorial"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3243,7 +3496,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "organizacion-territorial"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3256,7 +3510,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial",
         "instituciones-democracia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3268,7 +3523,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "impuestos-fiscalidad"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3282,7 +3538,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia",
         "union-europea"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3292,9 +3549,10 @@ window.ELECTION_SOURCE_CATALOG = {
       "number": 258,
       "section": "Regenerar y respetar",
       "subthemeIds": [
-        "administracion-digital"
+        "instituciones-democracia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3308,7 +3566,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad",
         "organizacion-territorial"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3322,7 +3581,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad",
         "organizacion-territorial"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3336,7 +3596,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad",
         "organizacion-territorial"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3349,7 +3610,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "educacion-conocimiento",
         "derechos-igualdad"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3361,7 +3623,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "seguridad-interior"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3371,9 +3634,10 @@ window.ELECTION_SOURCE_CATALOG = {
       "number": 264,
       "section": "Regenerar y respetar",
       "subthemeIds": [
-        "administracion-digital"
+        "instituciones-democracia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3386,7 +3650,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "migracion-asilo",
         "administracion-digital"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3398,7 +3663,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "justicia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3410,7 +3676,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "seguridad-interior"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3420,9 +3687,10 @@ window.ELECTION_SOURCE_CATALOG = {
       "number": 268,
       "section": "Regenerar y respetar",
       "subthemeIds": [
-        "administracion-digital"
+        "instituciones-democracia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3432,9 +3700,10 @@ window.ELECTION_SOURCE_CATALOG = {
       "number": 269,
       "section": "Regenerar y respetar",
       "subthemeIds": [
-        "administracion-digital"
+        "instituciones-democracia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3446,7 +3715,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "justicia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3456,9 +3726,10 @@ window.ELECTION_SOURCE_CATALOG = {
       "number": 271,
       "section": "Regenerar y respetar",
       "subthemeIds": [
-        "administracion-digital"
+        "instituciones-democracia"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3471,7 +3742,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad",
         "seguridad-interior"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3483,7 +3755,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "seguridad-interior"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3495,7 +3768,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "seguridad-interior"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3509,7 +3783,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad",
         "seguridad-interior"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3522,7 +3797,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia",
         "seguridad-interior"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3534,7 +3810,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "educacion-conocimiento"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3547,7 +3824,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "migracion-asilo",
         "seguridad-interior"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3560,7 +3838,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad",
         "defensa-soberania"
       ],
-      "priorityIndex": 3,
+      "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -3574,7 +3853,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad",
         "derechos-igualdad"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3586,7 +3866,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "seguridad-interior"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3598,7 +3879,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "seguridad-interior"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3610,7 +3892,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "seguridad-interior"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3624,7 +3907,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior",
         "defensa-soberania"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3634,9 +3918,10 @@ window.ELECTION_SOURCE_CATALOG = {
       "number": 285,
       "section": "Servir",
       "subthemeIds": [
-        "politica-exterior"
+        "administracion-digital"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3650,7 +3935,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad",
         "seguridad-interior"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3662,7 +3948,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "administracion-digital"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3675,7 +3962,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial",
         "administracion-digital"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3688,7 +3976,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados",
         "impuestos-fiscalidad"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3698,9 +3987,10 @@ window.ELECTION_SOURCE_CATALOG = {
       "number": 290,
       "section": "Servir",
       "subthemeIds": [
-        "politica-exterior"
+        "administracion-digital"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3714,7 +4004,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad",
         "administracion-digital"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3726,7 +4017,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "instituciones-democracia"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3738,7 +4030,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "impuestos-fiscalidad"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3748,9 +4041,10 @@ window.ELECTION_SOURCE_CATALOG = {
       "number": 294,
       "section": "Servir",
       "subthemeIds": [
-        "politica-exterior"
+        "administracion-digital"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3763,7 +4057,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "educacion-conocimiento",
         "instituciones-democracia"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3775,7 +4070,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "administracion-digital"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3787,7 +4083,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "coste-vida"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3801,7 +4098,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad",
         "administracion-digital"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3815,7 +4113,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital",
         "derechos-igualdad"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3828,7 +4127,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad",
         "administracion-digital"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3838,9 +4138,10 @@ window.ELECTION_SOURCE_CATALOG = {
       "number": 301,
       "section": "Servir",
       "subthemeIds": [
-        "politica-exterior"
+        "administracion-digital"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3853,7 +4154,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia",
         "derechos-igualdad"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3866,7 +4168,8 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia",
         "derechos-igualdad"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3878,7 +4181,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "administracion-digital"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3888,9 +4192,10 @@ window.ELECTION_SOURCE_CATALOG = {
       "number": 305,
       "section": "Servir",
       "subthemeIds": [
-        "politica-exterior"
+        "administracion-digital"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3900,9 +4205,10 @@ window.ELECTION_SOURCE_CATALOG = {
       "number": 306,
       "section": "Servir",
       "subthemeIds": [
-        "politica-exterior"
+        "administracion-digital"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3912,9 +4218,10 @@ window.ELECTION_SOURCE_CATALOG = {
       "number": 307,
       "section": "Servir",
       "subthemeIds": [
-        "politica-exterior"
+        "administracion-digital"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3926,7 +4233,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "subthemeIds": [
         "impuestos-fiscalidad"
       ],
-      "priorityIndex": 4,
+      "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -3939,6 +4247,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -3951,6 +4260,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -3963,6 +4273,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -3975,6 +4286,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-local"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -3988,6 +4300,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4002,6 +4315,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4015,6 +4329,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "migracion-asilo"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4027,6 +4342,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4039,6 +4355,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4052,6 +4369,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4064,6 +4382,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4078,6 +4397,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4090,6 +4410,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4103,6 +4424,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4117,6 +4439,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4130,6 +4453,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4144,6 +4468,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4156,6 +4481,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4168,6 +4494,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4181,6 +4508,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4193,6 +4521,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "migracion-asilo"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4205,6 +4534,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "migracion-asilo"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4217,6 +4547,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4230,6 +4561,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4243,6 +4575,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4256,6 +4589,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4269,6 +4603,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4282,6 +4617,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4295,6 +4631,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4309,6 +4646,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4323,6 +4661,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4335,6 +4674,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4347,6 +4687,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4359,6 +4700,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4371,6 +4713,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4383,6 +4726,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4396,6 +4740,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "proteccion-civil"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4409,6 +4754,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4422,6 +4768,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4436,6 +4783,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-local"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4449,6 +4797,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4463,6 +4812,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4477,6 +4827,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4490,6 +4841,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4502,6 +4854,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4514,6 +4867,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4526,6 +4880,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4538,6 +4893,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4550,6 +4906,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4563,6 +4920,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4576,6 +4934,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4590,6 +4949,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4604,6 +4964,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4617,6 +4978,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4630,6 +4992,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4643,6 +5006,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -4655,6 +5019,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     }
   ],
@@ -4669,6 +5034,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4682,6 +5048,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "finanzas-publicas"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4694,6 +5061,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4707,6 +5075,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4719,6 +5088,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4731,6 +5101,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4743,6 +5114,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4755,6 +5127,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4767,6 +5140,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4779,6 +5153,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4791,6 +5166,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4803,6 +5179,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4816,6 +5193,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "finanzas-publicas"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4830,6 +5208,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4842,6 +5221,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4854,6 +5234,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4867,6 +5248,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4879,6 +5261,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4892,6 +5275,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4906,6 +5290,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4919,6 +5304,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4931,6 +5317,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4943,6 +5330,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4956,6 +5344,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4969,6 +5358,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4982,6 +5372,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -4995,6 +5386,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5007,6 +5399,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5019,6 +5412,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5031,6 +5425,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5045,6 +5440,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5057,6 +5453,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5070,6 +5467,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5084,6 +5482,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5096,6 +5495,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5108,6 +5508,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5120,6 +5521,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5133,6 +5535,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5146,6 +5549,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5158,6 +5562,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5170,6 +5575,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5182,6 +5588,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5194,6 +5601,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5208,6 +5616,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5220,6 +5629,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5232,6 +5642,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5245,6 +5656,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5259,6 +5671,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5271,6 +5684,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5284,6 +5698,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5298,6 +5713,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5310,6 +5726,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5323,6 +5740,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5337,6 +5755,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5350,6 +5769,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5362,6 +5782,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5374,6 +5795,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5388,6 +5810,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5400,6 +5823,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5413,6 +5837,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5425,6 +5850,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5439,6 +5865,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5451,6 +5878,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5465,6 +5893,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5477,6 +5906,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5490,6 +5920,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "finanzas-publicas"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5502,6 +5933,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5516,6 +5948,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5528,6 +5961,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5540,6 +5974,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "finanzas-publicas"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5553,6 +5988,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5565,6 +6001,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5577,6 +6014,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5589,6 +6027,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5602,6 +6041,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5614,6 +6054,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5626,6 +6067,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5640,6 +6082,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5652,6 +6095,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5666,6 +6110,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5680,6 +6125,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5694,6 +6140,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5706,6 +6153,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5720,6 +6168,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5733,6 +6182,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5745,6 +6195,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5757,6 +6208,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5770,6 +6222,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5783,6 +6236,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5796,6 +6250,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5810,6 +6265,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "proteccion-civil"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5822,6 +6278,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5835,6 +6292,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5848,6 +6306,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5860,6 +6319,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5872,6 +6332,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5884,6 +6345,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5896,6 +6358,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5908,6 +6371,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "educacion-conocimiento"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5920,6 +6384,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5932,6 +6397,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5944,6 +6410,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5957,6 +6424,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5969,6 +6437,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5981,6 +6450,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -5994,6 +6464,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6006,6 +6477,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6018,6 +6490,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6031,6 +6504,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6045,6 +6519,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6058,6 +6533,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6072,6 +6548,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6084,6 +6561,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6096,6 +6574,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-local"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6109,6 +6588,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6121,6 +6601,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6134,6 +6615,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6146,6 +6628,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6158,6 +6641,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6170,6 +6654,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6182,6 +6667,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6194,6 +6680,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6206,6 +6693,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6218,6 +6706,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6230,6 +6719,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6242,6 +6732,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6255,6 +6746,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6267,6 +6759,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6279,6 +6772,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6291,6 +6785,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6304,6 +6799,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6316,6 +6812,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6329,6 +6826,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6342,6 +6840,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6354,6 +6853,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6366,6 +6866,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6379,6 +6880,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6391,6 +6893,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empresa-industria"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6405,6 +6908,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6419,6 +6923,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6433,6 +6938,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6446,6 +6952,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6458,6 +6965,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6472,6 +6980,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6485,6 +6994,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6498,6 +7008,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6511,6 +7022,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6523,6 +7035,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6535,6 +7048,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6547,6 +7061,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6561,6 +7076,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6573,6 +7089,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6587,6 +7104,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6599,6 +7117,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6611,6 +7130,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6624,6 +7144,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6638,6 +7159,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6650,6 +7172,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6664,6 +7187,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6677,6 +7201,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6691,6 +7216,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6705,6 +7231,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6717,6 +7244,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6730,6 +7258,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6743,6 +7272,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6757,6 +7287,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6770,6 +7301,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6782,6 +7314,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6794,6 +7327,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6807,6 +7341,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6821,6 +7356,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6835,6 +7371,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6848,6 +7385,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6860,6 +7398,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6873,6 +7412,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6887,6 +7427,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6899,6 +7440,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6912,6 +7454,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6926,6 +7469,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6940,6 +7484,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6952,6 +7497,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6964,6 +7510,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6978,6 +7525,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -6990,6 +7538,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7003,6 +7552,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7017,6 +7567,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7029,6 +7580,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7043,6 +7595,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7055,6 +7608,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7068,6 +7622,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7081,6 +7636,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7094,6 +7650,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7108,6 +7665,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7120,6 +7678,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7134,6 +7693,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7148,6 +7708,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7161,6 +7722,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7175,6 +7737,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7187,6 +7750,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7201,6 +7765,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7213,6 +7778,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7227,6 +7793,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7240,6 +7807,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7253,6 +7821,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7266,6 +7835,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7280,6 +7850,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7293,6 +7864,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7306,6 +7878,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7320,6 +7893,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7332,6 +7906,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7345,6 +7920,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7358,6 +7934,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7370,6 +7947,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7383,6 +7961,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7395,6 +7974,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7409,6 +7989,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7421,6 +8002,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7435,6 +8017,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7449,6 +8032,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7463,6 +8047,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7477,6 +8062,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -7491,6 +8077,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7504,6 +8091,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7516,6 +8104,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7528,6 +8117,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7542,6 +8132,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7555,6 +8146,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7568,6 +8160,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7580,6 +8173,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7594,6 +8188,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7607,6 +8202,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7621,6 +8217,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7634,6 +8231,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7647,6 +8245,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7661,6 +8260,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7673,6 +8273,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7687,6 +8288,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7700,6 +8302,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7713,6 +8316,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7726,6 +8330,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7740,6 +8345,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7753,6 +8359,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7767,6 +8374,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7781,6 +8389,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7794,6 +8403,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7807,6 +8417,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7820,6 +8431,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7834,6 +8446,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7848,6 +8461,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7861,6 +8475,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7874,6 +8489,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7888,6 +8504,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7901,6 +8518,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7915,6 +8533,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7928,6 +8547,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7942,6 +8562,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7955,6 +8576,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7969,6 +8591,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7982,6 +8605,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -7996,6 +8620,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8010,6 +8635,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8022,6 +8648,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8035,6 +8662,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8048,6 +8676,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8062,6 +8691,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8074,6 +8704,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8086,6 +8717,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8098,6 +8730,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8110,6 +8743,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8122,6 +8756,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8136,6 +8771,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8150,6 +8786,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8163,6 +8800,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8176,6 +8814,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8190,6 +8829,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8203,6 +8843,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8217,6 +8858,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8230,6 +8872,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8242,6 +8885,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8255,6 +8899,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8268,6 +8913,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8281,6 +8927,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8294,6 +8941,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8308,6 +8956,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8321,6 +8970,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8333,6 +8983,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8346,6 +8997,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8359,6 +9011,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8372,6 +9025,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8385,6 +9039,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8399,6 +9054,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8411,6 +9067,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8424,6 +9081,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8438,6 +9096,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8451,6 +9110,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8463,6 +9123,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8477,6 +9138,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8491,6 +9153,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8505,6 +9168,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8517,6 +9181,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8530,6 +9195,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8544,6 +9210,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8558,6 +9225,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8571,6 +9239,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8585,6 +9254,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8598,6 +9268,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8611,6 +9282,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8624,6 +9296,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8637,6 +9310,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8651,6 +9325,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8665,6 +9340,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8679,6 +9355,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8692,6 +9369,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8705,6 +9383,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8718,6 +9397,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8730,6 +9410,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8744,6 +9425,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8756,6 +9438,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8769,6 +9452,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8782,6 +9466,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8796,6 +9481,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8809,6 +9495,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8822,6 +9509,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8836,6 +9524,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8849,6 +9538,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8862,6 +9552,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8876,6 +9567,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8890,6 +9582,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8904,6 +9597,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8918,6 +9612,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8932,6 +9627,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8946,6 +9642,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8960,6 +9657,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8974,6 +9672,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -8987,6 +9686,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9001,6 +9701,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9015,6 +9716,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9028,6 +9730,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9041,6 +9744,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9055,6 +9759,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9067,6 +9772,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9080,6 +9786,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9092,6 +9799,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9104,6 +9812,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9117,6 +9826,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9131,6 +9841,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9143,6 +9854,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9156,6 +9868,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9168,6 +9881,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9182,6 +9896,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9195,6 +9910,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9209,6 +9925,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9222,6 +9939,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9236,6 +9954,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9250,6 +9969,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9264,6 +9984,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9278,6 +9999,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9292,6 +10014,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9305,6 +10028,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9319,6 +10043,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9333,6 +10058,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9347,6 +10073,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9360,6 +10087,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9372,6 +10100,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9386,6 +10115,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9399,6 +10129,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9413,6 +10144,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -9427,6 +10159,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-local"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9440,6 +10173,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9454,6 +10188,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9468,6 +10203,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9482,6 +10218,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-local"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9496,6 +10233,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9510,6 +10248,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9524,6 +10263,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9538,6 +10278,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9552,6 +10293,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9566,6 +10308,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9580,6 +10323,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9594,6 +10338,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9608,6 +10353,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9622,6 +10368,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9635,6 +10382,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9648,6 +10396,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9662,6 +10411,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9676,6 +10426,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9690,6 +10441,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9703,6 +10455,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9717,6 +10470,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9730,6 +10484,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9744,6 +10499,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9758,6 +10514,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9772,6 +10529,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9786,6 +10544,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9799,6 +10558,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9813,6 +10573,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9827,6 +10588,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9841,6 +10603,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9855,6 +10618,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9869,6 +10633,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9883,6 +10648,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9897,6 +10663,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9911,6 +10678,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9925,6 +10693,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9939,6 +10708,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9952,6 +10722,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9966,6 +10737,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9979,6 +10751,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -9993,6 +10766,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10007,6 +10781,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10021,6 +10796,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10034,6 +10810,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10048,6 +10825,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10062,6 +10840,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10076,6 +10855,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10090,6 +10870,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10103,6 +10884,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10116,6 +10898,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10129,6 +10912,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10142,6 +10926,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10156,6 +10941,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10170,6 +10956,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10184,6 +10971,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10198,6 +10986,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10212,6 +11001,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10226,6 +11016,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10240,6 +11031,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10254,6 +11046,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10268,6 +11061,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10282,6 +11076,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10296,6 +11091,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10310,6 +11106,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10324,6 +11121,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10338,6 +11136,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10351,6 +11150,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10365,6 +11165,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10379,6 +11180,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10393,6 +11195,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10407,6 +11210,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10420,6 +11224,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10434,6 +11239,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10448,6 +11254,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10462,6 +11269,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10476,6 +11284,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10490,6 +11299,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-local"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10504,6 +11314,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10518,6 +11329,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10531,6 +11343,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10545,6 +11358,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10559,6 +11373,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10573,6 +11388,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-local"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10587,6 +11403,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10601,6 +11418,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10614,6 +11432,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10628,6 +11447,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10642,6 +11462,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10655,6 +11476,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10668,6 +11490,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10681,6 +11504,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10695,6 +11519,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10708,6 +11533,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10722,6 +11548,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10736,6 +11563,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10750,6 +11578,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10763,6 +11592,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10777,6 +11607,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10790,6 +11621,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10803,6 +11635,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10817,6 +11650,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10831,6 +11665,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10844,6 +11679,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10858,6 +11694,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10872,6 +11709,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10886,6 +11724,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10899,6 +11738,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10913,6 +11753,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10927,6 +11768,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10940,6 +11782,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10954,6 +11797,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10967,6 +11811,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10981,6 +11826,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -10995,6 +11841,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11009,6 +11856,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11022,6 +11870,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11035,6 +11884,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11049,6 +11899,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11063,6 +11914,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11077,6 +11929,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11090,6 +11943,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11103,6 +11957,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11116,6 +11971,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11129,6 +11985,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11142,6 +11999,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11156,6 +12014,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "agua"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11170,6 +12029,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11184,6 +12044,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11197,6 +12058,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11211,6 +12073,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11225,6 +12088,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11238,6 +12102,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11252,6 +12117,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11266,6 +12132,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11280,6 +12147,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11294,6 +12162,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11308,6 +12177,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11321,6 +12191,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11335,6 +12206,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11348,6 +12220,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11362,6 +12235,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-local"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11376,6 +12250,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11390,6 +12265,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11404,6 +12280,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11418,6 +12295,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11432,6 +12310,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11446,6 +12325,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11459,6 +12339,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11472,6 +12353,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11486,6 +12368,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11500,6 +12383,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11514,6 +12398,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11527,6 +12412,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11541,6 +12427,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11555,6 +12442,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11569,6 +12457,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11583,6 +12472,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11596,6 +12486,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11609,6 +12500,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11623,6 +12515,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11637,6 +12530,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11651,6 +12545,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11664,6 +12559,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11678,6 +12574,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11692,6 +12589,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11706,6 +12604,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11720,6 +12619,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11734,6 +12634,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11748,6 +12649,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11762,6 +12664,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11776,6 +12679,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11790,6 +12694,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11803,6 +12708,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11816,6 +12722,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11830,6 +12737,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11843,6 +12751,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11857,6 +12766,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11871,6 +12781,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11885,6 +12796,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11899,6 +12811,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11912,6 +12825,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11925,6 +12839,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11939,6 +12854,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11953,6 +12869,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11966,6 +12883,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11980,6 +12898,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -11994,6 +12913,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12007,6 +12927,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12021,6 +12942,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12034,6 +12956,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12047,6 +12970,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12061,6 +12985,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12075,6 +13000,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12089,6 +13015,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12102,6 +13029,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12116,6 +13044,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12130,6 +13059,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12144,6 +13074,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12158,6 +13089,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12171,6 +13103,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12184,6 +13117,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12197,6 +13131,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12210,6 +13145,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12224,6 +13160,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12238,6 +13175,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12252,6 +13190,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12266,6 +13205,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12280,6 +13220,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12294,6 +13235,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12307,6 +13249,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12320,6 +13263,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12333,6 +13277,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12346,6 +13291,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -12359,6 +13305,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12372,6 +13319,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12386,6 +13334,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12399,6 +13348,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12413,6 +13363,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12427,6 +13378,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12440,6 +13392,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12454,6 +13407,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12467,6 +13421,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12481,6 +13436,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12495,6 +13451,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12509,6 +13466,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12522,6 +13480,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12535,6 +13494,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12548,6 +13508,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12561,6 +13522,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12575,6 +13537,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12589,6 +13552,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12603,6 +13567,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12617,6 +13582,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12631,6 +13597,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12645,6 +13612,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12659,6 +13627,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12673,6 +13642,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12687,6 +13657,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12701,6 +13672,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12714,6 +13686,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12728,6 +13701,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12742,6 +13716,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12756,6 +13731,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12770,6 +13746,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "agua"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12783,6 +13760,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12797,6 +13775,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12810,6 +13789,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12824,6 +13804,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12837,6 +13818,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12851,6 +13833,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12865,6 +13848,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12878,6 +13862,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12892,6 +13877,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12906,6 +13892,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12919,6 +13906,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12932,6 +13920,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12946,6 +13935,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12960,6 +13950,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12974,6 +13965,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -12987,6 +13979,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13001,6 +13994,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13015,6 +14009,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13029,6 +14024,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13043,6 +14039,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13057,6 +14054,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13071,6 +14069,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13085,6 +14084,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13098,6 +14098,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13112,6 +14113,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13126,6 +14128,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13140,6 +14143,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13154,6 +14158,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13168,6 +14173,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13181,6 +14187,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13195,6 +14202,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13209,6 +14217,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13222,6 +14231,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13236,6 +14246,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13250,6 +14261,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13264,6 +14276,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13278,6 +14291,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13292,6 +14306,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13306,6 +14321,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13320,6 +14336,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13334,6 +14351,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13348,6 +14366,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13361,6 +14380,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13374,6 +14394,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13388,6 +14409,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13402,6 +14424,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13416,6 +14439,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13430,6 +14454,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13444,6 +14469,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13458,6 +14484,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13471,6 +14498,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13485,6 +14513,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13499,6 +14528,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13513,6 +14543,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13526,6 +14557,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13540,6 +14572,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13553,6 +14586,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13567,6 +14601,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13580,6 +14615,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13593,6 +14629,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13607,6 +14644,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13621,6 +14659,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13635,6 +14674,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13649,6 +14689,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13662,6 +14703,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13676,6 +14718,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13689,6 +14732,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13702,6 +14746,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13716,6 +14761,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13730,6 +14776,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-local"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13743,6 +14790,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13757,6 +14805,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-local"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13771,6 +14820,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13785,6 +14835,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13799,6 +14850,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13813,6 +14865,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13826,6 +14879,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13840,6 +14894,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13854,6 +14909,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13868,6 +14924,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13882,6 +14939,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13895,6 +14953,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13909,6 +14968,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13923,6 +14983,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13937,6 +14998,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13950,6 +15012,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13964,6 +15027,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13977,6 +15041,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -13991,6 +15056,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -14005,6 +15071,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14019,6 +15086,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14033,6 +15101,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14046,6 +15115,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14060,6 +15130,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14073,6 +15144,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14086,6 +15158,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14100,6 +15173,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14114,6 +15188,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14128,6 +15203,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14142,6 +15218,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14156,6 +15233,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14169,6 +15247,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14182,6 +15261,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14196,6 +15276,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14209,6 +15290,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14222,6 +15304,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14235,6 +15318,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14248,6 +15332,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14262,6 +15347,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14276,6 +15362,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14290,6 +15377,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14304,6 +15392,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14317,6 +15406,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14330,6 +15420,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14343,6 +15434,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14356,6 +15448,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14369,6 +15462,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14383,6 +15477,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14396,6 +15491,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14410,6 +15506,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14424,6 +15521,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14438,6 +15536,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14452,6 +15551,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14466,6 +15566,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14480,6 +15581,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14494,6 +15596,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14508,6 +15611,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14522,6 +15626,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14536,6 +15641,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14550,6 +15656,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14563,6 +15670,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14577,6 +15685,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14590,6 +15699,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14604,6 +15714,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14618,6 +15729,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14632,6 +15744,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14646,6 +15759,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14660,6 +15774,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14674,6 +15789,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14688,6 +15804,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14702,6 +15819,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14716,6 +15834,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14730,6 +15849,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14744,6 +15864,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14758,6 +15879,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14772,6 +15894,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14786,6 +15909,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14800,6 +15924,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14814,6 +15939,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14828,6 +15954,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14842,6 +15969,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14855,6 +15983,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14869,6 +15998,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14883,6 +16013,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14897,6 +16028,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14911,6 +16043,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14925,6 +16058,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14939,6 +16073,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14953,6 +16088,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14967,6 +16103,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14981,6 +16118,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -14995,6 +16133,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15009,6 +16148,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15023,6 +16163,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15037,6 +16178,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-local"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15051,6 +16193,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15064,6 +16207,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15078,6 +16222,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15092,6 +16237,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15106,6 +16252,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15120,6 +16267,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15134,6 +16282,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15148,6 +16297,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15162,6 +16312,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15176,6 +16327,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15190,6 +16342,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15204,6 +16357,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15218,6 +16372,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15232,6 +16387,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15246,6 +16402,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15259,6 +16416,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15273,6 +16431,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15287,6 +16446,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15301,6 +16461,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15314,6 +16475,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15328,6 +16490,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15342,6 +16505,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15355,6 +16519,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15368,6 +16533,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15382,6 +16548,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15396,6 +16563,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15410,6 +16578,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15424,6 +16593,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15438,6 +16608,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15452,6 +16623,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15466,6 +16638,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15480,6 +16653,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15494,6 +16668,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15508,6 +16683,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15522,6 +16698,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15536,6 +16713,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15549,6 +16727,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15562,6 +16741,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15576,6 +16756,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15589,6 +16770,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15603,6 +16785,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15616,6 +16799,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15630,6 +16814,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15644,6 +16829,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15658,6 +16844,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15672,6 +16859,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15686,6 +16874,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15699,6 +16888,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15712,6 +16902,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15726,6 +16917,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15739,6 +16931,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15753,6 +16946,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15767,6 +16961,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15781,6 +16976,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15795,6 +16991,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15809,6 +17006,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15823,6 +17021,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15837,6 +17036,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15851,6 +17051,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15865,6 +17066,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15879,6 +17081,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15893,6 +17096,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15907,6 +17111,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15920,6 +17125,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15934,6 +17140,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15948,6 +17155,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15962,6 +17170,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15976,6 +17185,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -15989,6 +17199,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16003,6 +17214,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16017,6 +17229,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16031,6 +17244,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16045,6 +17259,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16059,6 +17274,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16072,6 +17288,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16085,6 +17302,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16099,6 +17317,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16113,6 +17332,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16127,6 +17347,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16141,6 +17362,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16155,6 +17377,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16169,6 +17392,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16182,6 +17406,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16195,6 +17420,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16209,6 +17435,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16223,6 +17450,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16237,6 +17465,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16251,6 +17480,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16265,6 +17495,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16278,6 +17509,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16292,6 +17524,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16306,6 +17539,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16320,6 +17554,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16334,6 +17569,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16348,6 +17584,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16361,6 +17598,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16374,6 +17612,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16388,6 +17627,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16402,6 +17642,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16416,6 +17657,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16429,6 +17671,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16443,6 +17686,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16456,6 +17700,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16469,6 +17714,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16483,6 +17729,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16497,6 +17744,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16511,6 +17759,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16525,6 +17774,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16539,6 +17789,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16553,6 +17804,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16567,6 +17819,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16581,6 +17834,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16594,6 +17848,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16608,6 +17863,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16621,6 +17877,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16634,6 +17891,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16647,6 +17905,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16661,6 +17920,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16675,6 +17935,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16688,6 +17949,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16702,6 +17964,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16716,6 +17979,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16730,6 +17994,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16744,6 +18009,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16758,6 +18024,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16772,6 +18039,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16786,6 +18054,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16799,6 +18068,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16812,6 +18082,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16826,6 +18097,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16840,6 +18112,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16854,6 +18127,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16867,6 +18141,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16880,6 +18155,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16894,6 +18170,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16908,6 +18185,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16921,6 +18199,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16935,6 +18214,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16949,6 +18229,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16963,6 +18244,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16977,6 +18259,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -16991,6 +18274,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17005,6 +18289,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17019,6 +18304,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17033,6 +18319,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17047,6 +18334,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17061,6 +18349,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17075,6 +18364,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17089,6 +18379,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17103,6 +18394,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17117,6 +18409,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17131,6 +18424,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17145,6 +18439,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17158,6 +18453,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17171,6 +18467,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17185,6 +18482,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17199,6 +18497,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17213,6 +18512,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17226,6 +18526,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17240,6 +18541,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17253,6 +18555,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17267,6 +18570,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17281,6 +18585,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17295,6 +18600,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17309,6 +18615,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17323,6 +18630,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17337,6 +18645,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17351,6 +18660,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17365,6 +18675,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17379,6 +18690,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17393,6 +18705,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17407,6 +18720,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17421,6 +18735,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17435,6 +18750,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17449,6 +18765,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17463,6 +18780,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17477,6 +18795,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17491,6 +18810,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -17505,6 +18825,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17519,6 +18840,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17533,6 +18855,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17546,6 +18869,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17559,6 +18883,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17573,6 +18898,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17586,6 +18912,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17600,6 +18927,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17614,6 +18942,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17628,6 +18957,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17642,6 +18972,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17655,6 +18986,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17669,6 +19001,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17683,6 +19016,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17696,6 +19030,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17709,6 +19044,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17722,6 +19058,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17736,6 +19073,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17750,6 +19088,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17763,6 +19102,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17777,6 +19117,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17791,6 +19132,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-local"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17805,6 +19147,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17819,6 +19162,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17832,6 +19176,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17845,6 +19190,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17859,6 +19205,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17873,6 +19220,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17887,6 +19235,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17900,6 +19249,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17913,6 +19263,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17926,6 +19277,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17939,6 +19291,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17953,6 +19306,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17966,6 +19320,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17980,6 +19335,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -17994,6 +19350,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18008,6 +19365,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18022,6 +19380,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18036,6 +19395,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18050,6 +19410,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18064,6 +19425,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18078,6 +19440,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18092,6 +19455,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18106,6 +19470,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18120,6 +19485,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-local"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18134,6 +19500,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-local"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18148,6 +19515,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18162,6 +19530,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18176,6 +19545,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18190,6 +19560,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18204,6 +19575,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "proteccion-civil"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18218,6 +19590,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18232,6 +19605,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18246,6 +19620,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18260,6 +19635,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18274,6 +19650,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18288,6 +19665,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18302,6 +19680,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18316,6 +19695,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18330,6 +19710,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18344,6 +19725,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18358,6 +19740,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18372,6 +19755,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18386,6 +19770,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18400,6 +19785,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18414,6 +19800,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18428,6 +19815,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18442,6 +19830,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18456,6 +19845,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18470,6 +19860,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18484,6 +19875,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18498,6 +19890,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18512,6 +19905,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-local"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18526,6 +19920,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18540,6 +19935,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18554,6 +19950,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18568,6 +19965,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18582,6 +19980,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "proteccion-civil"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18596,6 +19995,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18610,6 +20010,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18624,6 +20025,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18638,6 +20040,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18652,6 +20055,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18666,6 +20070,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18680,6 +20085,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18694,6 +20100,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18708,6 +20115,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18722,6 +20130,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18736,6 +20145,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18750,6 +20160,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18764,6 +20175,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18778,6 +20190,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18792,6 +20205,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18806,6 +20220,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18820,6 +20235,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18834,6 +20250,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18848,6 +20265,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18862,6 +20280,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18876,6 +20295,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18890,6 +20310,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18904,6 +20325,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18918,6 +20340,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18932,6 +20355,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18946,6 +20370,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18960,6 +20385,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18974,6 +20400,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -18988,6 +20415,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19002,6 +20430,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19016,6 +20445,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19030,6 +20460,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19044,6 +20475,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19058,6 +20490,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19072,6 +20505,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19086,6 +20520,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19100,6 +20535,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19114,6 +20550,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19128,6 +20565,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19142,6 +20580,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19156,6 +20595,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19170,6 +20610,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19184,6 +20625,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19198,6 +20640,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19212,6 +20655,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19226,6 +20670,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19240,6 +20685,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19254,6 +20700,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19268,6 +20715,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19282,6 +20730,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19296,6 +20745,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19310,6 +20760,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19324,6 +20775,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19338,6 +20790,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19352,6 +20805,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19366,6 +20820,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19380,6 +20835,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19394,6 +20850,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19408,6 +20865,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19422,6 +20880,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19436,6 +20895,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19450,6 +20910,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19464,6 +20925,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19478,6 +20940,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19492,6 +20955,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19506,6 +20970,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19520,6 +20985,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19534,6 +21000,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19548,6 +21015,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19562,6 +21030,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19576,6 +21045,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19590,6 +21060,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19604,6 +21075,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19618,6 +21090,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19632,6 +21105,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19646,6 +21120,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19660,6 +21135,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19674,6 +21150,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19688,6 +21165,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19702,6 +21180,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19716,6 +21195,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19730,6 +21210,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19744,6 +21225,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19758,6 +21240,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19772,6 +21255,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19786,6 +21270,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19800,6 +21285,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19814,6 +21300,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19828,6 +21315,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19842,6 +21330,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19856,6 +21345,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19870,6 +21360,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19884,6 +21375,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -19898,6 +21390,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -19912,6 +21405,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -19926,6 +21420,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -19940,6 +21435,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -19954,6 +21450,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -19968,6 +21465,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -19982,6 +21480,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -19996,6 +21495,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20010,6 +21510,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20024,6 +21525,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20038,6 +21540,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20052,6 +21555,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20066,6 +21570,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20080,6 +21585,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20094,6 +21600,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20108,6 +21615,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20122,6 +21630,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20136,6 +21645,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20150,6 +21660,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20164,6 +21675,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20178,6 +21690,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20192,6 +21705,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20206,6 +21720,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20220,6 +21735,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20234,6 +21750,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20248,6 +21765,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20262,6 +21780,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20276,6 +21795,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20290,6 +21810,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20304,6 +21825,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20318,6 +21840,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20332,6 +21855,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20346,6 +21870,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20360,6 +21885,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20374,6 +21900,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20388,6 +21915,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20402,6 +21930,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20416,6 +21945,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20430,6 +21960,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20444,6 +21975,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20458,6 +21990,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20472,6 +22005,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20486,6 +22020,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20500,6 +22035,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20514,6 +22050,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20528,6 +22065,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20542,6 +22080,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20556,6 +22095,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20570,6 +22110,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20584,6 +22125,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20598,6 +22140,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20612,6 +22155,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20626,6 +22170,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20640,6 +22185,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20654,6 +22200,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20668,6 +22215,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20682,6 +22230,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20696,6 +22245,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20710,6 +22260,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20724,6 +22275,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20738,6 +22290,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20752,6 +22305,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20766,6 +22320,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20780,6 +22335,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20794,6 +22350,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20808,6 +22365,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20822,6 +22380,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20836,6 +22395,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20850,6 +22410,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20864,6 +22425,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20878,6 +22440,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20892,6 +22455,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20906,6 +22470,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20920,6 +22485,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20934,6 +22500,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20948,6 +22515,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20962,6 +22530,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20976,6 +22545,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -20990,6 +22560,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21004,6 +22575,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21018,6 +22590,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21032,6 +22605,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21046,6 +22620,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21060,6 +22635,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21074,6 +22650,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21088,6 +22665,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21102,6 +22680,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21116,6 +22695,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21130,6 +22710,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21144,6 +22725,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21158,6 +22740,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21172,6 +22755,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21186,6 +22770,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21200,6 +22785,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21214,6 +22800,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21228,6 +22815,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21242,6 +22830,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21256,6 +22845,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21270,6 +22860,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21284,6 +22875,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21298,6 +22890,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21312,6 +22905,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21326,6 +22920,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21340,6 +22935,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21354,6 +22950,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21368,6 +22965,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21382,6 +22980,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21396,6 +22995,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21410,6 +23010,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21424,6 +23025,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21438,6 +23040,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21452,6 +23055,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21466,6 +23070,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21480,6 +23085,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21494,6 +23100,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21508,6 +23115,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21522,6 +23130,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21536,6 +23145,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21550,6 +23160,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -21564,6 +23175,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 6,
       "kind": "document"
     }
   ],
@@ -21578,6 +23190,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empleo-formacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21591,6 +23204,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21603,6 +23217,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empleo-formacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21615,6 +23230,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21628,6 +23244,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21642,6 +23259,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21654,6 +23272,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21666,6 +23285,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empleo-formacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21678,6 +23298,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21691,6 +23312,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "proteccion-civil"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21704,6 +23326,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21718,6 +23341,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21732,6 +23356,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21746,6 +23371,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "finanzas-publicas"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21759,6 +23385,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21771,6 +23398,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21784,6 +23412,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21796,6 +23425,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21808,6 +23438,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21822,6 +23453,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21835,6 +23467,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21849,6 +23482,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21862,6 +23496,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21875,6 +23510,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21888,6 +23524,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21901,6 +23538,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21915,6 +23553,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "agua"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21928,6 +23567,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21940,6 +23580,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21952,6 +23593,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21965,6 +23607,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21977,6 +23620,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -21991,6 +23635,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22003,6 +23648,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22015,6 +23661,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empleo-formacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22027,6 +23674,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "educacion-conocimiento"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22041,6 +23689,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22053,6 +23702,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22067,6 +23717,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22081,6 +23732,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22095,6 +23747,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22109,6 +23762,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "finanzas-publicas"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22123,6 +23777,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22135,6 +23790,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22148,6 +23804,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22160,6 +23817,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22174,6 +23832,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22187,6 +23846,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22199,6 +23859,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22212,6 +23873,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-local"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22224,6 +23886,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22236,6 +23899,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22249,6 +23913,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22262,6 +23927,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22274,6 +23940,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22286,6 +23953,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empleo-formacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22298,6 +23966,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22311,6 +23980,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22323,6 +23993,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22335,6 +24006,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22349,6 +24021,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22361,6 +24034,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "proteccion-civil"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22373,6 +24047,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22387,6 +24062,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22399,6 +24075,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22413,6 +24090,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22426,6 +24104,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22439,6 +24118,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22453,6 +24133,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22467,6 +24148,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22479,6 +24161,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empleo-formacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22491,6 +24174,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22503,6 +24187,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empleo-formacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22515,6 +24200,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empleo-formacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22529,6 +24215,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22541,6 +24228,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22553,6 +24241,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22565,6 +24254,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22578,6 +24268,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22591,6 +24282,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22604,6 +24296,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22618,6 +24311,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22631,6 +24325,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22643,6 +24338,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22656,6 +24352,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22668,6 +24365,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22680,6 +24378,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22692,6 +24391,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22704,6 +24404,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22716,6 +24417,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empleo-formacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22730,6 +24432,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22742,6 +24445,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22754,6 +24458,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22766,6 +24471,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22778,6 +24484,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empleo-formacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22790,6 +24497,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empleo-formacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22802,6 +24510,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22815,6 +24524,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22827,6 +24537,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22840,6 +24551,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22852,6 +24564,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empleo-formacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22864,6 +24577,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empleo-formacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22876,6 +24590,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22888,6 +24603,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empleo-formacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22902,6 +24618,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22914,6 +24631,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22926,6 +24644,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22938,6 +24657,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22951,6 +24671,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22964,6 +24685,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22976,6 +24698,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -22988,6 +24711,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23000,6 +24724,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empleo-formacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23014,6 +24739,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23027,6 +24753,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23039,6 +24766,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23052,6 +24780,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23064,6 +24793,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23078,6 +24808,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23091,6 +24822,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23103,6 +24835,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23116,6 +24849,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23128,6 +24862,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empleo-formacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23141,6 +24876,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23153,6 +24889,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23166,6 +24903,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23178,6 +24916,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23192,6 +24931,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23206,6 +24946,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23218,6 +24959,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23230,6 +24972,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23242,6 +24985,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23255,6 +24999,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23267,6 +25012,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23279,6 +25025,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23291,6 +25038,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23303,6 +25051,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empleo-formacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23315,6 +25064,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "empleo-formacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23327,6 +25077,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23339,6 +25090,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23353,6 +25105,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23367,6 +25120,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23379,6 +25133,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23392,6 +25147,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23404,6 +25160,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23416,6 +25173,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23429,6 +25187,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23442,6 +25201,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23455,6 +25215,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23468,6 +25229,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23482,6 +25244,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23495,6 +25258,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23508,6 +25272,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23521,6 +25286,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23533,6 +25299,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23545,6 +25312,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23557,6 +25325,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23570,6 +25339,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23582,6 +25352,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23595,6 +25366,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23609,6 +25381,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23623,6 +25396,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23637,6 +25411,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23651,6 +25426,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23665,6 +25441,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23679,6 +25456,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23692,6 +25470,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23706,6 +25485,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23719,6 +25499,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23733,6 +25514,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23747,6 +25529,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23761,6 +25544,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23775,6 +25559,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23787,6 +25572,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23801,6 +25587,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23815,6 +25602,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23828,6 +25616,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23842,6 +25631,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23856,6 +25646,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23870,6 +25661,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23883,6 +25675,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23897,6 +25690,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23909,6 +25703,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23923,6 +25718,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23936,6 +25732,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23950,6 +25747,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23963,6 +25761,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23977,6 +25776,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -23991,6 +25791,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24005,6 +25806,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24019,6 +25821,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24033,6 +25836,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24047,6 +25851,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24059,6 +25864,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24073,6 +25879,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "proteccion-civil"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24087,6 +25894,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24101,6 +25909,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24115,6 +25924,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24129,6 +25939,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24142,6 +25953,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24156,6 +25968,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24169,6 +25982,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24182,6 +25996,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24196,6 +26011,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24208,6 +26024,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24221,6 +26038,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24235,6 +26053,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24247,6 +26066,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24260,6 +26080,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24274,6 +26095,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24287,6 +26109,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24301,6 +26124,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24315,6 +26139,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24328,6 +26153,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24341,6 +26167,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24355,6 +26182,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24368,6 +26196,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24381,6 +26210,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24395,6 +26225,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24409,6 +26240,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24423,6 +26255,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24437,6 +26270,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24449,6 +26283,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24462,6 +26297,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24476,6 +26312,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24488,6 +26325,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24501,6 +26339,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24515,6 +26354,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24529,6 +26369,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24543,6 +26384,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24556,6 +26398,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24570,6 +26413,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24584,6 +26428,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24597,6 +26442,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24611,6 +26457,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24625,6 +26472,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "agua"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24638,6 +26486,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24651,6 +26500,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24664,6 +26514,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24678,6 +26529,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24692,6 +26544,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24705,6 +26558,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24719,6 +26573,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24732,6 +26587,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24745,6 +26601,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24759,6 +26616,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24772,6 +26630,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24786,6 +26645,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24800,6 +26660,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24814,6 +26675,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24828,6 +26690,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24842,6 +26705,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24856,6 +26720,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24870,6 +26735,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24882,6 +26748,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24896,6 +26763,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24910,6 +26778,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24922,6 +26791,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24936,6 +26806,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24949,6 +26820,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24963,6 +26835,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24977,6 +26850,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -24991,6 +26865,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25005,6 +26880,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25018,6 +26894,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25032,6 +26909,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25046,6 +26924,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25060,6 +26939,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25074,6 +26954,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25088,6 +26969,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25102,6 +26984,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "agua"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25116,6 +26999,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25130,6 +27014,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25143,6 +27028,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25157,6 +27043,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25170,6 +27057,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25183,6 +27071,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25197,6 +27086,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25211,6 +27101,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "proteccion-civil"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25224,6 +27115,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25237,6 +27129,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25250,6 +27143,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25264,6 +27158,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25277,6 +27172,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25291,6 +27187,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25305,6 +27202,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25319,6 +27217,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25333,6 +27232,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25346,6 +27246,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25360,6 +27261,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25374,6 +27276,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25388,6 +27291,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25402,6 +27306,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25415,6 +27320,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25429,6 +27335,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25443,6 +27350,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25457,6 +27365,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25471,6 +27380,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25485,6 +27395,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25499,6 +27410,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25513,6 +27425,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25526,6 +27439,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25540,6 +27454,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25554,6 +27469,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25567,6 +27483,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25580,6 +27497,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25594,6 +27512,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25608,6 +27527,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25622,6 +27542,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25635,6 +27556,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -25648,6 +27570,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25661,6 +27584,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25675,6 +27599,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "proteccion-civil"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25689,6 +27614,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25701,6 +27627,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25713,6 +27640,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25726,6 +27654,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25740,6 +27669,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25753,6 +27683,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "proteccion-civil"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25767,6 +27698,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25781,6 +27713,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25794,6 +27727,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25807,6 +27741,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25821,6 +27756,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25835,6 +27771,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25848,6 +27785,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25861,6 +27799,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25875,6 +27814,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25888,6 +27828,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25902,6 +27843,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25915,6 +27857,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25928,6 +27871,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25941,6 +27885,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25955,6 +27900,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25969,6 +27915,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25982,6 +27929,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -25996,6 +27944,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26010,6 +27959,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26024,6 +27974,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26037,6 +27988,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26049,6 +28001,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26063,6 +28016,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26077,6 +28031,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26091,6 +28046,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26104,6 +28060,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26118,6 +28075,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26131,6 +28089,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26144,6 +28103,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26158,6 +28118,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26172,6 +28133,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26186,6 +28148,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26200,6 +28163,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26213,6 +28177,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26227,6 +28192,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26239,6 +28205,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26252,6 +28219,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26266,6 +28234,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26280,6 +28249,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26294,6 +28264,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26307,6 +28278,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26320,6 +28292,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26334,6 +28307,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26348,6 +28322,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26362,6 +28337,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26375,6 +28351,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26389,6 +28366,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26403,6 +28381,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26417,6 +28396,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26431,6 +28411,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26445,6 +28426,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26457,6 +28439,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26471,6 +28454,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26485,6 +28469,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26498,6 +28483,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26512,6 +28498,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26526,6 +28513,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26540,6 +28528,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26554,6 +28543,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26568,6 +28558,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26582,6 +28573,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26595,6 +28587,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26609,6 +28602,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26622,6 +28616,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26635,6 +28630,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26649,6 +28645,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26663,6 +28660,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26677,6 +28675,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -26691,6 +28690,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -26705,6 +28705,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -26719,6 +28720,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -26733,6 +28735,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -26747,6 +28750,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -26761,6 +28765,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -26775,6 +28780,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -26789,6 +28795,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -26803,6 +28810,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -26817,6 +28825,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -26831,6 +28840,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -26845,6 +28855,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -26859,6 +28870,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -26873,6 +28885,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -26887,6 +28900,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -26901,6 +28915,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -26915,6 +28930,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -26929,6 +28945,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -26943,6 +28960,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -26957,6 +28975,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -26971,6 +28990,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -26985,6 +29005,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -26999,6 +29020,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27013,6 +29035,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27027,6 +29050,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27041,6 +29065,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27055,6 +29080,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27069,6 +29095,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27083,6 +29110,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27097,6 +29125,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27111,6 +29140,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27125,6 +29155,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27139,6 +29170,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27153,6 +29185,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27167,6 +29200,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27181,6 +29215,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27195,6 +29230,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27209,6 +29245,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27223,6 +29260,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27237,6 +29275,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27251,6 +29290,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27265,6 +29305,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27279,6 +29320,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27293,6 +29335,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-local"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27307,6 +29350,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27321,6 +29365,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27335,6 +29380,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27349,6 +29395,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27363,6 +29410,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27377,6 +29425,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27391,6 +29440,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27405,6 +29455,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27419,6 +29470,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27433,6 +29485,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27447,6 +29500,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27461,6 +29515,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27475,6 +29530,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27489,6 +29545,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27503,6 +29560,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27517,6 +29575,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27531,6 +29590,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27545,6 +29605,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27559,6 +29620,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27573,6 +29635,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27587,6 +29650,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27601,6 +29665,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27615,6 +29680,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27629,6 +29695,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27643,6 +29710,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27657,6 +29725,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27671,6 +29740,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27685,6 +29755,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27699,6 +29770,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27713,6 +29785,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27727,6 +29800,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27741,6 +29815,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27755,6 +29830,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27769,6 +29845,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27783,6 +29860,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27797,6 +29875,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27811,6 +29890,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27825,6 +29905,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27839,6 +29920,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27853,6 +29935,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27867,6 +29950,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27881,6 +29965,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -27895,6 +29980,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -27909,6 +29995,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -27923,6 +30010,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -27937,6 +30025,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -27951,6 +30040,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -27965,6 +30055,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -27979,6 +30070,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -27993,6 +30085,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28007,6 +30100,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28021,6 +30115,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28035,6 +30130,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28049,6 +30145,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28063,6 +30160,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28077,6 +30175,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28091,6 +30190,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28105,6 +30205,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28119,6 +30220,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28133,6 +30235,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28147,6 +30250,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28161,6 +30265,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28175,6 +30280,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28189,6 +30295,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28203,6 +30310,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28217,6 +30325,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28231,6 +30340,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28245,6 +30355,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28259,6 +30370,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28273,6 +30385,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28287,6 +30400,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28301,6 +30415,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28315,6 +30430,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28329,6 +30445,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28343,6 +30460,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28357,6 +30475,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28371,6 +30490,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28385,6 +30505,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -28399,6 +30520,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28413,6 +30535,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28427,6 +30550,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28441,6 +30565,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28455,6 +30580,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28469,6 +30595,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28483,6 +30610,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28497,6 +30625,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28511,6 +30640,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28525,6 +30655,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28539,6 +30670,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28553,6 +30685,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28567,6 +30700,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28581,6 +30715,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28595,6 +30730,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28609,6 +30745,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28623,6 +30760,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28637,6 +30775,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28651,6 +30790,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28665,6 +30805,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28679,6 +30820,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28693,6 +30835,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28707,6 +30850,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28721,6 +30865,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28735,6 +30880,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28749,6 +30895,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28763,6 +30910,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28777,6 +30925,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "finanzas-publicas"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28791,6 +30940,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28805,6 +30955,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28819,6 +30970,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "finanzas-publicas"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28833,6 +30985,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28847,6 +31000,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28861,6 +31015,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28875,6 +31030,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28889,6 +31045,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28903,6 +31060,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28917,6 +31075,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28931,6 +31090,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28945,6 +31105,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28959,6 +31120,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28973,6 +31135,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -28987,6 +31150,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29001,6 +31165,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29015,6 +31180,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29029,6 +31195,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "finanzas-publicas"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29043,6 +31210,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29057,6 +31225,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29071,6 +31240,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29085,6 +31255,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29099,6 +31270,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29113,6 +31285,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29127,6 +31300,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29141,6 +31315,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29155,6 +31330,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29169,6 +31345,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29183,6 +31360,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29197,6 +31375,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29211,6 +31390,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29225,6 +31405,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29239,6 +31420,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29253,6 +31435,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29267,6 +31450,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29281,6 +31465,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29295,6 +31480,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29309,6 +31495,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29323,6 +31510,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29337,6 +31525,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29351,6 +31540,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29365,6 +31555,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29379,6 +31570,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29393,6 +31585,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29407,6 +31600,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29421,6 +31615,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29435,6 +31630,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29449,6 +31645,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29463,6 +31660,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29477,6 +31675,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29491,6 +31690,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29505,6 +31705,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29519,6 +31720,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29533,6 +31735,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29547,6 +31750,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29561,6 +31765,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29575,6 +31780,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-digital"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29589,6 +31795,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29603,6 +31810,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29617,6 +31825,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29631,6 +31840,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29645,6 +31855,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29659,6 +31870,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29673,6 +31885,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29687,6 +31900,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29701,6 +31915,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29715,6 +31930,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "politica-exterior"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29729,6 +31945,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29743,6 +31960,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29757,6 +31975,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29771,6 +31990,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "proteccion-civil"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -29785,6 +32005,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 4,
       "kind": "document"
     }
   ],
@@ -29801,6 +32022,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -29815,6 +32037,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -29828,6 +32051,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -29842,6 +32066,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -29855,6 +32080,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -29869,6 +32095,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-local"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -29883,6 +32110,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -29897,6 +32125,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -29911,6 +32140,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -29924,6 +32154,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -29938,6 +32169,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -29952,6 +32184,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -29966,6 +32199,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -29979,6 +32213,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -29993,6 +32228,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -30006,6 +32242,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -30020,6 +32257,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 0,
       "kind": "document"
     },
     {
@@ -30034,6 +32272,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -30047,6 +32286,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -30060,6 +32300,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -30074,6 +32315,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -30087,6 +32329,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -30101,6 +32344,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -30115,6 +32359,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -30129,6 +32374,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -30142,6 +32388,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -30155,6 +32402,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -30169,6 +32417,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -30183,6 +32432,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
+      "originalBlockIndex": 1,
       "kind": "document"
     },
     {
@@ -30196,6 +32446,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -30208,6 +32459,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -30221,6 +32473,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -30234,6 +32487,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -30247,6 +32501,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -30261,6 +32516,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -30274,6 +32530,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -30287,6 +32544,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -30299,6 +32557,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -30313,6 +32572,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -30325,6 +32585,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -30338,6 +32599,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -30352,6 +32614,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -30364,6 +32627,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -30376,6 +32640,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 2,
       "kind": "document"
     },
     {
@@ -30390,6 +32655,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -30403,6 +32669,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -30417,6 +32684,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "organizacion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -30429,6 +32697,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -30441,6 +32710,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -30453,6 +32723,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -30466,6 +32737,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -30480,6 +32752,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -30492,6 +32765,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -30506,6 +32780,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -30518,6 +32793,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -30530,6 +32806,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -30544,6 +32821,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -30557,6 +32835,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -30571,6 +32850,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -30584,6 +32864,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -30596,6 +32877,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -30610,6 +32892,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -30623,6 +32906,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 3,
       "kind": "document"
     },
     {
@@ -30637,6 +32921,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -30651,6 +32936,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -30664,6 +32950,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -30677,6 +32964,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -30691,6 +32979,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -30705,6 +32994,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -30718,6 +33008,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -30732,6 +33023,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-local"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -30744,6 +33036,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -30758,6 +33051,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -30771,6 +33065,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -30784,6 +33079,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "administracion-local"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -30797,6 +33093,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -30810,6 +33107,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -30824,6 +33122,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cultura"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 4,
       "kind": "document"
     },
     {
@@ -30837,6 +33136,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -30849,6 +33149,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -30862,6 +33163,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -30874,6 +33176,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -30886,6 +33189,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -30898,6 +33202,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -30911,6 +33216,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -30924,6 +33230,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "derechos-igualdad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -30936,6 +33243,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -30949,6 +33257,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -30961,6 +33270,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -30975,6 +33285,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "cohesion-territorial"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -30987,6 +33298,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -31000,6 +33312,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -31012,6 +33325,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -31025,6 +33339,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "coste-vida"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -31038,6 +33353,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -31051,6 +33367,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -31065,6 +33382,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "proteccion-civil"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -31077,6 +33395,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -31090,6 +33409,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -31104,6 +33424,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "union-europea"
       ],
       "priorityIndex": 1,
+      "originalBlockIndex": 5,
       "kind": "document"
     },
     {
@@ -31118,6 +33439,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -31132,6 +33454,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -31146,6 +33469,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -31160,6 +33484,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -31174,6 +33499,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -31188,6 +33514,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -31202,6 +33529,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -31216,6 +33544,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -31230,6 +33559,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -31244,6 +33574,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -31258,6 +33589,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -31272,6 +33604,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -31286,6 +33619,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -31300,6 +33634,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -31314,6 +33649,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -31328,6 +33664,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -31342,6 +33679,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -31356,6 +33694,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -31370,6 +33709,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -31384,6 +33724,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -31398,6 +33739,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "educacion-conocimiento"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 6,
       "kind": "document"
     },
     {
@@ -31412,6 +33754,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 7,
       "kind": "document"
     },
     {
@@ -31426,6 +33769,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "pensiones-cuidados"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 7,
       "kind": "document"
     },
     {
@@ -31440,6 +33784,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 7,
       "kind": "document"
     },
     {
@@ -31454,6 +33799,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 7,
       "kind": "document"
     },
     {
@@ -31468,6 +33814,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 7,
       "kind": "document"
     },
     {
@@ -31482,6 +33829,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 7,
       "kind": "document"
     },
     {
@@ -31496,6 +33844,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 7,
       "kind": "document"
     },
     {
@@ -31510,6 +33859,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 7,
       "kind": "document"
     },
     {
@@ -31524,6 +33874,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 7,
       "kind": "document"
     },
     {
@@ -31538,6 +33889,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 7,
       "kind": "document"
     },
     {
@@ -31552,6 +33904,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 7,
       "kind": "document"
     },
     {
@@ -31566,6 +33919,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 7,
       "kind": "document"
     },
     {
@@ -31580,6 +33934,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 7,
       "kind": "document"
     },
     {
@@ -31594,6 +33949,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 7,
       "kind": "document"
     },
     {
@@ -31608,6 +33964,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 7,
       "kind": "document"
     },
     {
@@ -31622,6 +33979,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 7,
       "kind": "document"
     },
     {
@@ -31636,6 +33994,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 7,
       "kind": "document"
     },
     {
@@ -31650,6 +34009,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 7,
       "kind": "document"
     },
     {
@@ -31664,6 +34024,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 7,
       "kind": "document"
     },
     {
@@ -31678,6 +34039,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 7,
       "kind": "document"
     },
     {
@@ -31692,6 +34054,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 7,
       "kind": "document"
     },
     {
@@ -31706,6 +34069,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 7,
       "kind": "document"
     },
     {
@@ -31720,6 +34084,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -31734,6 +34099,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -31748,6 +34114,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -31762,6 +34129,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -31776,6 +34144,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -31790,6 +34159,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -31804,6 +34174,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -31818,6 +34189,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -31832,6 +34204,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -31846,6 +34219,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -31860,6 +34234,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -31874,6 +34249,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -31888,6 +34264,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -31902,6 +34279,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -31916,6 +34294,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -31930,6 +34309,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -31944,6 +34324,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -31958,6 +34339,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -31972,6 +34354,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -31986,6 +34369,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -32000,6 +34384,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -32014,6 +34399,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -32028,6 +34414,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -32042,6 +34429,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -32056,6 +34444,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "finanzas-publicas"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -32070,6 +34459,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -32084,6 +34474,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -32098,6 +34489,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -32112,6 +34504,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -32126,6 +34519,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -32140,6 +34534,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -32154,6 +34549,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -32168,6 +34564,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -32182,6 +34579,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "servicios-sociales"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -32196,6 +34594,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -32210,6 +34609,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -32224,6 +34624,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -32238,6 +34639,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "vivienda-proximidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -32252,6 +34654,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 2,
+      "originalBlockIndex": 8,
       "kind": "document"
     },
     {
@@ -32266,6 +34669,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "instituciones-democracia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 9,
       "kind": "document"
     },
     {
@@ -32280,6 +34684,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 9,
       "kind": "document"
     },
     {
@@ -32294,6 +34699,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "infraestructuras"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 9,
       "kind": "document"
     },
     {
@@ -32308,6 +34714,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 9,
       "kind": "document"
     },
     {
@@ -32322,6 +34729,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 9,
       "kind": "document"
     },
     {
@@ -32336,6 +34744,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "agua"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 9,
       "kind": "document"
     },
     {
@@ -32350,6 +34759,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 9,
       "kind": "document"
     },
     {
@@ -32364,6 +34774,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 9,
       "kind": "document"
     },
     {
@@ -32378,6 +34789,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 9,
       "kind": "document"
     },
     {
@@ -32392,6 +34804,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 9,
       "kind": "document"
     },
     {
@@ -32406,6 +34819,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 9,
       "kind": "document"
     },
     {
@@ -32420,6 +34834,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 9,
       "kind": "document"
     },
     {
@@ -32434,6 +34849,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "transporte-infraestructuras"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 9,
       "kind": "document"
     },
     {
@@ -32448,6 +34864,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 9,
       "kind": "document"
     },
     {
@@ -32462,6 +34879,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 9,
       "kind": "document"
     },
     {
@@ -32476,6 +34894,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 9,
       "kind": "document"
     },
     {
@@ -32490,6 +34909,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 9,
       "kind": "document"
     },
     {
@@ -32504,6 +34924,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 9,
       "kind": "document"
     },
     {
@@ -32518,6 +34939,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 10,
       "kind": "document"
     },
     {
@@ -32532,6 +34954,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 10,
       "kind": "document"
     },
     {
@@ -32546,6 +34969,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "seguridad-interior"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 10,
       "kind": "document"
     },
     {
@@ -32560,6 +34984,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 10,
       "kind": "document"
     },
     {
@@ -32574,6 +34999,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 10,
       "kind": "document"
     },
     {
@@ -32588,6 +35014,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 10,
       "kind": "document"
     },
     {
@@ -32602,6 +35029,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 10,
       "kind": "document"
     },
     {
@@ -32616,6 +35044,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 10,
       "kind": "document"
     },
     {
@@ -32630,6 +35059,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 10,
       "kind": "document"
     },
     {
@@ -32644,6 +35074,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 10,
       "kind": "document"
     },
     {
@@ -32658,6 +35089,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 10,
       "kind": "document"
     },
     {
@@ -32672,6 +35104,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 10,
       "kind": "document"
     },
     {
@@ -32686,6 +35119,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 10,
       "kind": "document"
     },
     {
@@ -32700,6 +35134,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 10,
       "kind": "document"
     },
     {
@@ -32714,6 +35149,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 10,
       "kind": "document"
     },
     {
@@ -32728,6 +35164,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 10,
       "kind": "document"
     },
     {
@@ -32742,6 +35179,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 10,
       "kind": "document"
     },
     {
@@ -32756,6 +35194,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "defensa-soberania"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 10,
       "kind": "document"
     },
     {
@@ -32770,6 +35209,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 10,
       "kind": "document"
     },
     {
@@ -32784,6 +35224,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "justicia"
       ],
       "priorityIndex": 3,
+      "originalBlockIndex": 10,
       "kind": "document"
     },
     {
@@ -32798,6 +35239,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 11,
       "kind": "document"
     },
     {
@@ -32812,6 +35254,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 11,
       "kind": "document"
     },
     {
@@ -32826,6 +35269,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 11,
       "kind": "document"
     },
     {
@@ -32840,6 +35284,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 11,
       "kind": "document"
     },
     {
@@ -32854,6 +35299,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 11,
       "kind": "document"
     },
     {
@@ -32868,6 +35314,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 11,
       "kind": "document"
     },
     {
@@ -32882,6 +35329,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 11,
       "kind": "document"
     },
     {
@@ -32896,6 +35344,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 11,
       "kind": "document"
     },
     {
@@ -32910,6 +35359,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 11,
       "kind": "document"
     },
     {
@@ -32924,6 +35374,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 11,
       "kind": "document"
     },
     {
@@ -32938,6 +35389,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 11,
       "kind": "document"
     },
     {
@@ -32952,6 +35404,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 11,
       "kind": "document"
     },
     {
@@ -32966,6 +35419,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 11,
       "kind": "document"
     },
     {
@@ -32980,6 +35434,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 11,
       "kind": "document"
     },
     {
@@ -32994,6 +35449,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 11,
       "kind": "document"
     },
     {
@@ -33008,6 +35464,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 11,
       "kind": "document"
     },
     {
@@ -33022,6 +35479,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 11,
       "kind": "document"
     },
     {
@@ -33036,6 +35494,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 11,
       "kind": "document"
     },
     {
@@ -33050,6 +35509,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33064,6 +35524,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33078,6 +35539,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33092,6 +35554,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33106,6 +35569,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33120,6 +35584,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33134,6 +35599,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33148,6 +35614,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33162,6 +35629,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33176,6 +35644,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33190,6 +35659,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33204,6 +35674,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33218,6 +35689,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33232,6 +35704,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33246,6 +35719,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33260,6 +35734,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33274,6 +35749,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33288,6 +35764,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33302,6 +35779,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33316,6 +35794,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33330,6 +35809,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33344,6 +35824,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33358,6 +35839,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33372,6 +35854,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33386,6 +35869,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33400,6 +35884,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 12,
       "kind": "document"
     },
     {
@@ -33414,6 +35899,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 13,
       "kind": "document"
     },
     {
@@ -33428,6 +35914,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 13,
       "kind": "document"
     },
     {
@@ -33442,6 +35929,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 13,
       "kind": "document"
     },
     {
@@ -33456,6 +35944,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 13,
       "kind": "document"
     },
     {
@@ -33470,6 +35959,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 13,
       "kind": "document"
     },
     {
@@ -33484,6 +35974,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 13,
       "kind": "document"
     },
     {
@@ -33498,6 +35989,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 13,
       "kind": "document"
     },
     {
@@ -33512,6 +36004,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 13,
       "kind": "document"
     },
     {
@@ -33526,6 +36019,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 13,
       "kind": "document"
     },
     {
@@ -33540,6 +36034,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 13,
       "kind": "document"
     },
     {
@@ -33554,6 +36049,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 13,
       "kind": "document"
     },
     {
@@ -33568,6 +36064,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 13,
       "kind": "document"
     },
     {
@@ -33582,6 +36079,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 13,
       "kind": "document"
     },
     {
@@ -33596,6 +36094,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 13,
       "kind": "document"
     },
     {
@@ -33610,6 +36109,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 13,
       "kind": "document"
     },
     {
@@ -33624,6 +36124,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 13,
       "kind": "document"
     },
     {
@@ -33638,6 +36139,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 13,
       "kind": "document"
     },
     {
@@ -33652,6 +36154,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 13,
       "kind": "document"
     },
     {
@@ -33666,6 +36169,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 14,
       "kind": "document"
     },
     {
@@ -33680,6 +36184,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 14,
       "kind": "document"
     },
     {
@@ -33694,6 +36199,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 14,
       "kind": "document"
     },
     {
@@ -33708,6 +36214,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 14,
       "kind": "document"
     },
     {
@@ -33722,6 +36229,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 14,
       "kind": "document"
     },
     {
@@ -33736,6 +36244,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 14,
       "kind": "document"
     },
     {
@@ -33750,6 +36259,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 14,
       "kind": "document"
     },
     {
@@ -33764,6 +36274,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 14,
       "kind": "document"
     },
     {
@@ -33778,6 +36289,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 14,
       "kind": "document"
     },
     {
@@ -33792,6 +36304,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 14,
       "kind": "document"
     },
     {
@@ -33806,6 +36319,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 14,
       "kind": "document"
     },
     {
@@ -33820,6 +36334,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 14,
       "kind": "document"
     },
     {
@@ -33834,6 +36349,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 14,
       "kind": "document"
     },
     {
@@ -33848,6 +36364,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 14,
       "kind": "document"
     },
     {
@@ -33862,6 +36379,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 14,
       "kind": "document"
     },
     {
@@ -33876,6 +36394,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 14,
       "kind": "document"
     },
     {
@@ -33890,6 +36409,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 14,
       "kind": "document"
     },
     {
@@ -33904,6 +36424,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 14,
       "kind": "document"
     },
     {
@@ -33918,6 +36439,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 15,
       "kind": "document"
     },
     {
@@ -33932,6 +36454,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 15,
       "kind": "document"
     },
     {
@@ -33946,6 +36469,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 15,
       "kind": "document"
     },
     {
@@ -33960,6 +36484,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 15,
       "kind": "document"
     },
     {
@@ -33974,6 +36499,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 15,
       "kind": "document"
     },
     {
@@ -33988,6 +36514,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 15,
       "kind": "document"
     },
     {
@@ -34002,6 +36529,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 15,
       "kind": "document"
     },
     {
@@ -34016,6 +36544,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 15,
       "kind": "document"
     },
     {
@@ -34030,6 +36559,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 15,
       "kind": "document"
     },
     {
@@ -34044,6 +36574,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 15,
       "kind": "document"
     },
     {
@@ -34058,6 +36589,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 15,
       "kind": "document"
     },
     {
@@ -34072,6 +36604,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 16,
       "kind": "document"
     },
     {
@@ -34086,6 +36619,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 16,
       "kind": "document"
     },
     {
@@ -34100,6 +36634,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 16,
       "kind": "document"
     },
     {
@@ -34114,6 +36649,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 16,
       "kind": "document"
     },
     {
@@ -34128,6 +36664,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 16,
       "kind": "document"
     },
     {
@@ -34142,6 +36679,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 16,
       "kind": "document"
     },
     {
@@ -34156,6 +36694,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 16,
       "kind": "document"
     },
     {
@@ -34170,6 +36709,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 16,
       "kind": "document"
     },
     {
@@ -34184,6 +36724,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 16,
       "kind": "document"
     },
     {
@@ -34198,6 +36739,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 16,
       "kind": "document"
     },
     {
@@ -34212,6 +36754,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 16,
       "kind": "document"
     },
     {
@@ -34226,6 +36769,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 16,
       "kind": "document"
     },
     {
@@ -34240,6 +36784,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 16,
       "kind": "document"
     },
     {
@@ -34254,6 +36799,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 16,
       "kind": "document"
     },
     {
@@ -34268,6 +36814,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 16,
       "kind": "document"
     },
     {
@@ -34282,6 +36829,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 16,
       "kind": "document"
     },
     {
@@ -34296,6 +36844,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 16,
       "kind": "document"
     },
     {
@@ -34310,6 +36859,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 16,
       "kind": "document"
     },
     {
@@ -34324,6 +36874,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 16,
       "kind": "document"
     },
     {
@@ -34338,6 +36889,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 17,
       "kind": "document"
     },
     {
@@ -34352,6 +36904,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 17,
       "kind": "document"
     },
     {
@@ -34366,6 +36919,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 17,
       "kind": "document"
     },
     {
@@ -34380,6 +36934,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 17,
       "kind": "document"
     },
     {
@@ -34394,6 +36949,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 17,
       "kind": "document"
     },
     {
@@ -34408,6 +36964,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 17,
       "kind": "document"
     },
     {
@@ -34422,6 +36979,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 17,
       "kind": "document"
     },
     {
@@ -34436,6 +36994,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 17,
       "kind": "document"
     },
     {
@@ -34450,6 +37009,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 17,
       "kind": "document"
     },
     {
@@ -34464,6 +37024,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 17,
       "kind": "document"
     },
     {
@@ -34478,6 +37039,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 17,
       "kind": "document"
     },
     {
@@ -34492,6 +37054,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 17,
       "kind": "document"
     },
     {
@@ -34506,6 +37069,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 17,
       "kind": "document"
     },
     {
@@ -34520,6 +37084,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 18,
       "kind": "document"
     },
     {
@@ -34534,6 +37099,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 18,
       "kind": "document"
     },
     {
@@ -34548,6 +37114,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 18,
       "kind": "document"
     },
     {
@@ -34562,6 +37129,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 18,
       "kind": "document"
     },
     {
@@ -34576,6 +37144,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 18,
       "kind": "document"
     },
     {
@@ -34590,6 +37159,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 18,
       "kind": "document"
     },
     {
@@ -34604,6 +37174,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 18,
       "kind": "document"
     },
     {
@@ -34618,6 +37189,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 18,
       "kind": "document"
     },
     {
@@ -34632,6 +37204,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 18,
       "kind": "document"
     },
     {
@@ -34646,6 +37219,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 18,
       "kind": "document"
     },
     {
@@ -34660,6 +37234,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 18,
       "kind": "document"
     },
     {
@@ -34674,6 +37249,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 18,
       "kind": "document"
     },
     {
@@ -34688,6 +37264,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 18,
       "kind": "document"
     },
     {
@@ -34702,6 +37279,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 18,
       "kind": "document"
     },
     {
@@ -34716,6 +37294,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 18,
       "kind": "document"
     },
     {
@@ -34730,6 +37309,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 18,
       "kind": "document"
     },
     {
@@ -34744,6 +37324,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 19,
       "kind": "document"
     },
     {
@@ -34758,6 +37339,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 19,
       "kind": "document"
     },
     {
@@ -34772,6 +37354,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 19,
       "kind": "document"
     },
     {
@@ -34786,6 +37369,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "medio-ambiente"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 19,
       "kind": "document"
     },
     {
@@ -34800,6 +37384,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "produccion-rural"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 19,
       "kind": "document"
     },
     {
@@ -34814,6 +37399,7 @@ window.ELECTION_SOURCE_CATALOG = {
         "energia"
       ],
       "priorityIndex": 4,
+      "originalBlockIndex": 19,
       "kind": "document"
     }
   ]

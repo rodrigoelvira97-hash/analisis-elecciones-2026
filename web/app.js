@@ -25,6 +25,7 @@
   const subthemes = themes.flatMap((theme) => (theme.subthemes || []).map((subtheme) => ({ ...subtheme, parentId: theme.id, parentLabel: theme.label })));
   const subthemeById = new Map(subthemes.map((subtheme) => [subtheme.id, subtheme]));
   let registryCounter = 0;
+  let browseState = { type: "home", partyName: null, blockIndex: null };
 
   const STOP_WORDS = new Set(["a", "al", "con", "como", "de", "del", "e", "el", "en", "la", "las", "los", "para", "por", "un", "una", "y"]);
 
@@ -98,6 +99,10 @@
     return measure[7] || "";
   }
 
+  function measureOriginalBlockIndex(measure) {
+    return Number.isInteger(measure[8]) ? measure[8] : null;
+  }
+
   function measureText(measure) {
     return normalizeText(measure.slice(0, 2).join(" "));
   }
@@ -118,7 +123,8 @@
           record.subthemeIds || [],
           record.number,
           record.kind || "document",
-          record.section || ""
+          record.section || "",
+          record.originalBlockIndex ?? null
         ]);
       });
     });
@@ -260,30 +266,47 @@
   function populateFilters() {
     partyOptions.innerHTML = data.parties.map((party) => `<label class="party-option"><input type="checkbox" data-party value="${escapeHtml(party.name)}" /> <span>${escapeHtml(party.name)}</span></label>`).join("");
     updatePartySummary();
-    themes.forEach((theme) => {
-      themeFilter.insertAdjacentHTML("beforeend", `<option value="theme:${escapeHtml(theme.id)}">◆ ${escapeHtml(theme.label)} · todos los subtemas</option>`);
-      const children = subthemes.filter((subtheme) => subtheme.parentId === theme.id);
+    themes.filter((theme) => themeMeasureCount(theme.id) > 0).forEach((theme) => {
+      const themeCount = themeMeasureCount(theme.id);
+      themeFilter.insertAdjacentHTML("beforeend", `<option value="theme:${escapeHtml(theme.id)}">◆ ${escapeHtml(theme.label)} · ${themeCount} medidas</option>`);
+      const children = subthemes.filter((subtheme) => subtheme.parentId === theme.id && subthemeMeasureCount(subtheme.id) > 0);
       children.forEach((subtheme) => {
-        themeFilter.insertAdjacentHTML("beforeend", `<option value="subtheme:${escapeHtml(subtheme.id)}">　↳ ${escapeHtml(subtheme.label)}</option>`);
+        themeFilter.insertAdjacentHTML("beforeend", `<option value="subtheme:${escapeHtml(subtheme.id)}">　↳ ${escapeHtml(subtheme.label)} · ${subthemeMeasureCount(subtheme.id)} medidas</option>`);
       });
     });
   }
 
-  function renderStats(filtered, query) {
-    const priorityCount = filtered.length;
-    const measureCount = filtered.reduce((total, item) => total + item.measures.length, 0);
-    const partyCount = new Set(filtered.map((item) => item.party.name)).size;
+  function selectedParties() {
+    const names = selectedPartyNames();
+    return names === null ? data.parties : data.parties.filter((party) => names.includes(party.name));
+  }
+
+  function documentMeasures(party) {
+    return party.priorities.flatMap((priority, priorityIndex) => priority.measures
+      .filter((measure) => measureSourceKind(measure) === "document")
+      .map((measure) => ({ party, priority, priorityIndex, measure })));
+  }
+
+  function themeMeasureCount(themeId) {
+    return data.parties.flatMap((party) => documentMeasures(party)).filter(({ measure }) => measureTopicIds(measure).includes(themeId)).length;
+  }
+
+  function subthemeMeasureCount(subthemeId) {
+    return data.parties.flatMap((party) => documentMeasures(party)).filter(({ measure }) => measureSubthemeIds(measure).includes(subthemeId)).length;
+  }
+
+  function renderStats(partyCount, nodeCount, nodeLabel, measureCount, measureLabel) {
     stats.innerHTML = [
       [partyCount, "partidos visibles"],
-      [priorityCount, "bloques analíticos visibles"],
-      [measureCount, query ? "medidas concretas coincidentes" : "medidas concretas con acceso al PDF"]
+      [nodeCount, nodeLabel],
+      [measureCount, measureLabel]
     ].map(([value, label]) => `<div class="stat"><strong>${value}</strong><span>${label}</span></div>`).join("");
   }
 
   function renderSearchNote(query, filtered) {
     if (!searchNote) return;
     if (!query) {
-      searchNote.textContent = "La búsqueda ignora tildes y acepta términos relacionados, como inmigración, migración, asilo o integración.";
+      searchNote.textContent = "Selecciona un bloque del programa, un tema madre o un subtema para consultar sus medidas. La búsqueda libre también permite localizar propuestas concretas.";
       return;
     }
     if (filtered.length) {
@@ -295,43 +318,121 @@
     }
   }
 
-  function renderProgramStructure(party) {
+  function renderMeasureList(entries) {
+    return entries.map(({ party, priority, measure }) => {
+      const [title, detail, page] = measure;
+      const labels = priorityThemeLabels(priority);
+      const sourceNumber = measure[5];
+      const sourceKind = measureSourceKind(measure);
+      const sourceSection = measureSourceSection(measure);
+      const id = `measure-${registryCounter++}`;
+      registry.set(id, { party, priority, title, detail, page, labels, sourceNumber, sourceKind, sourceSection });
+      const numberPrefix = sourceNumber ? `Medida ${sourceNumber}: ` : "";
+      const sectionLabel = sourceSection ? `<small class="measure-section">${escapeHtml(sourceSection)}</small>` : "";
+      return `<li><button class="measure-button" type="button" data-measure-id="${id}"><span><span class="measure-title">${numberPrefix}${escapeHtml(title)}</span>${sectionLabel}</span><span class="measure-page">PDF p. ${page} →</span></button></li>`;
+    }).join("");
+  }
+
+  function partyDocumentMeasuresForBlock(party, blockIndex) {
+    return documentMeasures(party).filter(({ measure }) => measureOriginalBlockIndex(measure) === blockIndex);
+  }
+
+  function countMeasuresForPartyBlock(party, blockIndex) {
+    return partyDocumentMeasuresForBlock(party, blockIndex).length;
+  }
+
+  function countThemeForParties(themeId, parties = selectedParties()) {
+    return parties.flatMap((party) => documentMeasures(party)).filter(({ measure }) => measureTopicIds(measure).includes(themeId)).length;
+  }
+
+  function countSubthemeForParties(subthemeId, parties = selectedParties()) {
+    return parties.flatMap((party) => documentMeasures(party)).filter(({ measure }) => measureSubthemeIds(measure).includes(subthemeId)).length;
+  }
+
+  function renderProgramIndex(party) {
     const structure = programStructure.parties?.[party.name];
     if (!structure?.blocks?.length) return "";
     const blockLabel = `${structure.blocks.length} bloque${structure.blocks.length === 1 ? "" : "s"} principales`;
     const indexPage = String(structure.indexPdfPages || "").split("-")[0];
     const blocksHtml = structure.blocks.map((block, index) => {
+      const measureCount = countMeasuresForPartyBlock(party, index);
       const sectionsHtml = block.sections?.length
-        ? `<ol class="structure-sections">${block.sections.map((section) => `<li>${escapeHtml(section)}</li>`).join("")}</ol>`
+        ? `<details class="program-section-list"><summary>Ver apartados del índice (${block.sections.length})</summary><ol class="structure-sections">${block.sections.map((section) => `<li>${escapeHtml(section)}</li>`).join("")}</ol></details>`
         : `<p class="structure-empty">El índice presenta este capítulo como unidad principal, sin apartados de primer nivel listados en el índice.</p>`;
-      return `<li class="structure-block"><div class="structure-block-heading"><span class="structure-number">${index + 1}</span><div><strong>${escapeHtml(block.title)}</strong><small>Paginación impresa: p. ${escapeHtml(block.page)}</small></div></div>${sectionsHtml}</li>`;
+      return `<li class="structure-block"><button class="program-block-button" type="button" data-program-block="${escapeHtml(party.name)}::${index}"><span class="structure-block-heading"><span class="structure-number">${index + 1}</span><span><strong>${escapeHtml(block.title)}</strong><small>Paginación impresa: p. ${escapeHtml(block.page)}</small></span></span><span class="node-count">${measureCount} medidas</span></button>${sectionsHtml}</li>`;
     }).join("");
-    return `<details class="program-structure"><summary><span><strong>Índice original del programa</strong><small>${blockLabel}</small></span><span class="structure-toggle">Ver estructura</span></summary><div class="structure-content"><p class="structure-intro">Esta es la organización propia del documento. No equivale a los temas madre ni a los bloques analíticos comparativos del proyecto.</p><a class="structure-source-link" href="${escapeHtml(party.sourceFile)}#page=${escapeHtml(indexPage)}" target="_blank" rel="noopener">Abrir índice original en el PDF ↗</a><ol class="structure-blocks">${blocksHtml}</ol></div></details>`;
+    return `<section class="program-structure"><div class="structure-content"><div class="program-index-heading"><div><strong>Índice original del programa</strong><small>${blockLabel}. Selecciona un bloque para ver sus medidas.</small></div><a class="structure-source-link" href="${escapeHtml(party.sourceFile)}#page=${escapeHtml(indexPage)}" target="_blank" rel="noopener">Abrir índice en PDF ↗</a></div><p class="structure-intro">Esta organización pertenece al documento original. Es independiente de los temas madre y subtemas comparativos.</p><ol class="structure-blocks">${blocksHtml}</ol></div></section>`;
   }
 
-  function renderParty(party, priorities, query) {
-    const prioritiesHtml = priorities.map(({ priority, measures }, priorityIndex) => {
+  function renderPartyShell(party, content) {
+    return `<article class="party-card"><header class="party-header"><div><h3>${escapeHtml(party.name)}</h3><p>${escapeHtml(party.description)}</p></div><span class="party-code">${data.year}</span></header>${content}</article>`;
+  }
+
+  function renderThemeBrowser() {
+    const parties = selectedParties();
+    const cards = themes.filter((theme) => countThemeForParties(theme.id, parties) > 0).map((theme) => {
+      const children = subthemes.filter((subtheme) => subtheme.parentId === theme.id && countSubthemeForParties(subtheme.id, parties) > 0);
+      const childHtml = children.map((subtheme) => `<button class="topic-child-button" type="button" data-subtheme-node="${escapeHtml(subtheme.id)}"><span>${escapeHtml(subtheme.label)}</span><small>${countSubthemeForParties(subtheme.id, parties)} medidas</small></button>`).join("");
+      return `<article class="topic-node"><button class="topic-parent-button" type="button" data-theme-node="${escapeHtml(theme.id)}"><span><strong>${escapeHtml(theme.label)}</strong><small>Tema madre · ${countThemeForParties(theme.id, parties)} medidas asociadas</small></span><span>Ver subtemas →</span></button><div class="topic-children">${childHtml}</div></article>`;
+    }).join("");
+    return `<section class="topic-browser"><div class="browser-heading"><div><p class="eyebrow">Comparación transversal</p><h3>Temas y subtemas</h3></div><p>Selecciona un tema para abrir sus subtemas. Las medidas permanecen ocultas hasta entrar en un subtema.</p></div><div class="topic-grid">${cards || `<div class="empty"><strong>No hay temas con medidas asociadas.</strong></div>`}</div></section>`;
+  }
+
+  function renderHomeView() {
+    const parties = selectedParties();
+    const partyCards = parties.map((party) => renderPartyShell(party, renderProgramIndex(party))).join("");
+    const blockCount = parties.reduce((total, party) => total + (programStructure.parties?.[party.name]?.blocks?.length || 0), 0);
+    const measureCount = parties.reduce((total, party) => total + documentMeasures(party).length, 0);
+    renderStats(parties.length, blockCount, "bloques originales disponibles", measureCount, "medidas documentales disponibles");
+    return `<div class="view-intro"><strong>Explora primero la estructura.</strong> El visor no muestra las medidas completas hasta que abras un bloque original, un tema o un subtema.</div><section class="party-grid">${partyCards || `<div class="empty"><strong>No hay partidos seleccionados.</strong></div>`}</section>${renderThemeBrowser()}`;
+  }
+
+  function renderThemeView(theme) {
+    const parties = selectedParties();
+    const children = subthemes.filter((subtheme) => subtheme.parentId === theme.id && countSubthemeForParties(subtheme.id, parties) > 0);
+    const cards = children.map((subtheme) => `<button class="topic-detail-button" type="button" data-subtheme-node="${escapeHtml(subtheme.id)}"><strong>${escapeHtml(subtheme.label)}</strong><span>${countSubthemeForParties(subtheme.id, parties)} medidas documentales</span></button>`).join("");
+    renderStats(parties.length, children.length, "subtemas con resultados", countThemeForParties(theme.id, parties), "medidas dentro del tema");
+    return `<section class="drilldown"><button class="back-button" type="button" data-reset-node>← Volver a índices y temas</button><div class="drilldown-heading"><p class="eyebrow">Tema madre</p><h3>${escapeHtml(theme.label)}</h3><p>${escapeHtml(taxonomy.themes?.[theme.id] || "Selecciona un subtema para consultar sus medidas.")}</p></div><div class="topic-detail-grid">${cards || `<div class="empty"><strong>No hay subtemas con medidas en la base actual.</strong></div>`}</div></section>`;
+  }
+
+  function renderSubthemeView(subtheme) {
+    const parties = selectedParties();
+    const groups = parties.map((party) => {
+      const entries = documentMeasures(party).filter(({ measure }) => measureSubthemeIds(measure).includes(subtheme.id));
+      const body = entries.length ? `<p class="measure-heading document-heading">Medidas del programa <span>${entries.length}</span></p><ul class="measure-list">${renderMeasureList(entries)}</ul>` : `<p class="no-measures">No hay medidas documentales asociadas a este subtema en la base actual.</p>`;
+      return renderPartyShell(party, `<section class="selected-node-content"><div class="selected-node-label">${escapeHtml(subtheme.label)}</div>${body}</section>`);
+    }).join("");
+    renderStats(parties.length, 1, "subtema seleccionado", countSubthemeForParties(subtheme.id, parties), "medidas mostradas");
+    return `<section class="drilldown"><button class="back-button" type="button" data-reset-node>← Volver a índices y temas</button><div class="drilldown-heading"><p class="eyebrow">Subtema</p><h3>${escapeHtml(subtheme.label)}</h3><p>Se muestran únicamente las medidas documentales clasificadas en este subtema.</p></div><section class="party-grid">${groups}</section></section>`;
+  }
+
+  function renderProgramBlockView(party, blockIndex) {
+    const structure = programStructure.parties?.[party.name];
+    const block = structure?.blocks?.[blockIndex];
+    const entries = partyDocumentMeasuresForBlock(party, blockIndex);
+    renderStats(1, 1, "bloque original seleccionado", entries.length, "medidas del bloque");
+    const body = entries.length ? `<p class="measure-heading document-heading">Medidas del programa <span>${entries.length}</span></p><ul class="measure-list">${renderMeasureList(entries)}</ul>` : `<div class="empty"><strong>No hay medidas vinculadas a este bloque.</strong><br />La extracción de este documento debe revisarse antes de afirmar que el programa no lo desarrolla.</div>`;
+    return `<section class="drilldown"><button class="back-button" type="button" data-reset-node>← Volver al índice del programa</button><div class="drilldown-heading"><p class="eyebrow">${escapeHtml(party.name)} · Índice original</p><h3>${escapeHtml(block?.title || "Bloque del programa")}</h3><p>Paginación impresa: p. ${escapeHtml(block?.page || "—")}. Las medidas se muestran separadas de la clasificación analítica común.</p></div>${renderPartyShell(party, `<section class="selected-node-content">${body}</section>`)}</section>`;
+  }
+
+  function renderSearchParty(party, priorities, query) {
+    const priorityHtml = priorities.map(({ priority, measures }, priorityIndex) => {
       const labels = priorityThemeLabels(priority);
       const themeHtml = labels.map((label) => `<span class="theme">${escapeHtml(label)}</span>`).join("");
-      const matchCount = query ? `<span class="match-count">${measures.length} de ${priority.measures.length} medidas</span>` : "";
-      const renderMeasureList = (items) => items.map((measure) => {
-        const [title, detail, page] = measure;
-        const sourceNumber = measure[5];
-        const sourceKind = measureSourceKind(measure);
-        const sourceSection = measureSourceSection(measure);
-        const id = `measure-${registryCounter++}`;
-        registry.set(id, { party, priority, title, detail, page, labels, sourceNumber, sourceKind, sourceSection });
-        const numberPrefix = sourceNumber ? `Medida ${sourceNumber}: ` : "";
-        const sectionLabel = sourceSection ? `<small class="measure-section">${escapeHtml(sourceSection)}</small>` : "";
-        return `<li><button class="measure-button" type="button" data-measure-id="${id}"><span><span class="measure-title">${numberPrefix}${escapeHtml(title)}</span>${sectionLabel}</span><span class="measure-page">PDF p. ${page} →</span></button></li>`;
-      }).join("");
-      const documentMeasures = measures.filter((measure) => measureSourceKind(measure) === "document");
-      const summaryMeasures = measures.filter((measure) => measureSourceKind(measure) !== "document");
-      const documentHtml = documentMeasures.length ? `<p class="measure-heading document-heading">Medidas/propuestas extraídas del programa <span>${documentMeasures.length}</span></p><ul class="measure-list">${renderMeasureList(documentMeasures)}</ul>` : "";
-      const summaryHtml = summaryMeasures.length ? `<p class="measure-heading summary-heading">Síntesis analíticas del bloque <span>${summaryMeasures.length}</span></p><ul class="measure-list">${renderMeasureList(summaryMeasures)}</ul>` : "";
-      return `<article class="priority"><div class="priority-meta"><span class="priority-number">BLOQUE ANALÍTICO ${priorityIndex + 1}</span><span class="theme-list">${themeHtml}</span>${matchCount}</div><h4>${escapeHtml(priority.title)}</h4><p class="priority-description">${escapeHtml(priority.description)}</p>${documentHtml}${summaryHtml}</article>`;
+      const entries = measures.map((measure) => ({ party, priority, priorityIndex, measure }));
+      return `<article class="priority"><div class="priority-meta"><span class="priority-number">BLOQUE ANALÍTICO ${priorityIndex + 1}</span><span class="theme-list">${themeHtml}</span><span class="match-count">${measures.length} coincidencias</span></div><h4>${escapeHtml(priority.title)}</h4><p class="priority-description">${escapeHtml(priority.description)}</p><p class="measure-heading document-heading">Resultados para “${escapeHtml(query)}” <span>${measures.length}</span></p><ul class="measure-list">${renderMeasureList(entries)}</ul></article>`;
     }).join("");
-    return `<article class="party-card"><header class="party-header"><div><h3>${escapeHtml(party.name)}</h3><p>${escapeHtml(party.description)}</p></div><span class="party-code">${data.year}</span></header>${renderProgramStructure(party)}${prioritiesHtml}</article>`;
+    return renderPartyShell(party, priorityHtml);
+  }
+
+  function renderSearchView(filtered, query) {
+    const partyCount = new Set(filtered.map((item) => item.party.name)).size;
+    const measureCount = filtered.reduce((total, item) => total + item.measures.length, 0);
+    renderStats(partyCount, filtered.length, "bloques analíticos con coincidencias", measureCount, "medidas coincidentes");
+    renderSearchNote(query, filtered);
+    if (!filtered.length) return `<div class="empty"><strong>No hay resultados.</strong><br />Prueba a cambiar los filtros o la búsqueda.</div>`;
+    const grouped = data.parties.map((party) => ({ party, priorities: filtered.filter((item) => item.party.name === party.name) })).filter((group) => group.priorities.length);
+    return `<div class="view-intro"><strong>Resultados de búsqueda.</strong> La búsqueda es una entrada directa a las medidas; fuera de ella, el visor mantiene las medidas cerradas hasta seleccionar un nivel.</div><section class="party-grid">${grouped.map(({ party, priorities }) => renderSearchParty(party, priorities, query)).join("")}</section>`;
   }
 
   function render() {
@@ -343,16 +444,26 @@
       .filter(({ party, priority }) => matchesPriority(party, priority))
       .map(({ party, priority }) => ({ party, priority, measures: matchingMeasures(party, priority, query) }))
       .filter((item) => item.measures.length);
-    renderStats(filtered, query);
-    renderSearchNote(query, filtered);
-    if (!filtered.length) {
-      results.innerHTML = `<div class="empty"><strong>No hay resultados.</strong><br />Prueba a cambiar los filtros o la búsqueda.</div>`;
+    if (query) {
+      results.innerHTML = renderSearchView(filtered, query);
       return;
     }
-    const grouped = data.parties
-      .map((party) => ({ party, priorities: filtered.filter((item) => item.party.name === party.name) }))
-      .filter((group) => group.priorities.length);
-    results.innerHTML = grouped.map(({ party, priorities }) => renderParty(party, priorities, query)).join("");
+    const selected = selectedThemeFilter();
+    if (selected.type === "theme") {
+      results.innerHTML = renderThemeView(themeById.get(selected.id));
+      return;
+    }
+    if (selected.type === "subtheme") {
+      results.innerHTML = renderSubthemeView(subthemeById.get(selected.id));
+      return;
+    }
+    if (browseState.type === "program-block") {
+      const party = data.parties.find((candidate) => candidate.name === browseState.partyName);
+      results.innerHTML = party ? renderProgramBlockView(party, browseState.blockIndex) : renderHomeView();
+      return;
+    }
+    renderSearchNote("", []);
+    results.innerHTML = renderHomeView();
   }
 
   function openMeasure(id) {
@@ -372,6 +483,33 @@
   results.addEventListener("click", (event) => {
     const button = event.target.closest("[data-measure-id]");
     if (button) openMeasure(button.dataset.measureId);
+    const programBlock = event.target.closest("[data-program-block]");
+    if (programBlock) {
+      const [partyName, blockIndex] = programBlock.dataset.programBlock.split("::");
+      browseState = { type: "program-block", partyName, blockIndex: Number(blockIndex) };
+      themeFilter.value = "all";
+      render();
+      return;
+    }
+    const themeNode = event.target.closest("[data-theme-node]");
+    if (themeNode) {
+      themeFilter.value = `theme:${themeNode.dataset.themeNode}`;
+      browseState = { type: "home", partyName: null, blockIndex: null };
+      render();
+      return;
+    }
+    const subthemeNode = event.target.closest("[data-subtheme-node]");
+    if (subthemeNode) {
+      themeFilter.value = `subtheme:${subthemeNode.dataset.subthemeNode}`;
+      browseState = { type: "home", partyName: null, blockIndex: null };
+      render();
+      return;
+    }
+    if (event.target.closest("[data-reset-node]")) {
+      themeFilter.value = "all";
+      browseState = { type: "home", partyName: null, blockIndex: null };
+      render();
+    }
   });
   closeDialog.addEventListener("click", () => dialog.close());
   dialog.addEventListener("click", (event) => { if (event.target === dialog) dialog.close(); });
@@ -388,7 +526,10 @@
     updatePartySummary();
     render();
   });
-  themeFilter.addEventListener("change", render);
+  themeFilter.addEventListener("change", () => {
+    browseState = { type: "home", partyName: null, blockIndex: null };
+    render();
+  });
   document.addEventListener("click", (event) => {
     if (!partyPicker.contains(event.target)) partyPicker.removeAttribute("open");
   });

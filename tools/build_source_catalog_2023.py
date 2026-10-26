@@ -71,9 +71,9 @@ def page_section(party: str, page: int) -> tuple[int, str]:
         if page <= 64:
             return 1, "Cuidar y prosperar"
         if page <= 81:
-            return 3, "Regenerar y respetar"
+            return 2, "Regenerar y respetar"
         if page <= 91:
-            return 4, "Servir"
+            return 3, "Servir"
         return 4, "Liderar e influir"
     if party == "PSOE":
         if page <= 52:
@@ -104,6 +104,26 @@ def page_section(party: str, page: int) -> tuple[int, str]:
     if page <= 106:
         return 3, "Seguridad, defensa, inmigración y justicia"
     return 4, "Medio ambiente, energía, Europa, mundo rural y familia"
+
+
+ORIGINAL_BLOCK_STARTS: dict[str, tuple[int, ...]] = {
+    # Página impresa/PDF de inicio de cada bloque principal del índice original.
+    "PP": (8, 38, 64, 82, 92),
+    "PSOE": (15, 69, 95, 131, 159, 221, 251),
+    "SUMAR": (7, 86, 107, 138, 154),
+    "VOX": (7, 15, 21, 31, 39, 47, 55, 63, 73, 89, 99, 107, 115, 125, 133, 141, 147, 155, 161, 169),
+}
+
+
+def original_block_index(party: str, page: int) -> int | None:
+    starts = ORIGINAL_BLOCK_STARTS.get(party, ())
+    index = None
+    for candidate, start in enumerate(starts):
+        if page >= start:
+            index = candidate
+        else:
+            break
+    return index
 
 
 SUBTHEME_RULES: list[tuple[str, tuple[str, ...]]] = [
@@ -186,6 +206,7 @@ def make_record(party: str, page: int, lines: list[str], number: int | None) -> 
         "section": section,
         "subthemeIds": subthemes,
         "priorityIndex": page_section(party, page)[0],
+        "originalBlockIndex": original_block_index(party, page),
         "kind": "document",
     }
 
