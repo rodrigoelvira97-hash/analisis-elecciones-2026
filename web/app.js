@@ -268,10 +268,10 @@
     updatePartySummary();
     themes.filter((theme) => themeMeasureCount(theme.id) > 0).forEach((theme) => {
       const themeCount = themeMeasureCount(theme.id);
-      themeFilter.insertAdjacentHTML("beforeend", `<option value="theme:${escapeHtml(theme.id)}">◆ ${escapeHtml(theme.label)} · ${themeCount} medidas</option>`);
+        themeFilter.insertAdjacentHTML("beforeend", `<option value="theme:${escapeHtml(theme.id)}">◆ ${escapeHtml(theme.label)} · ${themeCount} propuestas</option>`);
       const children = subthemes.filter((subtheme) => subtheme.parentId === theme.id && subthemeMeasureCount(subtheme.id) > 0);
       children.forEach((subtheme) => {
-        themeFilter.insertAdjacentHTML("beforeend", `<option value="subtheme:${escapeHtml(subtheme.id)}">　↳ ${escapeHtml(subtheme.label)} · ${subthemeMeasureCount(subtheme.id)} medidas</option>`);
+        themeFilter.insertAdjacentHTML("beforeend", `<option value="subtheme:${escapeHtml(subtheme.id)}">　↳ ${escapeHtml(subtheme.label)} · ${subthemeMeasureCount(subtheme.id)} propuestas</option>`);
       });
     });
   }
@@ -359,7 +359,7 @@
       const sectionsHtml = block.sections?.length
         ? `<details class="program-section-list"><summary>Ver apartados del índice (${block.sections.length})</summary><ol class="structure-sections">${block.sections.map((section) => `<li>${escapeHtml(section)}</li>`).join("")}</ol></details>`
         : `<p class="structure-empty">El índice presenta este capítulo como unidad principal, sin apartados de primer nivel listados en el índice.</p>`;
-      return `<li class="structure-block"><button class="program-block-button" type="button" data-program-block="${escapeHtml(party.name)}::${index}"><span class="structure-block-heading"><span class="structure-number">${index + 1}</span><span><strong>${escapeHtml(block.title)}</strong><small>Paginación impresa: p. ${escapeHtml(block.page)}</small></span></span><span class="node-count">${measureCount} medidas</span></button>${sectionsHtml}</li>`;
+      return `<li class="structure-block"><button class="program-block-button" type="button" data-program-block="${escapeHtml(party.name)}::${index}"><span class="structure-block-heading"><span class="structure-number">${index + 1}</span><span><strong>${escapeHtml(block.title)}</strong><small>Paginación impresa: p. ${escapeHtml(block.page)}</small></span></span><span class="node-count">${measureCount} propuestas</span></button>${sectionsHtml}</li>`;
     }).join("");
     return `<section class="program-structure"><div class="structure-content"><div class="program-index-heading"><div><strong>Índice original del programa</strong><small>${blockLabel}. Selecciona un bloque para ver sus medidas.</small></div><a class="structure-source-link" href="${escapeHtml(party.sourceFile)}#page=${escapeHtml(indexPage)}" target="_blank" rel="noopener">Abrir índice en PDF ↗</a></div><p class="structure-intro">Esta organización pertenece al documento original. Es independiente de los temas madre y subtemas comparativos.</p><ol class="structure-blocks">${blocksHtml}</ol></div></section>`;
   }
@@ -399,15 +399,26 @@
     return `<section class="drilldown"><button class="back-button" type="button" data-reset-node>← Volver a índices y temas</button><div class="drilldown-heading"><p class="eyebrow">Tema madre</p><h3>${escapeHtml(theme.label)}</h3><p>${escapeHtml(taxonomy.themes?.[theme.id] || "Selecciona un subtema para consultar sus medidas.")}</p></div><div class="topic-detail-grid">${cards || `<div class="empty"><strong>No hay subtemas con medidas en la base actual.</strong></div>`}</div></section>`;
   }
 
+  function shortenText(value, limit = 105) {
+    const text = String(value ?? "").replace(/\s+/g, " ").trim();
+    return text.length > limit ? `${text.slice(0, limit - 1).trimEnd()}…` : text;
+  }
+
   function renderSubthemeView(subtheme) {
     const parties = selectedParties();
-    const groups = parties.map((party) => {
+    const rows = parties.map((party) => {
       const entries = documentMeasures(party).filter(({ measure }) => measureSubthemeIds(measure).includes(subtheme.id));
-      const body = entries.length ? `<p class="measure-heading document-heading">Medidas del programa <span>${entries.length}</span></p><ul class="measure-list">${renderMeasureList(entries)}</ul>` : `<p class="no-measures">No hay medidas documentales asociadas a este subtema en la base actual.</p>`;
-      return renderPartyShell(party, `<section class="selected-node-content"><div class="selected-node-label">${escapeHtml(subtheme.label)}</div>${body}</section>`);
+      if (!entries.length) {
+        return `<article class="comparison-party-row comparison-party-empty"><div class="comparison-party-main"><strong>${escapeHtml(party.name)}</strong><span class="comparison-count">0 propuestas localizadas</span></div><p>No hay propuestas localizadas en este subtema en la base actual.</p></article>`;
+      }
+      const preview = entries.slice(0, 2).map(({ measure }) => `<li>${escapeHtml(shortenText(measure[0]))}</li>`).join("");
+      const moreCount = entries.length - Math.min(entries.length, 2);
+      const previewMore = moreCount > 0 ? `<li class="comparison-preview-more">+ ${moreCount} propuesta${moreCount === 1 ? "" : "s"} al abrir</li>` : "";
+      return `<details class="comparison-party-row"><summary><span class="comparison-party-main"><span class="comparison-party-heading"><strong>${escapeHtml(party.name)}</strong><span class="comparison-count">${entries.length} propuesta${entries.length === 1 ? "" : "s"}</span></span><span class="comparison-preview-label">Ejemplos:</span><ul class="comparison-preview">${preview}${previewMore}</ul></span><span class="comparison-row-cta">Ver propuestas <span aria-hidden="true">⌄</span></span></summary><div class="comparison-expanded"><p class="measure-heading document-heading">Propuestas del programa <span>${entries.length}</span></p><ul class="measure-list">${renderMeasureList(entries)}</ul></div></details>`;
     }).join("");
-    renderStats(parties.length, 1, "subtema seleccionado", countSubthemeForParties(subtheme.id, parties), "propuestas mostradas");
-    return `<section class="drilldown"><button class="back-button" type="button" data-reset-node>← Volver a índices y temas</button><div class="drilldown-heading"><p class="eyebrow">Subtema</p><h3>${escapeHtml(subtheme.label)}</h3><p>Se muestran únicamente las medidas documentales clasificadas en este subtema.</p></div><section class="party-grid">${groups}</section></section>`;
+    const total = countSubthemeForParties(subtheme.id, parties);
+    renderStats(parties.length, 1, "subtema seleccionado", total, "propuestas disponibles");
+    return `<section class="drilldown"><button class="back-button" type="button" data-reset-node>← Volver a índices y temas</button><div class="drilldown-heading"><p class="eyebrow">${escapeHtml(subtheme.parentLabel || "Tema")} · Subtema</p><h3>${escapeHtml(subtheme.label)}</h3><p>Comparativa resumida por partido. Abre cada fila para consultar el listado completo y acceder al PDF.</p></div><section class="comparison-board"><div class="comparison-board-heading"><div><strong>Propuestas localizadas</strong><small>${total} en los partidos seleccionados</small></div><span>Selecciona un partido para ampliar</span></div>${rows || `<div class="empty"><strong>No hay partidos seleccionados.</strong></div>`}</section></section>`;
   }
 
   function renderProgramBlockView(party, blockIndex) {
