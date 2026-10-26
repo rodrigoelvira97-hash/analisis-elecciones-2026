@@ -77,6 +77,28 @@ select:focus, input:focus, button:focus-visible, a:focus-visible { outline: 3px 
 .party-header h3 { margin-bottom: 4px; font-size: 1.65rem; letter-spacing: -0.04em; }
 .party-header p { margin-bottom: 0; color: rgba(255,255,255,0.72); font-size: 0.87rem; }
 .party-code { align-self: start; padding: 6px 10px; border: 1px solid rgba(255,255,255,0.25); border-radius: 999px; color: #c8eee4; font-size: 0.72rem; font-weight: 800; letter-spacing: 0.08em; }
+.program-structure { border-top: 1px solid var(--line); background: #f7fafb; }
+.program-structure summary { display: flex; justify-content: space-between; align-items: center; gap: 14px; padding: 14px 22px; color: var(--navy); cursor: pointer; list-style: none; }
+.program-structure summary::-webkit-details-marker { display: none; }
+.program-structure summary::after { content: "⌄"; color: var(--accent); font-size: 1.1rem; }
+.program-structure[open] summary { background: #eef7f5; }
+.program-structure summary > span:first-child { display: grid; gap: 2px; }
+.program-structure summary strong { font-size: 0.83rem; }
+.program-structure summary small { color: var(--muted); font-size: 0.74rem; font-weight: 600; }
+.structure-toggle { margin-left: auto; color: var(--accent); font-size: 0.73rem; font-weight: 800; }
+.structure-content { padding: 0 22px 18px; border-top: 1px solid #dfeae8; }
+.structure-intro { margin: 14px 0 8px; color: var(--muted); font-size: 0.78rem; }
+.structure-source-link { display: inline-block; margin-bottom: 14px; color: var(--accent); font-size: 0.77rem; font-weight: 800; text-decoration: none; }
+.structure-source-link:hover { text-decoration: underline; }
+.structure-blocks { display: grid; gap: 12px; margin: 0; padding: 0; list-style: none; counter-reset: structure-block; }
+.structure-block { padding: 12px; border: 1px solid #dfe8e9; border-radius: 11px; background: #fff; counter-increment: structure-block; }
+.structure-block-heading { display: flex; align-items: flex-start; gap: 10px; }
+.structure-number { display: grid; place-items: center; flex: 0 0 auto; width: 23px; height: 23px; border-radius: 50%; color: #fff; background: var(--navy); font-size: 0.7rem; font-weight: 850; }
+.structure-block-heading strong { display: block; color: var(--navy); font-size: 0.82rem; line-height: 1.25; }
+.structure-block-heading small { display: block; margin-top: 3px; color: var(--muted); font-size: 0.7rem; }
+.structure-sections { display: grid; gap: 4px; margin: 10px 0 0 33px; padding-left: 18px; color: #536673; font-size: 0.75rem; }
+.structure-sections li::marker { color: var(--accent); font-weight: 800; }
+.structure-empty { margin: 9px 0 0 33px; color: var(--muted); font-size: 0.74rem; font-style: italic; }
 .priority { padding: 20px 22px; border-top: 1px solid var(--line); }
 .priority:first-child { border-top: 0; }
 .priority-meta { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; }

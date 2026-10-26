@@ -20,6 +20,7 @@
   const themes = data.themes || [];
   const taxonomy = data.taxonomy || { intro: "", themes: {}, subthemes: {} };
   const sourceCatalog = window.ELECTION_SOURCE_CATALOG || {};
+  const programStructure = window.ELECTION_PROGRAM_STRUCTURE || { parties: {} };
   const themeById = new Map(themes.map((theme) => [theme.id, theme]));
   const subthemes = themes.flatMap((theme) => (theme.subthemes || []).map((subtheme) => ({ ...subtheme, parentId: theme.id, parentLabel: theme.label })));
   const subthemeById = new Map(subthemes.map((subtheme) => [subtheme.id, subtheme]));
@@ -274,7 +275,7 @@
     const partyCount = new Set(filtered.map((item) => item.party.name)).size;
     stats.innerHTML = [
       [partyCount, "partidos visibles"],
-      [priorityCount, "prioridades visibles"],
+      [priorityCount, "bloques analíticos visibles"],
       [measureCount, query ? "medidas concretas coincidentes" : "medidas concretas con acceso al PDF"]
     ].map(([value, label]) => `<div class="stat"><strong>${value}</strong><span>${label}</span></div>`).join("");
   }
@@ -292,6 +293,20 @@
     } else {
       searchNote.innerHTML = `No se ha localizado contenido para <strong>${escapeHtml(searchInput.value.trim())}</strong> en la base web actual.`;
     }
+  }
+
+  function renderProgramStructure(party) {
+    const structure = programStructure.parties?.[party.name];
+    if (!structure?.blocks?.length) return "";
+    const blockLabel = `${structure.blocks.length} bloque${structure.blocks.length === 1 ? "" : "s"} principales`;
+    const indexPage = String(structure.indexPdfPages || "").split("-")[0];
+    const blocksHtml = structure.blocks.map((block, index) => {
+      const sectionsHtml = block.sections?.length
+        ? `<ol class="structure-sections">${block.sections.map((section) => `<li>${escapeHtml(section)}</li>`).join("")}</ol>`
+        : `<p class="structure-empty">El índice presenta este capítulo como unidad principal, sin apartados de primer nivel listados en el índice.</p>`;
+      return `<li class="structure-block"><div class="structure-block-heading"><span class="structure-number">${index + 1}</span><div><strong>${escapeHtml(block.title)}</strong><small>Paginación impresa: p. ${escapeHtml(block.page)}</small></div></div>${sectionsHtml}</li>`;
+    }).join("");
+    return `<details class="program-structure"><summary><span><strong>Índice original del programa</strong><small>${blockLabel}</small></span><span class="structure-toggle">Ver estructura</span></summary><div class="structure-content"><p class="structure-intro">Esta es la organización propia del documento. No equivale a los temas madre ni a los bloques analíticos comparativos del proyecto.</p><a class="structure-source-link" href="${escapeHtml(party.sourceFile)}#page=${escapeHtml(indexPage)}" target="_blank" rel="noopener">Abrir índice original en el PDF ↗</a><ol class="structure-blocks">${blocksHtml}</ol></div></details>`;
   }
 
   function renderParty(party, priorities, query) {
@@ -314,9 +329,9 @@
       const summaryMeasures = measures.filter((measure) => measureSourceKind(measure) !== "document");
       const documentHtml = documentMeasures.length ? `<p class="measure-heading document-heading">Medidas/propuestas extraídas del programa <span>${documentMeasures.length}</span></p><ul class="measure-list">${renderMeasureList(documentMeasures)}</ul>` : "";
       const summaryHtml = summaryMeasures.length ? `<p class="measure-heading summary-heading">Síntesis analíticas del bloque <span>${summaryMeasures.length}</span></p><ul class="measure-list">${renderMeasureList(summaryMeasures)}</ul>` : "";
-      return `<article class="priority"><div class="priority-meta"><span class="priority-number">BLOQUE TEMÁTICO ${priorityIndex + 1}</span><span class="theme-list">${themeHtml}</span>${matchCount}</div><h4>${escapeHtml(priority.title)}</h4><p class="priority-description">${escapeHtml(priority.description)}</p>${documentHtml}${summaryHtml}</article>`;
+      return `<article class="priority"><div class="priority-meta"><span class="priority-number">BLOQUE ANALÍTICO ${priorityIndex + 1}</span><span class="theme-list">${themeHtml}</span>${matchCount}</div><h4>${escapeHtml(priority.title)}</h4><p class="priority-description">${escapeHtml(priority.description)}</p>${documentHtml}${summaryHtml}</article>`;
     }).join("");
-    return `<article class="party-card"><header class="party-header"><div><h3>${escapeHtml(party.name)}</h3><p>${escapeHtml(party.description)}</p></div><span class="party-code">${data.year}</span></header>${prioritiesHtml}</article>`;
+    return `<article class="party-card"><header class="party-header"><div><h3>${escapeHtml(party.name)}</h3><p>${escapeHtml(party.description)}</p></div><span class="party-code">${data.year}</span></header>${renderProgramStructure(party)}${prioritiesHtml}</article>`;
   }
 
   function render() {
@@ -349,7 +364,7 @@
     const sourceLabel = item.sourceKind === "document" ? "MEDIDA DEL PROGRAMA" : "SÍNTESIS ANALÍTICA";
     const section = item.sourceSection ? `<p class="dialog-context"><strong>Sección del programa:</strong> ${escapeHtml(item.sourceSection)}</p>` : "";
     const sourceIntro = item.sourceKind === "document" ? "Esta ficha procede de una propuesta extraída del programa y conserva su referencia de página." : "Esta ficha es una síntesis analítica basada en el contenido del programa; la referencia permite consultar el texto completo.";
-    dialogContent.innerHTML = `<div class="dialog-content"><p class="dialog-kicker">${sourceLabel}${sourceNumber} · ${escapeHtml(item.party.name)} · ${data.year} · ${escapeHtml(labels)}</p><p class="dialog-context"><strong>Bloque temático:</strong> ${escapeHtml(item.priority.title)}</p>${section}<h3>${escapeHtml(item.title)}</h3><p>${escapeHtml(item.detail)}</p><div class="source-box"><strong>Texto completo de la fuente</strong><p>${sourceIntro}</p><a class="source-link" href="${pdfFile}#page=${item.page}" target="_blank" rel="noopener">Abrir PDF en la página ${item.page} ↗</a></div></div>`;
+    dialogContent.innerHTML = `<div class="dialog-content"><p class="dialog-kicker">${sourceLabel}${sourceNumber} · ${escapeHtml(item.party.name)} · ${data.year} · ${escapeHtml(labels)}</p><p class="dialog-context"><strong>Bloque analítico:</strong> ${escapeHtml(item.priority.title)}</p>${section}<h3>${escapeHtml(item.title)}</h3><p>${escapeHtml(item.detail)}</p><div class="source-box"><strong>Texto completo de la fuente</strong><p>${sourceIntro}</p><a class="source-link" href="${pdfFile}#page=${item.page}" target="_blank" rel="noopener">Abrir PDF en la página ${item.page} ↗</a></div></div>`;
     if (typeof dialog.showModal === "function") dialog.showModal();
     else dialog.setAttribute("open", "");
   }
