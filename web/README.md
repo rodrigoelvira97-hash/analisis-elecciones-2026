@@ -1,6 +1,6 @@
 # Visor web del análisis electoral
 
-Web estática local para consultar el análisis de 2023. La navegación es progresiva: primero muestra índices y bloques, después temas y subtemas, y solo al entrar en un nodo concreto muestra las medidas y permite abrir el PDF original.
+Web estática local para consultar el análisis de 2023. La navegación es progresiva y orientada al votante: primero ofrece dos caminos —explorar un programa o comparar por tema—, después muestra índices y subtemas, y solo al entrar en un nodo concreto muestra las propuestas y permite abrir el PDF original.
 
 ## Abrirla
 
@@ -26,7 +26,7 @@ La segunda opción facilita que los enlaces relativos a los PDF funcionen correc
 - `program-structure-2023.js`: índice original de cada programa, con sus bloques y apartados principales.
 - `app.js`: filtros, tarjetas, buscador tolerante y ventana de detalle.
 
-La aplicación mantiene dos capas separadas. El panel `Índice original del programa` conserva la estructura propia de cada documento: bloques, capítulos y apartados principales tal como aparecen en su índice. La taxonomía comparativa separa esa estructura original de los temas madre y subtemas comunes de comparación. El selector jerárquico muestra cada tema madre como una opción que incluye todos sus subtemas y, dentro del mismo desplegable, permite seleccionar un subtema concreto. La interfaz explica el alcance de la clasificación seleccionada: qué incluye y qué queda fuera. El tema madre clasifica el ámbito principal de la medida; el subtema permite concretar la búsqueda sin convertir categorías distintas —por ejemplo, vivienda, territorio, soberanía o movilidad— en un único grupo. Las etiquetas secundarias permiten que una medida pueda pertenecer a más de un subtema cuando el propio contenido lo justifica.
+La aplicación mantiene dos capas separadas. El panel `Índice original del programa` conserva la estructura propia de cada documento: bloques, capítulos y apartados principales tal como aparecen en su índice. La taxonomía comparativa separa esa estructura original de los temas madre y subtemas comunes de comparación. El selector jerárquico muestra cada tema como una opción que incluye sus subtemas activos y permite entrar en un subtema concreto. La interfaz explica el alcance de la clasificación seleccionada con lenguaje comprensible. El tema clasifica el ámbito principal de la propuesta; el subtema permite concretar la búsqueda sin convertir categorías distintas —por ejemplo, vivienda, territorio, soberanía o movilidad— en un único grupo. Las etiquetas secundarias permiten que una propuesta pueda pertenecer a más de un subtema cuando el propio contenido lo justifica.
 
 Los bloques originales, los bloques analíticos y las medidas se muestran como niveles distintos para los cuatro programas. La ruta por programa es `partido → índice original → bloque o capítulo → medidas`. La ruta comparativa es `tema madre → subtema → medidas de los partidos seleccionados`. La pantalla inicial no lista el grueso de las medidas: solo ofrece los índices, los temas, los subtemas y sus contadores. La búsqueda libre sí funciona como entrada directa a las medidas coincidentes porque constituye una petición explícita del usuario.
 

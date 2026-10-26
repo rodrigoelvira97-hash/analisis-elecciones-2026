@@ -143,18 +143,18 @@
     if (!taxonomyHelp) return;
     const selected = selectedThemeFilter();
     if (selected.type === "all") {
-      taxonomyHelp.innerHTML = `<strong>Cómo interpretar la clasificación:</strong> ${escapeHtml(taxonomy.intro || "El tema madre agrupa ámbitos amplios y el subtema concreta las medidas identificadas.")}`;
+      taxonomyHelp.innerHTML = `<strong>Dos formas de explorar:</strong> entra en un partido para seguir su índice original o elige un tema para comparar propuestas entre partidos.`;
       return;
     }
     if (selected.type === "theme") {
       const theme = themeById.get(selected.id);
       const description = taxonomy.themes?.[selected.id] || "Ámbito general de clasificación documental.";
-      taxonomyHelp.innerHTML = `<strong>Tema madre: ${escapeHtml(theme?.label || selected.id)}</strong> ${escapeHtml(description)} <span>La selección incluye todos sus subtemas activos.</span>`;
+      taxonomyHelp.innerHTML = `<strong>Tema: ${escapeHtml(theme?.label || selected.id)}</strong> ${escapeHtml(description)} <span>Ahora selecciona un subtema para consultar las propuestas.</span>`;
       return;
     }
     const subtheme = subthemeById.get(selected.id);
     const description = taxonomy.subthemes?.[selected.id] || "Subtema utilizado para concretar el contenido de las medidas identificadas.";
-    taxonomyHelp.innerHTML = `<strong>Subtema: ${escapeHtml(subtheme?.label || selected.id)}</strong> ${escapeHtml(description)} <span>El resultado muestra medidas concretas etiquetadas en esta categoría.</span>`;
+    taxonomyHelp.innerHTML = `<strong>Subtema: ${escapeHtml(subtheme?.label || selected.id)}</strong> ${escapeHtml(description)} <span>Se muestran propuestas localizadas en los documentos de los partidos seleccionados.</span>`;
   }
 
   function selectedPartyNames() {
@@ -368,7 +368,7 @@
     const structure = programStructure.parties?.[party.name];
     const blockCount = structure?.blocks?.length || 0;
     const measureCount = documentMeasures(party).length;
-    const metadata = `Programa ${data.year} · ${blockCount} bloques originales · ${measureCount} medidas documentales identificadas`;
+    const metadata = `Programa ${data.year} · ${blockCount} apartados del programa · ${measureCount} referencias documentales localizadas`;
     return `<article class="party-card"><header class="party-header"><div><h3>${escapeHtml(party.name)}</h3><p>${escapeHtml(metadata)}</p></div><span class="party-code">${data.year}</span></header>${content}</article>`;
   }
 
@@ -376,10 +376,10 @@
     const parties = selectedParties();
     const cards = themes.filter((theme) => countThemeForParties(theme.id, parties) > 0).map((theme) => {
       const children = subthemes.filter((subtheme) => subtheme.parentId === theme.id && countSubthemeForParties(subtheme.id, parties) > 0);
-      const childHtml = children.map((subtheme) => `<button class="topic-child-button" type="button" data-subtheme-node="${escapeHtml(subtheme.id)}"><span>${escapeHtml(subtheme.label)}</span><small>${countSubthemeForParties(subtheme.id, parties)} medidas</small></button>`).join("");
-      return `<article class="topic-node"><button class="topic-parent-button" type="button" data-theme-node="${escapeHtml(theme.id)}"><span><strong>${escapeHtml(theme.label)}</strong><small>Tema madre · ${countThemeForParties(theme.id, parties)} medidas asociadas</small></span><span>Ver subtemas →</span></button><div class="topic-children">${childHtml}</div></article>`;
+      const childHtml = children.map((subtheme) => `<button class="topic-child-button" type="button" data-subtheme-node="${escapeHtml(subtheme.id)}"><span>${escapeHtml(subtheme.label)}</span><small>${countSubthemeForParties(subtheme.id, parties)} propuestas</small></button>`).join("");
+      return `<article class="topic-node"><button class="topic-parent-button" type="button" data-theme-node="${escapeHtml(theme.id)}"><span><strong>${escapeHtml(theme.label)}</strong><small>Tema · ${countThemeForParties(theme.id, parties)} propuestas asociadas</small></span><span>Ver subtemas →</span></button><div class="topic-children">${childHtml}</div></article>`;
     }).join("");
-    return `<section class="topic-browser"><div class="browser-heading"><div><p class="eyebrow">Comparación transversal</p><h3>Temas y subtemas</h3></div><p>Selecciona un tema para abrir sus subtemas. Las medidas permanecen ocultas hasta entrar en un subtema.</p></div><div class="topic-grid">${cards || `<div class="empty"><strong>No hay temas con medidas asociadas.</strong></div>`}</div></section>`;
+    return `<section id="theme-explorer" class="topic-browser"><div class="browser-heading"><div><p class="eyebrow">Por tema</p><h3>Compara propuestas por temas</h3></div><p>Selecciona un tema para abrir sus subtemas. Las propuestas permanecen ocultas hasta entrar en un subtema.</p></div><div class="topic-grid">${cards || `<div class="empty"><strong>No hay temas con propuestas asociadas.</strong></div>`}</div></section>`;
   }
 
   function renderHomeView() {
@@ -387,15 +387,15 @@
     const partyCards = parties.map((party) => renderPartyShell(party, renderProgramIndex(party))).join("");
     const blockCount = parties.reduce((total, party) => total + (programStructure.parties?.[party.name]?.blocks?.length || 0), 0);
     const measureCount = parties.reduce((total, party) => total + documentMeasures(party).length, 0);
-    renderStats(parties.length, blockCount, "bloques originales disponibles", measureCount, "medidas documentales disponibles");
-    return `<div class="view-intro"><strong>Explora primero la estructura.</strong> El visor no muestra las medidas completas hasta que abras un bloque original, un tema o un subtema.</div><section class="party-grid">${partyCards || `<div class="empty"><strong>No hay partidos seleccionados.</strong></div>`}</section>${renderThemeBrowser()}`;
+    renderStats(parties.length, blockCount, "apartados de programa", measureCount, "referencias documentales");
+    return `<section class="quick-actions" aria-label="Elegir forma de exploración"><div><p class="eyebrow">Empieza por donde quieras</p><h3>Explora y compara sin perderte</h3><p>Consulta primero la estructura de un partido o entra directamente en un tema que te interese.</p></div><div class="quick-action-buttons"><button class="quick-action primary-action" type="button" data-scroll-target="party-explorer">Explorar programas <span>↓</span></button><button class="quick-action" type="button" data-scroll-target="theme-explorer">Comparar por tema <span>↓</span></button></div></section><section id="party-explorer" class="explorer-section"><div class="section-heading"><div><p class="eyebrow">Por partido</p><h3>Índices de los programas</h3></div><p>Selecciona un apartado para ver sus propuestas.</p></div><section class="party-grid">${partyCards || `<div class="empty"><strong>No hay partidos seleccionados.</strong></div>`}</section></section>${renderThemeBrowser()}`;
   }
 
   function renderThemeView(theme) {
     const parties = selectedParties();
     const children = subthemes.filter((subtheme) => subtheme.parentId === theme.id && countSubthemeForParties(subtheme.id, parties) > 0);
-    const cards = children.map((subtheme) => `<button class="topic-detail-button" type="button" data-subtheme-node="${escapeHtml(subtheme.id)}"><strong>${escapeHtml(subtheme.label)}</strong><span>${countSubthemeForParties(subtheme.id, parties)} medidas documentales</span></button>`).join("");
-    renderStats(parties.length, children.length, "subtemas con resultados", countThemeForParties(theme.id, parties), "medidas dentro del tema");
+    const cards = children.map((subtheme) => `<button class="topic-detail-button" type="button" data-subtheme-node="${escapeHtml(subtheme.id)}"><strong>${escapeHtml(subtheme.label)}</strong><span>${countSubthemeForParties(subtheme.id, parties)} propuestas localizadas</span></button>`).join("");
+    renderStats(parties.length, children.length, "subtemas con resultados", countThemeForParties(theme.id, parties), "propuestas dentro del tema");
     return `<section class="drilldown"><button class="back-button" type="button" data-reset-node>← Volver a índices y temas</button><div class="drilldown-heading"><p class="eyebrow">Tema madre</p><h3>${escapeHtml(theme.label)}</h3><p>${escapeHtml(taxonomy.themes?.[theme.id] || "Selecciona un subtema para consultar sus medidas.")}</p></div><div class="topic-detail-grid">${cards || `<div class="empty"><strong>No hay subtemas con medidas en la base actual.</strong></div>`}</div></section>`;
   }
 
@@ -406,7 +406,7 @@
       const body = entries.length ? `<p class="measure-heading document-heading">Medidas del programa <span>${entries.length}</span></p><ul class="measure-list">${renderMeasureList(entries)}</ul>` : `<p class="no-measures">No hay medidas documentales asociadas a este subtema en la base actual.</p>`;
       return renderPartyShell(party, `<section class="selected-node-content"><div class="selected-node-label">${escapeHtml(subtheme.label)}</div>${body}</section>`);
     }).join("");
-    renderStats(parties.length, 1, "subtema seleccionado", countSubthemeForParties(subtheme.id, parties), "medidas mostradas");
+    renderStats(parties.length, 1, "subtema seleccionado", countSubthemeForParties(subtheme.id, parties), "propuestas mostradas");
     return `<section class="drilldown"><button class="back-button" type="button" data-reset-node>← Volver a índices y temas</button><div class="drilldown-heading"><p class="eyebrow">Subtema</p><h3>${escapeHtml(subtheme.label)}</h3><p>Se muestran únicamente las medidas documentales clasificadas en este subtema.</p></div><section class="party-grid">${groups}</section></section>`;
   }
 
@@ -432,7 +432,7 @@
   function renderSearchView(filtered, query) {
     const partyCount = new Set(filtered.map((item) => item.party.name)).size;
     const measureCount = filtered.reduce((total, item) => total + item.measures.length, 0);
-    renderStats(partyCount, filtered.length, "bloques analíticos con coincidencias", measureCount, "medidas coincidentes");
+    renderStats(partyCount, filtered.length, "apartados con coincidencias", measureCount, "propuestas coincidentes");
     renderSearchNote(query, filtered);
     if (!filtered.length) return `<div class="empty"><strong>No hay resultados.</strong><br />Prueba a cambiar los filtros o la búsqueda.</div>`;
     const grouped = data.parties.map((party) => ({ party, priorities: filtered.filter((item) => item.party.name === party.name) })).filter((group) => group.priorities.length);
@@ -485,6 +485,11 @@
   }
 
   results.addEventListener("click", (event) => {
+    const scrollTarget = event.target.closest("[data-scroll-target]");
+    if (scrollTarget) {
+      document.getElementById(scrollTarget.dataset.scrollTarget)?.scrollIntoView({ behavior: "smooth", block: "start" });
+      return;
+    }
     const button = event.target.closest("[data-measure-id]");
     if (button) openMeasure(button.dataset.measureId);
     const programBlock = event.target.closest("[data-program-block]");
