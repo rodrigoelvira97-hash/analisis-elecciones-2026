@@ -1,0 +1,12 @@
+# Archivos de trabajo internos y temporales
+tmp/
+AGENTS.md
+.codex/
+.agents/
+.aws/
+
+# Diagnósticos y artefactos locales
+*.inspect.ndjson
+__pycache__/
+*.pyc
+web/server.*.log
