@@ -365,7 +365,11 @@
   }
 
   function renderPartyShell(party, content) {
-    return `<article class="party-card"><header class="party-header"><div><h3>${escapeHtml(party.name)}</h3><p>${escapeHtml(party.description)}</p></div><span class="party-code">${data.year}</span></header>${content}</article>`;
+    const structure = programStructure.parties?.[party.name];
+    const blockCount = structure?.blocks?.length || 0;
+    const measureCount = documentMeasures(party).length;
+    const metadata = `Programa ${data.year} · ${blockCount} bloques originales · ${measureCount} medidas documentales identificadas`;
+    return `<article class="party-card"><header class="party-header"><div><h3>${escapeHtml(party.name)}</h3><p>${escapeHtml(metadata)}</p></div><span class="party-code">${data.year}</span></header>${content}</article>`;
   }
 
   function renderThemeBrowser() {
