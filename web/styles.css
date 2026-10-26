@@ -71,6 +71,7 @@ select:focus, input:focus, button:focus-visible, a:focus-visible { outline: 3px 
 .stat strong { display: block; color: var(--navy); font-size: 1.75rem; letter-spacing: -0.06em; }
 .stat span { color: var(--muted); font-size: 0.9rem; }
 
+.results { display: block; }
 .party-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
 .party-card { overflow: hidden; border: 1px solid var(--line); border-radius: 20px; background: #fff; box-shadow: 0 9px 26px rgba(18, 48, 71, 0.05); }
 .party-header { display: flex; justify-content: space-between; gap: 16px; padding: 22px 22px 18px; color: #fff; background: var(--navy); }
