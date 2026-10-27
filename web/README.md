@@ -22,6 +22,7 @@ La segunda opción facilita que los enlaces relativos a los PDF funcionen correc
 
 - `index.html`: estructura de la interfaz.
 - `styles.css`: diseño responsive.
+- `pdf-viewer.html`, `pdf-viewer.js` y `pdf-viewer.css`: visor interno para abrir una página concreta del PDF también en móviles.
 - `data-2023.js`: datos del análisis y referencias a páginas PDF.
 - `program-structure-2023.js`: índice original de cada programa, con sus bloques y apartados principales.
 - `app.js`: filtros, tarjetas, buscador tolerante y ventana de detalle.
@@ -33,6 +34,8 @@ Los bloques originales, los bloques analíticos y las medidas se muestran como n
 Las medidas/propuestas extraídas del PDF aparecen separadas de las síntesis analíticas que ya existían en la línea base. Cada registro documental conserva su página, su numeración original cuando existe, su sección y el bloque original del índice al que se ha vinculado. La extracción se genera desde los cuatro PDF de 2023 mediante `tools/build_source_catalog_2023.py`, de modo que el mismo criterio pueda repetirse al incorporar 2026.
 
 La búsqueda se evalúa a nivel de medida: la prioridad se conserva como contexto, pero solo se muestran las medidas coincidentes. Ignora tildes y admite términos relacionados controlados; así, `inmigración` no devuelve automáticamente todas las medidas de seguridad, fronteras o personas. Las etiquetas de migración incluyen, entre otros, inmigración, migración, asilo, refugio, extranjería e integración, siempre que la medida esté etiquetada documentalmente como tal.
+
+El orden visual de los partidos es PP, PSOE, VOX y SUMAR, siguiendo la representación parlamentaria indicada para esta comparación. Los enlaces de página no dependen únicamente del fragmento `#page=` del navegador: abren el visor interno basado en PDF.js y ofrecen como alternativa el PDF completo del dispositivo.
 
 El orden de los temas y subtemas es de navegación y no representa un ranking de importancia. Cada medida se etiqueta individualmente para evitar que la selección arrastre una prioridad completa.
 

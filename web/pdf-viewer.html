@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Consulta del programa electoral</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="pdf-viewer.css" />
+  </head>
+  <body class="pdf-viewer-page">
+    <main class="pdf-viewer-shell">
+      <header class="pdf-viewer-header">
+        <a class="pdf-viewer-back" href="index.html">← Volver al análisis</a>
+        <div>
+          <p class="eyebrow">Fuente original</p>
+          <h1>Consulta del programa</h1>
+          <p id="pdf-status" class="pdf-status">Cargando la página solicitada…</p>
+        </div>
+        <div class="pdf-viewer-actions">
+          <button id="previous-page" type="button">‹ Anterior</button>
+          <span id="page-indicator">—</span>
+          <button id="next-page" type="button">Siguiente ›</button>
+        </div>
+      </header>
+      <section class="pdf-canvas-wrap" aria-label="Página del programa electoral">
+        <div id="pdf-loading" class="pdf-loading">Preparando el documento…</div>
+        <canvas id="pdf-canvas"></canvas>
+      </section>
+      <footer class="pdf-viewer-footer">
+        <a id="open-original" class="source-link" href="#" target="_blank" rel="noopener">Abrir PDF completo</a>
+        <p>Este visor muestra directamente la página solicitada y funciona también en dispositivos móviles. Si el documento no carga, utiliza el enlace al PDF completo.</p>
+      </footer>
+    </main>
+    <script type="module" src="pdf-viewer.js"></script>
+  </body>
+</html>
