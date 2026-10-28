@@ -803,8 +803,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "MEJORAREMOS EL FUNCIO- NAMIENTO DE LA CADENA ALIMENTARIA y de una justa distribución del valor a lo largo de la misma, reforzando la posición de los productores",
-      "detail": "MEJORAREMOS EL FUNCIO- NAMIENTO DE LA CADENA ALIMENTARIA y de una justa distribución del valor a lo largo de la misma, reforzando la posición de los productores en la negociación y el acceso a los mercados y mejorando la transparencia en la formación de precios de las producciones agrarias y los insumos.",
+      "title": "MEJORAREMOS EL FUNCIONAMIENTO DE LA CADENA ALIMENTARIA y de una justa distribución del valor a lo largo de la misma, reforzando la posición de los productores e",
+      "detail": "MEJORAREMOS EL FUNCIONAMIENTO DE LA CADENA ALIMENTARIA y de una justa distribución del valor a lo largo de la misma, reforzando la posición de los productores en la negociación y el acceso a los mercados y mejorando la transparencia en la formación de precios de las producciones agrarias y los insumos.",
       "page": 28,
       "number": 60,
       "section": "Crecer de forma sostenible",
@@ -1362,8 +1362,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "PROMOVEREMOS LA COLABO- RACIÓN PÚBLICO-PRIVADA PARA LA FORMACIÓN EN HOSTELERÍA, facili- tando la creación de alianzas entre empresas, instituciones educativas y",
-      "detail": "PROMOVEREMOS LA COLABO- RACIÓN PÚBLICO-PRIVADA PARA LA FORMACIÓN EN HOSTELERÍA, facili- tando la creación de alianzas entre empresas, instituciones educativas y organismos públicos, y desarrollaremos un sistema de reconocimiento y certificación de competencias para los profesionales de la hostelería, que valore y acredite sus habilidades y conocimientos adquiridos a lo largo de su trayectoria laboral. Objetivo PACTO…",
+      "title": "PROMOVEREMOS LA COLABORACIÓN PÚBLICO-PRIVADA PARA LA FORMACIÓN EN HOSTELERÍA, facilitando la creación de alianzas entre empresas, instituciones educativas y org",
+      "detail": "PROMOVEREMOS LA COLABORACIÓN PÚBLICO-PRIVADA PARA LA FORMACIÓN EN HOSTELERÍA, facilitando la creación de alianzas entre empresas, instituciones educativas y organismos públicos, y desarrollaremos un sistema de reconocimiento y certificación de competencias para los profesionales de la hostelería, que valore y acredite sus habilidades y conocimientos adquiridos a lo largo de su trayectoria laboral. Objetivo PACTO NACI…",
       "page": 36,
       "number": 100,
       "section": "Crecer de forma sostenible",
@@ -1587,8 +1587,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "EVITAREMOS LAS MEDIDAS EXCEPCIONALES (Y ELIMI- NAREMOS LAS EXISTENTES) DE INTERVENCIÓN DEL MERCADO MAYORISTA ELÉCTRICO.",
-      "detail": "EVITAREMOS LAS MEDIDAS EXCEPCIONALES (Y ELIMI- NAREMOS LAS EXISTENTES) DE INTERVENCIÓN DEL MERCADO MAYORISTA ELÉCTRICO. España tiene que estar en el centro del debate energético de la UE y no en la política energética que nos ha aislado regulatoriamente de las propuestas por la UE, provocando inseguridad regulatoria y restando atractivo a nuestro país como receptor de inversiones en el sector energético.",
+      "title": "EVITAREMOS LAS MEDIDAS EXCEPCIONALES (Y ELIMINAREMOS LAS EXISTENTES) DE INTERVENCIÓN DEL MERCADO MAYORISTA ELÉCTRICO.",
+      "detail": "EVITAREMOS LAS MEDIDAS EXCEPCIONALES (Y ELIMINAREMOS LAS EXISTENTES) DE INTERVENCIÓN DEL MERCADO MAYORISTA ELÉCTRICO. España tiene que estar en el centro del debate energético de la UE y no en la política energética que nos ha aislado regulatoriamente de las propuestas por la UE, provocando inseguridad regulatoria y restando atractivo a nuestro país como receptor de inversiones en el sector energético.",
       "page": 39,
       "number": 116,
       "section": "Crecer de forma sostenible",
@@ -1600,8 +1600,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "IMPULSAREMOS LA DESCAR- BONIZACIÓN DE SECTORES DIFÍCILMENTE ELECTRIFICABLES para un sistema energético complejo y completo.",
-      "detail": "IMPULSAREMOS LA DESCAR- BONIZACIÓN DE SECTORES DIFÍCILMENTE ELECTRIFICABLES para un sistema energético complejo y completo. Para ello, impulsaremos el Biogás, el Biometano, los eco combustibles y la biomasa, para una gestión más sostenible de nuestros residuos.",
+      "title": "IMPULSAREMOS LA DESCARBONIZACIÓN DE SECTORES DIFÍCILMENTE ELECTRIFICABLES para un sistema energético complejo y completo.",
+      "detail": "IMPULSAREMOS LA DESCARBONIZACIÓN DE SECTORES DIFÍCILMENTE ELECTRIFICABLES para un sistema energético complejo y completo. Para ello, impulsaremos el Biogás, el Biometano, los eco combustibles y la biomasa, para una gestión más sostenible de nuestros residuos.",
       "page": 39,
       "number": 117,
       "section": "Crecer de forma sostenible",
@@ -1613,8 +1613,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "FOMENTAREMOS EL DESA- RROLLO DEL HIDRÓGENO VERDE COMO VECTOR ENER- GÉTICO Y DE ALMACENAMIENTO .",
-      "detail": "FOMENTAREMOS EL DESA- RROLLO DEL HIDRÓGENO VERDE COMO VECTOR ENER- GÉTICO Y DE ALMACENAMIENTO . Utilizaremos nuestra ventaja competitiva en energías renovables para la producción de hidrógeno verde que fomente la reindustrialización española.",
+      "title": "FOMENTAREMOS EL DESARROLLO DEL HIDRÓGENO VERDE COMO VECTOR ENERGÉTICO Y DE ALMACENAMIENTO .",
+      "detail": "FOMENTAREMOS EL DESARROLLO DEL HIDRÓGENO VERDE COMO VECTOR ENERGÉTICO Y DE ALMACENAMIENTO . Utilizaremos nuestra ventaja competitiva en energías renovables para la producción de hidrógeno verde que fomente la reindustrialización española.",
       "page": 39,
       "number": 118,
       "section": "Crecer de forma sostenible",
@@ -1627,8 +1627,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "IMPULSAREMOS EL DESA- RROLLO DE LAS INTERCO- NEXIONES ENERGÉTICAS bajo criterios técnicos y económicos que aseguren un reparto proporcional del coste de las mis",
-      "detail": "IMPULSAREMOS EL DESA- RROLLO DE LAS INTERCO- NEXIONES ENERGÉTICAS bajo criterios técnicos y económicos que aseguren un reparto proporcional del coste de las mismas en base a los beneficios a cada sistema eléctrico interconectado. CRECER DE FORMA SOSTENIBLE CUIDAR Y PROSPERAR • LIBERTAD PARA ELEGIR PROYECTO DE VIDA El objetivo de la política es crear las condiciones para que las personas desarrollen sus vidas de la fo…",
+      "title": "IMPULSAREMOS EL DESARROLLO DE LAS INTERCONEXIONES ENERGÉTICAS bajo criterios técnicos y económicos que aseguren un reparto proporcional del coste de las mismas",
+      "detail": "IMPULSAREMOS EL DESARROLLO DE LAS INTERCONEXIONES ENERGÉTICAS bajo criterios técnicos y económicos que aseguren un reparto proporcional del coste de las mismas en base a los beneficios a cada sistema eléctrico interconectado. CRECER DE FORMA SOSTENIBLE CUIDAR Y PROSPERAR • LIBERTAD PARA ELEGIR PROYECTO DE VIDA El objetivo de la política es crear las condiciones para que las personas desarrollen sus vidas de la forma…",
       "page": 39,
       "number": 119,
       "section": "Crecer de forma sostenible",
@@ -1806,8 +1806,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "PROCURAREMOS LA SOSTENIBI- LIDAD DE LA RED DE FARMACIAS, para su labor sanitaria, social y de cohesión territorial, en las zonas rurales y despobladas.",
-      "detail": "PROCURAREMOS LA SOSTENIBI- LIDAD DE LA RED DE FARMACIAS, para su labor sanitaria, social y de cohesión territorial, en las zonas rurales y despobladas.",
+      "title": "PROCURAREMOS LA SOSTENIBILIDAD DE LA RED DE FARMACIAS, para su labor sanitaria, social y de cohesión territorial, en las zonas rurales y despobladas.",
+      "detail": "PROCURAREMOS LA SOSTENIBILIDAD DE LA RED DE FARMACIAS, para su labor sanitaria, social y de cohesión territorial, en las zonas rurales y despobladas.",
       "page": 47,
       "number": 132,
       "section": "Cuidar y prosperar",
@@ -2184,8 +2184,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "ATRAEREMOS TALENTO INTER- NACIONAL A NUESTRAS UNIVER- SIDADES: Desarrollaremos un nuevo programa que atraiga personal investigador extranjero mediante un proced",
-      "detail": "ATRAEREMOS TALENTO INTER- NACIONAL A NUESTRAS UNIVER- SIDADES: Desarrollaremos un nuevo programa que atraiga personal investigador extranjero mediante un procedimiento ágil para candidatos de excelencia, formados en las mejores universidades del mundo. “ La educación debe proveer los valores y las herramientas intelectuales y sociales que permitan el pleno desarrollo individual. Objetivo APOY AR LA MATERNIDAD, LA PAT…",
+      "title": "ATRAEREMOS TALENTO INTERNACIONAL A NUESTRAS UNIVERSIDADES: Desarrollaremos un nuevo programa que atraiga personal investigador extranjero mediante un procedimie",
+      "detail": "ATRAEREMOS TALENTO INTERNACIONAL A NUESTRAS UNIVERSIDADES: Desarrollaremos un nuevo programa que atraiga personal investigador extranjero mediante un procedimiento ágil para candidatos de excelencia, formados en las mejores universidades del mundo. “ La educación debe proveer los valores y las herramientas intelectuales y sociales que permitan el pleno desarrollo individual. Objetivo APOY AR LA MATERNIDAD, LA PATERNI…",
       "page": 52,
       "number": 159,
       "section": "Cuidar y prosperar",
@@ -2377,8 +2377,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "INCREMENTAREMOS la identifi- cación temprana del alumnado en situación socialmente vulnerable.",
-      "detail": "INCREMENTAREMOS la identifi- cación temprana del alumnado en situación socialmente vulnerable.",
+      "title": "INCREMENTAREMOS la identificación temprana del alumnado en situación socialmente vulnerable.",
+      "detail": "INCREMENTAREMOS la identificación temprana del alumnado en situación socialmente vulnerable.",
       "page": 55,
       "number": 173,
       "section": "Cuidar y prosperar",
@@ -2431,8 +2431,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "PRESTAREMOS ESPECIAL ATEN- CIÓN a la escolarización de niños y adolescentes de etnia gitana, así como a su abandono temprano de los estudios.",
-      "detail": "PRESTAREMOS ESPECIAL ATEN- CIÓN a la escolarización de niños y adolescentes de etnia gitana, así como a su abandono temprano de los estudios. Promoveremos la integración plena de la comunidad gitana mediante programas de eliminación de estereotipos, la plena integración social y la inclusión sociolaboral. “ Queremos lograr que ninguna mujer tenga que elegir entre vida profesional o la maternidad. CUIDAR Y PROSPERAR “…",
+      "title": "PRESTAREMOS ESPECIAL ATENCIÓN a la escolarización de niños y adolescentes de etnia gitana, así como a su abandono temprano de los estudios.",
+      "detail": "PRESTAREMOS ESPECIAL ATENCIÓN a la escolarización de niños y adolescentes de etnia gitana, así como a su abandono temprano de los estudios. Promoveremos la integración plena de la comunidad gitana mediante programas de eliminación de estereotipos, la plena integración social y la inclusión sociolaboral. “ Queremos lograr que ninguna mujer tenga que elegir entre vida profesional o la maternidad. CUIDAR Y PROSPERAR “ E…",
       "page": 55,
       "number": 177,
       "section": "Cuidar y prosperar",
@@ -2860,8 +2860,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "REVISAREMOS Y PERFECCIO- NAREMOS LA TECNOLOGÍA ACTUALMENTE UTILIZADA PARA EL CONTROL DE LAS PENAS Y MEDIDAS DE SEGURIDAD Y CAUTELARES DE ALEJAMIENTO, para garan",
-      "detail": "REVISAREMOS Y PERFECCIO- NAREMOS LA TECNOLOGÍA ACTUALMENTE UTILIZADA PARA EL CONTROL DE LAS PENAS Y MEDIDAS DE SEGURIDAD Y CAUTELARES DE ALEJAMIENTO, para garantizar una más amplia cobertura y una mayor precisión en la calidad de la posible localización espacial de los usuarios del sistema.",
+      "title": "REVISAREMOS Y PERFECCIONAREMOS LA TECNOLOGÍA ACTUALMENTE UTILIZADA PARA EL CONTROL DE LAS PENAS Y MEDIDAS DE SEGURIDAD Y CAUTELARES DE ALEJAMIENTO, para garanti",
+      "detail": "REVISAREMOS Y PERFECCIONAREMOS LA TECNOLOGÍA ACTUALMENTE UTILIZADA PARA EL CONTROL DE LAS PENAS Y MEDIDAS DE SEGURIDAD Y CAUTELARES DE ALEJAMIENTO, para garantizar una más amplia cobertura y una mayor precisión en la calidad de la posible localización espacial de los usuarios del sistema.",
       "page": 63,
       "number": 208,
       "section": "Cuidar y prosperar",
@@ -2886,8 +2886,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "REFORMAREMOS LA LEY ORGÁ- NICA DEL PODER JUDICIAL para atribuir la competencia a los Juzgados de Violencia Sobre la Mujer de todos los delitos comprendidos en e",
-      "detail": "REFORMAREMOS LA LEY ORGÁ- NICA DEL PODER JUDICIAL para atribuir la competencia a los Juzgados de Violencia Sobre la Mujer de todos los delitos comprendidos en el ámbito de aplicación del Convenio de Estambul. Dicho Convenio servirá de orientación de todos los avances en la lucha contra la violencia de género. ” Erradicar la violencia machista, erradicar cualquier forma de violencia contra la mujer, es un objetivo pri…",
+      "title": "REFORMAREMOS LA LEY ORGÁNICA DEL PODER JUDICIAL para atribuir la competencia a los Juzgados de Violencia Sobre la Mujer de todos los delitos comprendidos en el",
+      "detail": "REFORMAREMOS LA LEY ORGÁNICA DEL PODER JUDICIAL para atribuir la competencia a los Juzgados de Violencia Sobre la Mujer de todos los delitos comprendidos en el ámbito de aplicación del Convenio de Estambul. Dicho Convenio servirá de orientación de todos los avances en la lucha contra la violencia de género. ” Erradicar la violencia machista, erradicar cualquier forma de violencia contra la mujer, es un objetivo prior…",
       "page": 63,
       "number": 210,
       "section": "Cuidar y prosperar",
@@ -3186,8 +3186,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "MODIFICAREMOS LOS REGLA- MENTOS DE LAS CORTES GENERALES a efectos de excluir expresa y claramente la posibilidad de introducir enmiendas “intrusas”, como ha señ",
-      "detail": "MODIFICAREMOS LOS REGLA- MENTOS DE LAS CORTES GENERALES a efectos de excluir expresa y claramente la posibilidad de introducir enmiendas “intrusas”, como ha señalado recientemente el Tribunal Constitucional. Por enmiendas intrusas, y de acuerdo con la jurisprudencia del Tribunal Constitucional, se entenderán aquellas que no guarden una conexión de homogeneidad con el objeto material de la norma en tramitación.",
+      "title": "MODIFICAREMOS LOS REGLAMENTOS DE LAS CORTES GENERALES a efectos de excluir expresa y claramente la posibilidad de introducir enmiendas “intrusas”, como ha señal",
+      "detail": "MODIFICAREMOS LOS REGLAMENTOS DE LAS CORTES GENERALES a efectos de excluir expresa y claramente la posibilidad de introducir enmiendas “intrusas”, como ha señalado recientemente el Tribunal Constitucional. Por enmiendas intrusas, y de acuerdo con la jurisprudencia del Tribunal Constitucional, se entenderán aquellas que no guarden una conexión de homogeneidad con el objeto material de la norma en tramitación.",
       "page": 74,
       "number": 232,
       "section": "Regenerar y respetar",
@@ -3199,8 +3199,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "PARA INCREMENTAR LA TRANS- PARENCIA Y FACILITAR LA PARTICIPACIÓN DE LA CIUDADANÍA en la elaboración de las leyes, abriremos cauces de participación telemática e",
-      "detail": "PARA INCREMENTAR LA TRANS- PARENCIA Y FACILITAR LA PARTICIPACIÓN DE LA CIUDADANÍA en la elaboración de las leyes, abriremos cauces de participación telemática en las cámaras legislativas que posibiliten la presentación de propuestas relativas al contenido de las proposiciones y proyectos de ley que se estén tramitando por parte de todas aquellas personas y asociaciones que estén interesadas en hacerlo. Las propuestas…",
+      "title": "PARA INCREMENTAR LA TRANSPARENCIA Y FACILITAR LA PARTICIPACIÓN DE LA CIUDADANÍA en la elaboración de las leyes, abriremos cauces de participación telemática en",
+      "detail": "PARA INCREMENTAR LA TRANSPARENCIA Y FACILITAR LA PARTICIPACIÓN DE LA CIUDADANÍA en la elaboración de las leyes, abriremos cauces de participación telemática en las cámaras legislativas que posibiliten la presentación de propuestas relativas al contenido de las proposiciones y proyectos de ley que se estén tramitando por parte de todas aquellas personas y asociaciones que estén interesadas en hacerlo. Las propuestas s…",
       "page": 74,
       "number": 233,
       "section": "Regenerar y respetar",
@@ -3226,8 +3226,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "PROMOVEREMOS QUE DECI- SIONES DE CARÁCTER CLARAMENTE TERRITORIAL SEAN OBJETO DE DELIBERACIÓN Y APRO- BACIÓN POR PARTE DEL SENADO.",
-      "detail": "PROMOVEREMOS QUE DECI- SIONES DE CARÁCTER CLARAMENTE TERRITORIAL SEAN OBJETO DE DELIBERACIÓN Y APRO- BACIÓN POR PARTE DEL SENADO.",
+      "title": "PROMOVEREMOS QUE DECISIONES DE CARÁCTER CLARAMENTE TERRITORIAL SEAN OBJETO DE DELIBERACIÓN Y APROBACIÓN POR PARTE DEL SENADO.",
+      "detail": "PROMOVEREMOS QUE DECISIONES DE CARÁCTER CLARAMENTE TERRITORIAL SEAN OBJETO DE DELIBERACIÓN Y APROBACIÓN POR PARTE DEL SENADO.",
       "page": 74,
       "number": 235,
       "section": "Regenerar y respetar",
@@ -3364,8 +3364,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "APROBAREMOS UNA LEY INTEGRAL DE MEDIOS AL TER- NA TIVOS DE GESTIÓN DE CONFLICTOS.",
-      "detail": "APROBAREMOS UNA LEY INTEGRAL DE MEDIOS AL TER- NA TIVOS DE GESTIÓN DE CONFLICTOS. Fomentaremos su uso, impulsando la mediación tanto judicial como extrajudicial, la mediación administrativa y familiar, así como el arbitraje en el ámbito civil y mercantil, entre otros instrumentos.",
+      "title": "APROBAREMOS UNA LEY INTEGRAL DE MEDIOS AL TERNA TIVOS DE GESTIÓN DE CONFLICTOS.",
+      "detail": "APROBAREMOS UNA LEY INTEGRAL DE MEDIOS AL TERNA TIVOS DE GESTIÓN DE CONFLICTOS. Fomentaremos su uso, impulsando la mediación tanto judicial como extrajudicial, la mediación administrativa y familiar, así como el arbitraje en el ámbito civil y mercantil, entre otros instrumentos.",
       "page": 76,
       "number": 245,
       "section": "Regenerar y respetar",
@@ -3925,8 +3925,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "IMPULSAREMOS REFOR- MAS DE LA LEGISLACIÓN TRIBUTARIA para que se puedan devolver las cantidades abonadas por el propietario en concepto de IBI y en el Impuesto",
-      "detail": "IMPULSAREMOS REFOR- MAS DE LA LEGISLACIÓN TRIBUTARIA para que se puedan devolver las cantidades abonadas por el propietario en concepto de IBI y en el Impuesto sobre el Patrimonio por el periodo que haya durado la ocupación; y para que la vivienda ocupada sea considerada como residencia habitual de su propietario si lo era antes de la privación ilegítima de su posesión, de forma que esta situación no conlleve la pérd…",
+      "title": "IMPULSAREMOS REFORMAS DE LA LEGISLACIÓN TRIBUTARIA para que se puedan devolver las cantidades abonadas por el propietario en concepto de IBI y en el Impuesto so",
+      "detail": "IMPULSAREMOS REFORMAS DE LA LEGISLACIÓN TRIBUTARIA para que se puedan devolver las cantidades abonadas por el propietario en concepto de IBI y en el Impuesto sobre el Patrimonio por el periodo que haya durado la ocupación; y para que la vivienda ocupada sea considerada como residencia habitual de su propietario si lo era antes de la privación ilegítima de su posesión, de forma que esta situación no conlleve la pérdid…",
       "page": 83,
       "number": 286,
       "section": "Servir",
@@ -4173,8 +4173,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "PROMOVEREMOS UN VER- DADERO APROVECHAMIENTO DE LAS POSIBILIDADES DE LA DIGITALIZACIÓN DE LAS ADMINIS- TRACIONES PÚBLICAS A TRAVÉS DE UN PLAN DE DIGITALIZACIÓN D",
-      "detail": "PROMOVEREMOS UN VER- DADERO APROVECHAMIENTO DE LAS POSIBILIDADES DE LA DIGITALIZACIÓN DE LAS ADMINIS- TRACIONES PÚBLICAS A TRAVÉS DE UN PLAN DE DIGITALIZACIÓN DE LAS ADMINISTRACIONES PÚBLICAS, de manera que se conviertan en servicios amigables y proactivos. Para ello impulsaremos la utilización de sistemas de inteligencia artificial y analítica para la mejora de los procesos administrativos esenciales como las ayudas…",
+      "title": "PROMOVEREMOS UN VERDADERO APROVECHAMIENTO DE LAS POSIBILIDADES DE LA DIGITALIZACIÓN DE LAS ADMINISTRACIONES PÚBLICAS A TRAVÉS DE UN PLAN DE DIGITALIZACIÓN DE LA",
+      "detail": "PROMOVEREMOS UN VERDADERO APROVECHAMIENTO DE LAS POSIBILIDADES DE LA DIGITALIZACIÓN DE LAS ADMINISTRACIONES PÚBLICAS A TRAVÉS DE UN PLAN DE DIGITALIZACIÓN DE LAS ADMINISTRACIONES PÚBLICAS, de manera que se conviertan en servicios amigables y proactivos. Para ello impulsaremos la utilización de sistemas de inteligencia artificial y analítica para la mejora de los procesos administrativos esenciales como las ayudas soc…",
       "page": 91,
       "number": 304,
       "section": "Servir",
@@ -4199,8 +4199,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "POTENCIAREMOS LA CAPA- CIDAD DE LOS CIUDADANOS Y AGENTES ECONÓMICOS para obtener información de expedientes, a través de la evolución de la Carpeta Ciudadana.",
-      "detail": "POTENCIAREMOS LA CAPA- CIDAD DE LOS CIUDADANOS Y AGENTES ECONÓMICOS para obtener información de expedientes, a través de la evolución de la Carpeta Ciudadana. Facilitaremos la comunicación entre ciudadanos y empresas y la Administración mediante canales digitales accesibles como los asistentes virtuales.",
+      "title": "POTENCIAREMOS LA CAPACIDAD DE LOS CIUDADANOS Y AGENTES ECONÓMICOS para obtener información de expedientes, a través de la evolución de la Carpeta Ciudadana.",
+      "detail": "POTENCIAREMOS LA CAPACIDAD DE LOS CIUDADANOS Y AGENTES ECONÓMICOS para obtener información de expedientes, a través de la evolución de la Carpeta Ciudadana. Facilitaremos la comunicación entre ciudadanos y empresas y la Administración mediante canales digitales accesibles como los asistentes virtuales.",
       "page": 91,
       "number": 306,
       "section": "Servir",
@@ -4831,8 +4831,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "VAMOS A COMPLETAR Y MEJORAR EL ESTATUTO DEL ARTISTA, con medidas como la simpli- ficación del nuevo régimen de prestación de desempleo o modernizando el sistema",
-      "detail": "VAMOS A COMPLETAR Y MEJORAR EL ESTATUTO DEL ARTISTA, con medidas como la simpli- ficación del nuevo régimen de prestación de desempleo o modernizando el sistema de jubilación, y promocionaremos los incentivos fiscales que favorezcan el ejercicio de actividades artísticas y de creación. Estableceremos un diálogo permanente con las Academias y Asociaciones profesionales de todo el ámbito cultural.",
+      "title": "VAMOS A COMPLETAR Y MEJORAR EL ESTATUTO DEL ARTISTA, con medidas como la simplificación del nuevo régimen de prestación de desempleo o modernizando el sistema d",
+      "detail": "VAMOS A COMPLETAR Y MEJORAR EL ESTATUTO DEL ARTISTA, con medidas como la simplificación del nuevo régimen de prestación de desempleo o modernizando el sistema de jubilación, y promocionaremos los incentivos fiscales que favorezcan el ejercicio de actividades artísticas y de creación. Estableceremos un diálogo permanente con las Academias y Asociaciones profesionales de todo el ámbito cultural.",
       "page": 107,
       "number": 352,
       "section": "Liderar e influir",
@@ -4845,8 +4845,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "FORTALECEREMOS EL PRO- GRAMA PLATEA de circulación de espectáculos en recintos de ámbito local.",
-      "detail": "FORTALECEREMOS EL PRO- GRAMA PLATEA de circulación de espectáculos en recintos de ámbito local. Reformaremos el Instituto Nacional de las Artes Escénicas y de la Música adaptando su régimen jurídico y sus sistemas de gestión y control económico-financiero a las peculiaridades de su actividad, e impulsaremos las giras nacionales e internacionales de sus unidades artísticas.",
+      "title": "FORTALECEREMOS EL PROGRAMA PLATEA de circulación de espectáculos en recintos de ámbito local.",
+      "detail": "FORTALECEREMOS EL PROGRAMA PLATEA de circulación de espectáculos en recintos de ámbito local. Reformaremos el Instituto Nacional de las Artes Escénicas y de la Música adaptando su régimen jurídico y sus sistemas de gestión y control económico-financiero a las peculiaridades de su actividad, e impulsaremos las giras nacionales e internacionales de sus unidades artísticas.",
       "page": 107,
       "number": 353,
       "section": "Liderar e influir",
@@ -4858,8 +4858,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "PROMOVEREMOS Y PROTE- GEREMOS EL PATRIMONIO AUDIOVISUAL ESPAÑOL, como un medio de preservar nuestra identidad y diversidad cultural.",
-      "detail": "PROMOVEREMOS Y PROTE- GEREMOS EL PATRIMONIO AUDIOVISUAL ESPAÑOL, como un medio de preservar nuestra identidad y diversidad cultural. Desarrollaremos nuevas líneas de financiación y potenciaremos el papel de España en el sector cinematográfico internacional, tanto con la promoción de nuestras producciones como atrayendo talento e inversión a España con los rodajes de proyectos audiovisuales y cinematográficos. Apoyare…",
+      "title": "PROMOVEREMOS Y PROTEGEREMOS EL PATRIMONIO AUDIOVISUAL ESPAÑOL, como un medio de preservar nuestra identidad y diversidad cultural.",
+      "detail": "PROMOVEREMOS Y PROTEGEREMOS EL PATRIMONIO AUDIOVISUAL ESPAÑOL, como un medio de preservar nuestra identidad y diversidad cultural. Desarrollaremos nuevas líneas de financiación y potenciaremos el papel de España en el sector cinematográfico internacional, tanto con la promoción de nuestras producciones como atrayendo talento e inversión a España con los rodajes de proyectos audiovisuales y cinematográficos. Apoyaremo…",
       "page": 107,
       "number": 354,
       "section": "Liderar e influir",
@@ -9748,15 +9748,15 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Revisaremos los criterios de diseño de las infraestructuras hidráulicas, singularmente, de las presas, incorporando a los habituales estudios \"cost e- beneficio",
-      "detail": "Revisaremos los criterios de diseño de las infraestructuras hidráulicas, singularmente, de las presas, incorporando a los habituales estudios \"cost e- beneficio” los de \"adaptación al cambio climático-coste\". Prevención de incendios, gestión forestal y protección del medio rural Es necesario continuar desarrollando e integrando en las políticas ambientales medidas de protección y adaptación frente a los riesgos deriv…",
+      "title": "Revisaremos los criterios de diseño de las infraestructuras hidráulicas, singularmente, de las presas, incorporando a los habituales estudios \"cost ebeneficio”",
+      "detail": "Revisaremos los criterios de diseño de las infraestructuras hidráulicas, singularmente, de las presas, incorporando a los habituales estudios \"cost ebeneficio” los de \"adaptación al cambio climático-coste\". Prevención de incendios, gestión forestal y protección del medio rural Es necesario continuar desarrollando e integrando en las políticas ambientales medidas de protección y adaptación frente a los riesgos derivad…",
       "page": 89,
       "number": null,
       "section": "Transición ecológica, digitalización y territorio",
       "subthemeIds": [
+        "impuestos-fiscalidad",
         "infraestructuras",
-        "medio-ambiente",
-        "cohesion-territorial"
+        "medio-ambiente"
       ],
       "priorityIndex": 1,
       "originalBlockIndex": 1,
@@ -11742,8 +11742,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Incrementaremos la dotación del sistema de becas y ayudas al estudio y estable- ceremos la gratuidad de los estudios universitarios y de FP superior para aquell",
-      "detail": "Incrementaremos la dotación del sistema de becas y ayudas al estudio y estable- ceremos la gratuidad de los estudios universitarios y de FP superior para aquellos alumnos que vayan aprobando las asignaturas a la primera, mediante un sistema de crédito ETC aprobado a la primera = crédito ETC que será gratuito en el siguiente curso. Seguiremos mejorando en cuantías y cantidad los presupuestos, ampliando las necesidades…",
+      "title": "Incrementaremos la dotación del sistema de becas y ayudas al estudio y estableceremos la gratuidad de los estudios universitarios y de FP superior para aquellos",
+      "detail": "Incrementaremos la dotación del sistema de becas y ayudas al estudio y estableceremos la gratuidad de los estudios universitarios y de FP superior para aquellos alumnos que vayan aprobando las asignaturas a la primera, mediante un sistema de crédito ETC aprobado a la primera = crédito ETC que será gratuito en el siguiente curso. Seguiremos mejorando en cuantías y cantidad los presupuestos, ampliando las necesidades p…",
       "page": 116,
       "number": null,
       "section": "Educación, ciencia, conocimiento y cultura",
@@ -11874,8 +11874,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Aceleraremos la puesta en marcha un programa de cátedras y becas universidad- industria para potenciar el talento en España en sectores de alta tecnología (IA,",
-      "detail": "Aceleraremos la puesta en marcha un programa de cátedras y becas universidad- industria para potenciar el talento en España en sectores de alta tecnología (IA, semiconductores).",
+      "title": "Aceleraremos la puesta en marcha un programa de cátedras y becas universidadindustria para potenciar el talento en España en sectores de alta tecnología (IA, se",
+      "detail": "Aceleraremos la puesta en marcha un programa de cátedras y becas universidadindustria para potenciar el talento en España en sectores de alta tecnología (IA, semiconductores).",
       "page": 117,
       "number": null,
       "section": "Educación, ciencia, conocimiento y cultura",
@@ -19534,8 +19534,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "El nuevo modelo reconocerá el mayor coste que determinadas variables - población, superficie, población protegida, insularidad… - provocan en la prestación de s",
-      "detail": "El nuevo modelo reconocerá el mayor coste que determinadas variables - población, superficie, población protegida, insularidad… - provocan en la prestación de servicios y reforzará, igualmente, la corresponsabilidad fiscal como elemento indispensable de gobernanza, de manera que se eviten paradojas de propiciar renuncias a la capacidad fiscal propia, al tiempo que se reclaman más recursos al sistema.",
+      "title": "El nuevo modelo reconocerá el mayor coste que determinadas variablespoblación, superficie, población protegida, insularidad… - provocan en la prestación de serv",
+      "detail": "El nuevo modelo reconocerá el mayor coste que determinadas variablespoblación, superficie, población protegida, insularidad… - provocan en la prestación de servicios y reforzará, igualmente, la corresponsabilidad fiscal como elemento indispensable de gobernanza, de manera que se eviten paradojas de propiciar renuncias a la capacidad fiscal propia, al tiempo que se reclaman más recursos al sistema.",
       "page": 234,
       "number": null,
       "section": "Cohesión territorial, instituciones y política exterior",
@@ -22190,7 +22190,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Seguiremos apoyando el proceso de adhesión a Euro pa de los países de los Balcanes Occidentales, dando un impulso con la celebración, durante la Presidencia esp",
-      "detail": "Seguiremos apoyando el proceso de adhesión a Euro pa de los países de los Balcanes Occidentales, dando un impulso con la celebración, durante la Presidencia española del Consejo de la UE, de la reunión ministerial UE - Balcanes Occidentales. COMPROMISO FIRME CON LA COOPERACIÓN INTERNACIONAL POR UN ENTORNO MÁS PRÓSPERO, JUSTO Y ESTABLE. La solidaridad y el compromiso con la cooperación internacional es una de las seña…",
+      "detail": "Seguiremos apoyando el proceso de adhesión a Euro pa de los países de los Balcanes Occidentales, dando un impulso con la celebración, durante la Presidencia española del Consejo de la UE, de la reunión ministerial UEBalcanes Occidentales. COMPROMISO FIRME CON LA COOPERACIÓN INTERNACIONAL POR UN ENTORNO MÁS PRÓSPERO, JUSTO Y ESTABLE. La solidaridad y el compromiso con la cooperación internacional es una de las señas d…",
       "page": 261,
       "number": null,
       "section": "Cohesión territorial, instituciones y política exterior",
@@ -22280,7 +22280,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Seguiremos mejorando nuestras capacidades en acción humanitaria y cooperación financiera con nuevos instrumentos de cooperación.",
-      "detail": "Seguiremos mejorando nuestras capacidades en acción humanitaria y cooperación financiera con nuevos instrumentos de cooperación. Reforzaremos la acción humanitaria en recursos y capacidades, atendiendo la perspectiva de contextos e incorporando el triple nexo acción humanitaria- desarrollo-paz, así como el refuerzo de la educación para la ciudadanía global y acción humanitaria.",
+      "detail": "Seguiremos mejorando nuestras capacidades en acción humanitaria y cooperación financiera con nuevos instrumentos de cooperación. Reforzaremos la acción humanitaria en recursos y capacidades, atendiendo la perspectiva de contextos e incorporando el triple nexo acción humanitariadesarrollo-paz, así como el refuerzo de la educación para la ciudadanía global y acción humanitaria.",
       "page": 262,
       "number": null,
       "section": "Cohesión territorial, instituciones y política exterior",
@@ -23542,8 +23542,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Garantizaremos los instrumentos necesarios para intervenir directamente en mercados afec- tados por prácticas desleales o no competitivas, que pongan en peligro",
-      "detail": "Garantizaremos los instrumentos necesarios para intervenir directamente en mercados afec- tados por prácticas desleales o no competitivas, que pongan en peligro los suministros o provo- quen inflación y sobrecostes para los hogares y para otras empresas. La vivienda, el crédito, la luz, el agua o la cesta básica de alimentos, entre otros, son bienes de interés general, y el acceso a los mismos debe garantizarse media…",
+      "title": "Garantizaremos los instrumentos necesarios para intervenir directamente en mercados afectados por prácticas desleales o no competitivas, que pongan en peligro l",
+      "detail": "Garantizaremos los instrumentos necesarios para intervenir directamente en mercados afectados por prácticas desleales o no competitivas, que pongan en peligro los suministros o provoquen inflación y sobrecostes para los hogares y para otras empresas. La vivienda, el crédito, la luz, el agua o la cesta básica de alimentos, entre otros, son bienes de interés general, y el acceso a los mismos debe garantizarse mediante…",
       "page": 12,
       "number": 2,
       "section": "Economía y trabajo",
@@ -23558,7 +23558,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Reducción del poder del oligopolio eléctrico, abaratamiento el precio de la electricidad y lucha contra la pobreza energética.",
-      "detail": "Reducción del poder del oligopolio eléctrico, abaratamiento el precio de la electricidad y lucha contra la pobreza energética. Para ello, se desarrollarán las siguientes medidas: ● Reforma del mercado eléctrico mayorista para sustituir el actual mecanismo margina- lista y terminar así con los beneficios caídos del cielo, lo que permitirá el abaratamiento 13 Una democracia económica y ecosocial al servicio de las pers…",
+      "detail": "Reducción del poder del oligopolio eléctrico, abaratamiento el precio de la electricidad y lucha contra la pobreza energética. Para ello, se desarrollarán las siguientes medidas: ● Reforma del mercado eléctrico mayorista para sustituir el actual mecanismo marginalista y terminar así con los beneficios caídos del cielo, lo que permitirá el abaratamiento 13 Una democracia económica y ecosocial al servicio de las person…",
       "page": 12,
       "number": 3,
       "section": "Economía y trabajo",
@@ -23584,8 +23584,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Refuerzo de los sistemas de control y supervisión bancaria, de manera jurídicamente com - patible con el Derecho de la Unión Europea.",
-      "detail": "Refuerzo de los sistemas de control y supervisión bancaria, de manera jurídicamente com - patible con el Derecho de la Unión Europea. Para ello se creará una autoridad independiente de supervisión, adscrita al Banco de España, y se llevará a cabo la regulación profesional del cuerpo de inspectores y auditores informáticos de entidades de crédito, garantizando el acceso a esta función mediante un sistema de oposición…",
+      "title": "Refuerzo de los sistemas de control y supervisión bancaria, de manera jurídicamente compatible con el Derecho de la Unión Europea.",
+      "detail": "Refuerzo de los sistemas de control y supervisión bancaria, de manera jurídicamente compatible con el Derecho de la Unión Europea. Para ello se creará una autoridad independiente de supervisión, adscrita al Banco de España, y se llevará a cabo la regulación profesional del cuerpo de inspectores y auditores informáticos de entidades de crédito, garantizando el acceso a esta función mediante un sistema de oposición que…",
       "page": 13,
       "number": 5,
       "section": "Economía y trabajo",
@@ -23597,8 +23597,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Acabaremos con la exclusión financiera que provoca el cierre de oficinas y cajeros en los territo- rios con poca población.",
-      "detail": "Acabaremos con la exclusión financiera que provoca el cierre de oficinas y cajeros en los territo- rios con poca población. Esto deja sin servicios a cientos de miles de personas, vulnerando así sus derechos. Para ello, en primer lugar, se regularán, con el acuerdo con las comunidades autónomas, los umbrales mínimos de servicios básicos que deben prestar las entidades bancarias por territorio, para asegurar que todas…",
+      "title": "Acabaremos con la exclusión financiera que provoca el cierre de oficinas y cajeros en los territorios con poca población.",
+      "detail": "Acabaremos con la exclusión financiera que provoca el cierre de oficinas y cajeros en los territorios con poca población. Esto deja sin servicios a cientos de miles de personas, vulnerando así sus derechos. Para ello, en primer lugar, se regularán, con el acuerdo con las comunidades autónomas, los umbrales mínimos de servicios básicos que deben prestar las entidades bancarias por territorio, para asegurar que todas l…",
       "page": 13,
       "number": 6,
       "section": "Economía y trabajo",
@@ -23612,7 +23612,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Pondremos en marcha una estrategia integral para aumentar la productividad, con más recursos públicos y sobre todo privados, de I+D+i hasta alcanzar el 2,1% del",
-      "detail": "Pondremos en marcha una estrategia integral para aumentar la productividad, con más recursos públicos y sobre todo privados, de I+D+i hasta alcanzar el 2,1% del PIB. Potenciando así las activi- dades industriales y los servicios de mayor valor añadido, con empresas de mayor tamaño que se integren en las fases de mayor generación de valor en las cadenas globales de producción. Se fo- mentará la formación permanente de…",
+      "detail": "Pondremos en marcha una estrategia integral para aumentar la productividad, con más recursos públicos y sobre todo privados, de I+D+i hasta alcanzar el 2,1% del PIB. Potenciando así las actividades industriales y los servicios de mayor valor añadido, con empresas de mayor tamaño que se integren en las fases de mayor generación de valor en las cadenas globales de producción. Se fomentará la formación permanente de tod…",
       "page": 14,
       "number": 1,
       "section": "Economía y trabajo",
@@ -24095,7 +24095,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Refuerzo de los derechos de las personas consumidoras.",
-      "detail": "Refuerzo de los derechos de las personas consumidoras. Se potenciará que la ciudadanía cuente con mecanismos ágiles, gratuitos y universales para defenderse, para la protección y la representa- ción ante conflictos, fraudes y abusos en materia de consumo frente a empresas. Para ello, se re- forzará y modernizará el Sistema Arbitral de Consumo, se fomentará el asociacionismo, renovando e impulsando el Consejo de Consu…",
+      "detail": "Refuerzo de los derechos de las personas consumidoras. Se potenciará que la ciudadanía cuente con mecanismos ágiles, gratuitos y universales para defenderse, para la protección y la representación ante conflictos, fraudes y abusos en materia de consumo frente a empresas. Para ello, se reforzará y modernizará el Sistema Arbitral de Consumo, se fomentará el asociacionismo, renovando e impulsando el Consejo de Consumido…",
       "page": 20,
       "number": 3,
       "section": "Economía y trabajo",
@@ -24528,8 +24528,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Garantizaremos la subida del SMI como palanca que haga incrementar el conjunto de los sala- rios y contribuya a reactivar la economía.",
-      "detail": "Garantizaremos la subida del SMI como palanca que haga incrementar el conjunto de los sala- rios y contribuya a reactivar la economía. Haber alcanzado, con los 1.080 €, el 60% del salario me- dio, si bien es un gran avance, no es suficiente en un país que tiene salarios un 25% por debajo de la media de los países de la Eurozona.",
+      "title": "Garantizaremos la subida del SMI como palanca que haga incrementar el conjunto de los salarios y contribuya a reactivar la economía.",
+      "detail": "Garantizaremos la subida del SMI como palanca que haga incrementar el conjunto de los salarios y contribuya a reactivar la economía. Haber alcanzado, con los 1.080 €, el 60% del salario medio, si bien es un gran avance, no es suficiente en un país que tiene salarios un 25% por debajo de la media de los países de la Eurozona.",
       "page": 26,
       "number": 21,
       "section": "Economía y trabajo",
@@ -24542,7 +24542,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Llevaremos a cabo un control efectivo de la brecha salarial utilizando el algoritmo HER.",
-      "detail": "Llevaremos a cabo un control efectivo de la brecha salarial utilizando el algoritmo HER. Du- rante la anterior legislatura desarrollamos los «instrumentos de la transparencia», como el registro retributivo, la valoración de puestos de trabajo o la auditoría salarial. Estos elementos pretenden darnos una medida de las causas y la magnitud de la brecha salarial para poder actuar sobre estas de forma más efectiva. Ahora…",
+      "detail": "Llevaremos a cabo un control efectivo de la brecha salarial utilizando el algoritmo HER. Durante la anterior legislatura desarrollamos los «instrumentos de la transparencia», como el registro retributivo, la valoración de puestos de trabajo o la auditoría salarial. Estos elementos pretenden darnos una medida de las causas y la magnitud de la brecha salarial para poder actuar sobre estas de forma más efectiva. Ahora e…",
       "page": 26,
       "number": 22,
       "section": "Economía y trabajo",
@@ -24556,7 +24556,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Reforzaremos las garantías de las personas trabajadoras en las modificaciones sustanciales de las condiciones de trabajo y en los descuelgues.",
-      "detail": "Reforzaremos las garantías de las personas trabajadoras en las modificaciones sustanciales de las condiciones de trabajo y en los descuelgues. Revisaremos las causas para que solo en situacio- nes que afecten a la viabilidad de la empresa se pueda recurrir a estos procedimientos, que deberán ser negociados, dando prioridad a la negociación con las organizaciones sindicales y garantizando el carácter reversible de las…",
+      "detail": "Reforzaremos las garantías de las personas trabajadoras en las modificaciones sustanciales de las condiciones de trabajo y en los descuelgues. Revisaremos las causas para que solo en situaciones que afecten a la viabilidad de la empresa se pueda recurrir a estos procedimientos, que deberán ser negociados, dando prioridad a la negociación con las organizaciones sindicales y garantizando el carácter reversible de las m…",
       "page": 27,
       "number": 23,
       "section": "Economía y trabajo",
@@ -24569,7 +24569,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Estableceremos garantías para las personas trabajadoras frente al despido mediante un sistema restaurativo y disuasorio, así como mediante el reforzamiento de l",
-      "detail": "Estableceremos garantías para las personas trabajadoras frente al despido mediante un sistema restaurativo y disuasorio, así como mediante el reforzamiento de la causalidad en los supuestos de extinción de la relación laboral. Ello implica el derecho del trabajador a la readmisión o a la indemniza- ción por despido improcedente, incluyendo el cese durante el periodo de prueba. En ambos casos, se reconocerá el derecho…",
+      "detail": "Estableceremos garantías para las personas trabajadoras frente al despido mediante un sistema restaurativo y disuasorio, así como mediante el reforzamiento de la causalidad en los supuestos de extinción de la relación laboral. Ello implica el derecho del trabajador a la readmisión o a la indemnización por despido improcedente, incluyendo el cese durante el periodo de prueba. En ambos casos, se reconocerá el derecho a…",
       "page": 27,
       "number": 24,
       "section": "Economía y trabajo",
@@ -24582,7 +24582,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Protección frente a las deslocalizaciones.",
-      "detail": "Protección frente a las deslocalizaciones. La creciente globalización propicia también otros fenómenos (como la deslocalización de empresas) que tienen consecuencias negativas sobre el tejido productivo y el mercado de trabajo. Estas deslocalizaciones persiguen una reducción de los costes empresariales mediante el traslado de ciertas actividades productivas, con frecuencia in- tensivas en mano de obra, hacia terceros…",
+      "detail": "Protección frente a las deslocalizaciones. La creciente globalización propicia también otros fenómenos (como la deslocalización de empresas) que tienen consecuencias negativas sobre el tejido productivo y el mercado de trabajo. Estas deslocalizaciones persiguen una reducción de los costes empresariales mediante el traslado de ciertas actividades productivas, con frecuencia intensivas en mano de obra, hacia terceros p…",
       "page": 27,
       "number": 25,
       "section": "Economía y trabajo",
@@ -24595,7 +24595,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Protección a las personas empleadas del hogar.",
-      "detail": "Protección a las personas empleadas del hogar. Los avances decisivos que en esta legislatura se han producido en la protección de las personas empleadas del hogar deben continuar a través del desarrollo reglamentario de su derecho a la prevención de riesgos laborales y abordando otras cuestiones que no pudieron incluirse por motivos formales en el RDL 16/2022, especialmente el su- puesto de las internas. Es preciso,…",
+      "detail": "Protección a las personas empleadas del hogar. Los avances decisivos que en esta legislatura se han producido en la protección de las personas empleadas del hogar deben continuar a través del desarrollo reglamentario de su derecho a la prevención de riesgos laborales y abordando otras cuestiones que no pudieron incluirse por motivos formales en el RDL 16/2022, especialmente el supuesto de las internas. Es preciso, ta…",
       "page": 27,
       "number": 26,
       "section": "Economía y trabajo",
@@ -24623,7 +24623,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Pondremos fin a la precariedad en el contrato a tiempo parcial.",
-      "detail": "Pondremos fin a la precariedad en el contrato a tiempo parcial. En los casos de jornada ordi- naria marginal, la remuneración de la persona trabajadora será, al menos, un 10% superior a la que proporcionalmente le correspondería por tal jornada. Por otra parte, debe consolidarse la jornada realmente realizada, de tal forma que, salvo en caso de negativa expresa por parte de la persona trabajadora, esta tendrá derecho…",
+      "detail": "Pondremos fin a la precariedad en el contrato a tiempo parcial. En los casos de jornada ordinaria marginal, la remuneración de la persona trabajadora será, al menos, un 10% superior a la que proporcionalmente le correspondería por tal jornada. Por otra parte, debe consolidarse la jornada realmente realizada, de tal forma que, salvo en caso de negativa expresa por parte de la persona trabajadora, esta tendrá derecho a…",
       "page": 28,
       "number": 29,
       "section": "Economía y trabajo",
@@ -24635,8 +24635,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Garantizaremos la igualdad de las condiciones esenciales de trabajo de las personas trabaja- doras externalizadas en relación con las personas trabajadoras de l",
-      "detail": "Garantizaremos la igualdad de las condiciones esenciales de trabajo de las personas trabaja- doras externalizadas en relación con las personas trabajadoras de la empresa principal. VI. TRABAJO DE CALIDAD, COMPATIBLE CON LA FORMACIÓN Y EL ESTUDIO",
+      "title": "Garantizaremos la igualdad de las condiciones esenciales de trabajo de las personas trabajadoras externalizadas en relación con las personas trabajadoras de la",
+      "detail": "Garantizaremos la igualdad de las condiciones esenciales de trabajo de las personas trabajadoras externalizadas en relación con las personas trabajadoras de la empresa principal. VI. TRABAJO DE CALIDAD, COMPATIBLE CON LA FORMACIÓN Y EL ESTUDIO",
       "page": 28,
       "number": 30,
       "section": "Economía y trabajo",
@@ -24648,8 +24648,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Facilitaremos la culminación de los estudios de las personas que abandonan la formación obli- gatoria en el marco de un trabajo decente.",
-      "detail": "Facilitaremos la culminación de los estudios de las personas que abandonan la formación obli- gatoria en el marco de un trabajo decente. El abandono de la formación obligatoria sigue siendo un problema en nuestro país. Es imprescindible fomentar el uso de la contratación formativa para que se logre reducir la tasa de abandono prematuro de los estudios.",
+      "title": "Facilitaremos la culminación de los estudios de las personas que abandonan la formación obligatoria en el marco de un trabajo decente.",
+      "detail": "Facilitaremos la culminación de los estudios de las personas que abandonan la formación obligatoria en el marco de un trabajo decente. El abandono de la formación obligatoria sigue siendo un problema en nuestro país. Es imprescindible fomentar el uso de la contratación formativa para que se logre reducir la tasa de abandono prematuro de los estudios.",
       "page": 28,
       "number": 31,
       "section": "Economía y trabajo",
@@ -24662,7 +24662,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Prestaremos ayuda técnica a la solicitud y la gestión de ayudas a la formación.",
-      "detail": "Prestaremos ayuda técnica a la solicitud y la gestión de ayudas a la formación. Los servicios de empleo dispondrán de una unidad específica que promueva y facilite la gestión para que desa- rrollen, de manera real y efectiva, la formación para personas autónomas de actividad empresarial, personas socias trabajadoras y para el personal empleado.",
+      "detail": "Prestaremos ayuda técnica a la solicitud y la gestión de ayudas a la formación. Los servicios de empleo dispondrán de una unidad específica que promueva y facilite la gestión para que desarrollen, de manera real y efectiva, la formación para personas autónomas de actividad empresarial, personas socias trabajadoras y para el personal empleado.",
       "page": 28,
       "number": 32,
       "section": "Economía y trabajo",
@@ -24675,8 +24675,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Garantizaremos una oferta formativa específica para personas autónomas y socias trabajado- ras.",
-      "detail": "Garantizaremos una oferta formativa específica para personas autónomas y socias trabajado- ras. Los servicios de empleo, en coordinación con las entidades que representan a las empresas de economía social (cooperativas, sociedades laborales, etcétera), garantizarán anualmente en cada territorio una oferta formativa, preferentemente acreditable, mínima y ajustada a las necesidades de tales empresas y de las socias y l…",
+      "title": "Garantizaremos una oferta formativa específica para personas autónomas y socias trabajadoras.",
+      "detail": "Garantizaremos una oferta formativa específica para personas autónomas y socias trabajadoras. Los servicios de empleo, en coordinación con las entidades que representan a las empresas de economía social (cooperativas, sociedades laborales, etcétera), garantizarán anualmente en cada territorio una oferta formativa, preferentemente acreditable, mínima y ajustada a las necesidades de tales empresas y de las socias y los…",
       "page": 28,
       "number": 33,
       "section": "Economía y trabajo",
@@ -24690,7 +24690,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Establecimiento de un crédito mínimo para formación y bonificaciones de la cuota.",
-      "detail": "Establecimiento de un crédito mínimo para formación y bonificaciones de la cuota. Se garan- tizará a las personas autónomas y a las empresas de pequeña dimensión un crédito mínimo para formación acreditable de las personas trabajadoras que empleen.Cuando la persona autónoma y, en su caso, un determinado porcentaje de las personas empleadas por tales empresas o personas autónomas hayan realizado formación acreditable…",
+      "detail": "Establecimiento de un crédito mínimo para formación y bonificaciones de la cuota. Se garantizará a las personas autónomas y a las empresas de pequeña dimensión un crédito mínimo para formación acreditable de las personas trabajadoras que empleen.Cuando la persona autónoma y, en su caso, un determinado porcentaje de las personas empleadas por tales empresas o personas autónomas hayan realizado formación acreditable en…",
       "page": 28,
       "number": 34,
       "section": "Economía y trabajo",
@@ -24703,7 +24703,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Reconoceremos un permiso anual para formación.",
-      "detail": "Reconoceremos un permiso anual para formación. Las personas trabajadoras, incluidas las per- sonas socias trabajadoras y autónomas de actividad empresarial, tendrán derecho a un permiso anual para formación acreditable. Durante dicho permiso, la empresa o la persona autónoma tendrán dere- cho a una bonificación de las cuotas empresariales y la persona trabajadora se considerará en situa- ción legal de desempleo a efe…",
+      "detail": "Reconoceremos un permiso anual para formación. Las personas trabajadoras, incluidas las personas socias trabajadoras y autónomas de actividad empresarial, tendrán derecho a un permiso anual para formación acreditable. Durante dicho permiso, la empresa o la persona autónoma tendrán derecho a una bonificación de las cuotas empresariales y la persona trabajadora se considerará en situación legal de desempleo a efectos d…",
       "page": 29,
       "number": 35,
       "section": "Economía y trabajo",
@@ -24716,7 +24716,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Incrementaremos a las empresas que no realicen formación para su personal durante un año natural la cuota por este concepto en el año siguiente en un determinad",
-      "detail": "Incrementaremos a las empresas que no realicen formación para su personal durante un año natural la cuota por este concepto en el año siguiente en un determinado porcentaje. 37 . Reconoceremos el derecho a que hasta treinta días de la prestación por desempleo no se con- sidere consumida y sí como días cotizados a las personas fijas-discontinuas que durante sus perio- dos de inactividad realicen formación acreditable.…",
+      "detail": "Incrementaremos a las empresas que no realicen formación para su personal durante un año natural la cuota por este concepto en el año siguiente en un determinado porcentaje. 37 . Reconoceremos el derecho a que hasta treinta días de la prestación por desempleo no se considere consumida y sí como días cotizados a las personas fijas-discontinuas que durante sus periodos de inactividad realicen formación acreditable. En…",
       "page": 29,
       "number": 36,
       "section": "Economía y trabajo",
@@ -24729,7 +24729,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Trabajo autónomo con garantías y valor reconocido, con prestaciones sociales adecuadas (jubilación, subsidio para mayores de 52 años, cese de actividad, con esp",
-      "detail": "Trabajo autónomo con garantías y valor reconocido, con prestaciones sociales adecuadas (jubilación, subsidio para mayores de 52 años, cese de actividad, con especial atención al cese por causas económicas, etcétera), con una fiscalidad que permita alcanzar un modelo de tributación más equitativo; con derechos formativos adaptados a sus necesidades; con derechos de concilia- ción; con ayudas específicas para el establ…",
+      "detail": "Trabajo autónomo con garantías y valor reconocido, con prestaciones sociales adecuadas (jubilación, subsidio para mayores de 52 años, cese de actividad, con especial atención al cese por causas económicas, etcétera), con una fiscalidad que permita alcanzar un modelo de tributación más equitativo; con derechos formativos adaptados a sus necesidades; con derechos de conciliación; con ayudas específicas para el establec…",
       "page": 29,
       "number": 38,
       "section": "Economía y trabajo",
@@ -24743,13 +24743,14 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Simplificaremos los trámites administrativos y de gestión, acelerando la digitalización de la Ad- ministración, aplicando las nuevas tecnologías de la informaci",
-      "detail": "Simplificaremos los trámites administrativos y de gestión, acelerando la digitalización de la Ad- ministración, aplicando las nuevas tecnologías de la información para la coordinación entre admi- nistraciones de manera que se acorten y se optimicen los plazos de puesta en marcha de la inicia- tiva empresarial y desplegando, con la dotación económica correspondiente la Estrategia Nacional de Impulso del Trabajo Autóno…",
+      "title": "Simplificaremos los trámites administrativos y de gestión, acelerando la digitalización de la Administración, aplicando las nuevas tecnologías de la información",
+      "detail": "Simplificaremos los trámites administrativos y de gestión, acelerando la digitalización de la Administración, aplicando las nuevas tecnologías de la información para la coordinación entre administraciones de manera que se acorten y se optimicen los plazos de puesta en marcha de la iniciativa empresarial y desplegando, con la dotación económica correspondiente la Estrategia Nacional de Impulso del Trabajo Autónomo 202…",
       "page": 29,
       "number": 39,
       "section": "Economía y trabajo",
       "subthemeIds": [
         "impuestos-fiscalidad",
+        "organizacion-territorial",
         "administracion-digital"
       ],
       "priorityIndex": 0,
@@ -24758,7 +24759,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Iniciativa joven con garantías.",
-      "detail": "Iniciativa joven con garantías. Diseñar incentivos y ayudas específicas para las personas jóve- nes que elijan lanzar una iniciativa empresarial individual o colectiva. Ampliar la aplicación de estos incentivos y ayudas a las mujeres que decidan emprender. Generar las alianzas público-privadas para garantizar el acceso a la financiación a jóvenes y mujeres. Activar todos los puntos públicos de orientación, formación…",
+      "detail": "Iniciativa joven con garantías. Diseñar incentivos y ayudas específicas para las personas jóvenes que elijan lanzar una iniciativa empresarial individual o colectiva. Ampliar la aplicación de estos incentivos y ayudas a las mujeres que decidan emprender. Generar las alianzas público-privadas para garantizar el acceso a la financiación a jóvenes y mujeres. Activar todos los puntos públicos de orientación, formación y…",
       "page": 29,
       "number": 40,
       "section": "Economía y trabajo",
@@ -24770,8 +24771,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Ampliaremos la cultura de la prevención de riesgos en el trabajo autónomo con nuevos progra- mas financiados públicamente para formar en la autoprevención de ri",
-      "detail": "Ampliaremos la cultura de la prevención de riesgos en el trabajo autónomo con nuevos progra- mas financiados públicamente para formar en la autoprevención de riesgos adaptados a la activi- dad desarrollada, con tiempos de formación subvencionados, profundizando en la cultura del au- tocuidado, con formaciones específicas en gestión de los usos del tiempo en el trabajo autónomo, con políticas públicas de apoyo a la sa…",
+      "title": "Ampliaremos la cultura de la prevención de riesgos en el trabajo autónomo con nuevos programas financiados públicamente para formar en la autoprevención de ries",
+      "detail": "Ampliaremos la cultura de la prevención de riesgos en el trabajo autónomo con nuevos programas financiados públicamente para formar en la autoprevención de riesgos adaptados a la actividad desarrollada, con tiempos de formación subvencionados, profundizando en la cultura del autocuidado, con formaciones específicas en gestión de los usos del tiempo en el trabajo autónomo, con políticas públicas de apoyo a la salud me…",
       "page": 29,
       "number": 41,
       "section": "Economía y trabajo",
@@ -24784,8 +24785,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Actualizaremos la representatividad del colectivo de autónomos mediante un sistema de me- dición de la representatividad basado en principios democráticos y la",
-      "detail": "Actualizaremos la representatividad del colectivo de autónomos mediante un sistema de me- dición de la representatividad basado en principios democráticos y la puesta en marcha del Consejo del Trabajo Autónomo.",
+      "title": "Actualizaremos la representatividad del colectivo de autónomos mediante un sistema de medición de la representatividad basado en principios democráticos y la pu",
+      "detail": "Actualizaremos la representatividad del colectivo de autónomos mediante un sistema de medición de la representatividad basado en principios democráticos y la puesta en marcha del Consejo del Trabajo Autónomo.",
       "page": 29,
       "number": 42,
       "section": "Economía y trabajo",
@@ -24812,8 +24813,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Crearemos normas específicas de tributación para las personas autónomas y socias cooperati- vistas que realicen actividades empresariales y cuyas rentas no sean",
-      "detail": "Crearemos normas específicas de tributación para las personas autónomas y socias cooperati- vistas que realicen actividades empresariales y cuyas rentas no sean superiores a una determinada cantidad económica anual. Estas normas recogerán el derecho a que se compensen los ejercicios negativos sin límite de tiempo (actualmente están limitados a los cuatro años siguientes, mientras que las sociedades no tienen límite t…",
+      "title": "Crearemos normas específicas de tributación para las personas autónomas y socias cooperativistas que realicen actividades empresariales y cuyas rentas no sean s",
+      "detail": "Crearemos normas específicas de tributación para las personas autónomas y socias cooperativistas que realicen actividades empresariales y cuyas rentas no sean superiores a una determinada cantidad económica anual. Estas normas recogerán el derecho a que se compensen los ejercicios negativos sin límite de tiempo (actualmente están limitados a los cuatro años siguientes, mientras que las sociedades no tienen límite tem…",
       "page": 30,
       "number": 44,
       "section": "Economía y trabajo",
@@ -24826,8 +24827,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Reconoceremos a las personas autónomas dependientes de un cliente el derecho a las condi- ciones económicas y de jornada máxima previstas en el convenio colecti",
-      "detail": "Reconoceremos a las personas autónomas dependientes de un cliente el derecho a las condi- ciones económicas y de jornada máxima previstas en el convenio colectivo aplicable a dicha em- presa-cliente. VIII. UNA ECONOMÍA PARA LAS PERSONAS: MÁS ECONOMÍA SOCIAL",
+      "title": "Reconoceremos a las personas autónomas dependientes de un cliente el derecho a las condiciones económicas y de jornada máxima previstas en el convenio colectivo",
+      "detail": "Reconoceremos a las personas autónomas dependientes de un cliente el derecho a las condiciones económicas y de jornada máxima previstas en el convenio colectivo aplicable a dicha empresa-cliente. VIII. UNA ECONOMÍA PARA LAS PERSONAS: MÁS ECONOMÍA SOCIAL",
       "page": 30,
       "number": 45,
       "section": "Economía y trabajo",
@@ -24840,7 +24841,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Incentivaremos la promoción de proyectos empresariales de economía social, simplificando los trámites administrativos; eliminando trabas disuasorias a proyectos",
-      "detail": "Incentivaremos la promoción de proyectos empresariales de economía social, simplificando los trámites administrativos; eliminando trabas disuasorias a proyectos empresariales colectivos; for- jando alianzas que garanticen el acceso a financiación privada (a través de finanzas éticas) y pública (mediante mecanismos de crédito e inversión estatales); desarrollando una legislación fiscal que tenga en cuenta el valor eco…",
+      "detail": "Incentivaremos la promoción de proyectos empresariales de economía social, simplificando los trámites administrativos; eliminando trabas disuasorias a proyectos empresariales colectivos; forjando alianzas que garanticen el acceso a financiación privada (a través de finanzas éticas) y pública (mediante mecanismos de crédito e inversión estatales); desarrollando una legislación fiscal que tenga en cuenta el valor econó…",
       "page": 30,
       "number": 46,
       "section": "Economía y trabajo",
@@ -24854,7 +24855,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Aplicaremos las nuevas tecnologías y algoritmos transparentes a la detección de empresas en riesgo de cierre por crisis económica o falta de relevo generacional",
-      "detail": "Aplicaremos las nuevas tecnologías y algoritmos transparentes a la detección de empresas en riesgo de cierre por crisis económica o falta de relevo generacional y ponerlas al servicio de las per- sonas trabajadoras que deseen continuar con la actividad empresarial como dueños de la empresa. Esto se llevará a cabo financiando la tecnología que permita identificar estas situaciones y poniéndola al servicio de las organ…",
+      "detail": "Aplicaremos las nuevas tecnologías y algoritmos transparentes a la detección de empresas en riesgo de cierre por crisis económica o falta de relevo generacional y ponerlas al servicio de las personas trabajadoras que deseen continuar con la actividad empresarial como dueños de la empresa. Esto se llevará a cabo financiando la tecnología que permita identificar estas situaciones y poniéndola al servicio de las organiz…",
       "page": 30,
       "number": 48,
       "section": "Economía y trabajo",
@@ -24881,7 +24882,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Relocalizaremos la producción y los servicios a través de empresas de economía social basadas en una inversión no especulativa.",
-      "detail": "Relocalizaremos la producción y los servicios a través de empresas de economía social basadas en una inversión no especulativa. Se diseñarán estrategias públicas participadas para la relocaliza- ción de la producción y los servicios arraigados en nuestro territorio de manera que se garanticen y se optimicen las cadenas de suministro (producción de chips y microchips; baterías de coches eléctricos; producción sostenib…",
+      "detail": "Relocalizaremos la producción y los servicios a través de empresas de economía social basadas en una inversión no especulativa. Se diseñarán estrategias públicas participadas para la relocalización de la producción y los servicios arraigados en nuestro territorio de manera que se garanticen y se optimicen las cadenas de suministro (producción de chips y microchips; baterías de coches eléctricos; producción sostenible…",
       "page": 31,
       "number": 50,
       "section": "Economía y trabajo",
@@ -24894,7 +24895,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Incorporaremos la formación en economía social y cooperativa en todos los niveles educativos mediante reformas legales que lo incorporen en los currículos y ali",
-      "detail": "Incorporaremos la formación en economía social y cooperativa en todos los niveles educativos mediante reformas legales que lo incorporen en los currículos y alianzas público-privadas para ga- rantizar el aprendizaje basado en la práctica.",
+      "detail": "Incorporaremos la formación en economía social y cooperativa en todos los niveles educativos mediante reformas legales que lo incorporen en los currículos y alianzas público-privadas para garantizar el aprendizaje basado en la práctica.",
       "page": 31,
       "number": 51,
       "section": "Economía y trabajo",
@@ -24921,7 +24922,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Impulsaremos las empresas y los empleos de economía social en sectores emergentes a través de una regulación adecuada para las nuevas formas de organización ciu",
-      "detail": "Impulsaremos las empresas y los empleos de economía social en sectores emergentes a través de una regulación adecuada para las nuevas formas de organización ciudadana en torno a coo- perativas de energía; para las nuevas formas de cooperativas de vivienda de cesión en uso, que permiten la organización de las personas para decidir cómo vivir su etapa activa tras la jubilación, o acceder a viviendas más asequibles y so…",
+      "detail": "Impulsaremos las empresas y los empleos de economía social en sectores emergentes a través de una regulación adecuada para las nuevas formas de organización ciudadana en torno a cooperativas de energía; para las nuevas formas de cooperativas de vivienda de cesión en uso, que permiten la organización de las personas para decidir cómo vivir su etapa activa tras la jubilación, o acceder a viviendas más asequibles y sost…",
       "page": 31,
       "number": 53,
       "section": "Economía y trabajo",
@@ -24977,7 +24978,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Aprobaremos una ley marco básica estatal que regule los mínimos para las cooperativas y las sociedades laborales, estableciendo un número máximo de personas asa",
-      "detail": "Aprobaremos una ley marco básica estatal que regule los mínimos para las cooperativas y las sociedades laborales, estableciendo un número máximo de personas asalariadas, condiciones míni- mas de trabajo, etcétera.",
+      "detail": "Aprobaremos una ley marco básica estatal que regule los mínimos para las cooperativas y las sociedades laborales, estableciendo un número máximo de personas asalariadas, condiciones mínimas de trabajo, etcétera.",
       "page": 31,
       "number": 58,
       "section": "Economía y trabajo",
@@ -24989,8 +24990,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Reconoceremos las cooperativas o sociedades laborales dependientes (aquellas cuyos ingre- sos dependen de un cliente en al menos un determinado porcentaje).",
-      "detail": "Reconoceremos las cooperativas o sociedades laborales dependientes (aquellas cuyos ingre- sos dependen de un cliente en al menos un determinado porcentaje). En estos casos, la empresa 32 Una democracia económica y ecosocial al servicio de las personas Trabajo decente. Mejorar la vida de las personas trabajadoras cliente abonará la diferencia entre la remuneración de las socias y los socios-trabajadores y la que perci…",
+      "title": "Reconoceremos las cooperativas o sociedades laborales dependientes (aquellas cuyos ingresos dependen de un cliente en al menos un determinado porcentaje).",
+      "detail": "Reconoceremos las cooperativas o sociedades laborales dependientes (aquellas cuyos ingresos dependen de un cliente en al menos un determinado porcentaje). En estos casos, la empresa 32 Una democracia económica y ecosocial al servicio de las personas Trabajo decente. Mejorar la vida de las personas trabajadoras cliente abonará la diferencia entre la remuneración de las socias y los socios-trabajadores y la que perciba…",
       "page": 31,
       "number": 59,
       "section": "Economía y trabajo",
@@ -25030,7 +25031,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Crearemos mecanismos eficaces que garanticen la protección de las personas trabajadoras, especialmente de las que desarrollan el trabajo a distancia.",
-      "detail": "Crearemos mecanismos eficaces que garanticen la protección de las personas trabajadoras, especialmente de las que desarrollan el trabajo a distancia. La creciente conectividad resultante de las tecnologías de la información y las comunicaciones ha hecho posible el teletrabajo, que aumen- tó durante la crisis del COVID-19 y es probable que se mantenga junto a las modalidades de trabajo «híbridas». Ha facilitado una ma…",
+      "detail": "Crearemos mecanismos eficaces que garanticen la protección de las personas trabajadoras, especialmente de las que desarrollan el trabajo a distancia. La creciente conectividad resultante de las tecnologías de la información y las comunicaciones ha hecho posible el teletrabajo, que aumentó durante la crisis del COVID-19 y es probable que se mantenga junto a las modalidades de trabajo «híbridas». Ha facilitado una mayo…",
       "page": 32,
       "number": 62,
       "section": "Economía y trabajo",
@@ -25043,7 +25044,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Protegeremos a todas las personas trabajadoras de la violencia y el acoso laboral.",
-      "detail": "Protegeremos a todas las personas trabajadoras de la violencia y el acoso laboral. Tras la entra- da en vigor en España del Convenio sobre la violencia y el acoso de 2019 (núm. 190), que amplía los márgenes de lo que es el acoso en el mundo laboral, deben realizarse los ajustes que sean precisos para establecer una ordenación jurídica integrada, que ofrezca un marco específico de prevención y de protección eficaz de…",
+      "detail": "Protegeremos a todas las personas trabajadoras de la violencia y el acoso laboral. Tras la entrada en vigor en España del Convenio sobre la violencia y el acoso de 2019 (núm. 190), que amplía los márgenes de lo que es el acoso en el mundo laboral, deben realizarse los ajustes que sean precisos para establecer una ordenación jurídica integrada, que ofrezca un marco específico de prevención y de protección eficaz de to…",
       "page": 32,
       "number": 63,
       "section": "Economía y trabajo",
@@ -25055,8 +25056,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Promoveremos estrategias de seguridad y de salud en el trabajo con el propósito de garanti- zar cero muertes y de prevenir las lesiones y las enfermedades relac",
-      "detail": "Promoveremos estrategias de seguridad y de salud en el trabajo con el propósito de garanti- zar cero muertes y de prevenir las lesiones y las enfermedades relacionadas con el trabajo. Debe, asimismo, garantizarse el acceso a las prestaciones de seguridad social pertinentes, y desarrollar políticas y sistemas de gestión de la seguridad y la salud en el trabajo eficaces, incluyendo políti- cas y sistemas que tengan en…",
+      "title": "Promoveremos estrategias de seguridad y de salud en el trabajo con el propósito de garantizar cero muertes y de prevenir las lesiones y las enfermedades relacio",
+      "detail": "Promoveremos estrategias de seguridad y de salud en el trabajo con el propósito de garantizar cero muertes y de prevenir las lesiones y las enfermedades relacionadas con el trabajo. Debe, asimismo, garantizarse el acceso a las prestaciones de seguridad social pertinentes, y desarrollar políticas y sistemas de gestión de la seguridad y la salud en el trabajo eficaces, incluyendo políticas y sistemas que tengan en cuen…",
       "page": 32,
       "number": 64,
       "section": "Economía y trabajo",
@@ -25069,7 +25070,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Adaptaremos el trabajo a las personas.",
-      "detail": "Adaptaremos el trabajo a las personas. Para ello, se han de tener especialmente en cuenta las características particulares de cada persona que trabaja. En ese sentido, las mujeres, a pesar de lo dispuesto en las normas, no han tenido la suficiente mirada protectora específica que necesitan. Sectores muy feminizados, como el de cuidados o los servicios, presentan un preocupante aumen- to de los riesgos psicosociales.…",
+      "detail": "Adaptaremos el trabajo a las personas. Para ello, se han de tener especialmente en cuenta las características particulares de cada persona que trabaja. En ese sentido, las mujeres, a pesar de lo dispuesto en las normas, no han tenido la suficiente mirada protectora específica que necesitan. Sectores muy feminizados, como el de cuidados o los servicios, presentan un preocupante aumento de los riesgos psicosociales. Po…",
       "page": 32,
       "number": 65,
       "section": "Economía y trabajo",
@@ -25082,7 +25083,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Garantizaremos una eficaz protección de la salud y la seguridad de las personas trabajadoras en las empresas con una plantilla inferior a cincuenta personas.",
-      "detail": "Garantizaremos una eficaz protección de la salud y la seguridad de las personas trabajadoras en las empresas con una plantilla inferior a cincuenta personas. El 97% de las empresas españo- las tiene menos de cincuenta personas trabajadoras, siendo en este tipo de empresas donde se 33 Una democracia económica y ecosocial al servicio de las personas Trabajo decente. Mejorar la vida de las personas trabajadoras aprecia…",
+      "detail": "Garantizaremos una eficaz protección de la salud y la seguridad de las personas trabajadoras en las empresas con una plantilla inferior a cincuenta personas. El 97% de las empresas españolas tiene menos de cincuenta personas trabajadoras, siendo en este tipo de empresas donde se 33 Una democracia económica y ecosocial al servicio de las personas Trabajo decente. Mejorar la vida de las personas trabajadoras aprecia un…",
       "page": 32,
       "number": 66,
       "section": "Economía y trabajo",
@@ -25095,7 +25096,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Anticiparemos las indemnizaciones a los familiares de las víctimas de accidentes de trabajo mortales y les prestaremos atención y ayuda psicológica.",
-      "detail": "Anticiparemos las indemnizaciones a los familiares de las víctimas de accidentes de trabajo mortales y les prestaremos atención y ayuda psicológica. X. AVANZAR EN LOS DERECHOS COLECTIVOS DE PARTICIPACIÓN DEMO- CRÁTICA EN LAS EMPRESAS",
+      "detail": "Anticiparemos las indemnizaciones a los familiares de las víctimas de accidentes de trabajo mortales y les prestaremos atención y ayuda psicológica. X. AVANZAR EN LOS DERECHOS COLECTIVOS DE PARTICIPACIÓN DEMOCRÁTICA EN LAS EMPRESAS",
       "page": 33,
       "number": 68,
       "section": "Economía y trabajo",
@@ -25109,8 +25110,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Cambiaremos el paradigma en la organización empresarial, transitando de la empresa jerár- quica y oscura a la empresa transparente y participada; reforzaremos l",
-      "detail": "Cambiaremos el paradigma en la organización empresarial, transitando de la empresa jerár- quica y oscura a la empresa transparente y participada; reforzaremos la eficacia de los derechos de información, consulta y negociación colectiva; y ampliaremos la tasa de cobertura de la ne- gociación colectiva. La democracia no puede quedar a las puertas de las empresas: las personas trabajadoras y los sindicatos deben partici…",
+      "title": "Cambiaremos el paradigma en la organización empresarial, transitando de la empresa jerárquica y oscura a la empresa transparente y participada; reforzaremos la",
+      "detail": "Cambiaremos el paradigma en la organización empresarial, transitando de la empresa jerárquica y oscura a la empresa transparente y participada; reforzaremos la eficacia de los derechos de información, consulta y negociación colectiva; y ampliaremos la tasa de cobertura de la negociación colectiva. La democracia no puede quedar a las puertas de las empresas: las personas trabajadoras y los sindicatos deben participar…",
       "page": 33,
       "number": 69,
       "section": "Economía y trabajo",
@@ -25138,7 +25139,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Extenderemos el derecho de libertad sindical a los miembros de la Guardia Civil.",
-      "detail": "Extenderemos el derecho de libertad sindical a los miembros de la Guardia Civil. La existencia de un doble estatuto (policial y militar) de los miembros de la Guardia Civil ha provocado una situa- ción de discriminación injustificada en relación con el resto de las Fuerzas y Cuerpos de Seguridad, que sí tienen reconocido el derecho de libertad sindical. Solo si se les garantiza el derecho de liber- tad sindical, los…",
+      "detail": "Extenderemos el derecho de libertad sindical a los miembros de la Guardia Civil. La existencia de un doble estatuto (policial y militar) de los miembros de la Guardia Civil ha provocado una situación de discriminación injustificada en relación con el resto de las Fuerzas y Cuerpos de Seguridad, que sí tienen reconocido el derecho de libertad sindical. Solo si se les garantiza el derecho de libertad sindical, los miem…",
       "page": 33,
       "number": 71,
       "section": "Economía y trabajo",
@@ -25165,7 +25166,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Blindaremos los sistemas autónomos de solución de conflictos.",
-      "detail": "Blindaremos los sistemas autónomos de solución de conflictos. Estableceremos, de forma clara, la obligatoriedad de los sistemas de solución autónoma de conflictos laborales individuales y colectivos, en línea con la jurisprudencia sentada en la sentencia del Tribunal Supremo 729/2020, del 30 de julio, para evitar con carácter definitivo decisiones que cuestionen nuestro sistema demo- crático de relaciones laborales.…",
+      "detail": "Blindaremos los sistemas autónomos de solución de conflictos. Estableceremos, de forma clara, la obligatoriedad de los sistemas de solución autónoma de conflictos laborales individuales y colectivos, en línea con la jurisprudencia sentada en la sentencia del Tribunal Supremo 729/2020, del 30 de julio, para evitar con carácter definitivo decisiones que cuestionen nuestro sistema democrático de relaciones laborales. 34…",
       "page": 33,
       "number": 73,
       "section": "Economía y trabajo",
@@ -25178,12 +25179,13 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Impulsaremos una reforma constitucional que garantice sólidamente los derechos sociales y, en concreto, que blinde el derecho a la Seguridad Social.",
-      "detail": "Impulsaremos una reforma constitucional que garantice sólidamente los derechos sociales y, en concreto, que blinde el derecho a la Seguridad Social. El sistema de la Seguridad Social es el nú- cleo esencial de lo que, de un modo amplio, se denomina protección social. El texto constitucional explicitará que el sistema de la Seguridad Social es una función del Estado de la que está excluida toda operación de lucro priv…",
+      "detail": "Impulsaremos una reforma constitucional que garantice sólidamente los derechos sociales y, en concreto, que blinde el derecho a la Seguridad Social. El sistema de la Seguridad Social es el núcleo esencial de lo que, de un modo amplio, se denomina protección social. El texto constitucional explicitará que el sistema de la Seguridad Social es una función del Estado de la que está excluida toda operación de lucro privad…",
       "page": 34,
       "number": 74,
       "section": "Economía y trabajo",
       "subthemeIds": [
         "servicios-sociales",
+        "impuestos-fiscalidad",
         "derechos-igualdad"
       ],
       "priorityIndex": 0,
@@ -25205,8 +25207,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Protección de la familia en situaciones de viudedad, orfandad, etcétera se lleve a cabo exclu- sivamente en consideración a los lazos reales de convivencia y af",
-      "detail": "Protección de la familia en situaciones de viudedad, orfandad, etcétera se lleve a cabo exclu- sivamente en consideración a los lazos reales de convivencia y afecto que puedan ser acreditados por cualquier medio de prueba válido en derecho y no solo a través de actos registrados oficial- mente. La perspectiva de género se incorporará de manera efectiva en el ordenamiento de la Segu- ridad Social. 77 . Garantizaremos…",
+      "title": "Protección de la familia en situaciones de viudedad, orfandad, etcétera se lleve a cabo exclusivamente en consideración a los lazos reales de convivencia y afec",
+      "detail": "Protección de la familia en situaciones de viudedad, orfandad, etcétera se lleve a cabo exclusivamente en consideración a los lazos reales de convivencia y afecto que puedan ser acreditados por cualquier medio de prueba válido en derecho y no solo a través de actos registrados oficialmente. La perspectiva de género se incorporará de manera efectiva en el ordenamiento de la Seguridad Social. 77 . Garantizaremos que to…",
       "page": 34,
       "number": 76,
       "section": "Economía y trabajo",
@@ -25220,7 +25222,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Asumiremos el reto de combatir la informalidad laboral y ampliaremos la protección social de las personas en situación (o con mayor riesgo) de vulnerabilidad so",
-      "detail": "Asumiremos el reto de combatir la informalidad laboral y ampliaremos la protección social de las personas en situación (o con mayor riesgo) de vulnerabilidad social. La informalidad sigue siendo un obstáculo importante y una de las causas profundas que impiden lograr una protección inclusiva, adecuada y eficaz de todas las personas trabajadoras. La economía informal tiene con- secuencias negativas para el desarrollo…",
+      "detail": "Asumiremos el reto de combatir la informalidad laboral y ampliaremos la protección social de las personas en situación (o con mayor riesgo) de vulnerabilidad social. La informalidad sigue siendo un obstáculo importante y una de las causas profundas que impiden lograr una protección inclusiva, adecuada y eficaz de todas las personas trabajadoras. La economía informal tiene consecuencias negativas para el desarrollo de…",
       "page": 34,
       "number": 78,
       "section": "Economía y trabajo",
@@ -25233,8 +25235,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Protegeremos los derechos de las personas trabajadoras migrantes a nivel nacional y participa- remos en actividades de cooperación bilateral y regional entre lo",
-      "detail": "Protegeremos los derechos de las personas trabajadoras migrantes a nivel nacional y participa- remos en actividades de cooperación bilateral y regional entre los países de origen, de tránsito y de destino para garantizar los derechos de protección social.",
+      "title": "Protegeremos los derechos de las personas trabajadoras migrantes a nivel nacional y participaremos en actividades de cooperación bilateral y regional entre los",
+      "detail": "Protegeremos los derechos de las personas trabajadoras migrantes a nivel nacional y participaremos en actividades de cooperación bilateral y regional entre los países de origen, de tránsito y de destino para garantizar los derechos de protección social.",
       "page": 34,
       "number": 79,
       "section": "Economía y trabajo",
@@ -25249,7 +25251,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Reconfiguraremos las prestaciones no contributivas, incluidas las de desempleo, con el fin de simplificar y garantizar la protección a todas las personas que lo",
-      "detail": "Reconfiguraremos las prestaciones no contributivas, incluidas las de desempleo, con el fin de simplificar y garantizar la protección a todas las personas que lo necesiten. Determinadas presta- ciones sociales, entre ellas el IMV, han significado un importante avance en el sistema de protección social; sin embargo, la complejidad de su diseño ha limitado notablemente su eficacia, siendo, en consecuencia, necesario rev…",
+      "detail": "Reconfiguraremos las prestaciones no contributivas, incluidas las de desempleo, con el fin de simplificar y garantizar la protección a todas las personas que lo necesiten. Determinadas prestaciones sociales, entre ellas el IMV, han significado un importante avance en el sistema de protección social; sin embargo, la complejidad de su diseño ha limitado notablemente su eficacia, siendo, en consecuencia, necesario rever…",
       "page": 34,
       "number": 80,
       "section": "Economía y trabajo",
@@ -25277,7 +25279,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Reforma del sistema de mutuas colaboradoras de la Seguridad Social (MATPSS).",
-      "detail": "Reforma del sistema de mutuas colaboradoras de la Seguridad Social (MATPSS). Es necesario abordar la actuación de estas entidades, que gestionan recursos públicos con criterios exclusiva- mente privados que no siempre redundan en una mejora de la salud de los ciudadanos y las ciuda- danas. Para revertir esta situación: ● Se introducirán sistemas de control, participación y transparencia en la gestión de las MATPSS. ●…",
+      "detail": "Reforma del sistema de mutuas colaboradoras de la Seguridad Social (MATPSS). Es necesario abordar la actuación de estas entidades, que gestionan recursos públicos con criterios exclusivamente privados que no siempre redundan en una mejora de la salud de los ciudadanos y las ciudadanas. Para revertir esta situación: ● Se introducirán sistemas de control, participación y transparencia en la gestión de las MATPSS. ● Se…",
       "page": 35,
       "number": 82,
       "section": "Economía y trabajo",
@@ -25291,7 +25293,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Tomaremos en serio el Estatuto Básico de las Personas Empleadas Públicas (EBEP), haciendo efectivos sus derechos.",
-      "detail": "Tomaremos en serio el Estatuto Básico de las Personas Empleadas Públicas (EBEP), haciendo efectivos sus derechos. Década y media después, el EBEP , que supuso algunos progresos impor- tantes en derechos, no tiene en cuenta a millones de personas que prestan sus servicios como em- pleadas públicas, pues las pocas leyes de función pública posteriores apenas lo han desarrollado. Hacer efectivos esos derechos mediante el…",
+      "detail": "Tomaremos en serio el Estatuto Básico de las Personas Empleadas Públicas (EBEP), haciendo efectivos sus derechos. Década y media después, el EBEP , que supuso algunos progresos importantes en derechos, no tiene en cuenta a millones de personas que prestan sus servicios como empleadas públicas, pues las pocas leyes de función pública posteriores apenas lo han desarrollado. Hacer efectivos esos derechos mediante el des…",
       "page": 35,
       "number": 83,
       "section": "Economía y trabajo",
@@ -25303,8 +25305,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Aseguraremos la estabilización real del empleo público, corrigiendo la precarización y pre- viniendo de forma efectiva eventuales desviaciones futuras.",
-      "detail": "Aseguraremos la estabilización real del empleo público, corrigiendo la precarización y pre- viniendo de forma efectiva eventuales desviaciones futuras. Según la EPA, la temporalidad en el empleo público es del 30%, frente al 14% en el empleo privado. El éxito de la reforma laboral en la reducción del empleo público privado debe trasladarse al empleo público, haciendo realidad los procesos de estabilización abiertos a…",
+      "title": "Aseguraremos la estabilización real del empleo público, corrigiendo la precarización y previniendo de forma efectiva eventuales desviaciones futuras.",
+      "detail": "Aseguraremos la estabilización real del empleo público, corrigiendo la precarización y previniendo de forma efectiva eventuales desviaciones futuras. Según la EPA, la temporalidad en el empleo público es del 30%, frente al 14% en el empleo privado. El éxito de la reforma laboral en la reducción del empleo público privado debe trasladarse al empleo público, haciendo realidad los procesos de estabilización abiertos al…",
       "page": 35,
       "number": 84,
       "section": "Economía y trabajo",
@@ -25317,7 +25319,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Garantizaremos que el derecho a la negociación colectiva de las personas empleadas públicas sea completamente equiparable al de las relaciones de trabajo privad",
-      "detail": "Garantizaremos que el derecho a la negociación colectiva de las personas empleadas públicas sea completamente equiparable al de las relaciones de trabajo privadas. El derecho a la negocia- ción colectiva en el empleo público, en especial en lo que respecta al funcionariado, está plena- mente reconocido en el derecho internacional sindical, y así aparece en el derecho español. Sin em- bargo, los artículos 37 y 38 del…",
+      "detail": "Garantizaremos que el derecho a la negociación colectiva de las personas empleadas públicas sea completamente equiparable al de las relaciones de trabajo privadas. El derecho a la negociación colectiva en el empleo público, en especial en lo que respecta al funcionariado, está plenamente reconocido en el derecho internacional sindical, y así aparece en el derecho español. Sin embargo, los artículos 37 y 38 del EBEP e…",
       "page": 35,
       "number": 85,
       "section": "Economía y trabajo",
@@ -25330,7 +25332,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Revigorizar el derecho a un entorno seguro y saludable de trabajo (y de teletrabajo) público, también con perspectiva de género.",
-      "detail": "Revigorizar el derecho a un entorno seguro y saludable de trabajo (y de teletrabajo) público, también con perspectiva de género. Las personas empleadas públicas tienen reconocido el mismo derecho a la protección de su seguridad y su salud en el trabajo que las personas empleadas pri- vadas. Sin embargo, una vez más, cuando transitamos desde el plano del reconocimiento hasta el 36 Una democracia económica y ecosocial…",
+      "detail": "Revigorizar el derecho a un entorno seguro y saludable de trabajo (y de teletrabajo) público, también con perspectiva de género. Las personas empleadas públicas tienen reconocido el mismo derecho a la protección de su seguridad y su salud en el trabajo que las personas empleadas privadas. Sin embargo, una vez más, cuando transitamos desde el plano del reconocimiento hasta el 36 Una democracia económica y ecosocial al…",
       "page": 35,
       "number": 86,
       "section": "Economía y trabajo",
@@ -25371,7 +25373,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Una fiscalidad justa para la transición.",
-      "detail": "Una fiscalidad justa para la transición. La fiscalidad es un elemento clave para corregir la injusti- cia climática, en la que los más pobres y vulnerables (a la vez menos responsables de la crisis climá- tica) deben hacerse cargo de buena parte de los gastos y de los esfuerzos asociados a la transición energética y ecológica. Proponemos las siguientes medidas para financiar la inversión de una tran- sición ecológica…",
+      "detail": "Una fiscalidad justa para la transición. La fiscalidad es un elemento clave para corregir la injusticia climática, en la que los más pobres y vulnerables (a la vez menos responsables de la crisis climática) deben hacerse cargo de buena parte de los gastos y de los esfuerzos asociados a la transición energética y ecológica. Proponemos las siguientes medidas para financiar la inversión de una transición ecológica socia…",
       "page": 38,
       "number": 2,
       "section": "Transición ecológica, rural y alimentación",
@@ -25401,7 +25403,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Más participación y conocimiento ciudadano en la transición 4.1.",
-      "detail": "Más participación y conocimiento ciudadano en la transición 4.1. Garantizar la participación real y de calidad de la sociedad en la revisión de los principa- les planes, estrategias y marcos normativos vinculados a la TEJ, así como en los proyectos y planes que tengan impacto social, ambiental y económico en los territorios y comunidades. 4.2. Estrategia de desarrollo de competencias ciudadanas para la TEJ para tomar…",
+      "detail": "Más participación y conocimiento ciudadano en la transición 4.1. Garantizar la participación real y de calidad de la sociedad en la revisión de los principales planes, estrategias y marcos normativos vinculados a la TEJ, así como en los proyectos y planes que tengan impacto social, ambiental y económico en los territorios y comunidades. 4.2. Estrategia de desarrollo de competencias ciudadanas para la TEJ para tomar d…",
       "page": 39,
       "number": 4,
       "section": "Transición ecológica, rural y alimentación",
@@ -25416,7 +25418,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Una Administración innovadora para la TEJ.",
-      "detail": "Una Administración innovadora para la TEJ. Se reformará la función pública para mejorar y ga- rantizar la capacidad administrativa, estratégica e innovadora del Estado en el marco de la TEJ, sin necesidad de depender de grandes consultoras. 5.1. Una Administración a la altura del reto. Se lanzará una oferta de empleo público de per- 40 Una democracia económica y ecosocial al servicio de las personas La transición eco…",
+      "detail": "Una Administración innovadora para la TEJ. Se reformará la función pública para mejorar y garantizar la capacidad administrativa, estratégica e innovadora del Estado en el marco de la TEJ, sin necesidad de depender de grandes consultoras. 5.1. Una Administración a la altura del reto. Se lanzará una oferta de empleo público de perUna democracia económica y ecosocial al servicio de las personas La transición ecológica…",
       "page": 39,
       "number": 5,
       "section": "Transición ecológica, rural y alimentación",
@@ -25431,7 +25433,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Una transición ecológica coordinada políticamente 6.1.",
-      "detail": "Una transición ecológica coordinada políticamente 6.1. Mantenimiento de una Vicepresidencia del Gobierno de Transición Ecológica para coordinar, con la necesaria autoridad ante el resto de los ministerios, y realizar una verda - dera política transversal de lucha contra la emergencia climática. La Vicepresidencia de Transición Ecológica debe preservar las competencias directas en mitigación del cambio climático y ada…",
+      "detail": "Una transición ecológica coordinada políticamente 6.1. Mantenimiento de una Vicepresidencia del Gobierno de Transición Ecológica para coordinar, con la necesaria autoridad ante el resto de los ministerios, y realizar una verdadera política transversal de lucha contra la emergencia climática. La Vicepresidencia de Transición Ecológica debe preservar las competencias directas en mitigación del cambio climático y adapta…",
       "page": 40,
       "number": 6,
       "section": "Transición ecológica, rural y alimentación",
@@ -25461,7 +25463,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Avanzar en la descarbonización 2.1.",
-      "detail": "Avanzar en la descarbonización 2.1. Transporte. Responsable del 27% de las emisiones en España, es uno de los sectores prioritarios para acelerar la descarbonización. Apostamos por priorizar el transporte co - lectivo y el de propulsión humana para desplazamientos personales y la electromovilidad en el transporte de pasajeros y de mercancías por carretera, con criterios de transición justa, y para impulsar la descarb…",
+      "detail": "Avanzar en la descarbonización 2.1. Transporte. Responsable del 27% de las emisiones en España, es uno de los sectores prioritarios para acelerar la descarbonización. Apostamos por priorizar el transporte colectivo y el de propulsión humana para desplazamientos personales y la electromovilidad en el transporte de pasajeros y de mercancías por carretera, con criterios de transición justa, y para impulsar la descarboni…",
       "page": 41,
       "number": 2,
       "section": "Transición ecológica, rural y alimentación",
@@ -25475,7 +25477,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Estrategia Nacional para el calor extremo y recurrente.",
-      "detail": "Estrategia Nacional para el calor extremo y recurrente. Con el fin de garantizar a cualquier per- sona la máxima protección ante los episodios climáticos extremos que se irán normalizando en los próximos años y proteger a la población más vulnerable, impulsaremos un paquete de medidas adaptativas y de regulación bajo el paraguas de una estrategia nacional para el calor extremo y re- currente como parte específica del…",
+      "detail": "Estrategia Nacional para el calor extremo y recurrente. Con el fin de garantizar a cualquier persona la máxima protección ante los episodios climáticos extremos que se irán normalizando en los próximos años y proteger a la población más vulnerable, impulsaremos un paquete de medidas adaptativas y de regulación bajo el paraguas de una estrategia nacional para el calor extremo y recurrente como parte específica del Pla…",
       "page": 42,
       "number": 3,
       "section": "Transición ecológica, rural y alimentación",
@@ -25490,7 +25492,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Desengancharse de los combustibles fósiles 4.1.",
-      "detail": "Desengancharse de los combustibles fósiles 4.1. Detención de las nuevas inversiones y subvenciones al gas natural y a otros combusti- bles fósiles. 4.2. Eliminación de cualquier referencia explícita o implícita a la consideración de cualquier combustible fósil, incluyendo el gas natural y las tecnologías de captura y almacenamiento 43 Una democracia económica y ecosocial al servicio de las personas La transición ecol…",
+      "detail": "Desengancharse de los combustibles fósiles 4.1. Detención de las nuevas inversiones y subvenciones al gas natural y a otros combustibles fósiles. 4.2. Eliminación de cualquier referencia explícita o implícita a la consideración de cualquier combustible fósil, incluyendo el gas natural y las tecnologías de captura y almacenamiento 43 Una democracia económica y ecosocial al servicio de las personas La transición ecológ…",
       "page": 42,
       "number": 4,
       "section": "Transición ecológica, rural y alimentación",
@@ -25504,7 +25506,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Reforzando la adaptación climática 5.1.",
-      "detail": "Reforzando la adaptación climática 5.1. Reforma de la Ley de Costas y gestión de inundaciones. Reformaremos la Ley de Costas ampliando la zona de servidumbre de protección y, en aquellas comunidades autónomas en las que no se haya transferido la competencia de gestión de costas, reorientaremos las políticas urbanísticas no autorizando nuevas construcciones en zonas de riesgo por inun- daciones o por aumento del nivel…",
+      "detail": "Reforzando la adaptación climática 5.1. Reforma de la Ley de Costas y gestión de inundaciones. Reformaremos la Ley de Costas ampliando la zona de servidumbre de protección y, en aquellas comunidades autónomas en las que no se haya transferido la competencia de gestión de costas, reorientaremos las políticas urbanísticas no autorizando nuevas construcciones en zonas de riesgo por inundaciones o por aumento del nivel d…",
       "page": 43,
       "number": 5,
       "section": "Transición ecológica, rural y alimentación",
@@ -25519,7 +25521,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Estrategia España Potencia Industrial Verde.",
-      "detail": "Estrategia España Potencia Industrial Verde. Iniciaremos un proceso de reindustrialización verde que aproveche las oportunidades que ofrece la transición energética para generar prosperidad, co- hesión social y competitividad de la economía española, apostando por la salud y la calidad de vida de la ciudadanía, cumpliendo con los compromisos climáticos y ecológicos, convirtiendo a España 44 Una democracia económica y…",
+      "detail": "Estrategia España Potencia Industrial Verde. Iniciaremos un proceso de reindustrialización verde que aproveche las oportunidades que ofrece la transición energética para generar prosperidad, cohesión social y competitividad de la economía española, apostando por la salud y la calidad de vida de la ciudadanía, cumpliendo con los compromisos climáticos y ecológicos, convirtiendo a España 44 Una democracia económica y e…",
       "page": 43,
       "number": 1,
       "section": "Transición ecológica, rural y alimentación",
@@ -25549,7 +25551,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Mesa de transferencia empresarial.",
-      "detail": "Mesa de transferencia empresarial. Replicaremos modelos de desarrollo industrial exitosos, para ello fomentaremos la colaboración horizontal entre actores privados. En este plano, el Estado ac- tuará como intermediario para el intercambio de información, con el fin de conectar las empresas y el mundo de la investigación.",
+      "detail": "Mesa de transferencia empresarial. Replicaremos modelos de desarrollo industrial exitosos, para ello fomentaremos la colaboración horizontal entre actores privados. En este plano, el Estado actuará como intermediario para el intercambio de información, con el fin de conectar las empresas y el mundo de la investigación.",
       "page": 44,
       "number": 3,
       "section": "Transición ecológica, rural y alimentación",
@@ -25564,7 +25566,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Desarrollo de un turismo más sostenible.",
-      "detail": "Desarrollo de un turismo más sostenible. El turismo supone una industria estratégica por su peso absolutamente central en la economía española, en la que en 2022 aportó un 12,2% del PIB. Ade- más, su impacto ecológico en término de emisiones de CO2 es significativo. Y la responsabilidad histórica del modelo turístico de sol, playa y masificación en el deterioro ecológico irreversible del litoral mediterráneo y el ter…",
+      "detail": "Desarrollo de un turismo más sostenible. El turismo supone una industria estratégica por su peso absolutamente central en la economía española, en la que en 2022 aportó un 12,2% del PIB. Además, su impacto ecológico en término de emisiones de CO2 es significativo. Y la responsabilidad histórica del modelo turístico de sol, playa y masificación en el deterioro ecológico irreversible del litoral mediterráneo y el terri…",
       "page": 44,
       "number": 4,
       "section": "Transición ecológica, rural y alimentación",
@@ -25577,7 +25579,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Acceso universal a la energía en un sistema tarifario progresivo.",
-      "detail": "Acceso universal a la energía en un sistema tarifario progresivo. Proponemos un sistema tarifario para el consumidor doméstico, que sea progresivo y tenga en cuenta las características de la uni- dad familiar. Este sistema asegurará un consumo mínimo vital garantizado para los primeros 1.500 kWh/año (*), con un IVA superreducido del 4% y reducción de cargos regulados y peajes, convir- tiéndose automáticamente en tari…",
+      "detail": "Acceso universal a la energía en un sistema tarifario progresivo. Proponemos un sistema tarifario para el consumidor doméstico, que sea progresivo y tenga en cuenta las características de la unidad familiar. Este sistema asegurará un consumo mínimo vital garantizado para los primeros 1.500 kWh/año (*), con un IVA superreducido del 4% y reducción de cargos regulados y peajes, convirtiéndose automáticamente en tarifa s…",
       "page": 45,
       "number": 1,
       "section": "Transición ecológica, rural y alimentación",
@@ -25607,7 +25609,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Un Fondo Público de Inversión en Energías Renovables.",
-      "detail": "Un Fondo Público de Inversión en Energías Renovables. Con el fin de contribuir a que el proce - so de implantación de las energías renovables sea también un instrumento que permita vertebrar mejor el país y contribuir al reto demográfico de fijar población en la España vaciada, crearemos un Fondo Público de Inversión en Energías Renovables, similar al Fondo Soberano Noruego del Petróleo, cuyo objetivo será financiar…",
+      "detail": "Un Fondo Público de Inversión en Energías Renovables. Con el fin de contribuir a que el proceso de implantación de las energías renovables sea también un instrumento que permita vertebrar mejor el país y contribuir al reto demográfico de fijar población en la España vaciada, crearemos un Fondo Público de Inversión en Energías Renovables, similar al Fondo Soberano Noruego del Petróleo, cuyo objetivo será financiar pro…",
       "page": 46,
       "number": 3,
       "section": "Transición ecológica, rural y alimentación",
@@ -25666,7 +25668,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Apuesta por el hidrógeno renovable.",
-      "detail": "Apuesta por el hidrógeno renovable. Apostaremos por el despliegue racional del hidrógeno re- novables atendiendo a su viabilidad técnico-económica y al potencial internacional de España en el desarrollo y producción de este vector energético. El hidrógeno renovable tendrá un papel que cumplir en una economía 100% descarbonizada, pero deberá destinarse a procesos de difícil elec- trificación (ciertos usos industriales…",
+      "detail": "Apuesta por el hidrógeno renovable. Apostaremos por el despliegue racional del hidrógeno renovables atendiendo a su viabilidad técnico-económica y al potencial internacional de España en el desarrollo y producción de este vector energético. El hidrógeno renovable tendrá un papel que cumplir en una economía 100% descarbonizada, pero deberá destinarse a procesos de difícil electrificación (ciertos usos industriales, av…",
       "page": 48,
       "number": 8,
       "section": "Transición ecológica, rural y alimentación",
@@ -25680,7 +25682,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Hacia un cierre nuclear seguro y socialmente justo.",
-      "detail": "Hacia un cierre nuclear seguro y socialmente justo. Sumar se compromete a mantener el ca- lendario de cierre del parque nuclear español, aplicando una moratoria a cualquier nueva iniciativa nuclear, exigiendo revisiones e inversiones para garantizar la seguridad del proceso y subrayando la responsabilidad de los propietarios en el mismo. Mientras tanto, se propone sacar la energía nuclear del mercado marginalista por…",
+      "detail": "Hacia un cierre nuclear seguro y socialmente justo. Sumar se compromete a mantener el calendario de cierre del parque nuclear español, aplicando una moratoria a cualquier nueva iniciativa nuclear, exigiendo revisiones e inversiones para garantizar la seguridad del proceso y subrayando la responsabilidad de los propietarios en el mismo. Mientras tanto, se propone sacar la energía nuclear del mercado marginalista por s…",
       "page": 48,
       "number": 9,
       "section": "Transición ecológica, rural y alimentación",
@@ -25708,7 +25710,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Estrategia nacional de transición hidrológica justa.",
-      "detail": "Estrategia nacional de transición hidrológica justa. Estableceremos una hoja de ruta para la ra- cionalización, el ahorro y el reparto equitativo de los recursos adaptada a las nuevas condiciones meteorológicas que va a enfrentar nuestro país, garantizando la seguridad productiva en el mundo rural y el acceso al abastecimiento de agua de calidad como un derecho humano universal. Con este fin proponemos una estrategia…",
+      "detail": "Estrategia nacional de transición hidrológica justa. Estableceremos una hoja de ruta para la racionalización, el ahorro y el reparto equitativo de los recursos adaptada a las nuevas condiciones meteorológicas que va a enfrentar nuestro país, garantizando la seguridad productiva en el mundo rural y el acceso al abastecimiento de agua de calidad como un derecho humano universal. Con este fin proponemos una estrategia n…",
       "page": 49,
       "number": 2,
       "section": "Transición ecológica, rural y alimentación",
@@ -25723,7 +25725,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Protección del dominio público hidráulico y los márgenes fluviales.",
-      "detail": "Protección del dominio público hidráulico y los márgenes fluviales. Velaremos por el cumpli- miento efectivo de la Ley de Aguas para asegurar el mantenimiento de los caudales ecológicos, la protección de los márgenes fluviales y los bosques de ribera en un ancho mínimo establecido por el deslinde, o en su defecto, nunca inferior a 5 metros de la zona de servidumbre; así como con el control de las captaciones de agua…",
+      "detail": "Protección del dominio público hidráulico y los márgenes fluviales. Velaremos por el cumplimiento efectivo de la Ley de Aguas para asegurar el mantenimiento de los caudales ecológicos, la protección de los márgenes fluviales y los bosques de ribera en un ancho mínimo establecido por el deslinde, o en su defecto, nunca inferior a 5 metros de la zona de servidumbre; así como con el control de las captaciones de agua me…",
       "page": 50,
       "number": 3,
       "section": "Transición ecológica, rural y alimentación",
@@ -25737,7 +25739,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Nueva política hidroeléctrica.",
-      "detail": "Nueva política hidroeléctrica. Exigiremos el canon hidroeléctrico a las centrales hidroeléctricas sin exenciones. Asimismo, las centrales hidroeléctricas deberán adaptar las presas y embalses a es- cenarios más frecuentes de inundaciones y sequías debido al cambio climático para poder realizar desembalses con mayor previsibilidad generando menos impactos de inundaciones aguas abajo.",
+      "detail": "Nueva política hidroeléctrica. Exigiremos el canon hidroeléctrico a las centrales hidroeléctricas sin exenciones. Asimismo, las centrales hidroeléctricas deberán adaptar las presas y embalses a escenarios más frecuentes de inundaciones y sequías debido al cambio climático para poder realizar desembalses con mayor previsibilidad generando menos impactos de inundaciones aguas abajo.",
       "page": 50,
       "number": 4,
       "section": "Transición ecológica, rural y alimentación",
@@ -25752,7 +25754,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Cumplimiento de la depuración completa de aguas residuales para 2027 .",
-      "detail": "Cumplimiento de la depuración completa de aguas residuales para 2027 . Actualmente la Comi- sión Europea está sancionando con multas de veintidós millones de euros anuales a España por no depurar adecuadamente las aguas residuales urbanas. Para corregirlo, promoveremos la revisión de la planificación sectorial vigente (plan DSEAR) y su reorientación para lograr la depuración del 100% de todas las aguas residuales en…",
+      "detail": "Cumplimiento de la depuración completa de aguas residuales para 2027 . Actualmente la Comisión Europea está sancionando con multas de veintidós millones de euros anuales a España por no depurar adecuadamente las aguas residuales urbanas. Para corregirlo, promoveremos la revisión de la planificación sectorial vigente (plan DSEAR) y su reorientación para lograr la depuración del 100% de todas las aguas residuales en lo…",
       "page": 50,
       "number": 5,
       "section": "Transición ecológica, rural y alimentación",
@@ -25810,8 +25812,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Estrategia nacional contra Incendios de nueva generación Dentro del principio de seguridad climática daremos prioridad a mejorar la lucha contra los incen- dios",
-      "detail": "Estrategia nacional contra Incendios de nueva generación Dentro del principio de seguridad climática daremos prioridad a mejorar la lucha contra los incen- dios, para ello proponemos: ● Intensificar la coordinación con las Comunidades Autónomas en la prevención de incen- dios forestales, siguiendo las directrices y criterios comunes para la elaboración de los planes de prevención del Real Decreto Ley 15/2022. ● Refor…",
+      "title": "Estrategia nacional contra Incendios de nueva generación Dentro del principio de seguridad climática daremos prioridad a mejorar la lucha contra los incendios,",
+      "detail": "Estrategia nacional contra Incendios de nueva generación Dentro del principio de seguridad climática daremos prioridad a mejorar la lucha contra los incendios, para ello proponemos: ● Intensificar la coordinación con las Comunidades Autónomas en la prevención de incendios forestales, siguiendo las directrices y criterios comunes para la elaboración de los planes de prevención del Real Decreto Ley 15/2022. ● Reforzar…",
       "page": 51,
       "number": 1,
       "section": "Transición ecológica, rural y alimentación",
@@ -25841,7 +25843,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Impulso de la protección del mar y su biodiversidad.",
-      "detail": "Impulso de la protección del mar y su biodiversidad. Con la vocación de alcanzar los objetivos de 52 Una democracia económica y ecosocial al servicio de las personas La transición ecológica justa, el desafío de nuestro tiempo protección de, al menos, un 30% de la superficie marina para 2030, se impulsará un aumento de las reservas marinas en aguas exteriores, así como una protección de aquellos ecosistemas especial-…",
+      "detail": "Impulso de la protección del mar y su biodiversidad. Con la vocación de alcanzar los objetivos de 52 Una democracia económica y ecosocial al servicio de las personas La transición ecológica justa, el desafío de nuestro tiempo protección de, al menos, un 30% de la superficie marina para 2030, se impulsará un aumento de las reservas marinas en aguas exteriores, así como una protección de aquellos ecosistemas especialme…",
       "page": 51,
       "number": 3,
       "section": "Transición ecológica, rural y alimentación",
@@ -25856,7 +25858,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Reforma de la Ley de Costas y gestión de inundaciones.",
-      "detail": "Reforma de la Ley de Costas y gestión de inundaciones. Reformaremos la Ley de Costas para ampliar de 20 metros a 100 metros la zona de servidumbre de protección, y reorientaremos las polí- ticas urbanísticas no autorizando nuevas construcciones en zonas de riesgo por inundaciones o por aumento del nivel del mar. Se fomentará una política rigurosa de gestión de inundaciones basada en el respeto a las llanuras de inund…",
+      "detail": "Reforma de la Ley de Costas y gestión de inundaciones. Reformaremos la Ley de Costas para ampliar de 20 metros a 100 metros la zona de servidumbre de protección, y reorientaremos las políticas urbanísticas no autorizando nuevas construcciones en zonas de riesgo por inundaciones o por aumento del nivel del mar. Se fomentará una política rigurosa de gestión de inundaciones basada en el respeto a las llanuras de inundac…",
       "page": 52,
       "number": 4,
       "section": "Transición ecológica, rural y alimentación",
@@ -25869,7 +25871,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Mapa de vulnerabilidad climática y mejora climática de los servicios de protección civil.",
-      "detail": "Mapa de vulnerabilidad climática y mejora climática de los servicios de protección civil. Se ela- borará el Mapa Nacional de Vulnerabilidad Climática como herramienta de diagnóstico de riesgos imprescindibles para avanzar en la adaptación al cambio climático. De la misma manera, ante el pre- visible aumento de las catástrofes naturales ligadas a la emergencia climática en territorio nacional, impulsaremos un programa…",
+      "detail": "Mapa de vulnerabilidad climática y mejora climática de los servicios de protección civil. Se elaborará el Mapa Nacional de Vulnerabilidad Climática como herramienta de diagnóstico de riesgos imprescindibles para avanzar en la adaptación al cambio climático. De la misma manera, ante el previsible aumento de las catástrofes naturales ligadas a la emergencia climática en territorio nacional, impulsaremos un programa de…",
       "page": 52,
       "number": 5,
       "section": "Transición ecológica, rural y alimentación",
@@ -25884,7 +25886,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Reformulación de la Planificación Hidrológica en clave de emergencia climática.",
-      "detail": "Reformulación de la Planificación Hidrológica en clave de emergencia climática. Se reformulará la planificación hidrológica y se revisarán los vigentes Planes de Sequía y Planes de Inundación, ajus- tándose a la nueva realidad del cambio climático y proponiendo las acciones necesarias de mini- mización de riesgos. Ante la previsión del cambio climático, estos ajustes incluirán la revisión de las concesiones de agua a…",
+      "detail": "Reformulación de la Planificación Hidrológica en clave de emergencia climática. Se reformulará la planificación hidrológica y se revisarán los vigentes Planes de Sequía y Planes de Inundación, ajustándose a la nueva realidad del cambio climático y proponiendo las acciones necesarias de minimización de riesgos. Ante la previsión del cambio climático, estos ajustes incluirán la revisión de las concesiones de agua actua…",
       "page": 52,
       "number": 6,
       "section": "Transición ecológica, rural y alimentación",
@@ -25899,7 +25901,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Plan estratégico del patrimonio natural y la biodiversidad y su revisión legislativa.",
-      "detail": "Plan estratégico del patrimonio natural y la biodiversidad y su revisión legislativa. Elaboraremos un nuevo plan estratégico del patrimonio natural y la biodiversidad, que tenga en cuenta los últimos informes de la Plataforma Intergubernamental de Biodiversidad y Servicios Ecosistémicos con el obje- tivo de revisar la legislación actual e incorporar medidas realistas, presupuestadas y efectivas para de- tener la pérd…",
+      "detail": "Plan estratégico del patrimonio natural y la biodiversidad y su revisión legislativa. Elaboraremos un nuevo plan estratégico del patrimonio natural y la biodiversidad, que tenga en cuenta los últimos informes de la Plataforma Intergubernamental de Biodiversidad y Servicios Ecosistémicos con el objetivo de revisar la legislación actual e incorporar medidas realistas, presupuestadas y efectivas para detener la pérdida…",
       "page": 52,
       "number": 8,
       "section": "Transición ecológica, rural y alimentación",
@@ -25914,7 +25916,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Agencia Nacional del Patrimonio Natural y la Biodiversidad.",
-      "detail": "Agencia Nacional del Patrimonio Natural y la Biodiversidad. Crearemos la Agencia del Patrimonio Natural y la Biodiversidad, que incluirá el actual Organismo Autónomo de Parques Nacionales, para impulsar de forma más coordinada y eficaz en toda España la conservación y recuperación de la bio- diversidad. Esta agencia contará con un observatorio del patrimonio natural y de la biodiversidad.",
+      "detail": "Agencia Nacional del Patrimonio Natural y la Biodiversidad. Crearemos la Agencia del Patrimonio Natural y la Biodiversidad, que incluirá el actual Organismo Autónomo de Parques Nacionales, para impulsar de forma más coordinada y eficaz en toda España la conservación y recuperación de la biodiversidad. Esta agencia contará con un observatorio del patrimonio natural y de la biodiversidad.",
       "page": 53,
       "number": 9,
       "section": "Transición ecológica, rural y alimentación",
@@ -25958,7 +25960,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Estrategia nacional de infraestructuras verdes, conectividad y restauración ecológica.",
-      "detail": "Estrategia nacional de infraestructuras verdes, conectividad y restauración ecológica. Apro- baremos una estrategia nacional de infraestructuras verdes, conectividad y restauración ecológica que fomente la integración de la biodiversidad y los servicios ecosistémicos mediante una orde- nación territorial basada en soluciones naturales, la conexión de ecosistemas terrestres y fluviales mediante corredores ecológicos e…",
+      "detail": "Estrategia nacional de infraestructuras verdes, conectividad y restauración ecológica. Aprobaremos una estrategia nacional de infraestructuras verdes, conectividad y restauración ecológica que fomente la integración de la biodiversidad y los servicios ecosistémicos mediante una ordenación territorial basada en soluciones naturales, la conexión de ecosistemas terrestres y fluviales mediante corredores ecológicos e inf…",
       "page": 53,
       "number": 12,
       "section": "Transición ecológica, rural y alimentación",
@@ -25973,7 +25975,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Protección del subsuelo y los recursos geológicos.",
-      "detail": "Protección del subsuelo y los recursos geológicos. Propondremos una nueva Ley de Protección del Subsuelo y los Recursos Geológicos que sustituya la de Minas de 1973, para impulsar una mine- ría con los más altos estándares ambientales y que garantice la conservación de la biodiversidad. También elaboraremos una estrategia nacional de extracción de minerales y áridos que se adapte a un futuro sostenible para las gener…",
+      "detail": "Protección del subsuelo y los recursos geológicos. Propondremos una nueva Ley de Protección del Subsuelo y los Recursos Geológicos que sustituya la de Minas de 1973, para impulsar una minería con los más altos estándares ambientales y que garantice la conservación de la biodiversidad. También elaboraremos una estrategia nacional de extracción de minerales y áridos que se adapte a un futuro sostenible para las generac…",
       "page": 53,
       "number": 13,
       "section": "Transición ecológica, rural y alimentación",
@@ -25987,7 +25989,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Responsabilidad internacional en la importación de recursos naturales.",
-      "detail": "Responsabilidad internacional en la importación de recursos naturales. Estableceremos normas de importación en las que se limite y eventualmente prohíba la importación de productos agroga- naderos, mineros o basados en petróleo y energías fósiles que provengan de bosques, selvas, áreas marinas u otros espacios protegidos de alto interés ambiental, donde se practiquen políticas insos- tenibles de incendios o deforesta…",
+      "detail": "Responsabilidad internacional en la importación de recursos naturales. Estableceremos normas de importación en las que se limite y eventualmente prohíba la importación de productos agroganaderos, mineros o basados en petróleo y energías fósiles que provengan de bosques, selvas, áreas marinas u otros espacios protegidos de alto interés ambiental, donde se practiquen políticas insostenibles de incendios o deforestación…",
       "page": 53,
       "number": 14,
       "section": "Transición ecológica, rural y alimentación",
@@ -26001,7 +26003,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Aumentar la ambición de la Ley 7 /2022 de residuos y suelos contaminados para una economía circular con pleno respeto a las competencias autonómicas tanto en el",
-      "detail": "Aumentar la ambición de la Ley 7 /2022 de residuos y suelos contaminados para una economía circular con pleno respeto a las competencias autonómicas tanto en el establecimiento de las me- didas fiscales para todo el Estado español como el impuesto sobre la disposición, incineración y coincineración y el impuesto sobre los envases de plástico, así como para el desarrollo de una es- trategia estatal de gestión de resid…",
+      "detail": "Aumentar la ambición de la Ley 7 /2022 de residuos y suelos contaminados para una economía circular con pleno respeto a las competencias autonómicas tanto en el establecimiento de las medidas fiscales para todo el Estado español como el impuesto sobre la disposición, incineración y coincineración y el impuesto sobre los envases de plástico, así como para el desarrollo de una estrategia estatal de gestión de residuos…",
       "page": 54,
       "number": 1,
       "section": "Transición ecológica, rural y alimentación",
@@ -26029,7 +26031,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Garantizar el derecho a la reparación.",
-      "detail": "Garantizar el derecho a la reparación. Con el fin de garantizar el derecho a la reparación y la reu- tilización como pilar de una nueva economía circular, proponemos las siguientes medidas: 3.1. Impulso de los módulos de formación profesional relacionados con la reparación textil, mobiliaria, de aparatos electrónicos y otros sectores relacionados con la economía circular. 3.2. Implantar un índice de reparabilidad (se…",
+      "detail": "Garantizar el derecho a la reparación. Con el fin de garantizar el derecho a la reparación y la reutilización como pilar de una nueva economía circular, proponemos las siguientes medidas: 3.1. Impulso de los módulos de formación profesional relacionados con la reparación textil, mobiliaria, de aparatos electrónicos y otros sectores relacionados con la economía circular. 3.2. Implantar un índice de reparabilidad (segú…",
       "page": 54,
       "number": 3,
       "section": "Transición ecológica, rural y alimentación",
@@ -26043,7 +26045,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Unificación nacional y revisión de la catalogación de los residuos desde una óptica de economía circular.",
-      "detail": "Unificación nacional y revisión de la catalogación de los residuos desde una óptica de economía circular. Los actuales catálogos de clasificación de residuos, dictaminados por las comunidades autónomas, suponen una barrera normativa de primer orden para la implementación real de la eco- nomía circular en España. Es necesaria su revisión desde esta óptica para facilitar la conversión legal de los flujos materiales en…",
+      "detail": "Unificación nacional y revisión de la catalogación de los residuos desde una óptica de economía circular. Los actuales catálogos de clasificación de residuos, dictaminados por las comunidades autónomas, suponen una barrera normativa de primer orden para la implementación real de la economía circular en España. Es necesaria su revisión desde esta óptica para facilitar la conversión legal de los flujos materiales en su…",
       "page": 55,
       "number": 4,
       "section": "Transición ecológica, rural y alimentación",
@@ -26058,7 +26060,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Limitar la proliferación de envases y plásticos a través de una ley de embalaje a través de un Real Decreto de embalaje, reducción en origen y granel.",
-      "detail": "Limitar la proliferación de envases y plásticos a través de una ley de embalaje a través de un Real Decreto de embalaje, reducción en origen y granel. Prohibiremos la fabricación y venta de produc- tos cotidianos de alto impacto contaminante (toallitas, bastoncillo de orejas…) en un plazo razona- ble.",
+      "detail": "Limitar la proliferación de envases y plásticos a través de una ley de embalaje a través de un Real Decreto de embalaje, reducción en origen y granel. Prohibiremos la fabricación y venta de productos cotidianos de alto impacto contaminante (toallitas, bastoncillo de orejas…) en un plazo razonable.",
       "page": 55,
       "number": 5,
       "section": "Transición ecológica, rural y alimentación",
@@ -26071,7 +26073,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Estrategia de materiales estratégicos.",
-      "detail": "Estrategia de materiales estratégicos. Recuperación, reutilización y reciclaje. Desarrollaremos una estrategia en línea con Europa en la que se impulsen sistemas de I+D+i e industriales para po- der recuperar todos aquellos materiales identificados como estratégicos y escasos. 7 . Desarrollar una ley de despilfarro alimentario con objetivos ambiciosos y con incidencia en todos los pasos de la cadena de producción ali…",
+      "detail": "Estrategia de materiales estratégicos. Recuperación, reutilización y reciclaje. Desarrollaremos una estrategia en línea con Europa en la que se impulsen sistemas de I+D+i e industriales para poder recuperar todos aquellos materiales identificados como estratégicos y escasos. 7 . Desarrollar una ley de despilfarro alimentario con objetivos ambiciosos y con incidencia en todos los pasos de la cadena de producción alime…",
       "page": 55,
       "number": 6,
       "section": "Transición ecológica, rural y alimentación",
@@ -26085,7 +26087,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Plan nacional integrado de calidad del aire.",
-      "detail": "Plan nacional integrado de calidad del aire. Reforzaremos el carácter legal de los planes de ca- lidad del aire y los planes de acción de reducción de la contaminación adoptados por las comu- nidades autónomas y municipios. Europa ya ha marcado el camino a seguir mediante directivas comunitarias para reducir la contaminación en las ciudades con la reducción del uso del vehículo de combustión y el desarrollo de estrat…",
+      "detail": "Plan nacional integrado de calidad del aire. Reforzaremos el carácter legal de los planes de calidad del aire y los planes de acción de reducción de la contaminación adoptados por las comunidades autónomas y municipios. Europa ya ha marcado el camino a seguir mediante directivas comunitarias para reducir la contaminación en las ciudades con la reducción del uso del vehículo de combustión y el desarrollo de estrategia…",
       "page": 55,
       "number": 1,
       "section": "Transición ecológica, rural y alimentación",
@@ -26100,7 +26102,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Estrategia nacional de lucha contra la mortalidad prematura provocada por la contaminación.",
-      "detail": "Estrategia nacional de lucha contra la mortalidad prematura provocada por la contaminación. Trabajaremos en la reducción drástica de las cifras de enfermedad y mortalidad prematura asociada a la exposición a agentes contaminantes, incluidas aquellas asociadas a la alimentación o a enfer- medades ambientales de carácter laboral.",
+      "detail": "Estrategia nacional de lucha contra la mortalidad prematura provocada por la contaminación. Trabajaremos en la reducción drástica de las cifras de enfermedad y mortalidad prematura asociada a la exposición a agentes contaminantes, incluidas aquellas asociadas a la alimentación o a enfermedades ambientales de carácter laboral.",
       "page": 55,
       "number": 2,
       "section": "Transición ecológica, rural y alimentación",
@@ -26129,7 +26131,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Derogación de la Ley 18/2013 de protección cultural y patrimonial de la tauromaquia.",
-      "detail": "Derogación de la Ley 18/2013 de protección cultural y patrimonial de la tauromaquia. Protección de menores limitando su participación en espectáculos crueles con animales. Supresión de la finan- ciación pública de los espectáculos taurinos con muerte del animal.",
+      "detail": "Derogación de la Ley 18/2013 de protección cultural y patrimonial de la tauromaquia. Protección de menores limitando su participación en espectáculos crueles con animales. Supresión de la financiación pública de los espectáculos taurinos con muerte del animal.",
       "page": 56,
       "number": 1,
       "section": "Transición ecológica, rural y alimentación",
@@ -26158,7 +26160,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Desarrollo de planes estatales contra el maltrato a los animales.",
-      "detail": "Desarrollo de planes estatales contra el maltrato a los animales. Dotación presupuestaria desti- nada a fuerzas y cuerpos de seguridad, ámbitos judiciales y sociales.",
+      "detail": "Desarrollo de planes estatales contra el maltrato a los animales. Dotación presupuestaria destinada a fuerzas y cuerpos de seguridad, ámbitos judiciales y sociales.",
       "page": 56,
       "number": 3,
       "section": "Transición ecológica, rural y alimentación",
@@ -26171,8 +26173,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Desarrollo de estrategia educativa en materia de empatía, convivencia y derechos de los anima- les en el sistema educativo, cumpliendo la LOMLOE y ampliando a l",
-      "detail": "Desarrollo de estrategia educativa en materia de empatía, convivencia y derechos de los anima- les en el sistema educativo, cumpliendo la LOMLOE y ampliando a los diferentes sistemas educati- vos.",
+      "title": "Desarrollo de estrategia educativa en materia de empatía, convivencia y derechos de los animales en el sistema educativo, cumpliendo la LOMLOE y ampliando a los",
+      "detail": "Desarrollo de estrategia educativa en materia de empatía, convivencia y derechos de los animales en el sistema educativo, cumpliendo la LOMLOE y ampliando a los diferentes sistemas educativos.",
       "page": 56,
       "number": 4,
       "section": "Transición ecológica, rural y alimentación",
@@ -26229,8 +26231,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Ampliaremos los recursos, subvenciones, ayudas y convenios estatales a entidades de protec- ción animal y reforzaremos, con recursos y reconocimiento, las ciuda",
-      "detail": "Ampliaremos los recursos, subvenciones, ayudas y convenios estatales a entidades de protec- ción animal y reforzaremos, con recursos y reconocimiento, las ciudades y pueblos amigos de los animales. 57 Una democracia económica y ecosocial al servicio de las personas Por un mundo rural vivo y activo",
+      "title": "Ampliaremos los recursos, subvenciones, ayudas y convenios estatales a entidades de protección animal y reforzaremos, con recursos y reconocimiento, las ciudade",
+      "detail": "Ampliaremos los recursos, subvenciones, ayudas y convenios estatales a entidades de protección animal y reforzaremos, con recursos y reconocimiento, las ciudades y pueblos amigos de los animales. 57 Una democracia económica y ecosocial al servicio de las personas Por un mundo rural vivo y activo",
       "page": 56,
       "number": 9,
       "section": "Transición ecológica, rural y alimentación",
@@ -26275,7 +26277,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "«Territorio 30 minutos»: servicios esenciales a no más de media hora.",
-      "detail": "«Territorio 30 minutos»: servicios esenciales a no más de media hora. El objetivo de esta medida es que todos los habitantes del medio rural tengan acceso a los servicios esenciales en un tiempo máximo de treinta minutos. Se trata de un objetivo a medio plazo en el que hay que empezar a tra- bajar y a invertir de manera urgente. Implica avanzar en: ● Conexión a internet de calidad en todo el territorio. ● Servicios d…",
+      "detail": "«Territorio 30 minutos»: servicios esenciales a no más de media hora. El objetivo de esta medida es que todos los habitantes del medio rural tengan acceso a los servicios esenciales en un tiempo máximo de treinta minutos. Se trata de un objetivo a medio plazo en el que hay que empezar a trabajar y a invertir de manera urgente. Implica avanzar en: ● Conexión a internet de calidad en todo el territorio. ● Servicios de…",
       "page": 58,
       "number": 2,
       "section": "Transición ecológica, rural y alimentación",
@@ -26288,7 +26290,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Apoyo al empleo y al emprendimiento en el medio rural.",
-      "detail": "Apoyo al empleo y al emprendimiento en el medio rural. Favoreceremos la creación de empleo y el emprendimiento mediante apoyos adicionales para las iniciativas empresariales en las zonas rurales, atendiendo a la reducción de la brecha de género en el rural, con: ● Un fondo específico de arranque, apoyo técnico y administrativo a las personas empren- dedoras, incentivos para la instalación de empresas de servicios ava…",
+      "detail": "Apoyo al empleo y al emprendimiento en el medio rural. Favoreceremos la creación de empleo y el emprendimiento mediante apoyos adicionales para las iniciativas empresariales en las zonas rurales, atendiendo a la reducción de la brecha de género en el rural, con: ● Un fondo específico de arranque, apoyo técnico y administrativo a las personas emprendedoras, incentivos para la instalación de empresas de servicios avanz…",
       "page": 58,
       "number": 3,
       "section": "Transición ecológica, rural y alimentación",
@@ -26330,7 +26332,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Nuevas instituciones para el medio rural.",
-      "detail": "Nuevas instituciones para el medio rural. Desde el Gobierno de España, garantizaremos que to- das las instituciones públicas se ocupen y se preocupen específicamente de la situación del medio rural y de sus habitantes. ● Crearemos una comisión delegada para asuntos rurales, dependiente directamente del Ministerio de la Presidencia, para coordinar las actividades de los distintos ministerios en relación con el medio r…",
+      "detail": "Nuevas instituciones para el medio rural. Desde el Gobierno de España, garantizaremos que todas las instituciones públicas se ocupen y se preocupen específicamente de la situación del medio rural y de sus habitantes. ● Crearemos una comisión delegada para asuntos rurales, dependiente directamente del Ministerio de la Presidencia, para coordinar las actividades de los distintos ministerios en relación con el medio rur…",
       "page": 59,
       "number": 6,
       "section": "Transición ecológica, rural y alimentación",
@@ -26343,8 +26345,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Intervención en el mercado de tierras agrarias para favorecer la integración de jóvenes y muje- res, así como nuevas incorporaciones al sector.",
-      "detail": "Intervención en el mercado de tierras agrarias para favorecer la integración de jóvenes y muje- res, así como nuevas incorporaciones al sector. El Estado debe asumir un papel activo en el mer- cado de tierras agrarias para, en defensa del interés general y de la soberanía alimentaria, proteger los suelos agrarios de la especulación, siguiendo el ejemplo de la SAFER francesa, promoviendo la 60 Una democracia económica…",
+      "title": "Intervención en el mercado de tierras agrarias para favorecer la integración de jóvenes y mujeres, así como nuevas incorporaciones al sector.",
+      "detail": "Intervención en el mercado de tierras agrarias para favorecer la integración de jóvenes y mujeres, así como nuevas incorporaciones al sector. El Estado debe asumir un papel activo en el mercado de tierras agrarias para, en defensa del interés general y de la soberanía alimentaria, proteger los suelos agrarios de la especulación, siguiendo el ejemplo de la SAFER francesa, promoviendo la 60 Una democracia económica y e…",
       "page": 59,
       "number": 8,
       "section": "Transición ecológica, rural y alimentación",
@@ -26358,8 +26360,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Negociación de una PAC que priorice las explotaciones familiares agrarias y apoye la transi- ción agroecológica.",
-      "detail": "Negociación de una PAC que priorice las explotaciones familiares agrarias y apoye la transi- ción agroecológica. En esta legislatura se reiniciará el debate sobre el futuro de la Política Agraria Común (PAC). España debe ser proactiva y anticiparse a las propuestas de la Comisión Europea en base a dos ideas claves: priorizar las explotaciones familiares agrarias de talla humana y seguir avan- zando en el camino del «…",
+      "title": "Negociación de una PAC que priorice las explotaciones familiares agrarias y apoye la transición agroecológica.",
+      "detail": "Negociación de una PAC que priorice las explotaciones familiares agrarias y apoye la transición agroecológica. En esta legislatura se reiniciará el debate sobre el futuro de la Política Agraria Común (PAC). España debe ser proactiva y anticiparse a las propuestas de la Comisión Europea en base a dos ideas claves: priorizar las explotaciones familiares agrarias de talla humana y seguir avanzando en el camino del «dine…",
       "page": 60,
       "number": 9,
       "section": "Transición ecológica, rural y alimentación",
@@ -26373,8 +26375,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Servicios públicos de asesoramiento, transferencia y acompañamiento para la transición agro- ecológica.",
-      "detail": "Servicios públicos de asesoramiento, transferencia y acompañamiento para la transición agro- ecológica. La participación activa de las productoras y los productores agrarios en la transición agroecológica requiere la creación o la potenciación de unos servicios públicos de asesoramiento y divulgación, vinculados de forma efectiva, por una parte, al territorio y, por otra, a los organismos de investigación, con una mi…",
+      "title": "Servicios públicos de asesoramiento, transferencia y acompañamiento para la transición agroecológica.",
+      "detail": "Servicios públicos de asesoramiento, transferencia y acompañamiento para la transición agroecológica. La participación activa de las productoras y los productores agrarios en la transición agroecológica requiere la creación o la potenciación de unos servicios públicos de asesoramiento y divulgación, vinculados de forma efectiva, por una parte, al territorio y, por otra, a los organismos de investigación, con una misi…",
       "page": 60,
       "number": 10,
       "section": "Transición ecológica, rural y alimentación",
@@ -26389,7 +26391,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Apoyo efectivo a explotaciones y empresas agroecológicas.",
-      "detail": "Apoyo efectivo a explotaciones y empresas agroecológicas. ● Reforzaremos en el marco del Plan Estratégico de la PAC (PEPAC) el apoyo a todo el en- tramado de empresas agrarias y agroalimentarias que ya han emprendido el camino de la transición agroecológica: explotaciones ecológicas, explotaciones ganaderas extensivas y con razas autóctonas, iniciativas cooperativas o empresariales que exploran nuevas formas de distr…",
+      "detail": "Apoyo efectivo a explotaciones y empresas agroecológicas. ● Reforzaremos en el marco del Plan Estratégico de la PAC (PEPAC) el apoyo a todo el entramado de empresas agrarias y agroalimentarias que ya han emprendido el camino de la transición agroecológica: explotaciones ecológicas, explotaciones ganaderas extensivas y con razas autóctonas, iniciativas cooperativas o empresariales que exploran nuevas formas de distrib…",
       "page": 60,
       "number": 11,
       "section": "Transición ecológica, rural y alimentación",
@@ -26418,7 +26420,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Impulso y prioridad para el bienestar en la producción de animales de consumo.",
-      "detail": "Impulso y prioridad para el bienestar en la producción de animales de consumo. Incentivaremos el cambio hacia modelos de producción agraria más sostenibles y respetuosos, de acuerdo con los Objetivos de Desarrollo Sostenible de la Agenda 2030 y las nuevas directrices europeas sobre bien- 61 Una democracia económica y ecosocial al servicio de las personas Por un mundo rural vivo y activo estar animal, para que nuestro…",
+      "detail": "Impulso y prioridad para el bienestar en la producción de animales de consumo. Incentivaremos el cambio hacia modelos de producción agraria más sostenibles y respetuosos, de acuerdo con los Objetivos de Desarrollo Sostenible de la Agenda 2030 y las nuevas directrices europeas sobre bienUna democracia económica y ecosocial al servicio de las personas Por un mundo rural vivo y activo estar animal, para que nuestro país…",
       "page": 60,
       "number": 13,
       "section": "Transición ecológica, rural y alimentación",
@@ -26433,7 +26435,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Reconocimiento y compensación justa para los servicios agroecosistémicos.",
-      "detail": "Reconocimiento y compensación justa para los servicios agroecosistémicos. Los muchos ser- vicios que, mediante una buena gestión, el medio rural presta al conjunto de la sociedad han de ser legalmente reconocidos como «servicios ecosistémicos» que deben ser compensados económi- camente para cubrir los mayores costes no solo económicos, sino también personales y formativos que comportan a los habitantes del medio rura…",
+      "detail": "Reconocimiento y compensación justa para los servicios agroecosistémicos. Los muchos servicios que, mediante una buena gestión, el medio rural presta al conjunto de la sociedad han de ser legalmente reconocidos como «servicios ecosistémicos» que deben ser compensados económicamente para cubrir los mayores costes no solo económicos, sino también personales y formativos que comportan a los habitantes del medio rural y…",
       "page": 61,
       "number": 14,
       "section": "Transición ecológica, rural y alimentación",
@@ -26462,7 +26464,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Gestión del agua en base a su condición de recurso finito, frágil e imprescindible para la vida, y transición desde el regadío hacia el sistema de goteo cuando",
-      "detail": "Gestión del agua en base a su condición de recurso finito, frágil e imprescindible para la vida, y transición desde el regadío hacia el sistema de goteo cuando sea posible. La gestión de los recur- sos hídricos debe orientarse ineludiblemente hacia una reducción del consumo, para garantizar el abastecimiento humano y hacer frente a la actual situación de sobreexplotación, deterioro y pro- gresiva desaparición de las…",
+      "detail": "Gestión del agua en base a su condición de recurso finito, frágil e imprescindible para la vida, y transición desde el regadío hacia el sistema de goteo cuando sea posible. La gestión de los recursos hídricos debe orientarse ineludiblemente hacia una reducción del consumo, para garantizar el abastecimiento humano y hacer frente a la actual situación de sobreexplotación, deterioro y progresiva desaparición de las fuen…",
       "page": 61,
       "number": 16,
       "section": "Transición ecológica, rural y alimentación",
@@ -26477,7 +26479,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Implicación de la población rural en la gestión de los espacios naturales protegidos.",
-      "detail": "Implicación de la población rural en la gestión de los espacios naturales protegidos. Promove- remos la implicación de la población rural en la gestión de los espacios naturales con una combina- ción adecuada de participación en la redacción de las normas de gestión, flexibilidad en los plazos e intensidad de la aplicación, así como implementación de pagos compensatorios en los casos en que sea necesario.",
+      "detail": "Implicación de la población rural en la gestión de los espacios naturales protegidos. Promoveremos la implicación de la población rural en la gestión de los espacios naturales con una combinación adecuada de participación en la redacción de las normas de gestión, flexibilidad en los plazos e intensidad de la aplicación, así como implementación de pagos compensatorios en los casos en que sea necesario.",
       "page": 62,
       "number": 18,
       "section": "Transición ecológica, rural y alimentación",
@@ -26491,7 +26493,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Gestión integral y coordinada de las poblaciones de animales urbanos, periurbanos, rurales y silvestres.",
-      "detail": "Gestión integral y coordinada de las poblaciones de animales urbanos, periurbanos, rurales y silvestres. La normativa vigente obliga a las Administraciones competentes a adoptar las medidas de gestión y control de las especies incluidas en el catálogo de especies exóticas invasoras. Pero la gestión y el control de estas especies debe realizarse por medios éticos. En relación con esta cues- tión, es necesario avanzar…",
+      "detail": "Gestión integral y coordinada de las poblaciones de animales urbanos, periurbanos, rurales y silvestres. La normativa vigente obliga a las Administraciones competentes a adoptar las medidas de gestión y control de las especies incluidas en el catálogo de especies exóticas invasoras. Pero la gestión y el control de estas especies debe realizarse por medios éticos. En relación con esta cuestión, es necesario avanzar ha…",
       "page": 62,
       "number": 19,
       "section": "Transición ecológica, rural y alimentación",
@@ -26504,8 +26506,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Una política forestal sostenible en línea con la Nueva Estrategia de la UE en favor de los bos- ques para 2030.",
-      "detail": "Una política forestal sostenible en línea con la Nueva Estrategia de la UE en favor de los bos- ques para 2030. En el marco de la estrategia Biodiversidad 2030, incluida en el Pacto Verde Euro- peo y la Nueva Estrategia de la UE en favor de los bosques para 2030, impulsaremos una política forestal sostenible que: ● Promueva manejos multifuncionales y priorice la reforestación con especies autóctonas. ● Promocione la…",
+      "title": "Una política forestal sostenible en línea con la Nueva Estrategia de la UE en favor de los bosques para 2030.",
+      "detail": "Una política forestal sostenible en línea con la Nueva Estrategia de la UE en favor de los bosques para 2030. En el marco de la estrategia Biodiversidad 2030, incluida en el Pacto Verde Europeo y la Nueva Estrategia de la UE en favor de los bosques para 2030, impulsaremos una política forestal sostenible que: ● Promueva manejos multifuncionales y priorice la reforestación con especies autóctonas. ● Promocione la bioe…",
       "page": 62,
       "number": 20,
       "section": "Transición ecológica, rural y alimentación",
@@ -26519,7 +26521,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Protección del sector pesquero mediante su calificación como sector estratégico y esencial para la seguridad y soberanía alimentaria.",
-      "detail": "Protección del sector pesquero mediante su calificación como sector estratégico y esencial para la seguridad y soberanía alimentaria. ● Implantaremos medidas económicas e informativas que privilegien los caladeros nacio- nales y de pesca artesanal a la vez que se informa a la población sobre especies alterna- tivas (de poco consumo actual) en cada temporada, siguiendo criterios biofísicos y de sostenibilidad ambienta…",
+      "detail": "Protección del sector pesquero mediante su calificación como sector estratégico y esencial para la seguridad y soberanía alimentaria. ● Implantaremos medidas económicas e informativas que privilegien los caladeros nacionales y de pesca artesanal a la vez que se informa a la población sobre especies alternativas (de poco consumo actual) en cada temporada, siguiendo criterios biofísicos y de sostenibilidad ambiental y…",
       "page": 63,
       "number": 1,
       "section": "Transición ecológica, rural y alimentación",
@@ -26534,7 +26536,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Relevo generacional en la pesca garantizado a través de la formación, la mejora de las condiciones de trabajo y el acceso a los recursos.",
-      "detail": "Relevo generacional en la pesca garantizado a través de la formación, la mejora de las condiciones de trabajo y el acceso a los recursos. ● Formación profesional adaptada, simultaneando prácticas a bordo de buques desde el inicio, permitiendo embarques previos y formación a bordo de la embarcación. Proyec- 64 Una democracia económica y ecosocial al servicio de las personas Por un mundo rural vivo y activo tos de form…",
+      "detail": "Relevo generacional en la pesca garantizado a través de la formación, la mejora de las condiciones de trabajo y el acceso a los recursos. ● Formación profesional adaptada, simultaneando prácticas a bordo de buques desde el inicio, permitiendo embarques previos y formación a bordo de la embarcación. ProyecUna democracia económica y ecosocial al servicio de las personas Por un mundo rural vivo y activo tos de formación…",
       "page": 63,
       "number": 2,
       "section": "Transición ecológica, rural y alimentación",
@@ -26563,7 +26565,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Reconocimiento de las cofradías de pescadores y la pesca artesanal a nivel europeo como parte de la identidad cultural y patrimonial del país, así como del valo",
-      "detail": "Reconocimiento de las cofradías de pescadores y la pesca artesanal a nivel europeo como parte de la identidad cultural y patrimonial del país, así como del valor social, cultural y económico de la pesca. ● Apoyo financiero y refuerzo de la estructura de las cofradías de pescadores como motor económico de las comarcas pesqueras, elemento de cohesión del tejido socioeconómi- 65 Una democracia económica y ecosocial al s…",
+      "detail": "Reconocimiento de las cofradías de pescadores y la pesca artesanal a nivel europeo como parte de la identidad cultural y patrimonial del país, así como del valor social, cultural y económico de la pesca. ● Apoyo financiero y refuerzo de la estructura de las cofradías de pescadores como motor económico de las comarcas pesqueras, elemento de cohesión del tejido socioeconómiUna democracia económica y ecosocial al servic…",
       "page": 64,
       "number": 4,
       "section": "Transición ecológica, rural y alimentación",
@@ -26578,7 +26580,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "de mitigación del efecto del cambio climático y la contaminación en el mar.",
-      "detail": "de mitigación del efecto del cambio climático y la contaminación en el mar. ● Campañas de sensibilización social sobre el papel del sector pesquero en la lucha contra el cambio climático y la contaminación. Acciones de monitorización de los efectos del cambio climático en nuestras costas en coordinación y cooperación con el sector pes- quero. ● Adopción de medidas para atajar el vertido de residuos contaminantes al m…",
+      "detail": "de mitigación del efecto del cambio climático y la contaminación en el mar. ● Campañas de sensibilización social sobre el papel del sector pesquero en la lucha contra el cambio climático y la contaminación. Acciones de monitorización de los efectos del cambio climático en nuestras costas en coordinación y cooperación con el sector pesquero. ● Adopción de medidas para atajar el vertido de residuos contaminantes al mar…",
       "page": 65,
       "number": 5,
       "section": "Transición ecológica, rural y alimentación",
@@ -26621,7 +26623,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Transición energética justa y descarbonización en la pesca ● Establecimiento de medidas que eviten la competencia por el espacio marítimo entre las instalacione",
-      "detail": "Transición energética justa y descarbonización en la pesca ● Establecimiento de medidas que eviten la competencia por el espacio marítimo entre las instalaciones energéticas y la pesca. ● Acciones para el abandono progresivo de los combustibles fósiles y la descarbonización en la pesca, contemplando medidas de confort y seguridad en las embarcaciones pes- queras en diálogo con el sector.",
+      "detail": "Transición energética justa y descarbonización en la pesca ● Establecimiento de medidas que eviten la competencia por el espacio marítimo entre las instalaciones energéticas y la pesca. ● Acciones para el abandono progresivo de los combustibles fósiles y la descarbonización en la pesca, contemplando medidas de confort y seguridad en las embarcaciones pesqueras en diálogo con el sector.",
       "page": 66,
       "number": 9,
       "section": "Transición ecológica, rural y alimentación",
@@ -26635,7 +26637,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Refuerzo del papel de la mujer y visibilización de su contribución en las actividades pesqueras ● Incentivaremos la incorporación plena y efectiva de la mujer e",
-      "detail": "Refuerzo del papel de la mujer y visibilización de su contribución en las actividades pesqueras ● Incentivaremos la incorporación plena y efectiva de la mujer en el sector, así como la igualdad de oportunidades en todos los niveles de actividad y de responsabilidad (arma- doras, pescadoras, directivas…). ● Se difundirán y se potenciarán los referentes femeninos que trabajan en el sector pes- quero. ● Pondremos en mar…",
+      "detail": "Refuerzo del papel de la mujer y visibilización de su contribución en las actividades pesqueras ● Incentivaremos la incorporación plena y efectiva de la mujer en el sector, así como la igualdad de oportunidades en todos los niveles de actividad y de responsabilidad (armadoras, pescadoras, directivas…). ● Se difundirán y se potenciarán los referentes femeninos que trabajan en el sector pesquero. ● Pondremos en marcha…",
       "page": 66,
       "number": 10,
       "section": "Transición ecológica, rural y alimentación",
@@ -26680,7 +26682,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Reforma de la Ley de Seguridad Alimentaria y Nutrición para desarrollar instrumentos y políticas que garanticen el derecho a la alimentación saludable y sosteni",
-      "detail": "Reforma de la Ley de Seguridad Alimentaria y Nutrición para desarrollar instrumentos y políticas que garanticen el derecho a la alimentación saludable y sostenible, especialmente para la infancia y adolescencia ● Actualización de la Estrategia NAOS, para reducir de forma efectiva el «entorno obeso- génico», especialmente en el ámbito infantil y juvenil. ● Impulso y dotación de más competencias y medios al Observatori…",
+      "detail": "Reforma de la Ley de Seguridad Alimentaria y Nutrición para desarrollar instrumentos y políticas que garanticen el derecho a la alimentación saludable y sostenible, especialmente para la infancia y adolescencia ● Actualización de la Estrategia NAOS, para reducir de forma efectiva el «entorno obesogénico», especialmente en el ámbito infantil y juvenil. ● Impulso y dotación de más competencias y medios al Observatorio…",
       "page": 68,
       "number": 1,
       "section": "Transición ecológica, rural y alimentación",
@@ -26710,7 +26712,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Fomento de una red alternativa pública de distribución de alimentos .",
-      "detail": "Fomento de una red alternativa pública de distribución de alimentos . Se fomentará económi- camente la articulación de una red alternativa de distribución de alimentos basada en criterios so- ciales y agroecológicos con precios justos para los productores y las productoras, y consumidores y consumidoras, y atendiendo a criterios de accesibilidad territorial. Podrán vincularse a esta red de forma voluntaria todas aque…",
+      "detail": "Fomento de una red alternativa pública de distribución de alimentos . Se fomentará económicamente la articulación de una red alternativa de distribución de alimentos basada en criterios sociales y agroecológicos con precios justos para los productores y las productoras, y consumidores y consumidoras, y atendiendo a criterios de accesibilidad territorial. Podrán vincularse a esta red de forma voluntaria todas aquellas…",
       "page": 68,
       "number": 3,
       "section": "Transición ecológica, rural y alimentación",
@@ -26724,8 +26726,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Creación de una red de espacios públicos comunitarios para facilitar el derecho a la alimenta- ción saludable y sostenible a escala de barrio o municipal ● Uso",
-      "detail": "Creación de una red de espacios públicos comunitarios para facilitar el derecho a la alimenta- ción saludable y sostenible a escala de barrio o municipal ● Uso de equipamientos públicos de proximidad (economatos cooperativos, centros de distribución de alimentos para redes asociativas, entre otros) en los que se pueda dispo- ner de cocina y comedor colectivos y que pudieran vincularse a despensas comunitarias y a red…",
+      "title": "Creación de una red de espacios públicos comunitarios para facilitar el derecho a la alimentación saludable y sostenible a escala de barrio o municipal ● Uso de",
+      "detail": "Creación de una red de espacios públicos comunitarios para facilitar el derecho a la alimentación saludable y sostenible a escala de barrio o municipal ● Uso de equipamientos públicos de proximidad (economatos cooperativos, centros de distribución de alimentos para redes asociativas, entre otros) en los que se pueda disponer de cocina y comedor colectivos y que pudieran vincularse a despensas comunitarias y a redes d…",
       "page": 68,
       "number": 4,
       "section": "Transición ecológica, rural y alimentación",
@@ -26752,8 +26754,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Freno a la exposición a contaminantes químicos de origen alimentario ● Apoyo a la producción y el consumo de alimentos libres de productos fitosanitarios, me- d",
-      "detail": "Freno a la exposición a contaminantes químicos de origen alimentario ● Apoyo a la producción y el consumo de alimentos libres de productos fitosanitarios, me- dicamentos o residuos químicos en la preparación, procesado y embalajes; favoreciendo la producción agroecológica frente a la convencional y los productos de la ganadería y la acuicultura libres de medicamentos. ● Refuerzo de los controles de residuos de pestic…",
+      "title": "Freno a la exposición a contaminantes químicos de origen alimentario ● Apoyo a la producción y el consumo de alimentos libres de productos fitosanitarios, medic",
+      "detail": "Freno a la exposición a contaminantes químicos de origen alimentario ● Apoyo a la producción y el consumo de alimentos libres de productos fitosanitarios, medicamentos o residuos químicos en la preparación, procesado y embalajes; favoreciendo la producción agroecológica frente a la convencional y los productos de la ganadería y la acuicultura libres de medicamentos. ● Refuerzo de los controles de residuos de pesticid…",
       "page": 69,
       "number": 6,
       "section": "Transición ecológica, rural y alimentación",
@@ -26767,8 +26769,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Información y comunicación sobre la calidad y salubridad de los alimentos ● Se difundirán recomendaciones alimentarias para promover un patrón dietético saluda-",
-      "detail": "Información y comunicación sobre la calidad y salubridad de los alimentos ● Se difundirán recomendaciones alimentarias para promover un patrón dietético saluda- ble y sostenible con el medio ambiente, como las publicadas a nivel estatal por la Agen- cia Española de Seguridad Alimentaria y Nutrición. Se evitarán los mensajes que puedan llevar a confusión. ● Garantizaremos el derecho de la infancia a una alimentación s…",
+      "title": "Información y comunicación sobre la calidad y salubridad de los alimentos ● Se difundirán recomendaciones alimentarias para promover un patrón dietético saludab",
+      "detail": "Información y comunicación sobre la calidad y salubridad de los alimentos ● Se difundirán recomendaciones alimentarias para promover un patrón dietético saludable y sostenible con el medio ambiente, como las publicadas a nivel estatal por la Agencia Española de Seguridad Alimentaria y Nutrición. Se evitarán los mensajes que puedan llevar a confusión. ● Garantizaremos el derecho de la infancia a una alimentación salud…",
       "page": 69,
       "number": 8,
       "section": "Transición ecológica, rural y alimentación",
@@ -26782,8 +26784,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Inclusión de dietistas-nutricionistas en los sistemas públicos de salud y formación en alimenta- ción de los profesionales de la salud ● Trabajaremos para que t",
-      "detail": "Inclusión de dietistas-nutricionistas en los sistemas públicos de salud y formación en alimenta- ción de los profesionales de la salud ● Trabajaremos para que toda la población tenga acceso a equipos multidisciplinares formados en alimentación, para la prevención temprana y tratamiento de las diferentes patologías asociadas a la mala alimentación. ● Siempre que sea posible, se incorporará en todos los equipos de los…",
+      "title": "Inclusión de dietistas-nutricionistas en los sistemas públicos de salud y formación en alimentación de los profesionales de la salud ● Trabajaremos para que tod",
+      "detail": "Inclusión de dietistas-nutricionistas en los sistemas públicos de salud y formación en alimentación de los profesionales de la salud ● Trabajaremos para que toda la población tenga acceso a equipos multidisciplinares formados en alimentación, para la prevención temprana y tratamiento de las diferentes patologías asociadas a la mala alimentación. ● Siempre que sea posible, se incorporará en todos los equipos de los ce…",
       "page": 70,
       "number": 9,
       "section": "Transición ecológica, rural y alimentación",
@@ -26811,7 +26813,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Apoyo a la creación de espacios de articulación logística ● Fomento de nodos logísticos, centros de acopio o food hubs sostenibles gestionados por el sector pro",
-      "detail": "Apoyo a la creación de espacios de articulación logística ● Fomento de nodos logísticos, centros de acopio o food hubs sostenibles gestionados por el sector productivo (pequeñas y medianas producciones agroecológicas y pesca artesanal orientadas al circuito corto) para impulsar la agregación, almacenamiento, pro- cesamiento, logística y distribución de alimentos. ● Por medio de la empresa pública Mercasa, se fomentar…",
+      "detail": "Apoyo a la creación de espacios de articulación logística ● Fomento de nodos logísticos, centros de acopio o food hubs sostenibles gestionados por el sector productivo (pequeñas y medianas producciones agroecológicas y pesca artesanal orientadas al circuito corto) para impulsar la agregación, almacenamiento, procesamiento, logística y distribución de alimentos. ● Por medio de la empresa pública Mercasa, se fomentará…",
       "page": 70,
       "number": 11,
       "section": "Transición ecológica, rural y alimentación",
@@ -26840,7 +26842,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Creación de una estructura de gobernanza multiactor anidada en las distintas escalas administrativas ● Estableceremos mecanismos para compartir e implementar ac",
-      "detail": "Creación de una estructura de gobernanza multiactor anidada en las distintas escalas administrativas ● Estableceremos mecanismos para compartir e implementar acciones y prácticas que se hayan demostrado exitosas a nivel local y regional en todos los ámbitos de la Administra- ción. ● Crearemos una estructura de gobernanza alimentaria estatal que articule a las distintas administraciones con competencias en alimentació…",
+      "detail": "Creación de una estructura de gobernanza multiactor anidada en las distintas escalas administrativas ● Estableceremos mecanismos para compartir e implementar acciones y prácticas que se hayan demostrado exitosas a nivel local y regional en todos los ámbitos de la Administración. ● Crearemos una estructura de gobernanza alimentaria estatal que articule a las distintas administraciones con competencias en alimentación,…",
       "page": 71,
       "number": 13,
       "section": "Transición ecológica, rural y alimentación",
@@ -26870,7 +26872,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Desarrollo de un territorio policéntrico con áreas urbanas mixtas y autónomas.",
-      "detail": "Desarrollo de un territorio policéntrico con áreas urbanas mixtas y autónomas. Queremos ciu- dades y territorios que permitan la proximidad. Para ello, es necesaria una distribución de servicios y equipamientos equilibrada en el territorio, que le permita a toda la ciudadanía un acceso equitativo. Una democracia económica y ecosocial al servicio de las personas Hábitat para la vida 73 Hace falta una apuesta por la pr…",
+      "detail": "Desarrollo de un territorio policéntrico con áreas urbanas mixtas y autónomas. Queremos ciudades y territorios que permitan la proximidad. Para ello, es necesaria una distribución de servicios y equipamientos equilibrada en el territorio, que le permita a toda la ciudadanía un acceso equitativo. Una democracia económica y ecosocial al servicio de las personas Hábitat para la vida 73 Hace falta una apuesta por la prox…",
       "page": 72,
       "number": 2,
       "section": "Hábitat, vivienda y movilidad",
@@ -26885,7 +26887,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Garantizar el derecho a la movilidad sostenible y a la accesibilidad universal del espacio público.",
-      "detail": "Garantizar el derecho a la movilidad sostenible y a la accesibilidad universal del espacio público. Entendemos la movilidad en todas las escalas, desde la accesibilidad a la propia vivienda (ascenso- res) hasta la existencia de una red peatonal cotidiana, segura y accesible; desde redes de bicicletas y carriles segregados seguros hasta un transporte público asequible y rápido. Se debe garantizar la movilidad de toda…",
+      "detail": "Garantizar el derecho a la movilidad sostenible y a la accesibilidad universal del espacio público. Entendemos la movilidad en todas las escalas, desde la accesibilidad a la propia vivienda (ascensores) hasta la existencia de una red peatonal cotidiana, segura y accesible; desde redes de bicicletas y carriles segregados seguros hasta un transporte público asequible y rápido. Se debe garantizar la movilidad de toda la…",
       "page": 73,
       "number": 3,
       "section": "Hábitat, vivienda y movilidad",
@@ -26899,7 +26901,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Puesta en marcha de una «política de municipios».",
-      "detail": "Puesta en marcha de una «política de municipios». Apostamos por una política auspiciada des- de el Gobierno dirigida a las ciudades. Reconocemos así el papel que las administraciones locales tienen que desempeñar en los próximos años en relación a los principales desafíos que tenemos como sociedad. La mitigación del cambio climático y la adecuación a él en un contexto de emer- gencia, el incremento de espacios saluda…",
+      "detail": "Puesta en marcha de una «política de municipios». Apostamos por una política auspiciada desde el Gobierno dirigida a las ciudades. Reconocemos así el papel que las administraciones locales tienen que desempeñar en los próximos años en relación a los principales desafíos que tenemos como sociedad. La mitigación del cambio climático y la adecuación a él en un contexto de emergencia, el incremento de espacios saludables…",
       "page": 73,
       "number": 4,
       "section": "Hábitat, vivienda y movilidad",
@@ -27018,8 +27020,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Invertiremos sostenidamente, durante diez años, el 1% del PIB en construcción, compra, movili- zación y rehabilitación de vivienda para generar un verdadero par",
-      "detail": "Invertiremos sostenidamente, durante diez años, el 1% del PIB en construcción, compra, movili- zación y rehabilitación de vivienda para generar un verdadero parque de alquiler protegido, social, sostenible y asequible de más dos millones de viviendas protegidas en los siguientes diez años. A estos efectos utilizaremos toda la capacidad tanto de la Sereb como de la SEPES. Sin una inversión importante y constante no se…",
+      "title": "Invertiremos sostenidamente, durante diez años, el 1% del PIB en construcción, compra, movilización y rehabilitación de vivienda para generar un verdadero parqu",
+      "detail": "Invertiremos sostenidamente, durante diez años, el 1% del PIB en construcción, compra, movilización y rehabilitación de vivienda para generar un verdadero parque de alquiler protegido, social, sostenible y asequible de más dos millones de viviendas protegidas en los siguientes diez años. A estos efectos utilizaremos toda la capacidad tanto de la Sereb como de la SEPES. Sin una inversión importante y constante no será…",
       "page": 76,
       "number": 1,
       "section": "Hábitat, vivienda y movilidad",
@@ -27033,7 +27035,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Adoptaremos medidas en materia fiscal que incluyan condicionar los beneficios fiscales en el impuesto de sociedades para las SOCIMIS, EDAVS, y las sociedades y",
-      "detail": "Adoptaremos medidas en materia fiscal que incluyan condicionar los beneficios fiscales en el impuesto de sociedades para las SOCIMIS, EDAVS, y las sociedades y fondos de inversión inmo- biliarios en función del valor social y la aportación al interés general de los proyectos que realicen. Impulsaremos modificaciones fiscales similares en el IRPF para los particulares que arriendan. Redu- ciremos también el IVA para p…",
+      "detail": "Adoptaremos medidas en materia fiscal que incluyan condicionar los beneficios fiscales en el impuesto de sociedades para las SOCIMIS, EDAVS, y las sociedades y fondos de inversión inmobiliarios en función del valor social y la aportación al interés general de los proyectos que realicen. Impulsaremos modificaciones fiscales similares en el IRPF para los particulares que arriendan. Reduciremos también el IVA para proye…",
       "page": 76,
       "number": 2,
       "section": "Hábitat, vivienda y movilidad",
@@ -27048,7 +27050,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Estableceremos un gravamen sobre los suelos disponibles para urbanización ociosos.",
-      "detail": "Estableceremos un gravamen sobre los suelos disponibles para urbanización ociosos. Coordi- naremos los patrimonios públicos de suelo (PPS) de las diferentes administraciones a través de un «banco de suelo» con la capacidad de comprar suelos adicionales a los PPS a través de una línea de crédito del ICO.",
+      "detail": "Estableceremos un gravamen sobre los suelos disponibles para urbanización ociosos. Coordinaremos los patrimonios públicos de suelo (PPS) de las diferentes administraciones a través de un «banco de suelo» con la capacidad de comprar suelos adicionales a los PPS a través de una línea de crédito del ICO.",
       "page": 76,
       "number": 3,
       "section": "Hábitat, vivienda y movilidad",
@@ -27075,23 +27077,23 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Prohibiremos de forma expresa la venta de patrimonio público de suelo y vivienda de las Admi- nistraciones (específicamente el correspondiente a la Sareb, Adif",
-      "detail": "Prohibiremos de forma expresa la venta de patrimonio público de suelo y vivienda de las Admi- nistraciones (específicamente el correspondiente a la Sareb, Adif y Defensa), salvo su transmisión gratuita a entidades públicas para su transformación en parque público o en proyectos público-pri- vados de alquiler.",
+      "title": "Prohibiremos de forma expresa la venta de patrimonio público de suelo y vivienda de las Administraciones (específicamente el correspondiente a la Sareb, Adif y",
+      "detail": "Prohibiremos de forma expresa la venta de patrimonio público de suelo y vivienda de las Administraciones (específicamente el correspondiente a la Sareb, Adif y Defensa), salvo su transmisión gratuita a entidades públicas para su transformación en parque público o en proyectos público-privados de alquiler.",
       "page": 76,
       "number": 5,
       "section": "Hábitat, vivienda y movilidad",
       "subthemeIds": [
+        "impuestos-fiscalidad",
         "vivienda-proximidad",
-        "transporte-infraestructuras",
-        "defensa-soberania"
+        "transporte-infraestructuras"
       ],
       "priorityIndex": 2,
       "originalBlockIndex": 0,
       "kind": "document"
     },
     {
-      "title": "Realizaremos las modificaciones legales oportunas para que las Administraciones públicas dis- pongan de capacidad para ejercer derechos de tanteo y retracto.",
-      "detail": "Realizaremos las modificaciones legales oportunas para que las Administraciones públicas dis- pongan de capacidad para ejercer derechos de tanteo y retracto. Impulsaremos programas pú- blicos de compra de vivienda tanto en situaciones de emergencia (ejecuciones hipotecarias, como desahucios por impago del alquiler) como para fortalecer los parques públicos de vivienda. 7 . En las áreas de mercado tensionado, estudiar…",
+      "title": "Realizaremos las modificaciones legales oportunas para que las Administraciones públicas dispongan de capacidad para ejercer derechos de tanteo y retracto.",
+      "detail": "Realizaremos las modificaciones legales oportunas para que las Administraciones públicas dispongan de capacidad para ejercer derechos de tanteo y retracto. Impulsaremos programas públicos de compra de vivienda tanto en situaciones de emergencia (ejecuciones hipotecarias, como desahucios por impago del alquiler) como para fortalecer los parques públicos de vivienda. 7 . En las áreas de mercado tensionado, estudiaremos…",
       "page": 76,
       "number": 6,
       "section": "Hábitat, vivienda y movilidad",
@@ -27133,8 +27135,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Crearemos juzgados especializados en la materia para resolver los conflictos que genere el de- recho a la vivienda.",
-      "detail": "Crearemos juzgados especializados en la materia para resolver los conflictos que genere el de- recho a la vivienda.",
+      "title": "Crearemos juzgados especializados en la materia para resolver los conflictos que genere el derecho a la vivienda.",
+      "detail": "Crearemos juzgados especializados en la materia para resolver los conflictos que genere el derecho a la vivienda.",
       "page": 77,
       "number": 10,
       "section": "Hábitat, vivienda y movilidad",
@@ -27192,7 +27194,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Modificaremos la Ley 12/2023 de Vivienda para incluir: el alquiler social obligatorio para grandes tenedores, la dación en pago, obligaciones de resultado para",
-      "detail": "Modificaremos la Ley 12/2023 de Vivienda para incluir: el alquiler social obligatorio para grandes tenedores, la dación en pago, obligaciones de resultado para las Administraciones públicas en ma- teria de vivienda alternativa frente a los desahucios, movilización de vivienda de la Sareb en coordi- nación con las comunidades autónomas, regulación efectiva de precios del alquiler y desarrollo de un régimen sancionador…",
+      "detail": "Modificaremos la Ley 12/2023 de Vivienda para incluir: el alquiler social obligatorio para grandes tenedores, la dación en pago, obligaciones de resultado para las Administraciones públicas en materia de vivienda alternativa frente a los desahucios, movilización de vivienda de la Sareb en coordinación con las comunidades autónomas, regulación efectiva de precios del alquiler y desarrollo de un régimen sancionador. Ga…",
       "page": 77,
       "number": 14,
       "section": "Hábitat, vivienda y movilidad",
@@ -27206,15 +27208,15 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Habilitaremos al Estado Central o a las Administracione locales a instar a la comunidad autóno- ma que no lo haya hecho a declarar zona de mercado tensionado en",
-      "detail": "Habilitaremos al Estado Central o a las Administracione locales a instar a la comunidad autóno- ma que no lo haya hecho a declarar zona de mercado tensionado en los ámbitos geográficos que cumplan los requisitos que establece la Ley por Derecho a la Vivienda. Aplicaremos así la regula- ción de alquileres a todas las zonas de mercado tensionado para garantizar la igualdad de todos los inquilinos en el ejercicio de sus…",
+      "title": "Habilitaremos al Estado Central o a las Administracione locales a instar a la comunidad autónoma que no lo haya hecho a declarar zona de mercado tensionado en l",
+      "detail": "Habilitaremos al Estado Central o a las Administracione locales a instar a la comunidad autónoma que no lo haya hecho a declarar zona de mercado tensionado en los ámbitos geográficos que cumplan los requisitos que establece la Ley por Derecho a la Vivienda. Aplicaremos así la regulación de alquileres a todas las zonas de mercado tensionado para garantizar la igualdad de todos los inquilinos en el ejercicio de sus der…",
       "page": 77,
       "number": 15,
       "section": "Hábitat, vivienda y movilidad",
       "subthemeIds": [
         "vivienda-proximidad",
         "transporte-infraestructuras",
-        "derechos-igualdad"
+        "organizacion-territorial"
       ],
       "priorityIndex": 2,
       "originalBlockIndex": 0,
@@ -27222,7 +27224,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Convertiremos la Sareb en una herramienta pública que tenga como objetivo garantizar el derecho a la vivienda.",
-      "detail": "Convertiremos la Sareb en una herramienta pública que tenga como objetivo garantizar el derecho a la vivienda. Para ello sus competencias deberían depender del ministerio que tenga las competencias a nivel estatal en materia de vivienda y realizar una gestión activa, con las personas que están en situación de precariedad en viviendas de su propiedad, para gestionar alquileres so- ciales vinculados al nivel de ingreso…",
+      "detail": "Convertiremos la Sareb en una herramienta pública que tenga como objetivo garantizar el derecho a la vivienda. Para ello sus competencias deberían depender del ministerio que tenga las competencias a nivel estatal en materia de vivienda y realizar una gestión activa, con las personas que están en situación de precariedad en viviendas de su propiedad, para gestionar alquileres sociales vinculados al nivel de ingresos.…",
       "page": 77,
       "number": 16,
       "section": "Hábitat, vivienda y movilidad",
@@ -27237,7 +27239,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Estableceremos de forma obligatoria la portabilidad de hipotecas.",
-      "detail": "Estableceremos de forma obligatoria la portabilidad de hipotecas. Las rápidas, contunden - tes y permanentes subidas de los tipos de interés que ha llevado a cabo el BCE están provocan - do incrementos de las cuotas hipotecarias inasumibles para muchos hogares con hipotecas a tipos variables. La propuesta de portabilidad de las hipotecas de tipo variable a tipo fijo preten - de romper el corralito de hipotecados en c…",
+      "detail": "Estableceremos de forma obligatoria la portabilidad de hipotecas. Las rápidas, contundentes y permanentes subidas de los tipos de interés que ha llevado a cabo el BCE están provocando incrementos de las cuotas hipotecarias inasumibles para muchos hogares con hipotecas a tipos variables. La propuesta de portabilidad de las hipotecas de tipo variable a tipo fijo pretende romper el corralito de hipotecados en cada banco…",
       "page": 78,
       "number": 18,
       "section": "Hábitat, vivienda y movilidad",
@@ -27251,7 +27253,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Mejoraremos la información de alquileres y estableceremos precios de referencia.",
-      "detail": "Mejoraremos la información de alquileres y estableceremos precios de referencia. Esta pro- puesta pretende mejorar el funcionamiento del mercado del alquiler de vivienda por dos vías. La primera de ellas es mejorar el conocimiento sobre la evolución de los alquileres estableciendo un pago mensual a cuenta en el IRPF del 0,1% de los ingresos percibidos por alquileres, para conocer con precisión casi censal y en tiempo…",
+      "detail": "Mejoraremos la información de alquileres y estableceremos precios de referencia. Esta propuesta pretende mejorar el funcionamiento del mercado del alquiler de vivienda por dos vías. La primera de ellas es mejorar el conocimiento sobre la evolución de los alquileres estableciendo un pago mensual a cuenta en el IRPF del 0,1% de los ingresos percibidos por alquileres, para conocer con precisión casi censal y en tiempo r…",
       "page": 78,
       "number": 19,
       "section": "Hábitat, vivienda y movilidad",
@@ -27385,7 +27387,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Desarrollaremos una normativa específica para que en suelo urbano consolidado se garantice una reserva del 30% para vivienda protegida.",
-      "detail": "Desarrollaremos una normativa específica para que en suelo urbano consolidado se garantice una reserva del 30% para vivienda protegida. En este sentido, y con el objetivo de «que nadie nece- site destinar más del 30% de sus ingresos al pago de la vivienda», se destacan las siguientes medi- das: ● Desarrollaremos y haremos cumplir la declaración de mercado tensionado de la Ley por el Derecho a la Vivienda en todos los…",
+      "detail": "Desarrollaremos una normativa específica para que en suelo urbano consolidado se garantice una reserva del 30% para vivienda protegida. En este sentido, y con el objetivo de «que nadie necesite destinar más del 30% de sus ingresos al pago de la vivienda», se destacan las siguientes medidas: ● Desarrollaremos y haremos cumplir la declaración de mercado tensionado de la Ley por el Derecho a la Vivienda en todos los ámb…",
       "page": 79,
       "number": 29,
       "section": "Hábitat, vivienda y movilidad",
@@ -27415,7 +27417,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Impulsaremos una financiación estatal del transporte público que permita mejorar la oferta, multiplicando las frecuencias y la disponibilidad de servicios, espe",
-      "detail": "Impulsaremos una financiación estatal del transporte público que permita mejorar la oferta, multiplicando las frecuencias y la disponibilidad de servicios, especialmente en los desplazamien - tos no radiales y en el mundo rural. Convertiremos el transporte público en una alternativa con la misma disponibilidad y calidad del coche, garantizando unas tarifas asequibles y adaptadas a la renta, priorizando incrementar el…",
+      "detail": "Impulsaremos una financiación estatal del transporte público que permita mejorar la oferta, multiplicando las frecuencias y la disponibilidad de servicios, especialmente en los desplazamientos no radiales y en el mundo rural. Convertiremos el transporte público en una alternativa con la misma disponibilidad y calidad del coche, garantizando unas tarifas asequibles y adaptadas a la renta, priorizando incrementar el us…",
       "page": 80,
       "number": 2,
       "section": "Hábitat, vivienda y movilidad",
@@ -27430,7 +27432,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Ciudades y territorios cercanos, accesibles y con servicios públicos.",
-      "detail": "Ciudades y territorios cercanos, accesibles y con servicios públicos. ● Territorios de los 30 minutos. Garantizaremos la financiación de servicios de movilidad suficientes para que la dotación de servicios públicos en el conjunto del territorio esté disponible en un tiempo de viaje inferior a los 30 minutos, con especial atención a las pe- culiaridades tanto de las áreas metropolitanas como de la España vaciada. Impu…",
+      "detail": "Ciudades y territorios cercanos, accesibles y con servicios públicos. ● Territorios de los 30 minutos. Garantizaremos la financiación de servicios de movilidad suficientes para que la dotación de servicios públicos en el conjunto del territorio esté disponible en un tiempo de viaje inferior a los 30 minutos, con especial atención a las peculiaridades tanto de las áreas metropolitanas como de la España vaciada. Impuls…",
       "page": 80,
       "number": 3,
       "section": "Hábitat, vivienda y movilidad",
@@ -27444,7 +27446,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Billete único, pago progresivo y digitalización.",
-      "detail": "Billete único, pago progresivo y digitalización. Promoveremos un proceso de diálogo y apoyo financiero a las comunidades autónomas, las áreas metropolitanas y los ayuntamientos para la im- plantación de un billete único para todos los modos de transporte, incluidos los sistemas de alquiler de bicicletas públicas, de competencia estatal. Implantaremos modalidades de pago asociadas a la renta y a la disponibilidad de m…",
+      "detail": "Billete único, pago progresivo y digitalización. Promoveremos un proceso de diálogo y apoyo financiero a las comunidades autónomas, las áreas metropolitanas y los ayuntamientos para la implantación de un billete único para todos los modos de transporte, incluidos los sistemas de alquiler de bicicletas públicas, de competencia estatal. Implantaremos modalidades de pago asociadas a la renta y a la disponibilidad de med…",
       "page": 81,
       "number": 4,
       "section": "Hábitat, vivienda y movilidad",
@@ -27474,7 +27476,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Apostaremos por un sistema de transporte de mercancías sostenible.",
-      "detail": "Apostaremos por un sistema de transporte de mercancías sostenible. Obligaremos a utilizar centrales únicas de rotura de carga y distribución de última milla, desarrollo y estabilización de corredores ferroviarios funcionales y bien conectados con los puertos y los centros logísticos. Re- duciremos drásticamente los cánones de circulación en líneas ferroviarias convencionales para el transporte de mercancías e impulsa…",
+      "detail": "Apostaremos por un sistema de transporte de mercancías sostenible. Obligaremos a utilizar centrales únicas de rotura de carga y distribución de última milla, desarrollo y estabilización de corredores ferroviarios funcionales y bien conectados con los puertos y los centros logísticos. Reduciremos drásticamente los cánones de circulación en líneas ferroviarias convencionales para el transporte de mercancías e impulsare…",
       "page": 81,
       "number": 6,
       "section": "Hábitat, vivienda y movilidad",
@@ -27516,8 +27518,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Implementaremos un fondo de compensación territorial por el efecto histórico de las inver- siones en infraestructuras de transporte radiales, con el objetivo de",
-      "detail": "Implementaremos un fondo de compensación territorial por el efecto histórico de las inver- siones en infraestructuras de transporte radiales, con el objetivo de compensar a las comunidades autónomas afectadas por este fenómeno. De esta manera potenciaremos los corredores transver- sales en todo el Estado.",
+      "title": "Implementaremos un fondo de compensación territorial por el efecto histórico de las inversiones en infraestructuras de transporte radiales, con el objetivo de c",
+      "detail": "Implementaremos un fondo de compensación territorial por el efecto histórico de las inversiones en infraestructuras de transporte radiales, con el objetivo de compensar a las comunidades autónomas afectadas por este fenómeno. De esta manera potenciaremos los corredores transversales en todo el Estado.",
       "page": 82,
       "number": 10,
       "section": "Hábitat, vivienda y movilidad",
@@ -27547,7 +27549,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Protegeremos al sector del taxi como servicio público esencial estableciendo limitaciones a las VTC a fin de evitar la competencia desleal y garantizar las mejo",
-      "detail": "Protegeremos al sector del taxi como servicio público esencial estableciendo limitaciones a las VTC a fin de evitar la competencia desleal y garantizar las mejores condiciones de trabajo. Final- mente, asumiremos las exigencias de la sociedad civil en relación a una futura Ley de Movilidad Sos- tenible y Financiación del Transporte Público que contendrá, al menos, los siguientes puntos: ● Desarrollo de un sistema mul…",
+      "detail": "Protegeremos al sector del taxi como servicio público esencial estableciendo limitaciones a las VTC a fin de evitar la competencia desleal y garantizar las mejores condiciones de trabajo. Finalmente, asumiremos las exigencias de la sociedad civil en relación a una futura Ley de Movilidad Sostenible y Financiación del Transporte Público que contendrá, al menos, los siguientes puntos: ● Desarrollo de un sistema multimo…",
       "page": 82,
       "number": 12,
       "section": "Hábitat, vivienda y movilidad",
@@ -27746,7 +27748,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Atención primaria fortalecida.",
-      "detail": "Atención primaria fortalecida. Plan de choque para fortalecer la atención primaria en todo el Es- tado. El plan supondrá la financiación directa para que las comunidades autónomas puedan aumen- tar personal, mejorar las infraestructuras y adquirir material sanitario.",
+      "detail": "Atención primaria fortalecida. Plan de choque para fortalecer la atención primaria en todo el Estado. El plan supondrá la financiación directa para que las comunidades autónomas puedan aumentar personal, mejorar las infraestructuras y adquirir material sanitario.",
       "page": 90,
       "number": 5,
       "section": "Bienestar, cuidados y salud",
@@ -27761,7 +27763,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Un sistema sanitario con futuro.",
-      "detail": "Un sistema sanitario con futuro. Ampliaremos las plazas de formación de medicina, enfermería y psicología en las universidades públicas, con criterios de distribución geográfica según las necesi- dades de la sanidad de cada territorio. Aumento de las plazas de formación MIR, EIR y PIR y de otras especialidades, también según las necesidades. 7 . Salud mental. Pondremos en marcha un Plan de Choque en Salud Mental que…",
+      "detail": "Un sistema sanitario con futuro. Ampliaremos las plazas de formación de medicina, enfermería y psicología en las universidades públicas, con criterios de distribución geográfica según las necesidades de la sanidad de cada territorio. Aumento de las plazas de formación MIR, EIR y PIR y de otras especialidades, también según las necesidades. 7 . Salud mental. Pondremos en marcha un Plan de Choque en Salud Mental que ab…",
       "page": 90,
       "number": 6,
       "section": "Bienestar, cuidados y salud",
@@ -27790,7 +27792,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Impuestos al servicio de la salud.",
-      "detail": "Impuestos al servicio de la salud. Se establecerá un impuesto específico a las bebidas azucara- das y los alimentos ultraprocesados. También se crearán mecanismos para controlar la publicidad de bebidas azucaradas y, en general, de alimentos no saludables. Especialmente se prohibirá la pu- blicidad de estos productos dirigida a un público infantil, así como las promociones como premios, regalos o concursos orientadas…",
+      "detail": "Impuestos al servicio de la salud. Se establecerá un impuesto específico a las bebidas azucaradas y los alimentos ultraprocesados. También se crearán mecanismos para controlar la publicidad de bebidas azucaradas y, en general, de alimentos no saludables. Especialmente se prohibirá la publicidad de estos productos dirigida a un público infantil, así como las promociones como premios, regalos o concursos orientadas a a…",
       "page": 91,
       "number": 9,
       "section": "Bienestar, cuidados y salud",
@@ -28591,8 +28593,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Reforma de la Ley Orgánica sobre Derechos y Libertades de los Extranjeros en España y su Inte- gración Social (LOEX) que prime los criterios de reconocimiento d",
-      "detail": "Reforma de la Ley Orgánica sobre Derechos y Libertades de los Extranjeros en España y su Inte- gración Social (LOEX) que prime los criterios de reconocimiento de derechos y que introduzca un procedimiento de regularización permanente.",
+      "title": "Reforma de la Ley Orgánica sobre Derechos y Libertades de los Extranjeros en España y su Integración Social (LOEX) que prime los criterios de reconocimiento de",
+      "detail": "Reforma de la Ley Orgánica sobre Derechos y Libertades de los Extranjeros en España y su Integración Social (LOEX) que prime los criterios de reconocimiento de derechos y que introduzca un procedimiento de regularización permanente.",
       "page": 104,
       "number": 4,
       "section": "Bienestar, cuidados y salud",
@@ -28785,7 +28787,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Blindar el Pacto de Estado contra la Violencia de Género.",
-      "detail": "Blindar el Pacto de Estado contra la Violencia de Género. Continuaremos por la senda del acuer- do adoptado por la Conferencia Sectorial de Igualdad en relación con el Pacto de Estado contra la Violencia de Género, para blindar el marco de actuación conjunta que garantice la estabilidad y la permanencia de las políticas públicas y de los servicios que de aquel se derivan. Se diseñarán me- canismos de colaboración que…",
+      "detail": "Blindar el Pacto de Estado contra la Violencia de Género. Continuaremos por la senda del acuerdo adoptado por la Conferencia Sectorial de Igualdad en relación con el Pacto de Estado contra la Violencia de Género, para blindar el marco de actuación conjunta que garantice la estabilidad y la permanencia de las políticas públicas y de los servicios que de aquel se derivan. Se diseñarán mecanismos de colaboración que gar…",
       "page": 111,
       "number": 9,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -28800,7 +28802,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Garantizar los derechos sexuales y reproductivos de las mujeres.",
-      "detail": "Garantizar los derechos sexuales y reproductivos de las mujeres. La defensa y la promoción de los derechos sexuales y reproductivos de las mujeres son un eje central de trabajo. Será una priori- dad garantizar el acceso efectivo al derecho al aborto desde los servicios públicos de salud en todo el territorio y en condiciones de igualdad. Sin perjuicio de la reciente criminalización del acoso por el que se obstaculiza…",
+      "detail": "Garantizar los derechos sexuales y reproductivos de las mujeres. La defensa y la promoción de los derechos sexuales y reproductivos de las mujeres son un eje central de trabajo. Será una prioridad garantizar el acceso efectivo al derecho al aborto desde los servicios públicos de salud en todo el territorio y en condiciones de igualdad. Sin perjuicio de la reciente criminalización del acoso por el que se obstaculiza e…",
       "page": 111,
       "number": 10,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -28815,7 +28817,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Digitalización, igualdad y violencia.",
-      "detail": "Digitalización, igualdad y violencia. La digitalización reproduce, cuando no agudiza, discrimina- ciones de diverso tipo. Nos preocupa la violencia de género digital. Es necesario contar con herramientas para reconocer e identificar sus distintas formas, lo que incluye prevenir y perseguir el ciberacecho y el ciberacoso sexual, especialmente en el caso de las menores de edad, siendo conscientes de la necesidad 112 Un…",
+      "detail": "Digitalización, igualdad y violencia. La digitalización reproduce, cuando no agudiza, discriminaciones de diverso tipo. Nos preocupa la violencia de género digital. Es necesario contar con herramientas para reconocer e identificar sus distintas formas, lo que incluye prevenir y perseguir el ciberacecho y el ciberacoso sexual, especialmente en el caso de las menores de edad, siendo conscientes de la necesidad 112 Un p…",
       "page": 111,
       "number": 11,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -28875,7 +28877,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Impacto de la Constitución en los derechos de las mujeres.",
-      "detail": "Impacto de la Constitución en los derechos de las mujeres. Se evaluará el impacto que tiene la Constitución española sobre la garantía de los derechos de las mujeres con el objetivo de darle visi- bilidad en el marco constitucional.",
+      "detail": "Impacto de la Constitución en los derechos de las mujeres. Se evaluará el impacto que tiene la Constitución española sobre la garantía de los derechos de las mujeres con el objetivo de darle visibilidad en el marco constitucional.",
       "page": 113,
       "number": 15,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -28890,7 +28892,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Mujeres, transición ecológica y cambio climático.",
-      "detail": "Mujeres, transición ecológica y cambio climático. Las mujeres sufren de forma desproporcio- nada los efectos del cambio climático. Se ahondará en la integración de la perspectiva de género en la formulación, implementación y monitoreo de las políticas relacionadas con la transición ecológica y con el cambio climático; se deberá contar con las mujeres como agentes de cambio, incremen- tando especialmente su presencia…",
+      "detail": "Mujeres, transición ecológica y cambio climático. Las mujeres sufren de forma desproporcionada los efectos del cambio climático. Se ahondará en la integración de la perspectiva de género en la formulación, implementación y monitoreo de las políticas relacionadas con la transición ecológica y con el cambio climático; se deberá contar con las mujeres como agentes de cambio, incrementando especialmente su presencia en l…",
       "page": 113,
       "number": 16,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -28920,7 +28922,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "lmpulso de un pacto de Estado contra los discursos de odio dirigido a: ● Concienciar y sensibilizar a fin de lograr un consenso social y político de repulsa de",
-      "detail": "lmpulso de un pacto de Estado contra los discursos de odio dirigido a: ● Concienciar y sensibilizar a fin de lograr un consenso social y político de repulsa de los mismos. ● Proteger a aquellos grupos que se encuentren en situación de vulnerabilidad como con- secuencia de estos discursos, como el colectivo LGTBI+, las personas gitanas, las perso- nas migrantes, las personas racializadas, las personas sin hogar, las p…",
+      "detail": "lmpulso de un pacto de Estado contra los discursos de odio dirigido a: ● Concienciar y sensibilizar a fin de lograr un consenso social y político de repulsa de los mismos. ● Proteger a aquellos grupos que se encuentren en situación de vulnerabilidad como consecuencia de estos discursos, como el colectivo LGTBI+, las personas gitanas, las personas migrantes, las personas racializadas, las personas sin hogar, las perso…",
       "page": 114,
       "number": 1,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -28935,7 +28937,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Erradicación del odio y la discriminación LGTBI+fóbica.",
-      "detail": "Erradicación del odio y la discriminación LGTBI+fóbica. ● Ahondar en la formación específica de la Administración de Justicia y de las Fuerzas y Cuerpos de Seguridad y en la derivación y la atención a las víctimas en línea con lo pre- visto en el II Plan de Acción de lucha contra los delitos de odio. ● Revisar los protocolos de detección de delitos de odio, para mejorar la identificación de estos.",
+      "detail": "Erradicación del odio y la discriminación LGTBI+fóbica. ● Ahondar en la formación específica de la Administración de Justicia y de las Fuerzas y Cuerpos de Seguridad y en la derivación y la atención a las víctimas en línea con lo previsto en el II Plan de Acción de lucha contra los delitos de odio. ● Revisar los protocolos de detección de delitos de odio, para mejorar la identificación de estos.",
       "page": 114,
       "number": 2,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -28950,7 +28952,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Apoyo a las víctimas y supervivientes de la discriminación y la violencia.",
-      "detail": "Apoyo a las víctimas y supervivientes de la discriminación y la violencia. Partiendo del marco de la Ley 4/2023, se creará una red de recursos de acogida y alojamiento, medios jurídicos, asisten- ciales, psicológicos y de orientación al empleo para las víctimas de la violencia LGTBI+fóbica y se establecerán mecanismos de coordinación con los otros servicios que estén en contacto con las víctimas.",
+      "detail": "Apoyo a las víctimas y supervivientes de la discriminación y la violencia. Partiendo del marco de la Ley 4/2023, se creará una red de recursos de acogida y alojamiento, medios jurídicos, asistenciales, psicológicos y de orientación al empleo para las víctimas de la violencia LGTBI+fóbica y se establecerán mecanismos de coordinación con los otros servicios que estén en contacto con las víctimas.",
       "page": 114,
       "number": 3,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -28965,7 +28967,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Educación y formación en la diversidad.",
-      "detail": "Educación y formación en la diversidad. Proponemos integrar, en el marco de la ya mencionada educación sexoafectiva, la diversidad como factor transversal; planes de formación para su correc- 115 Un proyecto para ensanchar la democracia Feminismos e igualdad ta implementación; el nombramiento de personas o de unidades responsables de promover y ga- rantizar el respeto a la diversidad sexo-genérica en todos los nivele…",
+      "detail": "Educación y formación en la diversidad. Proponemos integrar, en el marco de la ya mencionada educación sexoafectiva, la diversidad como factor transversal; planes de formación para su correcUn proyecto para ensanchar la democracia Feminismos e igualdad ta implementación; el nombramiento de personas o de unidades responsables de promover y garantizar el respeto a la diversidad sexo-genérica en todos los niveles educat…",
       "page": 114,
       "number": 4,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -29414,8 +29416,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Mejoraremos la atención a las víctimas mediante la implantación de servicios de justicia restau- rativa de carácter público y universal en todas las fases del p",
-      "detail": "Mejoraremos la atención a las víctimas mediante la implantación de servicios de justicia restau- rativa de carácter público y universal en todas las fases del proceso penal. Mejoraremos la respues- ta dada a las víctimas, se desarrollará reglamentariamente el Estatuto de la Víctima, estableciendo un derecho de acceso a servicios de justicia restaurativa, para todas las víctimas que así lo soliciten, con la finalidad…",
+      "title": "Mejoraremos la atención a las víctimas mediante la implantación de servicios de justicia restaurativa de carácter público y universal en todas las fases del pro",
+      "detail": "Mejoraremos la atención a las víctimas mediante la implantación de servicios de justicia restaurativa de carácter público y universal en todas las fases del proceso penal. Mejoraremos la respuesta dada a las víctimas, se desarrollará reglamentariamente el Estatuto de la Víctima, estableciendo un derecho de acceso a servicios de justicia restaurativa, para todas las víctimas que así lo soliciten, con la finalidad de o…",
       "page": 124,
       "number": 4,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -29625,7 +29627,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Renovación del Consejo General del Poder Judicial.",
-      "detail": "Renovación del Consejo General del Poder Judicial. Necesitamos un Consejo General del Po- der Judicial (CGPJ) que sea reflejo de la pluralidad democrática de nuestro país y que dé lugar a un gobierno transparente del poder judicial, evitando su uso partidista y garantizando el interés gene- ral de la ciudadanía. Para eso es preciso reformular su sistema de elección y reforzar su naturaleza democrática y, por tanto, e…",
+      "detail": "Renovación del Consejo General del Poder Judicial. Necesitamos un Consejo General del Poder Judicial (CGPJ) que sea reflejo de la pluralidad democrática de nuestro país y que dé lugar a un gobierno transparente del poder judicial, evitando su uso partidista y garantizando el interés general de la ciudadanía. Para eso es preciso reformular su sistema de elección y reforzar su naturaleza democrática y, por tanto, el pr…",
       "page": 129,
       "number": 20,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -29985,7 +29987,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Una política exterior comprometida con la justicia climática global.",
-      "detail": "Una política exterior comprometida con la justicia climática global. ● Promoveremos la conformación de una Internacional Climática que impulse la descarbo- nización de la economía, la provisión de energías renovables, la justicia climática global y el cumplimiento de los compromisos del Acuerdo de París y del Pacto Verde Europeo. ● Apoyaremos la Agenda de Bridgetown y promoveremos la creación de un fondo mundial para…",
+      "detail": "Una política exterior comprometida con la justicia climática global. ● Promoveremos la conformación de una Internacional Climática que impulse la descarbonización de la economía, la provisión de energías renovables, la justicia climática global y el cumplimiento de los compromisos del Acuerdo de París y del Pacto Verde Europeo. ● Apoyaremos la Agenda de Bridgetown y promoveremos la creación de un fondo mundial para l…",
       "page": 138,
       "number": 1,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30000,7 +30002,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "España, impulsora de un nuevo multilateralismo democrático.",
-      "detail": "España, impulsora de un nuevo multilateralismo democrático. ● Apoyaremos una reestructuración profunda del sistema de Naciones Unidas y de or - ganismos como el Fondo Monetario Internacional y el Banco Mundial para que sean organismos más transparentes, dotarlos de capacidad operativa y de mecanismos de rendición de cuentas, mejorar la representatividad y derechos de voto del Sur Global y fortalecer la participación…",
+      "detail": "España, impulsora de un nuevo multilateralismo democrático. ● Apoyaremos una reestructuración profunda del sistema de Naciones Unidas y de organismos como el Fondo Monetario Internacional y el Banco Mundial para que sean organismos más transparentes, dotarlos de capacidad operativa y de mecanismos de rendición de cuentas, mejorar la representatividad y derechos de voto del Sur Global y fortalecer la participación de…",
       "page": 138,
       "number": 2,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30015,7 +30017,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Garantizar la paz y la seguridad humana en el mundo.",
-      "detail": "Garantizar la paz y la seguridad humana en el mundo. ● Apostaremos por implementar en las instituciones globales enfoques más amplios de seguridad humana que prioricen la protección del medioambiente, los derechos huma - nos y el bienestar de las personas. ● Adoptaremos, en el ámbito específico de la política de defensa, una Estrategia Nacio - nal de Seguridad Humana que fortalezca el compromiso con el derecho intern…",
+      "detail": "Garantizar la paz y la seguridad humana en el mundo. ● Apostaremos por implementar en las instituciones globales enfoques más amplios de seguridad humana que prioricen la protección del medioambiente, los derechos humanos y el bienestar de las personas. ● Adoptaremos, en el ámbito específico de la política de defensa, una Estrategia Nacional de Seguridad Humana que fortalezca el compromiso con el derecho internaciona…",
       "page": 138,
       "number": 3,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30045,7 +30047,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Los derechos humanos, pilar de nuestra acción exterior.",
-      "detail": "Los derechos humanos, pilar de nuestra acción exterior. ● Adoptaremos un plan nacional de derechos humanos y acción exterior con un enfoque feminista e interseccional, un programa integral de protección de las personas defen - soras de los derechos humanos y una ley nacional de debida diligencia en la cadena de suministro para reorientar nuestra política exterior, en todas las dimensiones y con todos los instrumentos…",
+      "detail": "Los derechos humanos, pilar de nuestra acción exterior. ● Adoptaremos un plan nacional de derechos humanos y acción exterior con un enfoque feminista e interseccional, un programa integral de protección de las personas defensoras de los derechos humanos y una ley nacional de debida diligencia en la cadena de suministro para reorientar nuestra política exterior, en todas las dimensiones y con todos los instrumentos, c…",
       "page": 139,
       "number": 5,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30060,7 +30062,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Un país que defienda una Europa autónoma y con voz propia en el mundo.",
-      "detail": "Un país que defienda una Europa autónoma y con voz propia en el mundo. ● Impulsaremos una Europa con un lugar autónomo y una voz propia en el mundo ac - tual, que acompase valores e intereses y ponga en el centro los derechos humanos y la lucha contra la emergencia climática y las desigualdades globales, incluidas las de género. ● Promoveremos el desplazamiento progresivo de las garantías de seguridad de la OTAN haci…",
+      "detail": "Un país que defienda una Europa autónoma y con voz propia en el mundo. ● Impulsaremos una Europa con un lugar autónomo y una voz propia en el mundo actual, que acompase valores e intereses y ponga en el centro los derechos humanos y la lucha contra la emergencia climática y las desigualdades globales, incluidas las de género. ● Promoveremos el desplazamiento progresivo de las garantías de seguridad de la OTAN hacia u…",
       "page": 139,
       "number": 6,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30075,7 +30077,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Una internacional feminista y orgullosamente diversa.",
-      "detail": "Una internacional feminista y orgullosamente diversa. ● Avanzaremos y profundizaremos en el desarrollo de una política exterior que contribuya a eliminar las causas estructurales que generan desigualdades de género en el mundo. ● Impulsaremos la creación de una alianza global por la igualdad y la diversidad, una interna- cional feminista conformada por aquellos países que promuevan activamente la igualdad de género y…",
+      "detail": "Una internacional feminista y orgullosamente diversa. ● Avanzaremos y profundizaremos en el desarrollo de una política exterior que contribuya a eliminar las causas estructurales que generan desigualdades de género en el mundo. ● Impulsaremos la creación de una alianza global por la igualdad y la diversidad, una internacional feminista conformada por aquellos países que promuevan activamente la igualdad de género y l…",
       "page": 140,
       "number": 8,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30090,7 +30092,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Unas relaciones renovadas y una nueva agenda progresista con América Latina.",
-      "detail": "Unas relaciones renovadas y una nueva agenda progresista con América Latina. ● Avanzaremos hacia unas relaciones horizontales con América Latina que incluyan la par- ticipación de actores no estatales y movimientos sociales e indígenas de la región. ● Reforzaremos los vínculos con Gobiernos progresistas latinoamericanos para impulsar agendas compartidas de progreso en foros internacionales e iberoamericanos, dando ac…",
+      "detail": "Unas relaciones renovadas y una nueva agenda progresista con América Latina. ● Avanzaremos hacia unas relaciones horizontales con América Latina que incluyan la participación de actores no estatales y movimientos sociales e indígenas de la región. ● Reforzaremos los vínculos con Gobiernos progresistas latinoamericanos para impulsar agendas compartidas de progreso en foros internacionales e iberoamericanos, dando acom…",
       "page": 140,
       "number": 9,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30105,7 +30107,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Una nueva relación estratégica con nuestra Vecindad Sur.",
-      "detail": "Una nueva relación estratégica con nuestra Vecindad Sur. ● Construiremos una visión estratégica hacia nuestra Vecindad Sur que acompase inte - reses y valores y supere la visión dicotómica que reduce estas relaciones de vecindad al prisma exclusivo de cooperación o conflicto en la región del Magreb. En situaciones de tensión, apostaremos por el diálogo, sin abandonar los valores y objetivos propios, evitando una polí…",
+      "detail": "Una nueva relación estratégica con nuestra Vecindad Sur. ● Construiremos una visión estratégica hacia nuestra Vecindad Sur que acompase intereses y valores y supere la visión dicotómica que reduce estas relaciones de vecindad al prisma exclusivo de cooperación o conflicto en la región del Magreb. En situaciones de tensión, apostaremos por el diálogo, sin abandonar los valores y objetivos propios, evitando una polític…",
       "page": 141,
       "number": 10,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30135,7 +30137,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Un servicio exterior moderno y democrático.",
-      "detail": "Un servicio exterior moderno y democrático. ● Reordenaremos las prioridades de la política exterior española, privilegiando asuntos como la igualdad, la diversidad, las cuestiones climáticas y la construcción de paz. ● Daremos al conjunto de nuestra política exterior una capacidad de anticipación proposi- tiva y dinámica, así como una mayor coherencia y coordinación con los actores implica- dos en la agenda exterior.…",
+      "detail": "Un servicio exterior moderno y democrático. ● Reordenaremos las prioridades de la política exterior española, privilegiando asuntos como la igualdad, la diversidad, las cuestiones climáticas y la construcción de paz. ● Daremos al conjunto de nuestra política exterior una capacidad de anticipación propositiva y dinámica, así como una mayor coherencia y coordinación con los actores implicados en la agenda exterior. ● I…",
       "page": 142,
       "number": 12,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30165,7 +30167,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Un Pacto Verde Europeo con ambiciones renovadas y objetivos adelantados.",
-      "detail": "Un Pacto Verde Europeo con ambiciones renovadas y objetivos adelantados. ● Impulsaremos el papel de la Unión Europea como promotora de una planificación ecoló- gica en clave democrática a escala global, aprovechando su liderazgo normativo y regu- latorio, su facultad para ejercer la diplomacia climática y su capacidad de evitar la com- petencia a la baja entre los Estados miembros. ● Reforzaremos decididamente los in…",
+      "detail": "Un Pacto Verde Europeo con ambiciones renovadas y objetivos adelantados. ● Impulsaremos el papel de la Unión Europea como promotora de una planificación ecológica en clave democrática a escala global, aprovechando su liderazgo normativo y regulatorio, su facultad para ejercer la diplomacia climática y su capacidad de evitar la competencia a la baja entre los Estados miembros. ● Reforzaremos decididamente los instrume…",
       "page": 143,
       "number": 13,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30180,7 +30182,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Reforma de los tratados para blindar la Europa social.",
-      "detail": "Reforma de los tratados para blindar la Europa social. ● Promoveremos la inclusión de un protocolo de progreso social en los tratados para garantizar que, en caso de conflicto, los derechos sociales, económicos, culturales y medioambientales de las personas tengan prioridad sobre las libertades económicas de las corporaciones. ● Haremos de la Carta de Derechos Fundamentales de la Unión Europea y de la Carta So- cial…",
+      "detail": "Reforma de los tratados para blindar la Europa social. ● Promoveremos la inclusión de un protocolo de progreso social en los tratados para garantizar que, en caso de conflicto, los derechos sociales, económicos, culturales y medioambientales de las personas tengan prioridad sobre las libertades económicas de las corporaciones. ● Haremos de la Carta de Derechos Fundamentales de la Unión Europea y de la Carta Social Eu…",
       "page": 143,
       "number": 14,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30195,7 +30197,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Una Europa con una política social a escala continental.",
-      "detail": "Una Europa con una política social a escala continental. ● Garantizaremos que la ciudadanía europea tenga acceso a protección social en las mis- mas condiciones, con independencia de su lugar de residencia, armonizando las normas que regulan el acceso a las prestaciones por parte de la ciudadanía de otros Estados, mejorando la coordinación entre las autoridades nacionales para garantizar los derechos, perfeccionando…",
+      "detail": "Una Europa con una política social a escala continental. ● Garantizaremos que la ciudadanía europea tenga acceso a protección social en las mismas condiciones, con independencia de su lugar de residencia, armonizando las normas que regulan el acceso a las prestaciones por parte de la ciudadanía de otros Estados, mejorando la coordinación entre las autoridades nacionales para garantizar los derechos, perfeccionando lo…",
       "page": 143,
       "number": 15,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30210,7 +30212,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Un horizonte feminista para Europa.",
-      "detail": "Un horizonte feminista para Europa. ● Lideraremos a nivel europeo la lucha contra la violencia machista y la defensa del Con- venio de Estambul frente a las fuerzas reaccionarias del continente y reforzaremos los mecanismos para luchar contra la trata de personas. ● Garantizaremos que todas la políticas públicas, normativas y presupuestos de la Unión Europea y de los Estados miembros se elaboren desde la perspectiva…",
+      "detail": "Un horizonte feminista para Europa. ● Lideraremos a nivel europeo la lucha contra la violencia machista y la defensa del Convenio de Estambul frente a las fuerzas reaccionarias del continente y reforzaremos los mecanismos para luchar contra la trata de personas. ● Garantizaremos que todas la políticas públicas, normativas y presupuestos de la Unión Europea y de los Estados miembros se elaboren desde la perspectiva de…",
       "page": 144,
       "number": 16,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30240,7 +30242,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Llevar la democracia económica a Europa.",
-      "detail": "Llevar la democracia económica a Europa. ● Sustituiremos el Mecanismo Europeo de Estabilidad, situado fuera del ámbito del dere- cho de la Unión Europea, por una agencia europea de la deuda plenamente responsable ante el Parlamento Europeo y con un mandato renovado que haga posible el desarrollo de políticas macroeconómicas activas a escala europea. ● Lucharemos por la reforma del Sistema Europeo de Bancos Centrales…",
+      "detail": "Llevar la democracia económica a Europa. ● Sustituiremos el Mecanismo Europeo de Estabilidad, situado fuera del ámbito del derecho de la Unión Europea, por una agencia europea de la deuda plenamente responsable ante el Parlamento Europeo y con un mandato renovado que haga posible el desarrollo de políticas macroeconómicas activas a escala europea. ● Lucharemos por la reforma del Sistema Europeo de Bancos Centrales pa…",
       "page": 145,
       "number": 19,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30255,7 +30257,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Una política fiscal europea que ponga fin a los paraísos fiscales.",
-      "detail": "Una política fiscal europea que ponga fin a los paraísos fiscales. ● Promoveremos un plan de choque para terminar con el fraude fiscal, que priorice la lu- cha contra los paraísos fiscales, reformando la lista negra de la Unión de paraísos inter- nos y externos con criterios de inclusión más exigentes y transparentes. ● Impulsaremos que la Unión Europea asuma la coordinación de los sistemas tributarios de los Estados…",
+      "detail": "Una política fiscal europea que ponga fin a los paraísos fiscales. ● Promoveremos un plan de choque para terminar con el fraude fiscal, que priorice la lucha contra los paraísos fiscales, reformando la lista negra de la Unión de paraísos internos y externos con criterios de inclusión más exigentes y transparentes. ● Impulsaremos que la Unión Europea asuma la coordinación de los sistemas tributarios de los Estados mie…",
       "page": 145,
       "number": 20,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30270,7 +30272,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Las personas y sus derechos fundamentales, en el corazón de Europa.",
-      "detail": "Las personas y sus derechos fundamentales, en el corazón de Europa. ● Promoveremos la transformación del espacio de libertad, seguridad y justicia en la Eu- ropa de las personas, para privilegiar el respeto de los derechos fundamentales, tanto 146 Un programa internacional. España, potencia de paz y progreso Una política exterior para cuidar la democracia y el planeta de la ciudadanía europea como de los de terceros…",
+      "detail": "Las personas y sus derechos fundamentales, en el corazón de Europa. ● Promoveremos la transformación del espacio de libertad, seguridad y justicia en la Europa de las personas, para privilegiar el respeto de los derechos fundamentales, tanto 146 Un programa internacional. España, potencia de paz y progreso Una política exterior para cuidar la democracia y el planeta de la ciudadanía europea como de los de terceros pa…",
       "page": 145,
       "number": 21,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30285,7 +30287,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Una Europa más democrática.",
-      "detail": "Una Europa más democrática. ● Promoveremos una reforma integral de los tratados y de otros instrumentos comunita- rios para profundizar la democracia en la Unión Europea y asegurar su funcionalidad en el caso de futuras ampliaciones. ● Perfeccionaremos la arquitectura institucional de la Unión Europea, disminuyendo las competencias del Consejo Europeo y limitando la unanimidad en el seno del Consejo. ● Apoyaremos que…",
+      "detail": "Una Europa más democrática. ● Promoveremos una reforma integral de los tratados y de otros instrumentos comunitarios para profundizar la democracia en la Unión Europea y asegurar su funcionalidad en el caso de futuras ampliaciones. ● Perfeccionaremos la arquitectura institucional de la Unión Europea, disminuyendo las competencias del Consejo Europeo y limitando la unanimidad en el seno del Consejo. ● Apoyaremos que s…",
       "page": 146,
       "number": 22,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30330,7 +30332,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Una cooperación al servicio de la planificación ecológica a escala global.",
-      "detail": "Una cooperación al servicio de la planificación ecológica a escala global. ● Apoyaremos que se compense con fondos multilaterales a los países del Sur Global por los costes que comporta preservar la biodiversidad, por los daños motivados por el problema del cambio climático —del cual no son los principales culpables— y por termi- nar con el extractivismo y la explotación de recursos naturales y quema de combustibles…",
+      "detail": "Una cooperación al servicio de la planificación ecológica a escala global. ● Apoyaremos que se compense con fondos multilaterales a los países del Sur Global por los costes que comporta preservar la biodiversidad, por los daños motivados por el problema del cambio climático —del cual no son los principales culpables— y por terminar con el extractivismo y la explotación de recursos naturales y quema de combustibles fó…",
       "page": 147,
       "number": 24,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30345,7 +30347,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "La lucha contra las desigualdades: el eje vertebrador de nuestra política de desarrollo.",
-      "detail": "La lucha contra las desigualdades: el eje vertebrador de nuestra política de desarrollo. ● Apoyaremos, en los países del Sur Global, la consolidación de instituciones democráti- cas, sistemas fiscales capaces y progresivos, y políticas públicas orientadas a mejorar las condiciones de vida de la ciudadanía y a garantizar un reparto más justo de las tareas de reproducción y del cuidado de la vida, tradicionalmente dele…",
+      "detail": "La lucha contra las desigualdades: el eje vertebrador de nuestra política de desarrollo. ● Apoyaremos, en los países del Sur Global, la consolidación de instituciones democráticas, sistemas fiscales capaces y progresivos, y políticas públicas orientadas a mejorar las condiciones de vida de la ciudadanía y a garantizar un reparto más justo de las tareas de reproducción y del cuidado de la vida, tradicionalmente delega…",
       "page": 147,
       "number": 25,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30360,7 +30362,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "La justicia de género: pilar de la nueva cooperación española.",
-      "detail": "La justicia de género: pilar de la nueva cooperación española. ● Construiremos una cooperación al desarrollo verdaderamente feminista, que defienda los derechos humanos de las mujeres y las niñas, luche contra las violencias de género y ponga el cuidado de las personas y del planeta en el centro. ● Impulsaremos la convergencia entre la agenda de desarrollo y los convenios interna- cionales de derechos humanos —en par…",
+      "detail": "La justicia de género: pilar de la nueva cooperación española. ● Construiremos una cooperación al desarrollo verdaderamente feminista, que defienda los derechos humanos de las mujeres y las niñas, luche contra las violencias de género y ponga el cuidado de las personas y del planeta en el centro. ● Impulsaremos la convergencia entre la agenda de desarrollo y los convenios internacionales de derechos humanos —en parti…",
       "page": 147,
       "number": 26,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30390,7 +30392,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Una nueva arquitectura de cooperación a la altura del reto.",
-      "detail": "Una nueva arquitectura de cooperación a la altura del reto. ● Fortaleceremos el centro político y estratégico del sistema de cooperación en el seno del Gobierno, ubicándolo en una Vicepresidencia, bien dotada técnicamente y con capaci- dad de coordinación con los Ministerios implicados. ● Reformaremos en profundidad la Agencia Española de Cooperación Internacional al De- sarrollo (AECID), convirtiéndola en una instit…",
+      "detail": "Una nueva arquitectura de cooperación a la altura del reto. ● Fortaleceremos el centro político y estratégico del sistema de cooperación en el seno del Gobierno, ubicándolo en una Vicepresidencia, bien dotada técnicamente y con capacidad de coordinación con los Ministerios implicados. ● Reformaremos en profundidad la Agencia Española de Cooperación Internacional al Desarrollo (AECID), convirtiéndola en una institució…",
       "page": 148,
       "number": 29,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30405,7 +30407,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Una ciudadanía comprometida con la agenda de desarrollo.",
-      "detail": "Una ciudadanía comprometida con la agenda de desarrollo. ● Fortaleceremos los mecanismos de participación de la sociedad civil en el diseño y apli- cación de las políticas públicas vinculadas al desarrollo. ● Estableceremos mecanismos de apoyo directo a las organizaciones de la sociedad civil en los países socios, incluidas las organizaciones comunitarias, los agentes privados y los agentes locales o regionales. ● Ad…",
+      "detail": "Una ciudadanía comprometida con la agenda de desarrollo. ● Fortaleceremos los mecanismos de participación de la sociedad civil en el diseño y aplicación de las políticas públicas vinculadas al desarrollo. ● Estableceremos mecanismos de apoyo directo a las organizaciones de la sociedad civil en los países socios, incluidas las organizaciones comunitarias, los agentes privados y los agentes locales o regionales. ● Adop…",
       "page": 148,
       "number": 30,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30419,8 +30421,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Una política de movilidad humana con los derechos hu- manos en el centro",
-      "detail": "Una política de movilidad humana con los derechos hu- manos en el centro",
+      "title": "Una política de movilidad humana con los derechos humanos en el centro",
+      "detail": "Una política de movilidad humana con los derechos humanos en el centro",
       "page": 149,
       "number": 4,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30464,8 +30466,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Aceleración de la adopción de legislación y acuerdos interna- cionales en migración, asilo y refugio.",
-      "detail": "Aceleración de la adopción de legislación y acuerdos interna- cionales en migración, asilo y refugio. ● Promoveremos la ratificación, a la mayor brevedad, de la Convención internacional de protección de los derechos de los trabajadores migratorios y sus familiares. ● Aseguraremos la implementación de los acuerdos del Pacto Mundial para una Migración Segura, Ordenada y Regular. ● Avanzaremos en la transposición plena…",
+      "title": "Aceleración de la adopción de legislación y acuerdos internacionales en migración, asilo y refugio.",
+      "detail": "Aceleración de la adopción de legislación y acuerdos internacionales en migración, asilo y refugio. ● Promoveremos la ratificación, a la mayor brevedad, de la Convención internacional de protección de los derechos de los trabajadores migratorios y sus familiares. ● Aseguraremos la implementación de los acuerdos del Pacto Mundial para una Migración Segura, Ordenada y Regular. ● Avanzaremos en la transposición plena de…",
       "page": 149,
       "number": 33,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30480,7 +30482,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Un acceso al asilo más sencillo, rápido y democrático.",
-      "detail": "Un acceso al asilo más sencillo, rápido y democrático. ● Estableceremos un procedimiento para atender los casos de asilo que se presenten fue- ra del territorio nacional para proteger la vida de todas las personas, con independencia de su estatus jurídico. ● Aseguraremos que los consulados y embajadas de España reciban las solicitudes de manera presencial o virtual, garanticen el acceso físico a la representación y h…",
+      "detail": "Un acceso al asilo más sencillo, rápido y democrático. ● Estableceremos un procedimiento para atender los casos de asilo que se presenten fuera del territorio nacional para proteger la vida de todas las personas, con independencia de su estatus jurídico. ● Aseguraremos que los consulados y embajadas de España reciban las solicitudes de manera presencial o virtual, garanticen el acceso físico a la representación y hab…",
       "page": 150,
       "number": 34,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -30495,7 +30497,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Protección de la ciudadanía española en el exterior.",
-      "detail": "Protección de la ciudadanía española en el exterior. ● Reforzaremos la red consular y de extranjería con la ampliación de su plantilla y actuali- zaremos los salarios y el Acuerdo de Condiciones de Trabajo Administración-Sindicatos de 2008 para el personal laboral en el exterior. ● Pondremos en marcha una política de diáspora integral, hasta ahora ausente, hacia los españoles residentes en el extranjero, que conlleve…",
+      "detail": "Protección de la ciudadanía española en el exterior. ● Reforzaremos la red consular y de extranjería con la ampliación de su plantilla y actualizaremos los salarios y el Acuerdo de Condiciones de Trabajo Administración-Sindicatos de 2008 para el personal laboral en el exterior. ● Pondremos en marcha una política de diáspora integral, hasta ahora ausente, hacia los españoles residentes en el extranjero, que conlleve e…",
       "page": 150,
       "number": 35,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -31005,7 +31007,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Democratización de la universidad reforzando el protagonismo de los órganos representativos de participación y promoviendo el papel de los distintos sectores, s",
-      "detail": "Democratización de la universidad reforzando el protagonismo de los órganos representativos de participación y promoviendo el papel de los distintos sectores, sobre todo de los infrarrepre- sentados, especialmente del estudiantado. Dotaremos a las personas representantes de los medios necesarios para llevar a cabo sus funciones, así como del reconocimiento correspondiente, con es- pecial consideración de las desigual…",
+      "detail": "Democratización de la universidad reforzando el protagonismo de los órganos representativos de participación y promoviendo el papel de los distintos sectores, sobre todo de los infrarrepresentados, especialmente del estudiantado. Dotaremos a las personas representantes de los medios necesarios para llevar a cabo sus funciones, así como del reconocimiento correspondiente, con especial consideración de las desigualdade…",
       "page": 163,
       "number": 15,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -31440,7 +31442,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Acceso y diversificación de la programación cultural.",
-      "detail": "Acceso y diversificación de la programación cultural. Desde el Ministerio de Cultura y Deporte se impulsará la descentralización de sus centros y unidades de producción, exhibición, difusión, archivo o documentación. Se garantizarán mecanismos para la circulación e itinerancia de las pro- ducciones y proyectos de las instituciones culturales públicas estatales y para intensificar el apoyo en el mismo sentido a la ini…",
+      "detail": "Acceso y diversificación de la programación cultural. Desde el Ministerio de Cultura y Deporte se impulsará la descentralización de sus centros y unidades de producción, exhibición, difusión, archivo o documentación. Se garantizarán mecanismos para la circulación e itinerancia de las producciones y proyectos de las instituciones culturales públicas estatales y para intensificar el apoyo en el mismo sentido a la inici…",
       "page": 171,
       "number": 19,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -31650,7 +31652,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Promoción del deporte en la comunidad y en el ámbito personal, la práctica intergeneracional y la vida activa.",
-      "detail": "Promoción del deporte en la comunidad y en el ámbito personal, la práctica intergeneracional y la vida activa. Es necesario: ● Promover la creación de ludotecas en las instalaciones deportivas multidisciplinares, bien de nueva construcción bien aprovechando sinergias de equipamientos públicos cer- canos (polideportivos, colegios, bibliotecas, centros culturales…) para crear una red de actividades dirigidas al bienest…",
+      "detail": "Promoción del deporte en la comunidad y en el ámbito personal, la práctica intergeneracional y la vida activa. Es necesario: ● Promover la creación de ludotecas en las instalaciones deportivas multidisciplinares, bien de nueva construcción bien aprovechando sinergias de equipamientos públicos cercanos (polideportivos, colegios, bibliotecas, centros culturales…) para crear una red de actividades dirigidas al bienestar…",
       "page": 175,
       "number": 3,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -31680,7 +31682,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Lograr la igualdad de género efectiva en el deporte.",
-      "detail": "Lograr la igualdad de género efectiva en el deporte. Para lograrlo debemos: ● Garantizar la presencia del deporte femenino en la carta de servicios de la radio y televi- sión públicas y el adecuado tratamiento informativo (sin estereotipos de género) en los medios de comunicación. ● Promover la presencia de mujeres en los cargos federativos y ámbitos técnicos del de- porte reglado. ● Aumentar y garantizar el derecho…",
+      "detail": "Lograr la igualdad de género efectiva en el deporte. Para lograrlo debemos: ● Garantizar la presencia del deporte femenino en la carta de servicios de la radio y televisión públicas y el adecuado tratamiento informativo (sin estereotipos de género) en los medios de comunicación. ● Promover la presencia de mujeres en los cargos federativos y ámbitos técnicos del deporte reglado. ● Aumentar y garantizar el derecho de c…",
       "page": 175,
       "number": 5,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -31739,8 +31741,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Garantizar la adecuada regulación profesional y las salidas laborales de deportistas de alto ren- dimiento en España ● Contribuir al desarrollo de una legislaci",
-      "detail": "Garantizar la adecuada regulación profesional y las salidas laborales de deportistas de alto ren- dimiento en España ● Contribuir al desarrollo de una legislación estatal de regulación profesional. ● Aplicar un sistema de inspección del personal contratado en las tareas profesionales de la actividad física y deportiva para evitar el intrusismo y garantizar la salud pública. ● Diseñar planes de empleo deportivo para p…",
+      "title": "Garantizar la adecuada regulación profesional y las salidas laborales de deportistas de alto rendimiento en España ● Contribuir al desarrollo de una legislación",
+      "detail": "Garantizar la adecuada regulación profesional y las salidas laborales de deportistas de alto rendimiento en España ● Contribuir al desarrollo de una legislación estatal de regulación profesional. ● Aplicar un sistema de inspección del personal contratado en las tareas profesionales de la actividad física y deportiva para evitar el intrusismo y garantizar la salud pública. ● Diseñar planes de empleo deportivo para pro…",
       "page": 177,
       "number": 10,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -31769,8 +31771,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Apuesta por la investigación, la formación y el desarrollo normativo ante una sociedad cam- biante.",
-      "detail": "Apuesta por la investigación, la formación y el desarrollo normativo ante una sociedad cam- biante. Será necesario: 178 Un proyecto de educación, universidad, conocimiento, ciencia, cultura, deporte, innovación y digitalización para la cohesión social y la transición justa y sostenible Digitalización con derechos ● Crear un Observatorio Nacional del Deporte, dirigido a la realización estable de investiga- ción relaci…",
+      "title": "Apuesta por la investigación, la formación y el desarrollo normativo ante una sociedad cambiante.",
+      "detail": "Apuesta por la investigación, la formación y el desarrollo normativo ante una sociedad cambiante. Será necesario: 178 Un proyecto de educación, universidad, conocimiento, ciencia, cultura, deporte, innovación y digitalización para la cohesión social y la transición justa y sostenible Digitalización con derechos ● Crear un Observatorio Nacional del Deporte, dirigido a la realización estable de investigación relacionad…",
       "page": 177,
       "number": 12,
       "section": "Democracia, derechos, conocimiento y política exterior",
@@ -32012,7 +32014,7 @@ window.ELECTION_SOURCE_CATALOG = {
   "VOX": [
     {
       "title": "Promoveremos un estado unitario administrativamente descentralizado que sea capaz de promover la igualdad y la solidaridad entre todos los españoles independien",
-      "detail": "Promoveremos un estado unitario administrativamente descentralizado que sea capaz de promover la igualdad y la solidaridad entre todos los españoles independiente - mente del lugar de España en el que residan. La descentra - lización política desarrollada por el estado autonómico, lejos de acercar las administraciones a los ciudadanos, ha creado nuevos centralismos que han usado su capacidad para le - gislar siempre…",
+      "detail": "Promoveremos un estado unitario administrativamente descentralizado que sea capaz de promover la igualdad y la solidaridad entre todos los españoles independientemente del lugar de España en el que residan. La descentralización política desarrollada por el estado autonómico, lejos de acercar las administraciones a los ciudadanos, ha creado nuevos centralismos que han usado su capacidad para legislar siempre en benefi…",
       "page": 8,
       "number": 1,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32026,37 +32028,38 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Mientras logramos ese objetivo, proponemos la devolución inmediata al Estado de las competencias en Educación, Sa - nidad, Seguridad y Justicia.",
-      "detail": "Mientras logramos ese objetivo, proponemos la devolución inmediata al Estado de las competencias en Educación, Sa - nidad, Seguridad y Justicia. Limitaremos en todo lo posible la capacidad legislativa autonómica para terminar con 17 sis - temas normativos distintos y pondremos en marcha todas las medidas necesarias para garantizar la igualdad y los de - rechos de todos los españoles.",
+      "title": "Mientras logramos ese objetivo, proponemos la devolución inmediata al Estado de las competencias en Educación, Sanidad, Seguridad y Justicia.",
+      "detail": "Mientras logramos ese objetivo, proponemos la devolución inmediata al Estado de las competencias en Educación, Sanidad, Seguridad y Justicia. Limitaremos en todo lo posible la capacidad legislativa autonómica para terminar con 17 sistemas normativos distintos y pondremos en marcha todas las medidas necesarias para garantizar la igualdad y los derechos de todos los españoles.",
       "page": 8,
       "number": 2,
       "section": "Igualdad entre españoles y unidad de España",
       "subthemeIds": [
+        "sanidad-salud",
         "educacion-conocimiento",
-        "impuestos-fiscalidad",
-        "organizacion-territorial"
+        "impuestos-fiscalidad"
       ],
       "priorityIndex": 0,
       "originalBlockIndex": 0,
       "kind": "document"
     },
     {
-      "title": "Trabajaremos en todos los ámbitos para acabar con las fron- teras artificiales creadas por las comunidades autónomas que además de atentar contra los derechos d",
-      "detail": "Trabajaremos en todos los ámbitos para acabar con las fron- teras artificiales creadas por las comunidades autónomas que además de atentar contra los derechos de los españoles, impiden el desarrollo social y económico de nuestra nación. Acometeremos la unificación de procesos y la interoperabili - dad de procedimientos con el fin de garantizar un óptimo fun- cionamiento de los servicios públicos con leyes de ordenaci…",
+      "title": "Trabajaremos en todos los ámbitos para acabar con las fronteras artificiales creadas por las comunidades autónomas que además de atentar contra los derechos de",
+      "detail": "Trabajaremos en todos los ámbitos para acabar con las fronteras artificiales creadas por las comunidades autónomas que además de atentar contra los derechos de los españoles, impiden el desarrollo social y económico de nuestra nación. Acometeremos la unificación de procesos y la interoperabilidad de procedimientos con el fin de garantizar un óptimo funcionamiento de los servicios públicos con leyes de ordenación y co…",
       "page": 8,
       "number": 3,
       "section": "Igualdad entre españoles y unidad de España",
       "subthemeIds": [
+        "fronteras-control",
         "organizacion-territorial",
-        "derechos-igualdad"
+        "administracion-digital"
       ],
       "priorityIndex": 0,
       "originalBlockIndex": 0,
       "kind": "document"
     },
     {
-      "title": "Suprimiremos todos los privilegios legales y fiscales am - parados en supuestos “derechos históricos” que provocan 9 la desigualdad entre territorios.",
-      "detail": "Suprimiremos todos los privilegios legales y fiscales am - parados en supuestos “derechos históricos” que provocan 9 la desigualdad entre territorios. VOX respeta y defiende los Fueros de carácter civil en su vertiente privada (familia, ma - trimonio, sucesiones), que han sido desnaturalizados y dege - nerados en un sistema injusto de privilegios y ventajas fisca - les, de carácter público financiero y tributario.",
+      "title": "Suprimiremos todos los privilegios legales y fiscales amparados en supuestos “derechos históricos” que provocan 9 la desigualdad entre territorios.",
+      "detail": "Suprimiremos todos los privilegios legales y fiscales amparados en supuestos “derechos históricos” que provocan 9 la desigualdad entre territorios. VOX respeta y defiende los Fueros de carácter civil en su vertiente privada (familia, matrimonio, sucesiones), que han sido desnaturalizados y degenerados en un sistema injusto de privilegios y ventajas fiscales, de carácter público financiero y tributario.",
       "page": 8,
       "number": 4,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32070,8 +32073,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Garantizaremos el uso del español en todo el territorio na - cional.",
-      "detail": "Garantizaremos el uso del español en todo el territorio na - cional. Suprimiremos cualquier forma de discriminación entre los españ oles por razón de la lengua y acabaremos con el apartheid lingüístico que crea españoles de primera y de segunda categoría. La rica diversidad de España, su plu - ralidad provincial y comarcal, están amenazadas por un es - tado autonómico que trata de crear falsas identidades que nos div…",
+      "title": "Garantizaremos el uso del español en todo el territorio nacional.",
+      "detail": "Garantizaremos el uso del español en todo el territorio nacional. Suprimiremos cualquier forma de discriminación entre los españ oles por razón de la lengua y acabaremos con el apartheid lingüístico que crea españoles de primera y de segunda categoría. La rica diversidad de España, su pluralidad provincial y comarcal, están amenazadas por un estado autonómico que trata de crear falsas identidades que nos dividen y en…",
       "page": 9,
       "number": 5,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32085,7 +32088,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Recuperaremos la vitalidad y autonomía de los municipios.",
-      "detail": "Recuperaremos la vitalidad y autonomía de los municipios. Para ello, se les debe liberar de la ineficiente estructura au - tonómica y del ejercicio de competencias innecesarias para que se concentre toda su fuerza en promover lugares segu - ros de convivencia entre vecinos, creación de empleo e ini - ciativas vecinales.",
+      "detail": "Recuperaremos la vitalidad y autonomía de los municipios. Para ello, se les debe liberar de la ineficiente estructura autonómica y del ejercicio de competencias innecesarias para que se concentre toda su fuerza en promover lugares seguros de convivencia entre vecinos, creación de empleo e iniciativas vecinales.",
       "page": 9,
       "number": 6,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32129,8 +32132,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Supresión progresiva – mediante reducción de competen - cias y efectivos – de las policías autonómicas e incorpora - ción de sus miembros a los cuerpos nacional",
-      "detail": "Supresión progresiva – mediante reducción de competen - cias y efectivos – de las policías autonómicas e incorpora - ción de sus miembros a los cuerpos nacionales. Hasta que se haga efectiva, se garantizará la equiparación salarial real entre el Cuerpo Nacional de Policía, Guardia Civil y policías autonómicas.",
+      "title": "Supresión progresiva – mediante reducción de competencias y efectivos – de las policías autonómicas e incorporación de sus miembros a los cuerpos nacionales.",
+      "detail": "Supresión progresiva – mediante reducción de competencias y efectivos – de las policías autonómicas e incorporación de sus miembros a los cuerpos nacionales. Hasta que se haga efectiva, se garantizará la equiparación salarial real entre el Cuerpo Nacional de Policía, Guardia Civil y policías autonómicas.",
       "page": 10,
       "number": 9,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32144,8 +32147,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Promoveremos una Ley que proteja a todas las posibles víc - timas de violencia en el ámbito doméstico , aumentaremos las penas a violadores y agresores sexuales",
-      "detail": "Promoveremos una Ley que proteja a todas las posibles víc - timas de violencia en el ámbito doméstico , aumentaremos las penas a violadores y agresores sexuales, y reforzaremos las medidas contra la pedofilia y la pornografía infantil. Los españoles han visto cómo se iban cercenando sus derechos en diversos ámbitos mientras el consenso partitocrático con sus agendas importadas imponía leyes que atentan contra el sent…",
+      "title": "Promoveremos una Ley que proteja a todas las posibles víctimas de violencia en el ámbito doméstico , aumentaremos las penas a violadores y agresores sexuales, y",
+      "detail": "Promoveremos una Ley que proteja a todas las posibles víctimas de violencia en el ámbito doméstico , aumentaremos las penas a violadores y agresores sexuales, y reforzaremos las medidas contra la pedofilia y la pornografía infantil. Los españoles han visto cómo se iban cercenando sus derechos en diversos ámbitos mientras el consenso partitocrático con sus agendas importadas imponía leyes que atentan contra el sentido…",
       "page": 10,
       "number": 10,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32159,7 +32162,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Eliminación de toda legislación de género y que establezca diferencias laborales entre españoles atendiendo a su sexo, raza u orientación o identidad sexual, ta",
-      "detail": "Eliminación de toda legislación de género y que establezca diferencias laborales entre españoles atendiendo a su sexo, raza u orientación o identidad sexual, tales como cuotas, pre - ferencia en la contratación o prevalencia en caso de empate en una oposición. En lugar de las “cuotas de género”, planes de igualdad u obligaciones de contratación, impulsaremos políticas que permitan la estabilidad familiar y que comba…",
+      "detail": "Eliminación de toda legislación de género y que establezca diferencias laborales entre españoles atendiendo a su sexo, raza u orientación o identidad sexual, tales como cuotas, preferencia en la contratación o prevalencia en caso de empate en una oposición. En lugar de las “cuotas de género”, planes de igualdad u obligaciones de contratación, impulsaremos políticas que permitan la estabilidad familiar y que combatan…",
       "page": 10,
       "number": 11,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32173,8 +32176,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Como paso previo a la derogación de estas leyes destruc - tivas, aplicaremos o exigiremos aplicar el artículo 92 de la Constitución para consultar al pueblo esp",
-      "detail": "Como paso previo a la derogación de estas leyes destruc - tivas, aplicaremos o exigiremos aplicar el artículo 92 de la Constitución para consultar al pueblo español sobre una decisión política de especial relevancia como es poner fin a 11 este atropello de la igualdad, los derechos, las libertades y la presunción de inocencia de todos los españoles.",
+      "title": "Como paso previo a la derogación de estas leyes destructivas, aplicaremos o exigiremos aplicar el artículo 92 de la Constitución para consultar al pueblo españo",
+      "detail": "Como paso previo a la derogación de estas leyes destructivas, aplicaremos o exigiremos aplicar el artículo 92 de la Constitución para consultar al pueblo español sobre una decisión política de especial relevancia como es poner fin a 11 este atropello de la igualdad, los derechos, las libertades y la presunción de inocencia de todos los españoles.",
       "page": 10,
       "number": 12,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32189,7 +32192,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "En el acceso a la función pública , con especial atención a los puestos donde se priman las condiciones físicas, así como en los deportes, se vigilará que no se",
-      "detail": "En el acceso a la función pública , con especial atención a los puestos donde se priman las condiciones físicas, así como en los deportes, se vigilará que no se discrimine a ninguna mujer ante hombres que se autoperciban mujeres y pre - tendan ocupar espacios reservados para ellas.",
+      "detail": "En el acceso a la función pública , con especial atención a los puestos donde se priman las condiciones físicas, así como en los deportes, se vigilará que no se discrimine a ninguna mujer ante hombres que se autoperciban mujeres y pretendan ocupar espacios reservados para ellas.",
       "page": 11,
       "number": 13,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32204,7 +32207,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Derogación de las leyes ideológicas que no protegen a las personas, sino que colectivizan al individuo y los someten a las exigencias de grupos de interés, ya s",
-      "detail": "Derogación de las leyes ideológicas que no protegen a las personas, sino que colectivizan al individuo y los someten a las exigencias de grupos de interés, ya sea LGTBIQ+ o Ley trans. Garantizaremos la imposibilidad de los tratamientos hormonales y la cirugía de «cambio de sexo» en los meno - res de edad.",
+      "detail": "Derogación de las leyes ideológicas que no protegen a las personas, sino que colectivizan al individuo y los someten a las exigencias de grupos de interés, ya sea LGTBIQ+ o Ley trans. Garantizaremos la imposibilidad de los tratamientos hormonales y la cirugía de «cambio de sexo» en los menores de edad.",
       "page": 11,
       "number": 14,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32217,8 +32220,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Suprimiremos el Ministerio de Igualdad, que es innecesa - rio en sus funciones, injusto e ideológico en los medios po - líticos que acomete al servicio de aquel",
-      "detail": "Suprimiremos el Ministerio de Igualdad, que es innecesa - rio en sus funciones, injusto e ideológico en los medios po - líticos que acomete al servicio de aquellas y oneroso en su estructura, así como dedicaremos ese gasto a la mejora de servicios públicos esenciales como la sanidad, la justicia, la seguridad o el sistema educativo.",
+      "title": "Suprimiremos el Ministerio de Igualdad, que es innecesario en sus funciones, injusto e ideológico en los medios políticos que acomete al servicio de aquellas y",
+      "detail": "Suprimiremos el Ministerio de Igualdad, que es innecesario en sus funciones, injusto e ideológico en los medios políticos que acomete al servicio de aquellas y oneroso en su estructura, así como dedicaremos ese gasto a la mejora de servicios públicos esenciales como la sanidad, la justicia, la seguridad o el sistema educativo.",
       "page": 11,
       "number": 15,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32232,8 +32235,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "El estado de las autonomías ha traído consigo una conso - lidación del estado de bienestar de los políticos y de to - dos los entes y organismos que lo han sust",
-      "detail": "El estado de las autonomías ha traído consigo una conso - lidación del estado de bienestar de los políticos y de to - dos los entes y organismos que lo han sustentado durante las últimas décadas . Así, al mismo tiempo que los servicios públicos iban deteriorándose y los españoles se hacían más desiguales entre sí, los partidos políticos, sindicatos, patronal y demás entes políticos recibían toda suerte de privilegios…",
+      "title": "El estado de las autonomías ha traído consigo una consolidación del estado de bienestar de los políticos y de todos los entes y organismos que lo han sustentado",
+      "detail": "El estado de las autonomías ha traído consigo una consolidación del estado de bienestar de los políticos y de todos los entes y organismos que lo han sustentado durante las últimas décadas . Así, al mismo tiempo que los servicios públicos iban deteriorándose y los españoles se hacían más desiguales entre sí, los partidos políticos, sindicatos, patronal y demás entes políticos recibían toda suerte de privilegios acomp…",
       "page": 11,
       "number": 16,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32246,23 +32249,23 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Acabaremos con la forma actual de reparto de los fondos europeos , de espaldas a los verdaderos intereses de los es - pañoles y condicionada a las imposiciones",
-      "detail": "Acabaremos con la forma actual de reparto de los fondos europeos , de espaldas a los verdaderos intereses de los es - pañoles y condicionada a las imposiciones ideológicas glo - balistas. 13 ALGUNAS DE LAS ACCIONES MÁS DESTACADAS DE VOX SOBRE IGUALDAD ENTRE ESPAÑOLES Proposición no de Ley para la recentralización de las Ins - tituciones con el fin de reducir el despilfarro provocado por la ineficiencia del “Estado au…",
+      "title": "Acabaremos con la forma actual de reparto de los fondos europeos , de espaldas a los verdaderos intereses de los españoles y condicionada a las imposiciones ide",
+      "detail": "Acabaremos con la forma actual de reparto de los fondos europeos , de espaldas a los verdaderos intereses de los españoles y condicionada a las imposiciones ideológicas globalistas. 13 ALGUNAS DE LAS ACCIONES MÁS DESTACADAS DE VOX SOBRE IGUALDAD ENTRE ESPAÑOLES Proposición no de Ley para la recentralización de las Instituciones con el fin de reducir el despilfarro provocado por la ineficiencia del “Estado autonómico”…",
       "page": 12,
       "number": 17,
       "section": "Igualdad entre españoles y unidad de España",
       "subthemeIds": [
         "educacion-conocimiento",
         "organizacion-territorial",
-        "derechos-igualdad"
+        "instituciones-democracia"
       ],
       "priorityIndex": 0,
       "originalBlockIndex": 0,
       "kind": "document"
     },
     {
-      "title": "Reintroduciremos los delitos de referéndum ilegal, sedi - ción, traición y malversación de caudales públicos , aumen- tando las penas conforme al principio de p",
-      "detail": "Reintroduciremos los delitos de referéndum ilegal, sedi - ción, traición y malversación de caudales públicos , aumen- tando las penas conforme al principio de proporcionalidad al ser graves delitos contra España, su unidad y soberanía y el patrimonio de todos los españoles.",
+      "title": "Reintroduciremos los delitos de referéndum ilegal, sedición, traición y malversación de caudales públicos , aumentando las penas conforme al principio de propor",
+      "detail": "Reintroduciremos los delitos de referéndum ilegal, sedición, traición y malversación de caudales públicos , aumentando las penas conforme al principio de proporcionalidad al ser graves delitos contra España, su unidad y soberanía y el patrimonio de todos los españoles.",
       "page": 16,
       "number": 18,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32276,8 +32279,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Aseguraremos y visibilizaremos la presencia de la Adminis - tración civil y militar del Estado al servicio de los españoles en todos los territorios de la nació",
-      "detail": "Aseguraremos y visibilizaremos la presencia de la Adminis - tración civil y militar del Estado al servicio de los españoles en todos los territorios de la nación, especialmente en aque - llos donde los gobiernos separatistas han tratado de borrar a España, ante la inacción de los gobiernos nacionales ante - riores.",
+      "title": "Aseguraremos y visibilizaremos la presencia de la Administración civil y militar del Estado al servicio de los españoles en todos los territorios de la nación,",
+      "detail": "Aseguraremos y visibilizaremos la presencia de la Administración civil y militar del Estado al servicio de los españoles en todos los territorios de la nación, especialmente en aquellos donde los gobiernos separatistas han tratado de borrar a España, ante la inacción de los gobiernos nacionales anteriores.",
       "page": 16,
       "number": 19,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32290,8 +32293,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Suspenderemos inmediatamente la autonomía de aque - llas comunidades cuyos gobiernos utilicen recursos e ins - trumentos del autogobierno regional para atentar",
-      "detail": "Suspenderemos inmediatamente la autonomía de aque - llas comunidades cuyos gobiernos utilicen recursos e ins - trumentos del autogobierno regional para atentar contra la unidad de España.",
+      "title": "Suspenderemos inmediatamente la autonomía de aquellas comunidades cuyos gobiernos utilicen recursos e instrumentos del autogobierno regional para atentar contra",
+      "detail": "Suspenderemos inmediatamente la autonomía de aquellas comunidades cuyos gobiernos utilicen recursos e instrumentos del autogobierno regional para atentar contra la unidad de España.",
       "page": 16,
       "number": 20,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32304,8 +32307,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Fin de las subvenciones públicas e ilegalización de los par - tidos, asociaciones u ONGs que persigan la destrucción de la unidad territorial de la nación y de",
-      "detail": "Fin de las subvenciones públicas e ilegalización de los par - tidos, asociaciones u ONGs que persigan la destrucción de la unidad territorial de la nación y de su soberanía . Como paso previo, en línea con la propuesta política de España De - cide, se consultará al pueblo español mediante la aplicación del artículo 92 de la Constitución Española, relativo a con - sultas sobre decisiones políticas de especial trascend…",
+      "title": "Fin de las subvenciones públicas e ilegalización de los partidos, asociaciones u ONGs que persigan la destrucción de la unidad territorial de la nación y de su",
+      "detail": "Fin de las subvenciones públicas e ilegalización de los partidos, asociaciones u ONGs que persigan la destrucción de la unidad territorial de la nación y de su soberanía . Como paso previo, en línea con la propuesta política de España Decide, se consultará al pueblo español mediante la aplicación del artículo 92 de la Constitución Española, relativo a consultas sobre decisiones políticas de especial trascendencia, su…",
       "page": 16,
       "number": 21,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32319,8 +32322,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Dotaremos de la máxima protección jurídica a los símbolos de la nación , especialmente la Bandera, el Himno y la Coro - 17 na.",
-      "detail": "Dotaremos de la máxima protección jurídica a los símbolos de la nación , especialmente la Bandera, el Himno y la Coro - 17 na. Las penas por las ofensas y ultrajes a España y sus símbo - los o emblemas deben agravarse para que ninguna afrenta a ellos quede impune.",
+      "title": "Dotaremos de la máxima protección jurídica a los símbolos de la nación , especialmente la Bandera, el Himno y la Corona.",
+      "detail": "Dotaremos de la máxima protección jurídica a los símbolos de la nación , especialmente la Bandera, el Himno y la Corona. Las penas por las ofensas y ultrajes a España y sus símbolos o emblemas deben agravarse para que ninguna afrenta a ellos quede impune.",
       "page": 16,
       "number": 22,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32333,8 +32336,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Difundiremos y protegeremos la identidad nacional y la aportación de España a la civilización y a la historia univer - sal, con especial atención a las gestas y",
-      "detail": "Difundiremos y protegeremos la identidad nacional y la aportación de España a la civilización y a la historia univer - sal, con especial atención a las gestas y hazañas de nuestros héroes nacionales dentro y fuera de nuestras fronteras.",
+      "title": "Difundiremos y protegeremos la identidad nacional y la aportación de España a la civilización y a la historia universal, con especial atención a las gestas y ha",
+      "detail": "Difundiremos y protegeremos la identidad nacional y la aportación de España a la civilización y a la historia universal, con especial atención a las gestas y hazañas de nuestros héroes nacionales dentro y fuera de nuestras fronteras.",
       "page": 17,
       "number": 23,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32348,8 +32351,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Potenciaremos la lengua española en el extranjero a tra - vés del Instituto Cervantes, defensa del carácter, la cultura y los símbolos españoles en todo el mund",
-      "detail": "Potenciaremos la lengua española en el extranjero a tra - vés del Instituto Cervantes, defensa del carácter, la cultura y los símbolos españoles en todo el mundo; especialmente en Iberoamérica.",
+      "title": "Potenciaremos la lengua española en el extranjero a través del Instituto Cervantes, defensa del carácter, la cultura y los símbolos españoles en todo el mundo;",
+      "detail": "Potenciaremos la lengua española en el extranjero a través del Instituto Cervantes, defensa del carácter, la cultura y los símbolos españoles en todo el mundo; especialmente en Iberoamérica.",
       "page": 17,
       "number": 24,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32378,8 +32381,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Derogaremos todas las leyes que el gobierno de Sánchez ha aprobado o mantenido y alientan el enfrentamiento y la divi - sión entre españoles, como la Ley de Mem",
-      "detail": "Derogaremos todas las leyes que el gobierno de Sánchez ha aprobado o mantenido y alientan el enfrentamiento y la divi - sión entre españoles, como la Ley de Memoria Democrática o la Ley LGTBI.",
+      "title": "Derogaremos todas las leyes que el gobierno de Sánchez ha aprobado o mantenido y alientan el enfrentamiento y la división entre españoles, como la Ley de Memori",
+      "detail": "Derogaremos todas las leyes que el gobierno de Sánchez ha aprobado o mantenido y alientan el enfrentamiento y la división entre españoles, como la Ley de Memoria Democrática o la Ley LGTBI.",
       "page": 17,
       "number": 26,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32392,8 +32395,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Desmantelaremos las redes de piratería, narcotráfico, con - trabando y blanqueo de capitales que se extienden desde Gibraltar y aplicaremos toda la presión inte",
-      "detail": "Desmantelaremos las redes de piratería, narcotráfico, con - trabando y blanqueo de capitales que se extienden desde Gibraltar y aplicaremos toda la presión internacional necesa - ria para recuperar ese territorio ocupado.",
+      "title": "Desmantelaremos las redes de piratería, narcotráfico, contrabando y blanqueo de capitales que se extienden desde Gibraltar y aplicaremos toda la presión interna",
+      "detail": "Desmantelaremos las redes de piratería, narcotráfico, contrabando y blanqueo de capitales que se extienden desde Gibraltar y aplicaremos toda la presión internacional necesaria para recuperar ese territorio ocupado.",
       "page": 17,
       "number": 27,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32406,8 +32409,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Garantizaremos la protección de Ceuta y Melilla , parte indi - visible de España, cada vez más acosadas por Marruecos con la complicidad del gobierno de Sánchez",
-      "detail": "Garantizaremos la protección de Ceuta y Melilla , parte indi - visible de España, cada vez más acosadas por Marruecos con la complicidad del gobierno de Sánchez. Aumentaremos el número de miembros y dotaremos a las FCSE de todos los 18 elementos necesarios para garantizar su seguridad y el ade - cuado ejercicio de sus funciones, especialmente para frenar las oleadas de inmigración masiva alentadas por el gobierno mar…",
+      "title": "Garantizaremos la protección de Ceuta y Melilla , parte indivisible de España, cada vez más acosadas por Marruecos con la complicidad del gobierno de Sánchez.",
+      "detail": "Garantizaremos la protección de Ceuta y Melilla , parte indivisible de España, cada vez más acosadas por Marruecos con la complicidad del gobierno de Sánchez. Aumentaremos el número de miembros y dotaremos a las FCSE de todos los 18 elementos necesarios para garantizar su seguridad y el adecuado ejercicio de sus funciones, especialmente para frenar las oleadas de inmigración masiva alentadas por el gobierno marroquí.",
       "page": 17,
       "number": 28,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32421,8 +32424,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Defenderemos nuestra soberanía ante injerencias extran - jeras y recuperaremos una posición internacional que prio - rice la defensa de los intereses reales de",
-      "detail": "Defenderemos nuestra soberanía ante injerencias extran - jeras y recuperaremos una posición internacional que prio - rice la defensa de los intereses reales de los españoles y de la unidad nacional. Uno de los legados más siniestros de Sánchez es la sumisión constante del interés nacional a los planes de organizaciones y potencias extranjeras, ajenas a la realidad y necesidades de nuestros compatriotas. 19 ALGUNAS AC…",
+      "title": "Defenderemos nuestra soberanía ante injerencias extranjeras y recuperaremos una posición internacional que priorice la defensa de los intereses reales de los es",
+      "detail": "Defenderemos nuestra soberanía ante injerencias extranjeras y recuperaremos una posición internacional que priorice la defensa de los intereses reales de los españoles y de la unidad nacional. Uno de los legados más siniestros de Sánchez es la sumisión constante del interés nacional a los planes de organizaciones y potencias extranjeras, ajenas a la realidad y necesidades de nuestros compatriotas. 19 ALGUNAS ACCIONES…",
       "page": 18,
       "number": 29,
       "section": "Igualdad entre españoles y unidad de España",
@@ -32437,7 +32440,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Mientras el gobierno decía subir el SMI para ayudar a los españoles, subía aún más los impuestos y se disparaban los precios, cercenando el poder adquisitivo de",
-      "detail": "Mientras el gobierno decía subir el SMI para ayudar a los españoles, subía aún más los impuestos y se disparaban los precios, cercenando el poder adquisitivo de los espa - ñoles y bajando su salario real. Impulsaremos la subida de todos los salarios , especialmente los más bajos. Para que ello no conlleve una destrucción de empleo, reduciremos drásticamente las cargas sobre las empresas y la regula - ción abusiva que…",
+      "detail": "Mientras el gobierno decía subir el SMI para ayudar a los españoles, subía aún más los impuestos y se disparaban los precios, cercenando el poder adquisitivo de los españoles y bajando su salario real. Impulsaremos la subida de todos los salarios , especialmente los más bajos. Para que ello no conlleve una destrucción de empleo, reduciremos drásticamente las cargas sobre las empresas y la regulación abusiva que perju…",
       "page": 22,
       "number": 30,
       "section": "Empleo, producción y fiscalidad",
@@ -32451,7 +32454,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Promoveremos el empleo estable, duradero y de calidad mediante la reducción de las cotizaciones a las empresas que contraten a trabajadores españoles de manera",
-      "detail": "Promoveremos el empleo estable, duradero y de calidad mediante la reducción de las cotizaciones a las empresas que contraten a trabajadores españoles de manera inde - finida, bonificando al 100% los nuevos empleos creados durante el primer año para cualquier edad, y al 50% en el segundo año . Garantizaremos efectivamente el derecho al trabajo prohibiendo las acciones coactivas en las huelgas políticas. • Aumentaremos…",
+      "detail": "Promoveremos el empleo estable, duradero y de calidad mediante la reducción de las cotizaciones a las empresas que contraten a trabajadores españoles de manera indefinida, bonificando al 100% los nuevos empleos creados durante el primer año para cualquier edad, y al 50% en el segundo año . Garantizaremos efectivamente el derecho al trabajo prohibiendo las acciones coactivas en las huelgas políticas. • Aumentaremos lo…",
       "page": 22,
       "number": 31,
       "section": "Empleo, producción y fiscalidad",
@@ -32463,8 +32466,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Rechazaremos las imposiciones globalistas que callan ante los verdaderos responsables de la contaminación en el mun - do mientras provocan el cierre de nuestras",
-      "detail": "Rechazaremos las imposiciones globalistas que callan ante los verdaderos responsables de la contaminación en el mun - do mientras provocan el cierre de nuestras industrias y la destrucción de miles de empleos en España. Cuidaremos el 23 Medio Ambiente desde el sentido común , la responsabili - dad y la protección de nuestra economía, compatibles con el desarrollo económico y el bienestar de los españoles.",
+      "title": "Rechazaremos las imposiciones globalistas que callan ante los verdaderos responsables de la contaminación en el mundo mientras provocan el cierre de nuestras in",
+      "detail": "Rechazaremos las imposiciones globalistas que callan ante los verdaderos responsables de la contaminación en el mundo mientras provocan el cierre de nuestras industrias y la destrucción de miles de empleos en España. Cuidaremos el 23 Medio Ambiente desde el sentido común , la responsabilidad y la protección de nuestra economía, compatibles con el desarrollo económico y el bienestar de los españoles.",
       "page": 22,
       "number": 32,
       "section": "Empleo, producción y fiscalidad",
@@ -32477,8 +32480,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Garantizaremos una inmigración legal, ordenada y adapta - da a las necesidades y posibilidades de nuestro mercado laboral para asegurar el empleo de los español",
-      "detail": "Garantizaremos una inmigración legal, ordenada y adapta - da a las necesidades y posibilidades de nuestro mercado laboral para asegurar el empleo de los españoles y de los in - migrantes que, llegando legalmente, aportan su esfuerzo y respetan nuestro modo de vida.",
+      "title": "Garantizaremos una inmigración legal, ordenada y adaptada a las necesidades y posibilidades de nuestro mercado laboral para asegurar el empleo de los españoles",
+      "detail": "Garantizaremos una inmigración legal, ordenada y adaptada a las necesidades y posibilidades de nuestro mercado laboral para asegurar el empleo de los españoles y de los inmigrantes que, llegando legalmente, aportan su esfuerzo y respetan nuestro modo de vida.",
       "page": 23,
       "number": 33,
       "section": "Empleo, producción y fiscalidad",
@@ -32491,8 +32494,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Sancionaremos con dureza, incluyendo retiradas de licen - cias, concesiones y autorizaciones, a quienes empleen a inmigrantes sin permiso de residencia en condi",
-      "detail": "Sancionaremos con dureza, incluyendo retiradas de licen - cias, concesiones y autorizaciones, a quienes empleen a inmigrantes sin permiso de residencia en condiciones de explotación, perjudicando a los propios inmigrantes y al equilibrio del mercado nacional y aumentando así la pobre - za, el desempleo y la precariedad entre los españoles, espe - cialmente los más desfavorecidos.",
+      "title": "Sancionaremos con dureza, incluyendo retiradas de licencias, concesiones y autorizaciones, a quienes empleen a inmigrantes sin permiso de residencia en condicio",
+      "detail": "Sancionaremos con dureza, incluyendo retiradas de licencias, concesiones y autorizaciones, a quienes empleen a inmigrantes sin permiso de residencia en condiciones de explotación, perjudicando a los propios inmigrantes y al equilibrio del mercado nacional y aumentando así la pobreza, el desempleo y la precariedad entre los españoles, especialmente los más desfavorecidos.",
       "page": 23,
       "number": 34,
       "section": "Empleo, producción y fiscalidad",
@@ -32506,7 +32509,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Acabaremos con la brecha territorial que perjudica a los trabajadores españoles y dificulta su movilidad , derogando toda imposición lingüística y discriminator",
-      "detail": "Acabaremos con la brecha territorial que perjudica a los trabajadores españoles y dificulta su movilidad , derogando toda imposición lingüística y discriminatoria de las comuni - dades autónomas.",
+      "detail": "Acabaremos con la brecha territorial que perjudica a los trabajadores españoles y dificulta su movilidad , derogando toda imposición lingüística y discriminatoria de las comunidades autónomas.",
       "page": 23,
       "number": 35,
       "section": "Empleo, producción y fiscalidad",
@@ -32520,8 +32523,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Apoyaremos decididamente a los trabajadores autóno - mos mediante la exoneración de la cuota a aquellos cu - yos ingresos netos no lleguen al Salario Mínimo Int",
-      "detail": "Apoyaremos decididamente a los trabajadores autóno - mos mediante la exoneración de la cuota a aquellos cu - yos ingresos netos no lleguen al Salario Mínimo Interpro - fesional y la bonificación total a los autónomos que estén de baja. A su vez, tomaremos las medidas necesarias para acabar con la figura del falso autónomo que afecta a todos los ámbitos laborales.",
+      "title": "Apoyaremos decididamente a los trabajadores autónomos mediante la exoneración de la cuota a aquellos cuyos ingresos netos no lleguen al Salario Mínimo Interprof",
+      "detail": "Apoyaremos decididamente a los trabajadores autónomos mediante la exoneración de la cuota a aquellos cuyos ingresos netos no lleguen al Salario Mínimo Interprofesional y la bonificación total a los autónomos que estén de baja. A su vez, tomaremos las medidas necesarias para acabar con la figura del falso autónomo que afecta a todos los ámbitos laborales.",
       "page": 23,
       "number": 36,
       "section": "Empleo, producción y fiscalidad",
@@ -32534,13 +32537,14 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Combatiremos la brecha maternal garantizando la igual- dad de oportunidades, bonificando el coste para el empre - 24 sario durante el embarazo y durante cualqui",
-      "detail": "Combatiremos la brecha maternal garantizando la igual- dad de oportunidades, bonificando el coste para el empre - 24 sario durante el embarazo y durante cualquier baja rela - cionada con la maternidad, implementando deducciones por la contratación de madres , ofertando cursos de actua - lización profesional para facilitar su reinserción laboral y rechazando cualquier política de cuotas que perjudica a aquellas mujere…",
+      "title": "Combatiremos la brecha maternal garantizando la igualdad de oportunidades, bonificando el coste para el empresario durante el embarazo y durante cualquier baja",
+      "detail": "Combatiremos la brecha maternal garantizando la igualdad de oportunidades, bonificando el coste para el empresario durante el embarazo y durante cualquier baja relacionada con la maternidad, implementando deducciones por la contratación de madres , ofertando cursos de actualización profesional para facilitar su reinserción laboral y rechazando cualquier política de cuotas que perjudica a aquellas mujeres que han alca…",
       "page": 23,
       "number": 37,
       "section": "Empleo, producción y fiscalidad",
       "subthemeIds": [
         "impuestos-fiscalidad",
+        "derechos-igualdad",
         "familia-conciliacion"
       ],
       "priorityIndex": 1,
@@ -32549,7 +32553,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Nuestros jóvenes son víctimas de un círculo vicioso donde solo se les ofrece paro o precariedad .",
-      "detail": "Nuestros jóvenes son víctimas de un círculo vicioso donde solo se les ofrece paro o precariedad . Una situación insos - tenible que la reforma laboral del gobierno ha empeorado aún más. Derogaremos la reforma laboral de Yolanda Díaz que ha maquillado las cifras de temporalidad sin adoptar medidas reales contra la precariedad, y que beneficia a los sindicatos mayoritarios que han traicionado a los trabaja - dores. A s…",
+      "detail": "Nuestros jóvenes son víctimas de un círculo vicioso donde solo se les ofrece paro o precariedad . Una situación insostenible que la reforma laboral del gobierno ha empeorado aún más. Derogaremos la reforma laboral de Yolanda Díaz que ha maquillado las cifras de temporalidad sin adoptar medidas reales contra la precariedad, y que beneficia a los sindicatos mayoritarios que han traicionado a los trabajadores. A su vez,…",
       "page": 24,
       "number": 38,
       "section": "Empleo, producción y fiscalidad",
@@ -32562,7 +32566,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Avanzaremos hacia un marco jurídico y laboral adaptado a las cada vez más comunes circunstancias de teletrabajo , que puede servir para mejorar la conciliación",
-      "detail": "Avanzaremos hacia un marco jurídico y laboral adaptado a las cada vez más comunes circunstancias de teletrabajo , que puede servir para mejorar la conciliación siempre y cuando se aseguren unas condiciones laborales adecua - das. Esta nueva modalidad de empleo puede servir tam - bién para que muchas familias tengan la libertad de salir de los grandes núcleos urbanos y volver a sus pueblos y ciudades.",
+      "detail": "Avanzaremos hacia un marco jurídico y laboral adaptado a las cada vez más comunes circunstancias de teletrabajo , que puede servir para mejorar la conciliación siempre y cuando se aseguren unas condiciones laborales adecuadas. Esta nueva modalidad de empleo puede servir también para que muchas familias tengan la libertad de salir de los grandes núcleos urbanos y volver a sus pueblos y ciudades.",
       "page": 24,
       "number": 39,
       "section": "Empleo, producción y fiscalidad",
@@ -32589,8 +32593,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Mejoraremos la calidad de la formación profesional y am - 25 pliaremos la FP Dual para la mejor inserción laboral adap - tándose a las necesidades de industrias",
-      "detail": "Mejoraremos la calidad de la formación profesional y am - 25 pliaremos la FP Dual para la mejor inserción laboral adap - tándose a las necesidades de industrias, comercios y empre - sas. Además, promocionaremos el emprendimiento local e impulsaremos políticas de retención del talento, tanto joven como de segunda oportunidad para las personas de más edad que han perdido su empleo a causa de los procesos ge- neralizado…",
+      "title": "Mejoraremos la calidad de la formación profesional y ampliaremos la FP Dual para la mejor inserción laboral adaptándose a las necesidades de industrias, comerci",
+      "detail": "Mejoraremos la calidad de la formación profesional y ampliaremos la FP Dual para la mejor inserción laboral adaptándose a las necesidades de industrias, comercios y empresas. Además, promocionaremos el emprendimiento local e impulsaremos políticas de retención del talento, tanto joven como de segunda oportunidad para las personas de más edad que han perdido su empleo a causa de los procesos generalizados de desindust…",
       "page": 24,
       "number": 41,
       "section": "Empleo, producción y fiscalidad",
@@ -32603,8 +32607,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "A nuestros mayores se les ha chantajeado con sus pensio - nes, y se sigue haciendo, con fines partidistas mientras sen - tencian el futuro de nuestros hijos.",
-      "detail": "A nuestros mayores se les ha chantajeado con sus pensio - nes, y se sigue haciendo, con fines partidistas mientras sen - tencian el futuro de nuestros hijos. La solución estructural a largo plazo debe ser el incremento de la natalidad frente al invierno demográfico que asola nuestra nación. • Aseguraremos la sostenibilidad del sistema de pen - siones desmontando el sistema autonómico , po - 26 niendo fin a las duplic…",
+      "title": "A nuestros mayores se les ha chantajeado con sus pensiones, y se sigue haciendo, con fines partidistas mientras sentencian el futuro de nuestros hijos.",
+      "detail": "A nuestros mayores se les ha chantajeado con sus pensiones, y se sigue haciendo, con fines partidistas mientras sentencian el futuro de nuestros hijos. La solución estructural a largo plazo debe ser el incremento de la natalidad frente al invierno demográfico que asola nuestra nación. • Aseguraremos la sostenibilidad del sistema de pensiones desmontando el sistema autonómico , poniendo fin a las duplicidades administ…",
       "page": 25,
       "number": 42,
       "section": "Empleo, producción y fiscalidad",
@@ -32619,7 +32623,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Los sindicatos que deberían defender a los trabajadores los han traicionado, convirtiéndose en lacayos del poder político de turno.",
-      "detail": "Los sindicatos que deberían defender a los trabajadores los han traicionado, convirtiéndose en lacayos del poder político de turno. Acabaremos con todas las subvenciones públicas para sindicatos y patronales , impidiendo que se pueda co - brar de la negociación de los ERE y ERTE. • Exigiremos la fiscalización, control y reducción de los liberados sindicales ; y estableceremos la incorpora - ción obligatoria a sus pue…",
+      "detail": "Los sindicatos que deberían defender a los trabajadores los han traicionado, convirtiéndose en lacayos del poder político de turno. Acabaremos con todas las subvenciones públicas para sindicatos y patronales , impidiendo que se pueda cobrar de la negociación de los ERE y ERTE. • Exigiremos la fiscalización, control y reducción de los liberados sindicales ; y estableceremos la incorporación obligatoria a sus puestos h…",
       "page": 26,
       "number": 43,
       "section": "Empleo, producción y fiscalidad",
@@ -32632,20 +32636,21 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Fomentaremos y protegeremos el artesanado y los oficios tradicionales y con arraigo, herencia vigorosa de nuestros abuelos, mediante medidas fiscales y creditic",
-      "detail": "Fomentaremos y protegeremos el artesanado y los oficios tradicionales y con arraigo, herencia vigorosa de nuestros abuelos, mediante medidas fiscales y crediticias , así como reconocemos la tradición secular del cooperativismo y la economía social en nuestra nación, promoviendo la partici - pación de los trabajadores en las empresas. 27 ALGUNAS DE LAS ACCIONES MÁS DESTACADAS DE VOX SOBRE EMPLEO Proposición no de Ley…",
+      "detail": "Fomentaremos y protegeremos el artesanado y los oficios tradicionales y con arraigo, herencia vigorosa de nuestros abuelos, mediante medidas fiscales y crediticias , así como reconocemos la tradición secular del cooperativismo y la economía social en nuestra nación, promoviendo la participación de los trabajadores en las empresas. 27 ALGUNAS DE LAS ACCIONES MÁS DESTACADAS DE VOX SOBRE EMPLEO Proposición no de Ley par…",
       "page": 26,
       "number": 44,
       "section": "Empleo, producción y fiscalidad",
       "subthemeIds": [
-        "impuestos-fiscalidad"
+        "impuestos-fiscalidad",
+        "instituciones-democracia"
       ],
       "priorityIndex": 1,
       "originalBlockIndex": 2,
       "kind": "document"
     },
     {
-      "title": "Ningún español sin acceso a una educación escolar y pro - fesional gratuita, exigente y de calidad .",
-      "detail": "Ningún español sin acceso a una educación escolar y pro - fesional gratuita, exigente y de calidad . Es deber del Es - tado asegurar a todos los españoles el acceso a un sistema de educación pública excelente, garantía de la igualdad de oportunidades y de progreso para todos los jóvenes .",
+      "title": "Ningún español sin acceso a una educación escolar y profesional gratuita, exigente y de calidad .",
+      "detail": "Ningún español sin acceso a una educación escolar y profesional gratuita, exigente y de calidad . Es deber del Estado asegurar a todos los españoles el acceso a un sistema de educación pública excelente, garantía de la igualdad de oportunidades y de progreso para todos los jóvenes .",
       "page": 32,
       "number": 45,
       "section": "Empleo, producción y fiscalidad",
@@ -32674,7 +32679,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Iniciaremos el proceso de devolución al Estado de las competencias en Educación.",
-      "detail": "Iniciaremos el proceso de devolución al Estado de las competencias en Educación. Es urgente acabar con die - cisiete modelos educativos diferentes, en algunos casos excluyentes entre sí, que han dinamitado la igualdad de oportunidades en todo el territorio nacional y han permi - tido el adoctrinamiento separatista en algunas regiones. Como paso previo, de acuerdo con la propuesta política de España Decide , se consul…",
+      "detail": "Iniciaremos el proceso de devolución al Estado de las competencias en Educación. Es urgente acabar con diecisiete modelos educativos diferentes, en algunos casos excluyentes entre sí, que han dinamitado la igualdad de oportunidades en todo el territorio nacional y han permitido el adoctrinamiento separatista en algunas regiones. Como paso previo, de acuerdo con la propuesta política de España Decide , se consultará a…",
       "page": 32,
       "number": 47,
       "section": "Empleo, producción y fiscalidad",
@@ -32688,12 +32693,13 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Implantación de una prueba única de acceso a la Univer - sidad en todo el territorio nacional.",
-      "detail": "Implantación de una prueba única de acceso a la Univer - sidad en todo el territorio nacional. Implantaremos tam - 33 bién exámenes de evaluación de ámbito nacional en dis - tintas etapas educativas que aseguren la asimilación de contenidos básicos en el conjunto de España.",
+      "title": "Implantación de una prueba única de acceso a la Universidad en todo el territorio nacional.",
+      "detail": "Implantación de una prueba única de acceso a la Universidad en todo el territorio nacional. Implantaremos también exámenes de evaluación de ámbito nacional en distintas etapas educativas que aseguren la asimilación de contenidos básicos en el conjunto de España.",
       "page": 32,
       "number": 48,
       "section": "Empleo, producción y fiscalidad",
       "subthemeIds": [
+        "educacion-conocimiento",
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
@@ -32714,8 +32720,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Perseguiremos a las autoridades educativas que impi - dan el derecho de los alumnos a formarse en español o que promuevan medidas de adoctrinamiento de los niño",
-      "detail": "Perseguiremos a las autoridades educativas que impi - dan el derecho de los alumnos a formarse en español o que promuevan medidas de adoctrinamiento de los niños, implantando un sistema estatal de inspección educativa efectivo y con poderes suficientes, incluyendo un duro ré - gimen sancionador.",
+      "title": "Perseguiremos a las autoridades educativas que impidan el derecho de los alumnos a formarse en español o que promuevan medidas de adoctrinamiento de los niños,",
+      "detail": "Perseguiremos a las autoridades educativas que impidan el derecho de los alumnos a formarse en español o que promuevan medidas de adoctrinamiento de los niños, implantando un sistema estatal de inspección educativa efectivo y con poderes suficientes, incluyendo un duro régimen sancionador.",
       "page": 33,
       "number": 50,
       "section": "Empleo, producción y fiscalidad",
@@ -32727,8 +32733,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Los hijos no son del Estado ni de los organismos suprana - cionales.",
-      "detail": "Los hijos no son del Estado ni de los organismos suprana - cionales. Son de sus padres. Por ello, recuperaremos la le - gítima autoridad de los padres y su protagonismo en la educación de sus hijos, empezando por garantizar el cono- cimiento previo y aceptación de los padres de cualquier contenido afectivo-sexual o ideológico que puedan recibir sus hijos en el aula. Derogaremos la Ley Herodes y todas las leyes que vu…",
+      "title": "Los hijos no son del Estado ni de los organismos supranacionales.",
+      "detail": "Los hijos no son del Estado ni de los organismos supranacionales. Son de sus padres. Por ello, recuperaremos la legítima autoridad de los padres y su protagonismo en la educación de sus hijos, empezando por garantizar el conocimiento previo y aceptación de los padres de cualquier contenido afectivo-sexual o ideológico que puedan recibir sus hijos en el aula. Derogaremos la Ley Herodes y todas las leyes que vulneran l…",
       "page": 33,
       "number": 51,
       "section": "Empleo, producción y fiscalidad",
@@ -32741,8 +32747,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Blindaremos la libre elección de centro educativo en to - dos los niveles a través de un cheque escolar para que las familias elijan libremente el modelo educat",
-      "detail": "Blindaremos la libre elección de centro educativo en to - dos los niveles a través de un cheque escolar para que las familias elijan libremente el modelo educativo que desean, sin que su situación económica o social sea un impedimento para ello. 34",
+      "title": "Blindaremos la libre elección de centro educativo en todos los niveles a través de un cheque escolar para que las familias elijan libremente el modelo educativo",
+      "detail": "Blindaremos la libre elección de centro educativo en todos los niveles a través de un cheque escolar para que las familias elijan libremente el modelo educativo que desean, sin que su situación económica o social sea un impedimento para ello. 34",
       "page": 33,
       "number": 52,
       "section": "Empleo, producción y fiscalidad",
@@ -32756,8 +32762,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Garantizaremos por ley la protección de los menores en edad escolar , sancionando con extrema dureza las activida - des de adoctrinamiento y corrupción que aten",
-      "detail": "Garantizaremos por ley la protección de los menores en edad escolar , sancionando con extrema dureza las activida - des de adoctrinamiento y corrupción que atenten contra su inocencia.",
+      "title": "Garantizaremos por ley la protección de los menores en edad escolar , sancionando con extrema dureza las actividades de adoctrinamiento y corrupción que atenten",
+      "detail": "Garantizaremos por ley la protección de los menores en edad escolar , sancionando con extrema dureza las actividades de adoctrinamiento y corrupción que atenten contra su inocencia.",
       "page": 34,
       "number": 53,
       "section": "Empleo, producción y fiscalidad",
@@ -32770,7 +32776,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Impulsaremos la recuperación del prestigio y la autoridad del profesorado, reflejada tanto en sus condiciones laborales como en el respeto dentro del aula.",
-      "detail": "Impulsaremos la recuperación del prestigio y la autoridad del profesorado, reflejada tanto en sus condiciones laborales como en el respeto dentro del aula. Para ello, el sistema de acceso a la función pública docente tendrá carácter nacional y asegurará la igualdad y excelencia del personal docente mediante proce - sos de selección según el mérito y la capacidad.",
+      "detail": "Impulsaremos la recuperación del prestigio y la autoridad del profesorado, reflejada tanto en sus condiciones laborales como en el respeto dentro del aula. Para ello, el sistema de acceso a la función pública docente tendrá carácter nacional y asegurará la igualdad y excelencia del personal docente mediante procesos de selección según el mérito y la capacidad.",
       "page": 34,
       "number": 54,
       "section": "Empleo, producción y fiscalidad",
@@ -32785,11 +32791,12 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Ningún español debe quedarse sin poder estudiar por falta de recursos económicos .",
-      "detail": "Ningún español debe quedarse sin poder estudiar por falta de recursos económicos . Se mejorará el sistema de becas en las etapas universitaria y preuniversitaria para que la educa - ción sea un verdadero ascensor social en el que la situación económica no sea un obstáculo para el esfuerzo, el mérito y la capacidad.",
+      "detail": "Ningún español debe quedarse sin poder estudiar por falta de recursos económicos . Se mejorará el sistema de becas en las etapas universitaria y preuniversitaria para que la educación sea un verdadero ascensor social en el que la situación económica no sea un obstáculo para el esfuerzo, el mérito y la capacidad.",
       "page": 34,
       "number": 55,
       "section": "Empleo, producción y fiscalidad",
       "subthemeIds": [
+        "educacion-conocimiento",
         "impuestos-fiscalidad"
       ],
       "priorityIndex": 1,
@@ -32797,8 +32804,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Impediremos que los alumnos puedan pasar de curso y con - seguir titulaciones con asignaturas suspensas.",
-      "detail": "Impediremos que los alumnos puedan pasar de curso y con - seguir titulaciones con asignaturas suspensas.",
+      "title": "Impediremos que los alumnos puedan pasar de curso y conseguir titulaciones con asignaturas suspensas.",
+      "detail": "Impediremos que los alumnos puedan pasar de curso y conseguir titulaciones con asignaturas suspensas.",
       "page": 34,
       "number": 56,
       "section": "Empleo, producción y fiscalidad",
@@ -32810,23 +32817,23 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Ampliaremos el sistema de apoyo a las familias para la edu - cación de sus hijos con medidas fiscales en función del núme - ro de hijos para el comedor y transp",
-      "detail": "Ampliaremos el sistema de apoyo a las familias para la edu - cación de sus hijos con medidas fiscales en función del núme - ro de hijos para el comedor y transporte escolar , materiales, uniforme o actividades extraescolares. Fomentaremos igual - mente medidas de conciliación familiar y laboral.",
+      "title": "Ampliaremos el sistema de apoyo a las familias para la educación de sus hijos con medidas fiscales en función del número de hijos para el comedor y transporte e",
+      "detail": "Ampliaremos el sistema de apoyo a las familias para la educación de sus hijos con medidas fiscales en función del número de hijos para el comedor y transporte escolar , materiales, uniforme o actividades extraescolares. Fomentaremos igualmente medidas de conciliación familiar y laboral.",
       "page": 34,
       "number": 57,
       "section": "Empleo, producción y fiscalidad",
       "subthemeIds": [
+        "educacion-conocimiento",
         "impuestos-fiscalidad",
-        "transporte-infraestructuras",
-        "familia-conciliacion"
+        "transporte-infraestructuras"
       ],
       "priorityIndex": 1,
       "originalBlockIndex": 3,
       "kind": "document"
     },
     {
-      "title": "Defenderemos los centros de educación diferenciada, ga - rantizando su accesibilidad y potenciando la figura de los educadores especiales en todas las escuelas",
-      "detail": "Defenderemos los centros de educación diferenciada, ga - rantizando su accesibilidad y potenciando la figura de los educadores especiales en todas las escuelas e institutos, así como la Formación Profesional adaptada a las necesidades de los alumnos. 35",
+      "title": "Defenderemos los centros de educación diferenciada, garantizando su accesibilidad y potenciando la figura de los educadores especiales en todas las escuelas e i",
+      "detail": "Defenderemos los centros de educación diferenciada, garantizando su accesibilidad y potenciando la figura de los educadores especiales en todas las escuelas e institutos, así como la Formación Profesional adaptada a las necesidades de los alumnos. 35",
       "page": 34,
       "number": 58,
       "section": "Empleo, producción y fiscalidad",
@@ -32839,8 +32846,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "La Universidad debe ser rescatada de todas las imposiciones ideológicas totalitarias y su cultura de la cancelación, recupe - rando su vocación como espacio de",
-      "detail": "La Universidad debe ser rescatada de todas las imposiciones ideológicas totalitarias y su cultura de la cancelación, recupe - rando su vocación como espacio de libertad y búsqueda de la verdad y la belleza. Garantizaremos la libertad de cátedra de los profesores en las aulas frente a las imposiciones de la corrección política.",
+      "title": "La Universidad debe ser rescatada de todas las imposiciones ideológicas totalitarias y su cultura de la cancelación, recuperando su vocación como espacio de lib",
+      "detail": "La Universidad debe ser rescatada de todas las imposiciones ideológicas totalitarias y su cultura de la cancelación, recuperando su vocación como espacio de libertad y búsqueda de la verdad y la belleza. Garantizaremos la libertad de cátedra de los profesores en las aulas frente a las imposiciones de la corrección política.",
       "page": 35,
       "number": 59,
       "section": "Empleo, producción y fiscalidad",
@@ -32855,7 +32862,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Dignificaremos los oficios y las artes mediante el impulso a la formación profesional dual.",
-      "detail": "Dignificaremos los oficios y las artes mediante el impulso a la formación profesional dual. La Formación Profesional debe ser una opción atractiva para que nuestros jóvenes adquie - ran las herramientas que les permitan acceder a un empleo o emprender una iniciativa empresarial propia.",
+      "detail": "Dignificaremos los oficios y las artes mediante el impulso a la formación profesional dual. La Formación Profesional debe ser una opción atractiva para que nuestros jóvenes adquieran las herramientas que les permitan acceder a un empleo o emprender una iniciativa empresarial propia.",
       "page": 35,
       "number": 60,
       "section": "Empleo, producción y fiscalidad",
@@ -32868,8 +32875,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Recuperación y promoción de las Humanidades como ele - mento imprescindible y transversal de la enseñanza a todos los niveles para favorecer el desarrollo de nu",
-      "detail": "Recuperación y promoción de las Humanidades como ele - mento imprescindible y transversal de la enseñanza a todos los niveles para favorecer el desarrollo de nuestros jóvenes.",
+      "title": "Recuperación y promoción de las Humanidades como elemento imprescindible y transversal de la enseñanza a todos los niveles para favorecer el desarrollo de nuest",
+      "detail": "Recuperación y promoción de las Humanidades como elemento imprescindible y transversal de la enseñanza a todos los niveles para favorecer el desarrollo de nuestros jóvenes.",
       "page": 35,
       "number": 61,
       "section": "Empleo, producción y fiscalidad",
@@ -32881,8 +32888,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Actualizaremos los currículos educativos , garantizando el acompañamiento y la exigencia en la adquisición de conte - nidos sobre las materias fundamentales, co",
-      "detail": "Actualizaremos los currículos educativos , garantizando el acompañamiento y la exigencia en la adquisición de conte - nidos sobre las materias fundamentales, con base en eviden- cias científicas . La educación será un instrumento esencial para la formación integral de los alumnos y el fortalecimiento de los lazos nacionales . Los currículos serán comunes a todas las regiones y tendrán en cuenta la realidad cultural,…",
+      "title": "Actualizaremos los currículos educativos , garantizando el acompañamiento y la exigencia en la adquisición de contenidos sobre las materias fundamentales, con b",
+      "detail": "Actualizaremos los currículos educativos , garantizando el acompañamiento y la exigencia en la adquisición de contenidos sobre las materias fundamentales, con base en evidencias científicas . La educación será un instrumento esencial para la formación integral de los alumnos y el fortalecimiento de los lazos nacionales . Los currículos serán comunes a todas las regiones y tendrán en cuenta la realidad cultural, lingü…",
       "page": 35,
       "number": 62,
       "section": "Empleo, producción y fiscalidad",
@@ -32896,8 +32903,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Incluiremos en los currículos contenidos sobre la historia de Es- paña, la identidad nacional y la aportación de España a la civili- zación y a la historia univ",
-      "detail": "Incluiremos en los currículos contenidos sobre la historia de Es- paña, la identidad nacional y la aportación de España a la civili- zación y a la historia universal, con especial atención a las gestas y hazañas de nuestros héroes nacionales, así como a los símbo- los de la Nación, especialmente la Bandera, el Himno y la Coro- na. Se promoverá también el conocimiento de las manifestacio- nes culturales propias de nue…",
+      "title": "Incluiremos en los currículos contenidos sobre la historia de España, la identidad nacional y la aportación de España a la civilización y a la historia universa",
+      "detail": "Incluiremos en los currículos contenidos sobre la historia de España, la identidad nacional y la aportación de España a la civilización y a la historia universal, con especial atención a las gestas y hazañas de nuestros héroes nacionales, así como a los símbolos de la Nación, especialmente la Bandera, el Himno y la Corona. Se promoverá también el conocimiento de las manifestaciones culturales propias de nuestra Nació…",
       "page": 35,
       "number": 63,
       "section": "Empleo, producción y fiscalidad",
@@ -32911,7 +32918,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Tolerancia cero con la ocupación ilegal.",
-      "detail": "Tolerancia cero con la ocupación ilegal. Reformaremos tanto del Código Penal como de las Leyes de Enjuiciamien - to Criminal y Civil para proteger real y efectivamente a los propietarios que sufren la acción de las mafias de ocupa - ción o la entrada ilegal de un okupa en su vivienda. Todo español debe tener la capacidad de defenderse a sí mismo y a los suyos ante una agresión en su propio hogar. Creare - mos un regi…",
+      "detail": "Tolerancia cero con la ocupación ilegal. Reformaremos tanto del Código Penal como de las Leyes de Enjuiciamiento Criminal y Civil para proteger real y efectivamente a los propietarios que sufren la acción de las mafias de ocupación o la entrada ilegal de un okupa en su vivienda. Todo español debe tener la capacidad de defenderse a sí mismo y a los suyos ante una agresión en su propio hogar. Crearemos un registro de d…",
       "page": 40,
       "number": 64,
       "section": "Empleo, producción y fiscalidad",
@@ -32925,15 +32932,15 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Liberaremos todo el suelo que no esté o deba estar espe - cialmente protegido por motivos de interés ambiental, pai - sajístico, productivo o para la Defensa Na",
-      "detail": "Liberaremos todo el suelo que no esté o deba estar espe - cialmente protegido por motivos de interés ambiental, pai - sajístico, productivo o para la Defensa Nacional. Impulsare - mos una nueva Ley del Suelo que prevea la liberación del suelo secuestrado por ayuntamientos y comunidades autó - nomas para el beneficio de los partidos y de políticos corrup - tos, y que asegure un correcto, ágil y armónico desarrollo ur…",
+      "title": "Liberaremos todo el suelo que no esté o deba estar especialmente protegido por motivos de interés ambiental, paisajístico, productivo o para la Defensa Nacional",
+      "detail": "Liberaremos todo el suelo que no esté o deba estar especialmente protegido por motivos de interés ambiental, paisajístico, productivo o para la Defensa Nacional. Impulsaremos una nueva Ley del Suelo que prevea la liberación del suelo secuestrado por ayuntamientos y comunidades autónomas para el beneficio de los partidos y de políticos corruptos, y que asegure un correcto, ágil y armónico desarrollo urbanístico en tod…",
       "page": 40,
       "number": 65,
       "section": "Empleo, producción y fiscalidad",
       "subthemeIds": [
         "impuestos-fiscalidad",
-        "administracion-local",
-        "defensa-soberania"
+        "organizacion-territorial",
+        "administracion-local"
       ],
       "priorityIndex": 1,
       "originalBlockIndex": 4,
@@ -32955,7 +32962,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Recuperaremos la deducción por vivienda habitual en la declaración de la Renta.",
-      "detail": "Recuperaremos la deducción por vivienda habitual en la declaración de la Renta. A su vez, incentivaremos la adqui - 41 sición de la primera vivienda habitual, así como la puesta a disposición por los propietarios de sus viviendas en alquiler.",
+      "detail": "Recuperaremos la deducción por vivienda habitual en la declaración de la Renta. A su vez, incentivaremos la adquisición de la primera vivienda habitual, así como la puesta a disposición por los propietarios de sus viviendas en alquiler.",
       "page": 40,
       "number": 67,
       "section": "Empleo, producción y fiscalidad",
@@ -32968,8 +32975,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Revisaremos y rebajaremos los tributos y cargas en el pro - ceso edificatorio.",
-      "detail": "Revisaremos y rebajaremos los tributos y cargas en el pro - ceso edificatorio. Todo el proceso constructivo desde la ad - quisición de una parcela hasta la venta o alquiler de la vivien - da se ha convertido en un modo de obtención de ingresos fiscales para el Estado, regiones y municipios, que produce un incremento de precios artificial.",
+      "title": "Revisaremos y rebajaremos los tributos y cargas en el proceso edificatorio.",
+      "detail": "Revisaremos y rebajaremos los tributos y cargas en el proceso edificatorio. Todo el proceso constructivo desde la adquisición de una parcela hasta la venta o alquiler de la vivienda se ha convertido en un modo de obtención de ingresos fiscales para el Estado, regiones y municipios, que produce un incremento de precios artificial.",
       "page": 41,
       "number": 68,
       "section": "Empleo, producción y fiscalidad",
@@ -32984,7 +32991,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Impulsaremos la construcción viviendas sociales públicas en régimen de propiedad o arrendamiento con opción a compra para garantizar que los jóvenes y familias",
-      "detail": "Impulsaremos la construcción viviendas sociales públicas en régimen de propiedad o arrendamiento con opción a compra para garantizar que los jóvenes y familias puedan adquirir un hogar, especialmente aquellos con menos re - cursos.",
+      "detail": "Impulsaremos la construcción viviendas sociales públicas en régimen de propiedad o arrendamiento con opción a compra para garantizar que los jóvenes y familias puedan adquirir un hogar, especialmente aquellos con menos recursos.",
       "page": 41,
       "number": 69,
       "section": "Empleo, producción y fiscalidad",
@@ -32998,14 +33005,15 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Fomentaremos la colaboración entre la Administración Pú - blica y las entidades privadas a efectos de aumentar el par - que de viviendas de protección oficial .",
-      "detail": "Fomentaremos la colaboración entre la Administración Pú - blica y las entidades privadas a efectos de aumentar el par - que de viviendas de protección oficial . Movilizaremos el suelo público perteneciente a la Administración General del Estado y los organismos de ella dependientes para la pro - moción de vivienda en alquiler social. Habilitaremos una pla - taforma auditada de peticiones para que, manteniendo la SARE…",
+      "title": "Fomentaremos la colaboración entre la Administración Pública y las entidades privadas a efectos de aumentar el parque de viviendas de protección oficial .",
+      "detail": "Fomentaremos la colaboración entre la Administración Pública y las entidades privadas a efectos de aumentar el parque de viviendas de protección oficial . Movilizaremos el suelo público perteneciente a la Administración General del Estado y los organismos de ella dependientes para la promoción de vivienda en alquiler social. Habilitaremos una plataforma auditada de peticiones para que, manteniendo la SAREB la titular…",
       "page": 41,
       "number": 70,
       "section": "Empleo, producción y fiscalidad",
       "subthemeIds": [
         "impuestos-fiscalidad",
-        "vivienda-proximidad"
+        "vivienda-proximidad",
+        "administracion-digital"
       ],
       "priorityIndex": 1,
       "originalBlockIndex": 4,
@@ -33013,7 +33021,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Modificaremos la Ley Reguladora de las Bases del Régimen Local y elaboraremos una nueva resolución por la que se dicten las instrucciones técnicas a los Ayuntam",
-      "detail": "Modificaremos la Ley Reguladora de las Bases del Régimen Local y elaboraremos una nueva resolución por la que se dicten las instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal al objeto de impedir que un okupa pue- da empadronarse en la vivienda ocupada ilegalmente. 42",
+      "detail": "Modificaremos la Ley Reguladora de las Bases del Régimen Local y elaboraremos una nueva resolución por la que se dicten las instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal al objeto de impedir que un okupa pueda empadronarse en la vivienda ocupada ilegalmente. 42",
       "page": 41,
       "number": 71,
       "section": "Empleo, producción y fiscalidad",
@@ -33027,8 +33035,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Acabaremos con la expropiación temporal de inmuebles y con el control de rentas en el contrato de arrendamiento pues- tos en marcha en los últimos años por dist",
-      "detail": "Acabaremos con la expropiación temporal de inmuebles y con el control de rentas en el contrato de arrendamiento pues- tos en marcha en los últimos años por distintas regiones.",
+      "title": "Acabaremos con la expropiación temporal de inmuebles y con el control de rentas en el contrato de arrendamiento puestos en marcha en los últimos años por distin",
+      "detail": "Acabaremos con la expropiación temporal de inmuebles y con el control de rentas en el contrato de arrendamiento puestos en marcha en los últimos años por distintas regiones.",
       "page": 42,
       "number": 72,
       "section": "Empleo, producción y fiscalidad",
@@ -33040,8 +33048,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Impulsaremos la homogeneización de la normativa turís - tica en materia de viviendas con fines turísticos para toda España.",
-      "detail": "Impulsaremos la homogeneización de la normativa turís - tica en materia de viviendas con fines turísticos para toda España. Esta homogeneización normativa garantizará la competencia en igualdad de condiciones con el resto de alo - jamientos turísticos, como hoteles o campings; velará por la preservación de los derechos de los vecinos residentes y la vida de los barrios; y pondrá límite al encarecimiento que la prolif…",
+      "title": "Impulsaremos la homogeneización de la normativa turística en materia de viviendas con fines turísticos para toda España.",
+      "detail": "Impulsaremos la homogeneización de la normativa turística en materia de viviendas con fines turísticos para toda España. Esta homogeneización normativa garantizará la competencia en igualdad de condiciones con el resto de alojamientos turísticos, como hoteles o campings; velará por la preservación de los derechos de los vecinos residentes y la vida de los barrios; y pondrá límite al encarecimiento que la proliferació…",
       "page": 42,
       "number": 73,
       "section": "Empleo, producción y fiscalidad",
@@ -33055,8 +33063,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "La saturación y masificación de los cascos históricos de pisos turísticos ha dinamitado la armonía entre residentes y turis - tas.",
-      "detail": "La saturación y masificación de los cascos históricos de pisos turísticos ha dinamitado la armonía entre residentes y turis - tas. Preservaremos los derechos de los vecinos residentes y pondremos fin a un modelo turístico poco respetuoso que está contribuyendo a la degradación de nuestros barrios y a la expulsión de los vecinos de sus hogares. Nuestros barrios no pueden convertirse en parques temáticos.",
+      "title": "La saturación y masificación de los cascos históricos de pisos turísticos ha dinamitado la armonía entre residentes y turistas.",
+      "detail": "La saturación y masificación de los cascos históricos de pisos turísticos ha dinamitado la armonía entre residentes y turistas. Preservaremos los derechos de los vecinos residentes y pondremos fin a un modelo turístico poco respetuoso que está contribuyendo a la degradación de nuestros barrios y a la expulsión de los vecinos de sus hogares. Nuestros barrios no pueden convertirse en parques temáticos.",
       "page": 42,
       "number": 74,
       "section": "Empleo, producción y fiscalidad",
@@ -33069,8 +33077,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Promoveremos el incremento de los medios técnicos y per - sonales de los Ayuntamientos encargados de la redacción de los informes técnicos pertinentes para la c",
-      "detail": "Promoveremos el incremento de los medios técnicos y per - sonales de los Ayuntamientos encargados de la redacción de los informes técnicos pertinentes para la concesión de licencias , así como la agilización burocrática. Promoveremos entre las regiones y las Entidades Locales la implantación de sistemas por los que se digitalice el proceso de tramitación de licencias .",
+      "title": "Promoveremos el incremento de los medios técnicos y personales de los Ayuntamientos encargados de la redacción de los informes técnicos pertinentes para la conc",
+      "detail": "Promoveremos el incremento de los medios técnicos y personales de los Ayuntamientos encargados de la redacción de los informes técnicos pertinentes para la concesión de licencias , así como la agilización burocrática. Promoveremos entre las regiones y las Entidades Locales la implantación de sistemas por los que se digitalice el proceso de tramitación de licencias .",
       "page": 42,
       "number": 75,
       "section": "Empleo, producción y fiscalidad",
@@ -33097,37 +33105,38 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Derogaremos la Ley por el derecho a la vivienda aprobada por el gobierno de Sánchez, la cual no contribuirá a conse - guir vivienda más asequible, hundirá el me",
-      "detail": "Derogaremos la Ley por el derecho a la vivienda aprobada por el gobierno de Sánchez, la cual no contribuirá a conse - guir vivienda más asequible, hundirá el mercado del alquiler, altera el contenido esencial del derecho de propiedad con - sagrado en el artículo 33 de la Constitución y ampara la ocu - pación ilegal.",
+      "title": "Derogaremos la Ley por el derecho a la vivienda aprobada por el gobierno de Sánchez, la cual no contribuirá a conseguir vivienda más asequible, hundirá el merca",
+      "detail": "Derogaremos la Ley por el derecho a la vivienda aprobada por el gobierno de Sánchez, la cual no contribuirá a conseguir vivienda más asequible, hundirá el mercado del alquiler, altera el contenido esencial del derecho de propiedad consagrado en el artículo 33 de la Constitución y ampara la ocupación ilegal.",
       "page": 43,
       "number": 77,
       "section": "Empleo, producción y fiscalidad",
       "subthemeIds": [
         "impuestos-fiscalidad",
-        "vivienda-proximidad"
+        "vivienda-proximidad",
+        "seguridad-interior"
       ],
       "priorityIndex": 1,
       "originalBlockIndex": 4,
       "kind": "document"
     },
     {
-      "title": "Promoveremos un urbanismo amable para las familias, arraigado y armonioso con el entorno , fomentando la re - habilitación de los estilos regionales y la protec",
-      "detail": "Promoveremos un urbanismo amable para las familias, arraigado y armonioso con el entorno , fomentando la re - habilitación de los estilos regionales y la protección de las fachadas tradicionales, incluyéndolos en los catálogos de bienes de interés cultural. • Rechazamos por ello proyectos globalistas como la llamada Nueva Bauhaus europea que impulsan los burócratas de Bruselas, que, con la coartada del fana - tismo c…",
+      "title": "Promoveremos un urbanismo amable para las familias, arraigado y armonioso con el entorno , fomentando la rehabilitación de los estilos regionales y la protecció",
+      "detail": "Promoveremos un urbanismo amable para las familias, arraigado y armonioso con el entorno , fomentando la rehabilitación de los estilos regionales y la protección de las fachadas tradicionales, incluyéndolos en los catálogos de bienes de interés cultural. • Rechazamos por ello proyectos globalistas como la llamada Nueva Bauhaus europea que impulsan los burócratas de Bruselas, que, con la coartada del fanatismo climáti…",
       "page": 43,
       "number": 78,
       "section": "Empleo, producción y fiscalidad",
       "subthemeIds": [
         "impuestos-fiscalidad",
-        "familia-conciliacion",
-        "cultura"
+        "vivienda-proximidad",
+        "medio-ambiente"
       ],
       "priorityIndex": 1,
       "originalBlockIndex": 4,
       "kind": "document"
     },
     {
-      "title": "Refuerzo inmediato de los controles fronterizos para todos los productos de terceros países que lleguen a nuestro mer - cado.",
-      "detail": "Refuerzo inmediato de los controles fronterizos para todos los productos de terceros países que lleguen a nuestro mer - cado. Debe vigilarse de manera rigurosa el etiquetado para prevenir el fraude y así proteger tanto a nuestras empresas y trabajadores como a nuestros consumidores, habituales vícti - mas de información errónea y del uso de pesticidas o produc - tos fitosanitarios que llevan años prohibidos en Europa…",
+      "title": "Refuerzo inmediato de los controles fronterizos para todos los productos de terceros países que lleguen a nuestro mercado.",
+      "detail": "Refuerzo inmediato de los controles fronterizos para todos los productos de terceros países que lleguen a nuestro mercado. Debe vigilarse de manera rigurosa el etiquetado para prevenir el fraude y así proteger tanto a nuestras empresas y trabajadores como a nuestros consumidores, habituales víctimas de información errónea y del uso de pesticidas o productos fitosanitarios que llevan años prohibidos en Europa.",
       "page": 48,
       "number": 79,
       "section": "Empleo, producción y fiscalidad",
@@ -33141,7 +33150,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Protegeremos a nuestros productores de la normativa que amenaza la supervivencia del empleo a consecuencia de las pérdidas que está causando.",
-      "detail": "Protegeremos a nuestros productores de la normativa que amenaza la supervivencia del empleo a consecuencia de las pérdidas que está causando. Como ya hace VOX en Castilla y León, exigiremos en Bruselas la revisión de la le - gislación para asegurar un equilibrio entre la viabilidad de los sectores productivos y las garantías medioambientales y sanitarias, lejos de imposiciones ideológicas arbitrarias en nombre de la…",
+      "detail": "Protegeremos a nuestros productores de la normativa que amenaza la supervivencia del empleo a consecuencia de las pérdidas que está causando. Como ya hace VOX en Castilla y León, exigiremos en Bruselas la revisión de la legislación para asegurar un equilibrio entre la viabilidad de los sectores productivos y las garantías medioambientales y sanitarias, lejos de imposiciones ideológicas arbitrarias en nombre de la rel…",
       "page": 48,
       "number": 80,
       "section": "Empleo, producción y fiscalidad",
@@ -33153,8 +33162,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Crearemos la Oficina Nacional de lucha contra el fraude en el etiquetado que se encargará de controlar que el eti - quetado sobre la procedencia de los producto",
-      "detail": "Crearemos la Oficina Nacional de lucha contra el fraude en el etiquetado que se encargará de controlar que el eti - quetado sobre la procedencia de los productos extranjeros se ajusta a la realidad; comprobar que cumplen con los re - quisitos de producción exigidos en la Unión Europea tan - to laborales como de utilización de fitosanitarios y con las cuotas establecidas en los distintos tratados y acuerdos.",
+      "title": "Crearemos la Oficina Nacional de lucha contra el fraude en el etiquetado que se encargará de controlar que el etiquetado sobre la procedencia de los productos e",
+      "detail": "Crearemos la Oficina Nacional de lucha contra el fraude en el etiquetado que se encargará de controlar que el etiquetado sobre la procedencia de los productos extranjeros se ajusta a la realidad; comprobar que cumplen con los requisitos de producción exigidos en la Unión Europea tanto laborales como de utilización de fitosanitarios y con las cuotas establecidas en los distintos tratados y acuerdos.",
       "page": 48,
       "number": 81,
       "section": "Empleo, producción y fiscalidad",
@@ -33167,8 +33176,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Aplicación estricta del principio de preferencia comuni - taria y revisión de los acuerdos de libre comercio suscri - tos con terceros países.",
-      "detail": "Aplicación estricta del principio de preferencia comuni - taria y revisión de los acuerdos de libre comercio suscri - tos con terceros países. Es imprescindible asegurar que 49 los productos extranjeros estén sometidos a las mismas regulaciones y normativas que han de cumplir las empre - sas y productos españoles, cumpliendo estrictamente las cuotas de importación.",
+      "title": "Aplicación estricta del principio de preferencia comunitaria y revisión de los acuerdos de libre comercio suscritos con terceros países.",
+      "detail": "Aplicación estricta del principio de preferencia comunitaria y revisión de los acuerdos de libre comercio suscritos con terceros países. Es imprescindible asegurar que 49 los productos extranjeros estén sometidos a las mismas regulaciones y normativas que han de cumplir las empresas y productos españoles, cumpliendo estrictamente las cuotas de importación.",
       "page": 48,
       "number": 82,
       "section": "Empleo, producción y fiscalidad",
@@ -33180,8 +33189,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Revisaremos las relaciones comerciales con aquellos paí - ses que sistemáticamente practican la competencia des - leal respecto de nuestros productos.",
-      "detail": "Revisaremos las relaciones comerciales con aquellos paí - ses que sistemáticamente practican la competencia des - leal respecto de nuestros productos.",
+      "title": "Revisaremos las relaciones comerciales con aquellos países que sistemáticamente practican la competencia desleal respecto de nuestros productos.",
+      "detail": "Revisaremos las relaciones comerciales con aquellos países que sistemáticamente practican la competencia desleal respecto de nuestros productos.",
       "page": 49,
       "number": 83,
       "section": "Empleo, producción y fiscalidad",
@@ -33206,8 +33215,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Refuerzo de la acción diplomática para promocionar y proteger nuestros productos en el exterior , así como ga - rantizar siempre el efectivo ejercicio de sus de",
-      "detail": "Refuerzo de la acción diplomática para promocionar y proteger nuestros productos en el exterior , así como ga - rantizar siempre el efectivo ejercicio de sus derechos. El Gobierno de España no puede tolerar las humillaciones y criminalización de sectores nacionales como el vino, la car - ne o la fresa, como Sánchez sí ha permitido.",
+      "title": "Refuerzo de la acción diplomática para promocionar y proteger nuestros productos en el exterior , así como garantizar siempre el efectivo ejercicio de sus derec",
+      "detail": "Refuerzo de la acción diplomática para promocionar y proteger nuestros productos en el exterior , así como garantizar siempre el efectivo ejercicio de sus derechos. El Gobierno de España no puede tolerar las humillaciones y criminalización de sectores nacionales como el vino, la carne o la fresa, como Sánchez sí ha permitido.",
       "page": 49,
       "number": 85,
       "section": "Empleo, producción y fiscalidad",
@@ -33221,7 +33230,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Defenderemos el comercio local y el producto nacional frente a las grandes multinacionales y franquicias que eluden sus obligaciones fiscales, comercian con los",
-      "detail": "Defenderemos el comercio local y el producto nacional frente a las grandes multinacionales y franquicias que eluden sus obligaciones fiscales, comercian con los datos digitales cosechados en España, e impiden a nuestros pe - queños comerciantes acceder al mercado en condiciones de igualdad.",
+      "detail": "Defenderemos el comercio local y el producto nacional frente a las grandes multinacionales y franquicias que eluden sus obligaciones fiscales, comercian con los datos digitales cosechados en España, e impiden a nuestros pequeños comerciantes acceder al mercado en condiciones de igualdad.",
       "page": 49,
       "number": 86,
       "section": "Empleo, producción y fiscalidad",
@@ -33234,8 +33243,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Estableceremos un programa de incentivos y de reduc - ción del entramado burocrático para facilitar el retorno a España de todas aquellas empresas que deslocali",
-      "detail": "Estableceremos un programa de incentivos y de reduc - ción del entramado burocrático para facilitar el retorno a España de todas aquellas empresas que deslocalizaron su producción, ayudar a nuestros agricultores y ganaderos y favorecer el emprendimiento joven en el sector primario. 50",
+      "title": "Estableceremos un programa de incentivos y de reducción del entramado burocrático para facilitar el retorno a España de todas aquellas empresas que deslocalizar",
+      "detail": "Estableceremos un programa de incentivos y de reducción del entramado burocrático para facilitar el retorno a España de todas aquellas empresas que deslocalizaron su producción, ayudar a nuestros agricultores y ganaderos y favorecer el emprendimiento joven en el sector primario. 50",
       "page": 49,
       "number": 87,
       "section": "Empleo, producción y fiscalidad",
@@ -33247,8 +33256,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Fomentaremos la continuidad empresarial mediante in - centivos y desgravaciones fiscales favoreciendo el relevo generacional en todas las empresas familiares.",
-      "detail": "Fomentaremos la continuidad empresarial mediante in - centivos y desgravaciones fiscales favoreciendo el relevo generacional en todas las empresas familiares.",
+      "title": "Fomentaremos la continuidad empresarial mediante incentivos y desgravaciones fiscales favoreciendo el relevo generacional en todas las empresas familiares.",
+      "detail": "Fomentaremos la continuidad empresarial mediante incentivos y desgravaciones fiscales favoreciendo el relevo generacional en todas las empresas familiares.",
       "page": 50,
       "number": 88,
       "section": "Empleo, producción y fiscalidad",
@@ -33261,8 +33270,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Dejaremos sin acceso a cualquier tipo de ayuda y sub - vención pública a aquellas asociaciones y organizaciones ecologistas radicales que ataquen a nuestro sect",
-      "detail": "Dejaremos sin acceso a cualquier tipo de ayuda y sub - vención pública a aquellas asociaciones y organizaciones ecologistas radicales que ataquen a nuestro sector pri - mario, sus productos y el modo de vida tradicional.",
+      "title": "Dejaremos sin acceso a cualquier tipo de ayuda y subvención pública a aquellas asociaciones y organizaciones ecologistas radicales que ataquen a nuestro sector",
+      "detail": "Dejaremos sin acceso a cualquier tipo de ayuda y subvención pública a aquellas asociaciones y organizaciones ecologistas radicales que ataquen a nuestro sector primario, sus productos y el modo de vida tradicional.",
       "page": 50,
       "number": 89,
       "section": "Empleo, producción y fiscalidad",
@@ -33275,7 +33284,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Impulso al turismo en España.",
-      "detail": "Impulso al turismo en España. Tomaremos medidas fisca - les y de promoción interior y exterior de esta industria para crear empleo y riqueza, y para vertebrar esa España aban - donada por los sucesivos gobiernos. Fomentaremos el tu - rismo rural, de montaña o interior, y apoyaremos la conser - vación y difusión de nuestro patrimonio natural y artístico.",
+      "detail": "Impulso al turismo en España. Tomaremos medidas fiscales y de promoción interior y exterior de esta industria para crear empleo y riqueza, y para vertebrar esa España abandonada por los sucesivos gobiernos. Fomentaremos el turismo rural, de montaña o interior, y apoyaremos la conservación y difusión de nuestro patrimonio natural y artístico.",
       "page": 50,
       "number": 90,
       "section": "Empleo, producción y fiscalidad",
@@ -33289,8 +33298,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Elaboraremos un Plan Nacional de Turismo que restablez - ca la posición de España como primera potencia turística mundial.",
-      "detail": "Elaboraremos un Plan Nacional de Turismo que restablez - ca la posición de España como primera potencia turística mundial.",
+      "title": "Elaboraremos un Plan Nacional de Turismo que restablezca la posición de España como primera potencia turística mundial.",
+      "detail": "Elaboraremos un Plan Nacional de Turismo que restablezca la posición de España como primera potencia turística mundial.",
       "page": 50,
       "number": 91,
       "section": "Empleo, producción y fiscalidad",
@@ -33303,7 +33312,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Revitalización de la industria del automóvil y de partes y componentes, a fin de asegurar la posición dominante de España en el sector , garantizando la convive",
-      "detail": "Revitalización de la industria del automóvil y de partes y componentes, a fin de asegurar la posición dominante de España en el sector , garantizando la convivencia na - tural de todos los vehículos, de combustión, eléctricos e híbridos, impulsando en Europa la suspensión inmediata de la prohibición del motor de combustión para 2035, ase - gurando el mantenimiento y creación de empleo.",
+      "detail": "Revitalización de la industria del automóvil y de partes y componentes, a fin de asegurar la posición dominante de España en el sector , garantizando la convivencia natural de todos los vehículos, de combustión, eléctricos e híbridos, impulsando en Europa la suspensión inmediata de la prohibición del motor de combustión para 2035, asegurando el mantenimiento y creación de empleo.",
       "page": 50,
       "number": 92,
       "section": "Empleo, producción y fiscalidad",
@@ -33317,7 +33326,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Elaboraremos y ejecutaremos una Estrategia Industrial para España ; fomentando cadenas de suministro seguras sobre todo en sectores estratégicos y con acuerdos",
-      "detail": "Elaboraremos y ejecutaremos una Estrategia Industrial para España ; fomentando cadenas de suministro seguras sobre todo en sectores estratégicos y con acuerdos bilate - rales con naciones aliadas y fiables, para el beneficio recí - proco de sus economías. 51",
+      "detail": "Elaboraremos y ejecutaremos una Estrategia Industrial para España ; fomentando cadenas de suministro seguras sobre todo en sectores estratégicos y con acuerdos bilaterales con naciones aliadas y fiables, para el beneficio recíproco de sus economías. 51",
       "page": 50,
       "number": 93,
       "section": "Empleo, producción y fiscalidad",
@@ -33330,7 +33339,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Corregiremos los desequilibrios comerciales de la cadena alimentaria que se encuentra tensionada por la presión que ejercen los eslabones superiores de la caden",
-      "detail": "Corregiremos los desequilibrios comerciales de la cadena alimentaria que se encuentra tensionada por la presión que ejercen los eslabones superiores de la cadena sobre el más débil, generalmente el productor, para mantener sus márge - nes. Es necesario limitar la subida de precios al consumidor final, empezando por eliminar los impuestos y normas ver - des que estrechan aún más los márgenes de nuestros pro - ductores…",
+      "detail": "Corregiremos los desequilibrios comerciales de la cadena alimentaria que se encuentra tensionada por la presión que ejercen los eslabones superiores de la cadena sobre el más débil, generalmente el productor, para mantener sus márgenes. Es necesario limitar la subida de precios al consumidor final, empezando por eliminar los impuestos y normas verdes que estrechan aún más los márgenes de nuestros productores.",
       "page": 51,
       "number": 94,
       "section": "Empleo, producción y fiscalidad",
@@ -33343,8 +33352,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Garantizaremos que la distribución de nuestros produc - tos por los distintos puntos de España y del extranjero se haga de manera eficaz y segura para nuestros",
-      "detail": "Garantizaremos que la distribución de nuestros produc - tos por los distintos puntos de España y del extranjero se haga de manera eficaz y segura para nuestros trabajado - res. Acometeremos las inversiones para la mejora de la logística y del transporte y en las comunicaciones de la actividad industrial.",
+      "title": "Garantizaremos que la distribución de nuestros productos por los distintos puntos de España y del extranjero se haga de manera eficaz y segura para nuestros tra",
+      "detail": "Garantizaremos que la distribución de nuestros productos por los distintos puntos de España y del extranjero se haga de manera eficaz y segura para nuestros trabajadores. Acometeremos las inversiones para la mejora de la logística y del transporte y en las comunicaciones de la actividad industrial.",
       "page": 51,
       "number": 95,
       "section": "Empleo, producción y fiscalidad",
@@ -33358,7 +33367,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Incentivaremos fiscalmente a las empresas que compren productos agrícolas nacionales.",
-      "detail": "Incentivaremos fiscalmente a las empresas que compren productos agrícolas nacionales. Del mismo modo, apoya - remos los métodos tradicionales y artesanales de pro - ducción, cultivo, cría y pesca para mejorar su competitivi - dad en el mercado, generar empleo y asentar la población del territorio.",
+      "detail": "Incentivaremos fiscalmente a las empresas que compren productos agrícolas nacionales. Del mismo modo, apoyaremos los métodos tradicionales y artesanales de producción, cultivo, cría y pesca para mejorar su competitividad en el mercado, generar empleo y asentar la población del territorio.",
       "page": 51,
       "number": 96,
       "section": "Empleo, producción y fiscalidad",
@@ -33371,8 +33380,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Conservaremos un stock mínimo permanente de bienes estratégicos , esto es, aquellos en los que el riesgo de rup - tura sea inaceptable (en particular, medicamen",
-      "detail": "Conservaremos un stock mínimo permanente de bienes estratégicos , esto es, aquellos en los que el riesgo de rup - tura sea inaceptable (en particular, medicamentos, equi - pos médicos, productos agroalimentarios, componentes electrónicos, baterías), que permita a España disponer rápidamente de los mismos en situaciones de particular emergencia.",
+      "title": "Conservaremos un stock mínimo permanente de bienes estratégicos , esto es, aquellos en los que el riesgo de ruptura sea inaceptable (en particular, medicamentos",
+      "detail": "Conservaremos un stock mínimo permanente de bienes estratégicos , esto es, aquellos en los que el riesgo de ruptura sea inaceptable (en particular, medicamentos, equipos médicos, productos agroalimentarios, componentes electrónicos, baterías), que permita a España disponer rápidamente de los mismos en situaciones de particular emergencia.",
       "page": 51,
       "number": 97,
       "section": "Empleo, producción y fiscalidad",
@@ -33399,8 +33408,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Siempre que este gobierno ha tenido que tomar decisio - nes tanto en el interior como en el exterior ha acabado aliado con los enemigos de España produciendo un",
-      "detail": "Siempre que este gobierno ha tenido que tomar decisio - nes tanto en el interior como en el exterior ha acabado aliado con los enemigos de España produciendo un daño irreparable a las clases medias, al campo y las industrias. No vamos a permitir injerencias de países y lobbies ver - des extranjeros que ataquen el producto español y a los españoles que trabajan duro para conseguirlo.",
+      "title": "Siempre que este gobierno ha tenido que tomar decisiones tanto en el interior como en el exterior ha acabado aliado con los enemigos de España produciendo un da",
+      "detail": "Siempre que este gobierno ha tenido que tomar decisiones tanto en el interior como en el exterior ha acabado aliado con los enemigos de España produciendo un daño irreparable a las clases medias, al campo y las industrias. No vamos a permitir injerencias de países y lobbies verdes extranjeros que ataquen el producto español y a los españoles que trabajan duro para conseguirlo.",
       "page": 52,
       "number": 99,
       "section": "Empleo, producción y fiscalidad",
@@ -33413,8 +33422,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Garantizaremos la seguridad jurídica y la homogeneiza - ción del caos normativo entre regiones para que España y sus productos sean más competitivos y despliegu",
-      "detail": "Garantizaremos la seguridad jurídica y la homogeneiza - ción del caos normativo entre regiones para que España y sus productos sean más competitivos y desplieguen su potencial de exportación a Europa y a todo el mundo. 53 ALGUNAS ACCIONES DESTACADAS DE VOX SOBRE PRODUCTO NACIONAL PNL relativa a la defensa de la producción agraria espa - ñola, protegiendo la producción agroalimentaria y horto - frutícola española fren…",
+      "title": "Garantizaremos la seguridad jurídica y la homogeneización del caos normativo entre regiones para que España y sus productos sean más competitivos y desplieguen",
+      "detail": "Garantizaremos la seguridad jurídica y la homogeneización del caos normativo entre regiones para que España y sus productos sean más competitivos y desplieguen su potencial de exportación a Europa y a todo el mundo. 53 ALGUNAS ACCIONES DESTACADAS DE VOX SOBRE PRODUCTO NACIONAL PNL relativa a la defensa de la producción agraria española, protegiendo la producción agroalimentaria y hortofrutícola española frente a la c…",
       "page": 52,
       "number": 100,
       "section": "Empleo, producción y fiscalidad",
@@ -33429,7 +33438,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Implementaremos un verdadero Sistema Nacional de Salud mediante la recuperación de las competencias en materia sanitaria transferidas a las regiones, con el fin",
-      "detail": "Implementaremos un verdadero Sistema Nacional de Salud mediante la recuperación de las competencias en materia sanitaria transferidas a las regiones, con el fin de establecer un sistema único, igual y de calidad en toda Es - paña y para todos los españoles.",
+      "detail": "Implementaremos un verdadero Sistema Nacional de Salud mediante la recuperación de las competencias en materia sanitaria transferidas a las regiones, con el fin de establecer un sistema único, igual y de calidad en toda España y para todos los españoles.",
       "page": 56,
       "number": 101,
       "section": "Educación, vivienda, salud y protección social",
@@ -33443,8 +33452,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Mientras se logra la recuperación de las competencias sa - nitarias, elaboraremos un Plan Nacional de Sanidad que subsane progresivamente el caos de gestión san",
-      "detail": "Mientras se logra la recuperación de las competencias sa - nitarias, elaboraremos un Plan Nacional de Sanidad que subsane progresivamente el caos de gestión sanitaria. Este plan incluirá un refuerzo del Ministerio de Sanidad, una tarjeta sanitaria única ; unificación de la historia clí - nica y farmacéutica digital, accesible al menos en español a los sanitarios de todo el país; y una cartera de servicios común.",
+      "title": "Mientras se logra la recuperación de las competencias sanitarias, elaboraremos un Plan Nacional de Sanidad que subsane progresivamente el caos de gestión sanita",
+      "detail": "Mientras se logra la recuperación de las competencias sanitarias, elaboraremos un Plan Nacional de Sanidad que subsane progresivamente el caos de gestión sanitaria. Este plan incluirá un refuerzo del Ministerio de Sanidad, una tarjeta sanitaria única ; unificación de la historia clínica y farmacéutica digital, accesible al menos en español a los sanitarios de todo el país; y una cartera de servicios común.",
       "page": 56,
       "number": 102,
       "section": "Educación, vivienda, salud y protección social",
@@ -33459,7 +33468,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Invertiremos más en Sanidad, gastando mejor.",
-      "detail": "Invertiremos más en Sanidad, gastando mejor. Cam - biaremos la gestión, suprimiendo el gasto innecesario, y cumpliendo los presupuestos. Constituiremos un sistema de compras centralizado y transparente , para toda Espa - ña que acabe con las ineficiencias regionales.",
+      "detail": "Invertiremos más en Sanidad, gastando mejor. Cambiaremos la gestión, suprimiendo el gasto innecesario, y cumpliendo los presupuestos. Constituiremos un sistema de compras centralizado y transparente , para toda España que acabe con las ineficiencias regionales.",
       "page": 56,
       "number": 103,
       "section": "Educación, vivienda, salud y protección social",
@@ -33473,8 +33482,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Implementaremos todas las medidas precisas para asegu - rar la libertad de elección de médico y centro ; y a tal fin, se establecerán mecanismos para una evalua",
-      "detail": "Implementaremos todas las medidas precisas para asegu - rar la libertad de elección de médico y centro ; y a tal fin, se establecerán mecanismos para una evaluación nacional de resultados, a fin de que los pacientes puedan ejercer esa libertad de forma informada.",
+      "title": "Implementaremos todas las medidas precisas para asegurar la libertad de elección de médico y centro ; y a tal fin, se establecerán mecanismos para una evaluació",
+      "detail": "Implementaremos todas las medidas precisas para asegurar la libertad de elección de médico y centro ; y a tal fin, se establecerán mecanismos para una evaluación nacional de resultados, a fin de que los pacientes puedan ejercer esa libertad de forma informada.",
       "page": 56,
       "number": 104,
       "section": "Educación, vivienda, salud y protección social",
@@ -33488,8 +33497,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Mantendremos y potenciaremos un único sistema nacio - nal de Formación Sanitaria Especializada para médicos 57 internos residentes, y sus equivalentes para enfe",
-      "detail": "Mantendremos y potenciaremos un único sistema nacio - nal de Formación Sanitaria Especializada para médicos 57 internos residentes, y sus equivalentes para enfermeros, farmacéuticos, psicólogos, biólogos, físicos y químicos",
+      "title": "Mantendremos y potenciaremos un único sistema nacional de Formación Sanitaria Especializada para médicos 57 internos residentes, y sus equivalentes para enferme",
+      "detail": "Mantendremos y potenciaremos un único sistema nacional de Formación Sanitaria Especializada para médicos 57 internos residentes, y sus equivalentes para enfermeros, farmacéuticos, psicólogos, biólogos, físicos y químicos",
       "page": 56,
       "number": 105,
       "section": "Educación, vivienda, salud y protección social",
@@ -33503,8 +33512,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Presionaremos para que el desconocimiento de las len - guas regionales no sea en ningún caso un impedimento para el acceso por oposición a plazas de personal sa",
-      "detail": "Presionaremos para que el desconocimiento de las len - guas regionales no sea en ningún caso un impedimento para el acceso por oposición a plazas de personal sani - tario , como está ocurriendo hoy en algunas regiones de España; garantizando que el único requisito en materia de lengua sea el conocimiento del español.",
+      "title": "Presionaremos para que el desconocimiento de las lenguas regionales no sea en ningún caso un impedimento para el acceso por oposición a plazas de personal sanit",
+      "detail": "Presionaremos para que el desconocimiento de las lenguas regionales no sea en ningún caso un impedimento para el acceso por oposición a plazas de personal sanitario , como está ocurriendo hoy en algunas regiones de España; garantizando que el único requisito en materia de lengua sea el conocimiento del español.",
       "page": 57,
       "number": 106,
       "section": "Educación, vivienda, salud y protección social",
@@ -33518,8 +33527,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Incremento de la inversión en Atención Primaria, con potenciación de la atención rural , de las zonas más sa - turadas.",
-      "detail": "Incremento de la inversión en Atención Primaria, con potenciación de la atención rural , de las zonas más sa - turadas. Se debe potenciar la atención presencial y la do - miciliaria. La digitalización debe aplicarse para disminuir la burocracia.",
+      "title": "Incremento de la inversión en Atención Primaria, con potenciación de la atención rural , de las zonas más saturadas.",
+      "detail": "Incremento de la inversión en Atención Primaria, con potenciación de la atención rural , de las zonas más saturadas. Se debe potenciar la atención presencial y la domiciliaria. La digitalización debe aplicarse para disminuir la burocracia.",
       "page": 57,
       "number": 107,
       "section": "Educación, vivienda, salud y protección social",
@@ -33533,8 +33542,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Dotaremos, en colaboración con el resto de Administra - ciones, de los medios humanos y materiales necesarios para la puesta en funcionamiento o reapertura de l",
-      "detail": "Dotaremos, en colaboración con el resto de Administra - ciones, de los medios humanos y materiales necesarios para la puesta en funcionamiento o reapertura de los centros de Atención Primaria tanto a nivel ambulatorio como domiciliario en toda España, con especial atención a la España rural y a los barrios más saturados.",
+      "title": "Dotaremos, en colaboración con el resto de Administraciones, de los medios humanos y materiales necesarios para la puesta en funcionamiento o reapertura de los",
+      "detail": "Dotaremos, en colaboración con el resto de Administraciones, de los medios humanos y materiales necesarios para la puesta en funcionamiento o reapertura de los centros de Atención Primaria tanto a nivel ambulatorio como domiciliario en toda España, con especial atención a la España rural y a los barrios más saturados.",
       "page": 57,
       "number": 108,
       "section": "Educación, vivienda, salud y protección social",
@@ -33548,8 +33557,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Reduciremos el volumen y tiempo de las listas de espe - ra en todos los ámbitos, incentivando a los centros públi - cos para su reducción, y reforzando los conc",
-      "detail": "Reduciremos el volumen y tiempo de las listas de espe - ra en todos los ámbitos, incentivando a los centros públi - cos para su reducción, y reforzando los conciertos con la sanidad privada.",
+      "title": "Reduciremos el volumen y tiempo de las listas de espera en todos los ámbitos, incentivando a los centros públicos para su reducción, y reforzando los conciertos",
+      "detail": "Reduciremos el volumen y tiempo de las listas de espera en todos los ámbitos, incentivando a los centros públicos para su reducción, y reforzando los conciertos con la sanidad privada.",
       "page": 57,
       "number": 109,
       "section": "Educación, vivienda, salud y protección social",
@@ -33563,8 +33572,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Reforzaremos la Estrategia Nacional del Cáncer , fomen - tando la investigación, el diagnóstico precoz, la incorpo - ración rápida de los tratamientos innovador",
-      "detail": "Reforzaremos la Estrategia Nacional del Cáncer , fomen - tando la investigación, el diagnóstico precoz, la incorpo - ración rápida de los tratamientos innovadores y la terapia de precisión, para reducir los tiempos de espera. Creare - mos una red de Centros Nacionales de Oncología. 58",
+      "title": "Reforzaremos la Estrategia Nacional del Cáncer , fomentando la investigación, el diagnóstico precoz, la incorporación rápida de los tratamientos innovadores y l",
+      "detail": "Reforzaremos la Estrategia Nacional del Cáncer , fomentando la investigación, el diagnóstico precoz, la incorporación rápida de los tratamientos innovadores y la terapia de precisión, para reducir los tiempos de espera. Crearemos una red de Centros Nacionales de Oncología. 58",
       "page": 57,
       "number": 110,
       "section": "Educación, vivienda, salud y protección social",
@@ -33578,23 +33587,23 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Promoveremos la investigación médica, con independen - cia de la rentabilidad comercial , de personas con enferme - dades raras, enfermedades crónicas, y especi",
-      "detail": "Promoveremos la investigación médica, con independen - cia de la rentabilidad comercial , de personas con enferme - dades raras, enfermedades crónicas, y especialmente en las neurodegenerativas (ELA, EM, Alzheimer, etc. ).",
+      "title": "Promoveremos la investigación médica, con independencia de la rentabilidad comercial , de personas con enfermedades raras, enfermedades crónicas, y especialment",
+      "detail": "Promoveremos la investigación médica, con independencia de la rentabilidad comercial , de personas con enfermedades raras, enfermedades crónicas, y especialmente en las neurodegenerativas (ELA, EM, Alzheimer, etc. ).",
       "page": 58,
       "number": 111,
       "section": "Educación, vivienda, salud y protección social",
       "subthemeIds": [
         "educacion-conocimiento",
-        "servicios-sociales",
-        "impuestos-fiscalidad"
+        "pensiones-cuidados",
+        "servicios-sociales"
       ],
       "priorityIndex": 2,
       "originalBlockIndex": 6,
       "kind": "document"
     },
     {
-      "title": "Reforzaremos la Estrategia Nacional de Salud Mental, re - forzando la prevención.",
-      "detail": "Reforzaremos la Estrategia Nacional de Salud Mental, re - forzando la prevención. Serán áreas prioritarias la preven - ción del suicidio y conductas autolíticas, los trastornos ali - mentarios y de autismo, así como las adicciones.",
+      "title": "Reforzaremos la Estrategia Nacional de Salud Mental, reforzando la prevención.",
+      "detail": "Reforzaremos la Estrategia Nacional de Salud Mental, reforzando la prevención. Serán áreas prioritarias la prevención del suicidio y conductas autolíticas, los trastornos alimentarios y de autismo, así como las adicciones.",
       "page": 58,
       "number": 112,
       "section": "Educación, vivienda, salud y protección social",
@@ -33609,7 +33618,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Aprobaremos una legislación sanitaria respetuosa con el derecho a la vida y a la integridad física y moral.",
-      "detail": "Aprobaremos una legislación sanitaria respetuosa con el derecho a la vida y a la integridad física y moral. Esto inclui - rá una Ley de Cuidados Paliativos que asegure el cuidado de las personas en las fases críticas y terminales de la vida, leyes de apoyo a la natalidad y la familia, así como la deroga - ción de las leyes de eutanasia y del aborto.",
+      "detail": "Aprobaremos una legislación sanitaria respetuosa con el derecho a la vida y a la integridad física y moral. Esto incluirá una Ley de Cuidados Paliativos que asegure el cuidado de las personas en las fases críticas y terminales de la vida, leyes de apoyo a la natalidad y la familia, así como la derogación de las leyes de eutanasia y del aborto.",
       "page": 58,
       "number": 113,
       "section": "Educación, vivienda, salud y protección social",
@@ -33623,8 +33632,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Incluiremos en la cartera de servicios las prestaciones re - lacionadas con la salud bucodental y oftalmológica.",
-      "detail": "Incluiremos en la cartera de servicios las prestaciones re - lacionadas con la salud bucodental y oftalmológica. Del mismo modo, suprimiremos de la Sanidad Pública aquellas intervenciones quirúrgicas y hormonales ajenas a la salud (cambio de sexo, aborto, eutanasia, etc.), protegiendo espe - cialmente a los menores de estas prácticas.",
+      "title": "Incluiremos en la cartera de servicios las prestaciones relacionadas con la salud bucodental y oftalmológica.",
+      "detail": "Incluiremos en la cartera de servicios las prestaciones relacionadas con la salud bucodental y oftalmológica. Del mismo modo, suprimiremos de la Sanidad Pública aquellas intervenciones quirúrgicas y hormonales ajenas a la salud (cambio de sexo, aborto, eutanasia, etc.), protegiendo especialmente a los menores de estas prácticas.",
       "page": 58,
       "number": 114,
       "section": "Educación, vivienda, salud y protección social",
@@ -33638,8 +33647,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Haremos efectivos los principios de igualdad, mérito y ca - pacidad en la selección, acceso y promoción del personal sanitario en España.",
-      "detail": "Haremos efectivos los principios de igualdad, mérito y ca - pacidad en la selección, acceso y promoción del personal sanitario en España.",
+      "title": "Haremos efectivos los principios de igualdad, mérito y capacidad en la selección, acceso y promoción del personal sanitario en España.",
+      "detail": "Haremos efectivos los principios de igualdad, mérito y capacidad en la selección, acceso y promoción del personal sanitario en España.",
       "page": 58,
       "number": 115,
       "section": "Educación, vivienda, salud y protección social",
@@ -33653,8 +33662,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Impulsaremos las reformas legislativas necesarias para ga - rantizar las condiciones laborales óptimas para los profesio - nales sanitarios , acabar con su prec",
-      "detail": "Impulsaremos las reformas legislativas necesarias para ga - rantizar las condiciones laborales óptimas para los profesio - nales sanitarios , acabar con su precariedad laboral y facilitar la retención de talento en el ámbito de la Sanidad pública. Pondremos especial atención en garantizar la conciliación 59 familiar y laboral, especialmente de los profesionales con me- nores, o personas mayores o con discapacidad a s…",
+      "title": "Impulsaremos las reformas legislativas necesarias para garantizar las condiciones laborales óptimas para los profesionales sanitarios , acabar con su precarieda",
+      "detail": "Impulsaremos las reformas legislativas necesarias para garantizar las condiciones laborales óptimas para los profesionales sanitarios , acabar con su precariedad laboral y facilitar la retención de talento en el ámbito de la Sanidad pública. Pondremos especial atención en garantizar la conciliación 59 familiar y laboral, especialmente de los profesionales con menores, o personas mayores o con discapacidad a su cargo,…",
       "page": 58,
       "number": 116,
       "section": "Educación, vivienda, salud y protección social",
@@ -33668,8 +33677,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Garantizaremos la libertad de conciencia de todo el per - sonal sanitario , para que no sea forzado a actuar contra su conciencia ante las imposiciones de la cu",
-      "detail": "Garantizaremos la libertad de conciencia de todo el per - sonal sanitario , para que no sea forzado a actuar contra su conciencia ante las imposiciones de la cultura de la muer - te (aborto o eutanasia) o de la ideología trans, tanto en intervenciones médicas como quirúrgicas como en la dis - pensación de medicamentos que atenten contra la vida.",
+      "title": "Garantizaremos la libertad de conciencia de todo el personal sanitario , para que no sea forzado a actuar contra su conciencia ante las imposiciones de la cultu",
+      "detail": "Garantizaremos la libertad de conciencia de todo el personal sanitario , para que no sea forzado a actuar contra su conciencia ante las imposiciones de la cultura de la muerte (aborto o eutanasia) o de la ideología trans, tanto en intervenciones médicas como quirúrgicas como en la dispensación de medicamentos que atenten contra la vida.",
       "page": 59,
       "number": 117,
       "section": "Educación, vivienda, salud y protección social",
@@ -33683,8 +33692,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Defenderemos nuestra soberanía sanitaria y fortalecere - mos la industria nacional de tecnología sanitaria y me - dicamentos para mejorar la respuesta sanitaria",
-      "detail": "Defenderemos nuestra soberanía sanitaria y fortalecere - mos la industria nacional de tecnología sanitaria y me - dicamentos para mejorar la respuesta sanitaria. Reforza - remos la AEMPS , acabando con el infierno burocrático y el caos normativo autonómico, que expulsan a nuestras in - dustrias y disuaden la inversión industrial en España.",
+      "title": "Defenderemos nuestra soberanía sanitaria y fortaleceremos la industria nacional de tecnología sanitaria y medicamentos para mejorar la respuesta sanitaria.",
+      "detail": "Defenderemos nuestra soberanía sanitaria y fortaleceremos la industria nacional de tecnología sanitaria y medicamentos para mejorar la respuesta sanitaria. Reforzaremos la AEMPS , acabando con el infierno burocrático y el caos normativo autonómico, que expulsan a nuestras industrias y disuaden la inversión industrial en España.",
       "page": 59,
       "number": 118,
       "section": "Educación, vivienda, salud y protección social",
@@ -33698,8 +33707,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Impulsaremos la reforma en profundidad de la OMS para que sea realmente un mecanismo de coordinación y apo - yo científico a los Estados miembros y deje de actu",
-      "detail": "Impulsaremos la reforma en profundidad de la OMS para que sea realmente un mecanismo de coordinación y apo - yo científico a los Estados miembros y deje de actuar se - gún las órdenes de la dictadura China, como ha ocurrido en la investigación del origen de la COVID-19.",
+      "title": "Impulsaremos la reforma en profundidad de la OMS para que sea realmente un mecanismo de coordinación y apoyo científico a los Estados miembros y deje de actuar",
+      "detail": "Impulsaremos la reforma en profundidad de la OMS para que sea realmente un mecanismo de coordinación y apoyo científico a los Estados miembros y deje de actuar según las órdenes de la dictadura China, como ha ocurrido en la investigación del origen de la COVID-19.",
       "page": 59,
       "number": 119,
       "section": "Educación, vivienda, salud y protección social",
@@ -33713,8 +33722,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Nos opondremos a la reintroducción del llamado pasapor - te verde y a las pretensiones de aprobación de un trata - do de pandemias que ponga en manos de organiz",
-      "detail": "Nos opondremos a la reintroducción del llamado pasapor - te verde y a las pretensiones de aprobación de un trata - do de pandemias que ponga en manos de organizaciones supranacionales el control de nuestros sistemas sanitarios y la toma de decisiones críticas sobre la libertad, movilidad y acceso a la sanidad de los españoles.",
+      "title": "Nos opondremos a la reintroducción del llamado pasaporte verde y a las pretensiones de aprobación de un tratado de pandemias que ponga en manos de organizacione",
+      "detail": "Nos opondremos a la reintroducción del llamado pasaporte verde y a las pretensiones de aprobación de un tratado de pandemias que ponga en manos de organizaciones supranacionales el control de nuestros sistemas sanitarios y la toma de decisiones críticas sobre la libertad, movilidad y acceso a la sanidad de los españoles.",
       "page": 59,
       "number": 120,
       "section": "Educación, vivienda, salud y protección social",
@@ -33729,7 +33738,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "La Sanidad española debe dar preferencia sanitaria a todo español y residente legal y a los trabajadores españoles 60 que regresen del extranjero, aunque sea te",
-      "detail": "La Sanidad española debe dar preferencia sanitaria a todo español y residente legal y a los trabajadores españoles 60 que regresen del extranjero, aunque sea temporalmente. En el caso de los inmigrantes en situación de ilegalidad, la atención abarcará las situaciones de urgencia vital y enfer - medades infecto-contagiosas. 61 ALGUNAS DE LAS ACCIONES MÁS DESTACADAS DE VOX SOBRE SALUD Proposición no de Ley relativa a p…",
+      "detail": "La Sanidad española debe dar preferencia sanitaria a todo español y residente legal y a los trabajadores españoles 60 que regresen del extranjero, aunque sea temporalmente. En el caso de los inmigrantes en situación de ilegalidad, la atención abarcará las situaciones de urgencia vital y enfermedades infecto-contagiosas. 61 ALGUNAS DE LAS ACCIONES MÁS DESTACADAS DE VOX SOBRE SALUD Proposición no de Ley relativa a prom…",
       "page": 59,
       "number": 121,
       "section": "Educación, vivienda, salud y protección social",
@@ -33744,7 +33753,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Cuidaremos a nuestros mayores y a nuestros dependientes.",
-      "detail": "Cuidaremos a nuestros mayores y a nuestros dependientes. Frente a la cultura de la muerte y del descarte, garantizare - mos para nuestros mayores y dependientes el cuidado, la de- dicación y las atenciones que merecen , reforzando las parti - das a la dependencia, las ayudas para el cuidado en el hogar, el apoyo a familiares a cargo, aumentando las plazas en resi - dencias y los programas de atención a la soledad no…",
+      "detail": "Cuidaremos a nuestros mayores y a nuestros dependientes. Frente a la cultura de la muerte y del descarte, garantizaremos para nuestros mayores y dependientes el cuidado, la dedicación y las atenciones que merecen , reforzando las partidas a la dependencia, las ayudas para el cuidado en el hogar, el apoyo a familiares a cargo, aumentando las plazas en residencias y los programas de atención a la soledad no deseada.",
       "page": 64,
       "number": 122,
       "section": "Educación, vivienda, salud y protección social",
@@ -33759,7 +33768,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Incrementaremos el gasto público en Sanidad, Educación, Dependencia e Infraestructuras.",
-      "detail": "Incrementaremos el gasto público en Sanidad, Educación, Dependencia e Infraestructuras. Para poder lograrlo es nece - sario desmontar el sistema autonómico, poner fin a las dupli- cidades administrativas, reducir el número de ministerios, con- sejerías, diputados y parlamentos y terminar con el despilfarro político. Los impuestos han de ir destinados a mejorar las condiciones materiales de vida de los españoles.",
+      "detail": "Incrementaremos el gasto público en Sanidad, Educación, Dependencia e Infraestructuras. Para poder lograrlo es necesario desmontar el sistema autonómico, poner fin a las duplicidades administrativas, reducir el número de ministerios, consejerías, diputados y parlamentos y terminar con el despilfarro político. Los impuestos han de ir destinados a mejorar las condiciones materiales de vida de los españoles.",
       "page": 64,
       "number": 123,
       "section": "Educación, vivienda, salud y protección social",
@@ -33773,8 +33782,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Aumentaremos la inversión del Estado en las familias y fo - mentaremos las condiciones para el fortalecimiento de es - tas, promoviendo la natalidad y la concil",
-      "detail": "Aumentaremos la inversión del Estado en las familias y fo - mentaremos las condiciones para el fortalecimiento de es - tas, promoviendo la natalidad y la conciliación. Desarrolla - remos una legislación que proteja a las familias en ámbitos como el fiscal, apoyo a la natalidad, conciliación o acceso a servicios públicos.",
+      "title": "Aumentaremos la inversión del Estado en las familias y fomentaremos las condiciones para el fortalecimiento de estas, promoviendo la natalidad y la conciliación",
+      "detail": "Aumentaremos la inversión del Estado en las familias y fomentaremos las condiciones para el fortalecimiento de estas, promoviendo la natalidad y la conciliación. Desarrollaremos una legislación que proteja a las familias en ámbitos como el fiscal, apoyo a la natalidad, conciliación o acceso a servicios públicos.",
       "page": 64,
       "number": 124,
       "section": "Educación, vivienda, salud y protección social",
@@ -33803,8 +33812,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Asistiremos a todos los españoles en situación de necesi - dad.",
-      "detail": "Asistiremos a todos los españoles en situación de necesi - dad. Acabaremos con la arbitrariedad con que las élites han utilizado las herramientas del Estado Social. Ellos han ante - 65 puesto ideologías sectarias como el género o la religión cli - mática sobre la situación material de los españoles que más dificultades tienen para salir adelante.",
+      "title": "Asistiremos a todos los españoles en situación de necesidad.",
+      "detail": "Asistiremos a todos los españoles en situación de necesidad. Acabaremos con la arbitrariedad con que las élites han utilizado las herramientas del Estado Social. Ellos han antepuesto ideologías sectarias como el género o la religión climática sobre la situación material de los españoles que más dificultades tienen para salir adelante.",
       "page": 64,
       "number": 126,
       "section": "Educación, vivienda, salud y protección social",
@@ -33818,8 +33827,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Fomentaremos inversiones públicas en los barrios, provin - cias y regiones abandonadas por los poderes públicos.",
-      "detail": "Fomentaremos inversiones públicas en los barrios, provin - cias y regiones abandonadas por los poderes públicos. Se proveerán los equipamientos, infraestructuras de transporte y servicios de salud o cultura necesarios para paliar las des - igualdades territoriales y acabar con la triste división entre ciudadanos de primera y ciudadanos de segunda.",
+      "title": "Fomentaremos inversiones públicas en los barrios, provincias y regiones abandonadas por los poderes públicos.",
+      "detail": "Fomentaremos inversiones públicas en los barrios, provincias y regiones abandonadas por los poderes públicos. Se proveerán los equipamientos, infraestructuras de transporte y servicios de salud o cultura necesarios para paliar las desigualdades territoriales y acabar con la triste división entre ciudadanos de primera y ciudadanos de segunda.",
       "page": 65,
       "number": 127,
       "section": "Educación, vivienda, salud y protección social",
@@ -33864,7 +33873,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Tras los gravísimos hechos ocurridos en centros tutelares de varias regiones como Baleares o la Comunidad Valenciana, los distintos gobiernos han mirado para ot",
-      "detail": "Tras los gravísimos hechos ocurridos en centros tutelares de varias regiones como Baleares o la Comunidad Valenciana, los distintos gobiernos han mirado para otro lado. Nosotros impulsaremos una auditoría y reforma completa del siste - ma tutelar español , que debe proteger a los niños en situa - ciones excepcionales de vulnerabilidad o de desamparo y proporcionarles urgentemente un hogar. Los menores ex - tranjeros…",
+      "detail": "Tras los gravísimos hechos ocurridos en centros tutelares de varias regiones como Baleares o la Comunidad Valenciana, los distintos gobiernos han mirado para otro lado. Nosotros impulsaremos una auditoría y reforma completa del sistema tutelar español , que debe proteger a los niños en situaciones excepcionales de vulnerabilidad o de desamparo y proporcionarles urgentemente un hogar. Los menores extranjeros deben ser…",
       "page": 65,
       "number": 130,
       "section": "Educación, vivienda, salud y protección social",
@@ -33879,7 +33888,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Programa de desgravaciones fiscales para los perceptores de rentas de jubilación y mayores de 65 años que incurran 66 en cargas a favor de familiares menores de",
-      "detail": "Programa de desgravaciones fiscales para los perceptores de rentas de jubilación y mayores de 65 años que incurran 66 en cargas a favor de familiares menores de 35 años en con - cepto de gastos sanitarios, educación escolar y universitaria, práctica deportiva y adquisición de su primera vivienda.",
+      "detail": "Programa de desgravaciones fiscales para los perceptores de rentas de jubilación y mayores de 65 años que incurran 66 en cargas a favor de familiares menores de 35 años en concepto de gastos sanitarios, educación escolar y universitaria, práctica deportiva y adquisición de su primera vivienda.",
       "page": 65,
       "number": 131,
       "section": "Educación, vivienda, salud y protección social",
@@ -33893,8 +33902,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "La pandemia de coronavirus se cebó especialmente con nues- tros mayores en las residencias.",
-      "detail": "La pandemia de coronavirus se cebó especialmente con nues- tros mayores en las residencias. Mientras que VOX exigía una mejora de las residencias y sus protocolos sanitarios , otros bloqueaban cualquier intento de mejora o utilizaban la tra - gedia con espurios fines políticos. Seguiremos exigiendo una revisión del sistema residencial, especialmente de titularidad pública, para mejorar los protocolos, servicios y equ…",
+      "title": "La pandemia de coronavirus se cebó especialmente con nuestros mayores en las residencias.",
+      "detail": "La pandemia de coronavirus se cebó especialmente con nuestros mayores en las residencias. Mientras que VOX exigía una mejora de las residencias y sus protocolos sanitarios , otros bloqueaban cualquier intento de mejora o utilizaban la tragedia con espurios fines políticos. Seguiremos exigiendo una revisión del sistema residencial, especialmente de titularidad pública, para mejorar los protocolos, servicios y equipami…",
       "page": 66,
       "number": 132,
       "section": "Educación, vivienda, salud y protección social",
@@ -33908,8 +33917,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Reforzaremos la terapia ocupacional , así como promovere - mos un modelo común de Atención Temprana en todo el territorio nacional, evitando así las diferencias",
-      "detail": "Reforzaremos la terapia ocupacional , así como promovere - mos un modelo común de Atención Temprana en todo el territorio nacional, evitando así las diferencias en función de la región de residencia. Asimismo, ampliaremos el servicio de AT para niños mayores de seis años para aquellos casos en los que el facultativo, especialista o pediatra lo estimen oportuno; garantizaremos una accesibilidad en condiciones de proxi…",
+      "title": "Reforzaremos la terapia ocupacional , así como promoveremos un modelo común de Atención Temprana en todo el territorio nacional, evitando así las diferencias en",
+      "detail": "Reforzaremos la terapia ocupacional , así como promoveremos un modelo común de Atención Temprana en todo el territorio nacional, evitando así las diferencias en función de la región de residencia. Asimismo, ampliaremos el servicio de AT para niños mayores de seis años para aquellos casos en los que el facultativo, especialista o pediatra lo estimen oportuno; garantizaremos una accesibilidad en condiciones de proximid…",
       "page": 66,
       "number": 133,
       "section": "Educación, vivienda, salud y protección social",
@@ -33923,8 +33932,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Incluiremos en los preceptivos informes de impacto de fa - milia un nuevo epígrafe de impacto en las personas con discapacidad .",
-      "detail": "Incluiremos en los preceptivos informes de impacto de fa - milia un nuevo epígrafe de impacto en las personas con discapacidad . Dicho informe, con el nuevo añadido, será de carácter obligatorio y exigible para cumplir con la calidad normativa. Todas las leyes deberán adjuntar el informe de impacto de familia -incluyendo el nuevo epígrafepara su tramitación y aprobación.",
+      "title": "Incluiremos en los preceptivos informes de impacto de familia un nuevo epígrafe de impacto en las personas con discapacidad .",
+      "detail": "Incluiremos en los preceptivos informes de impacto de familia un nuevo epígrafe de impacto en las personas con discapacidad . Dicho informe, con el nuevo añadido, será de carácter obligatorio y exigible para cumplir con la calidad normativa. Todas las leyes deberán adjuntar el informe de impacto de familia -incluyendo el nuevo epígrafepara su tramitación y aprobación.",
       "page": 66,
       "number": 134,
       "section": "Educación, vivienda, salud y protección social",
@@ -33953,8 +33962,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Introduciremos la deducibilidad del trabajo doméstico de las enfermeras educadoras para la autonomía y la comuni - cación.",
-      "detail": "Introduciremos la deducibilidad del trabajo doméstico de las enfermeras educadoras para la autonomía y la comuni - cación.",
+      "title": "Introduciremos la deducibilidad del trabajo doméstico de las enfermeras educadoras para la autonomía y la comunicación.",
+      "detail": "Introduciremos la deducibilidad del trabajo doméstico de las enfermeras educadoras para la autonomía y la comunicación.",
       "page": 67,
       "number": 136,
       "section": "Educación, vivienda, salud y protección social",
@@ -33968,8 +33977,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Pondremos límite a la desproporcionada proliferación de las casas de apuestas , regulando la concesión de licencias e im - pidiendo que estos establecimientos e",
-      "detail": "Pondremos límite a la desproporcionada proliferación de las casas de apuestas , regulando la concesión de licencias e im - pidiendo que estos establecimientos estén cerca de los cen - tros de enseñanza, así como la implantación de otros límites claros que protejan a la sociedad de las graves consecuencias que el juego provoca, impulsando planes de prevención de la ludopatía. Nuestros barrios y pueblos no son casinos.",
+      "title": "Pondremos límite a la desproporcionada proliferación de las casas de apuestas , regulando la concesión de licencias e impidiendo que estos establecimientos esté",
+      "detail": "Pondremos límite a la desproporcionada proliferación de las casas de apuestas , regulando la concesión de licencias e impidiendo que estos establecimientos estén cerca de los centros de enseñanza, así como la implantación de otros límites claros que protejan a la sociedad de las graves consecuencias que el juego provoca, impulsando planes de prevención de la ludopatía. Nuestros barrios y pueblos no son casinos.",
       "page": 67,
       "number": 137,
       "section": "Educación, vivienda, salud y protección social",
@@ -33983,8 +33992,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Garantizaremos la accesibilidad universal de la Adminis - tración Electrónica para que todas las personas puedan re - lacionarse sin exclusiones con la Administ",
-      "detail": "Garantizaremos la accesibilidad universal de la Adminis - tración Electrónica para que todas las personas puedan re - lacionarse sin exclusiones con la Administración por vías o medios digitales, sin perjuicio de proporcionar siempre una alternativa presencial.",
+      "title": "Garantizaremos la accesibilidad universal de la Administración Electrónica para que todas las personas puedan relacionarse sin exclusiones con la Administración",
+      "detail": "Garantizaremos la accesibilidad universal de la Administración Electrónica para que todas las personas puedan relacionarse sin exclusiones con la Administración por vías o medios digitales, sin perjuicio de proporcionar siempre una alternativa presencial.",
       "page": 67,
       "number": 138,
       "section": "Educación, vivienda, salud y protección social",
@@ -33998,8 +34007,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Acabaremos con los trámites dispersos frente a muchos niveles de la Administración , impulsando una carpeta per - sonal de cada español a través de la cual pudi",
-      "detail": "Acabaremos con los trámites dispersos frente a muchos niveles de la Administración , impulsando una carpeta per - sonal de cada español a través de la cual pudiese gestionar sus relaciones con las distintas Administraciones Públicas, al tiempo que se presta una atención prioritaria a aquellos sec - tores de la sociedad que tienen mayores dificultades con las nuevas tecnologías.",
+      "title": "Acabaremos con los trámites dispersos frente a muchos niveles de la Administración , impulsando una carpeta personal de cada español a través de la cual pudiese",
+      "detail": "Acabaremos con los trámites dispersos frente a muchos niveles de la Administración , impulsando una carpeta personal de cada español a través de la cual pudiese gestionar sus relaciones con las distintas Administraciones Públicas, al tiempo que se presta una atención prioritaria a aquellos sectores de la sociedad que tienen mayores dificultades con las nuevas tecnologías.",
       "page": 67,
       "number": 139,
       "section": "Educación, vivienda, salud y protección social",
@@ -34014,7 +34023,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "La digitalización se ha generalizado tras la pandemia.",
-      "detail": "La digitalización se ha generalizado tras la pandemia. Apos- taremos por programas específicos de prevención y aten - ción sobre el uso, abuso y adicción a nuevas tecnologías , a los videojuegos y a redes sociales en niños y jóvenes; así 68 como medidas especiales de apoyo a las personas que muestren dificultades con el uso de las nuevas tecnologías, como nuestros mayores, garantizando siempre una alterna - tiva pres…",
+      "detail": "La digitalización se ha generalizado tras la pandemia. Apostaremos por programas específicos de prevención y atención sobre el uso, abuso y adicción a nuevas tecnologías , a los videojuegos y a redes sociales en niños y jóvenes; así 68 como medidas especiales de apoyo a las personas que muestren dificultades con el uso de las nuevas tecnologías, como nuestros mayores, garantizando siempre una alternativa presencial e…",
       "page": 67,
       "number": 140,
       "section": "Educación, vivienda, salud y protección social",
@@ -34028,8 +34037,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Terminaremos con las medidas injustas que impiden a los españoles desplazarse en el medio de transporte que libre - mente elijan por no contar con los recursos",
-      "detail": "Terminaremos con las medidas injustas que impiden a los españoles desplazarse en el medio de transporte que libre - mente elijan por no contar con los recursos económicos sufi - cientes para adquirir un vehículo propulsado por las fuentes de energía que más interesan y que imponen las agendas globalistas.",
+      "title": "Terminaremos con las medidas injustas que impiden a los españoles desplazarse en el medio de transporte que libremente elijan por no contar con los recursos eco",
+      "detail": "Terminaremos con las medidas injustas que impiden a los españoles desplazarse en el medio de transporte que libremente elijan por no contar con los recursos económicos suficientes para adquirir un vehículo propulsado por las fuentes de energía que más interesan y que imponen las agendas globalistas.",
       "page": 68,
       "number": 141,
       "section": "Educación, vivienda, salud y protección social",
@@ -34043,8 +34052,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Perseguiremos los pisos patera impidiendo que los okupas y los inmigrantes ilegales puedan inscribirse en el padrón mu - nicipal.",
-      "detail": "Perseguiremos los pisos patera impidiendo que los okupas y los inmigrantes ilegales puedan inscribirse en el padrón mu - nicipal. Acabaremos también, en colaboración con las Enti - dades Locales, con las cocinas fantasma en zonas residencia - les que no cumplen con la normativa y que provocan ruidos, humos, suciedad y malos olores. La expansión desmedida de los pisos patera y de cocinas fantasma está dinamitando la c…",
+      "title": "Perseguiremos los pisos patera impidiendo que los okupas y los inmigrantes ilegales puedan inscribirse en el padrón municipal.",
+      "detail": "Perseguiremos los pisos patera impidiendo que los okupas y los inmigrantes ilegales puedan inscribirse en el padrón municipal. Acabaremos también, en colaboración con las Entidades Locales, con las cocinas fantasma en zonas residenciales que no cumplen con la normativa y que provocan ruidos, humos, suciedad y malos olores. La expansión desmedida de los pisos patera y de cocinas fantasma está dinamitando la convivenci…",
       "page": 68,
       "number": 142,
       "section": "Educación, vivienda, salud y protección social",
@@ -34058,8 +34067,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Promoveremos un estilo de vida saludable , que proporcio - ne a los miembros de las familias las herramientas necesa - rias para ser libres y no caer en adiccio",
-      "detail": "Promoveremos un estilo de vida saludable , que proporcio - ne a los miembros de las familias las herramientas necesa - rias para ser libres y no caer en adicciones , cuyas consecuen - cias para la persona y su familia pueden ser devastadoras. 69 ALGUNAS DE LAS ACCIONES MÁS DESTACADAS DE VOX SOBRE POLÍTICAS SOCIALES Proposición no de Ley en el Congreso de los Diputados para la mejora del Sistema de autonomía personal…",
+      "title": "Promoveremos un estilo de vida saludable , que proporcione a los miembros de las familias las herramientas necesarias para ser libres y no caer en adicciones ,",
+      "detail": "Promoveremos un estilo de vida saludable , que proporcione a los miembros de las familias las herramientas necesarias para ser libres y no caer en adicciones , cuyas consecuencias para la persona y su familia pueden ser devastadoras. 69 ALGUNAS DE LAS ACCIONES MÁS DESTACADAS DE VOX SOBRE POLÍTICAS SOCIALES Proposición no de Ley en el Congreso de los Diputados para la mejora del Sistema de autonomía personal y atenció…",
       "page": 68,
       "number": 143,
       "section": "Educación, vivienda, salud y protección social",
@@ -34074,7 +34083,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Pondremos en marcha la mayor y más profunda reforma fiscal de la historia reciente, que incluirá en todo caso la simplificación de normativas, trámites y proced",
-      "detail": "Pondremos en marcha la mayor y más profunda reforma fiscal de la historia reciente, que incluirá en todo caso la simplificación de normativas, trámites y procedimientos; ampliando de forma decidida los supuestos de silencio ad - ministrativo positivo para el administrado.",
+      "detail": "Pondremos en marcha la mayor y más profunda reforma fiscal de la historia reciente, que incluirá en todo caso la simplificación de normativas, trámites y procedimientos; ampliando de forma decidida los supuestos de silencio administrativo positivo para el administrado.",
       "page": 74,
       "number": 144,
       "section": "Educación, vivienda, salud y protección social",
@@ -34104,7 +34113,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "En materia presupuestaria , elaboraremos presupuestos de base 0, marcando como objetivo la eliminación progresiva del déficit y de la deuda pública que condena",
-      "detail": "En materia presupuestaria , elaboraremos presupuestos de base 0, marcando como objetivo la eliminación progresiva del déficit y de la deuda pública que condena a la ruina a las futu - ras generaciones, optimizando las cuentas públicas.",
+      "detail": "En materia presupuestaria , elaboraremos presupuestos de base 0, marcando como objetivo la eliminación progresiva del déficit y de la deuda pública que condena a la ruina a las futuras generaciones, optimizando las cuentas públicas.",
       "page": 74,
       "number": 146,
       "section": "Educación, vivienda, salud y protección social",
@@ -34118,8 +34127,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Llevaremos a cabo una reforma total del sistema fiscal en España para proteger a los españoles del infierno fiscal y bu- rocrático al que han sido sometidos en",
-      "detail": "Llevaremos a cabo una reforma total del sistema fiscal en España para proteger a los españoles del infierno fiscal y bu- rocrático al que han sido sometidos en las últimas décadas bajo gobiernos nacionales y autonómicos de cualquier signo. Ello permitirá a los españoles cumplir mejor sus obligaciones y reducirá los costes de recaudación vinculados a la AEAT. La cita previa será potestativa del ciudadano y el trabajo…",
+      "title": "Llevaremos a cabo una reforma total del sistema fiscal en España para proteger a los españoles del infierno fiscal y burocrático al que han sido sometidos en la",
+      "detail": "Llevaremos a cabo una reforma total del sistema fiscal en España para proteger a los españoles del infierno fiscal y burocrático al que han sido sometidos en las últimas décadas bajo gobiernos nacionales y autonómicos de cualquier signo. Ello permitirá a los españoles cumplir mejor sus obligaciones y reducirá los costes de recaudación vinculados a la AEAT. La cita previa será potestativa del ciudadano y el trabajo re…",
       "page": 74,
       "number": 147,
       "section": "Educación, vivienda, salud y protección social",
@@ -34133,8 +34142,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "IRPF: para implementar la perspectiva de familia, fortalece - remos la economía de las familias y protegeremos su capa - cidad de ahorro e inversión procediendo",
-      "detail": "IRPF: para implementar la perspectiva de familia, fortalece - remos la economía de las familias y protegeremos su capa - cidad de ahorro e inversión procediendo a la simplificación 75 progresiva y continuada del IRPF a un tipo único reducido del 15% a aplicar sobre bases imponibles inferiores a 70.000 euros y un tipo ordinario del 25% a aplicar a bases imponi - bles superiores a dicha cantidad, aplicando la exención…",
+      "title": "IRPF: para implementar la perspectiva de familia, fortaleceremos la economía de las familias y protegeremos su capacidad de ahorro e inversión procediendo a la",
+      "detail": "IRPF: para implementar la perspectiva de familia, fortaleceremos la economía de las familias y protegeremos su capacidad de ahorro e inversión procediendo a la simplificación 75 progresiva y continuada del IRPF a un tipo único reducido del 15% a aplicar sobre bases imponibles inferiores a 70.000 euros y un tipo ordinario del 25% a aplicar a bases imponibles superiores a dicha cantidad, aplicando la exención de 22.000…",
       "page": 74,
       "number": 148,
       "section": "Educación, vivienda, salud y protección social",
@@ -34149,7 +34158,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "IVA: bajaremos radicalmente el IVA en los productos de primera necesidad y esenciales, tales como productos y fármacos infantiles, pañales o productos geriátric",
-      "detail": "IVA: bajaremos radicalmente el IVA en los productos de primera necesidad y esenciales, tales como productos y fármacos infantiles, pañales o productos geriátricos); elimi - naremos el IVA para la adquisición de primera vivienda ha - bitual; y eliminaremos la doble imposición actual que se produce en aquellos artículos ya gravados con impuestos especiales. • Revertiremos la subida de IVA realizada en 2012 , la mayor s…",
+      "detail": "IVA: bajaremos radicalmente el IVA en los productos de primera necesidad y esenciales, tales como productos y fármacos infantiles, pañales o productos geriátricos); eliminaremos el IVA para la adquisición de primera vivienda habitual; y eliminaremos la doble imposición actual que se produce en aquellos artículos ya gravados con impuestos especiales. • Revertiremos la subida de IVA realizada en 2012 , la mayor subida…",
       "page": 76,
       "number": 149,
       "section": "Educación, vivienda, salud y protección social",
@@ -34163,8 +34172,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Impuesto de Sociedades: reducción del tipo progresi - va y continuada en la legislatura hasta alcanzar el 15% y simplificación del Impuesto sobre Sociedades par",
-      "detail": "Impuesto de Sociedades: reducción del tipo progresi - va y continuada en la legislatura hasta alcanzar el 15% y simplificación del Impuesto sobre Sociedades para favorecer el crecimiento de nuestras empresas y la crea - ción de empleo en España, así como para atraer los be - neficios generados por empresas españolas en el exterior. El tipo aplicable se reducirá efectivamente en función de la relocalización de benefic…",
+      "title": "Impuesto de Sociedades: reducción del tipo progresiva y continuada en la legislatura hasta alcanzar el 15% y simplificación del Impuesto sobre Sociedades para f",
+      "detail": "Impuesto de Sociedades: reducción del tipo progresiva y continuada en la legislatura hasta alcanzar el 15% y simplificación del Impuesto sobre Sociedades para favorecer el crecimiento de nuestras empresas y la creación de empleo en España, así como para atraer los beneficios generados por empresas españolas en el exterior. El tipo aplicable se reducirá efectivamente en función de la relocalización de beneficios en Es…",
       "page": 77,
       "number": 150,
       "section": "Educación, vivienda, salud y protección social",
@@ -34178,8 +34187,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Suprimiremos el Impuesto sobre el Patrimonio, el Im - puesto sobre Sucesiones y Donaciones y Plusvalías mu - nicipales en todo el territorio nacional, impuestos",
-      "detail": "Suprimiremos el Impuesto sobre el Patrimonio, el Im - puesto sobre Sucesiones y Donaciones y Plusvalías mu - nicipales en todo el territorio nacional, impuestos que suponen confiscaciones injustas, duplicadas o despropor - cionadas del patrimonio de los españoles.",
+      "title": "Suprimiremos el Impuesto sobre el Patrimonio, el Impuesto sobre Sucesiones y Donaciones y Plusvalías municipales en todo el territorio nacional, impuestos que s",
+      "detail": "Suprimiremos el Impuesto sobre el Patrimonio, el Impuesto sobre Sucesiones y Donaciones y Plusvalías municipales en todo el territorio nacional, impuestos que suponen confiscaciones injustas, duplicadas o desproporcionadas del patrimonio de los españoles.",
       "page": 77,
       "number": 151,
       "section": "Educación, vivienda, salud y protección social",
@@ -34193,8 +34202,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Modificaremos la Ley 22/2009, de 18 de diciembre , por la que se regula el sistema de financiación de las Comuni - dades Autónomas de régimen común y Ciudades c",
-      "detail": "Modificaremos la Ley 22/2009, de 18 de diciembre , por la que se regula el sistema de financiación de las Comuni - dades Autónomas de régimen común y Ciudades con Es - tatuto de Autonomía y se modifican determinadas nor - mas tributarias para asegurar la igualdad esencial entre españoles en los impuestos cedidos, especialmente, Impuesto de Actos Jurídicos Documentados (AJD) y el Impuesto de Transmisiones Patrimoniale…",
+      "title": "Modificaremos la Ley 22/2009, de 18 de diciembre , por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con",
+      "detail": "Modificaremos la Ley 22/2009, de 18 de diciembre , por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias para asegurar la igualdad esencial entre españoles en los impuestos cedidos, especialmente, Impuesto de Actos Jurídicos Documentados (AJD) y el Impuesto de Transmisiones Patrimoniales (ITP).…",
       "page": 77,
       "number": 152,
       "section": "Educación, vivienda, salud y protección social",
@@ -34209,7 +34218,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Modificaremos la Ley Reguladora de Haciendas Locales para aumentar los supuestos de bonificación del Impuesto sobre Bienes Inmuebles (IBI) , como en el caso de",
-      "detail": "Modificaremos la Ley Reguladora de Haciendas Locales para aumentar los supuestos de bonificación del Impuesto sobre Bienes Inmuebles (IBI) , como en el caso de las fa - milias en las que uno de los cónyuges decida dedicarse al cuidado de sus hijos.",
+      "detail": "Modificaremos la Ley Reguladora de Haciendas Locales para aumentar los supuestos de bonificación del Impuesto sobre Bienes Inmuebles (IBI) , como en el caso de las familias en las que uno de los cónyuges decida dedicarse al cuidado de sus hijos.",
       "page": 78,
       "number": 153,
       "section": "Educación, vivienda, salud y protección social",
@@ -34223,8 +34232,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "A su vez, aplicaremos una reducción progresiva de im - puestos y gravámenes que pesan sobre los suministros del hogar familiar y, especialmente, sobre las famil",
-      "detail": "A su vez, aplicaremos una reducción progresiva de im - puestos y gravámenes que pesan sobre los suministros del hogar familiar y, especialmente, sobre las familias numero - sas (electricidad, agua, gas…).",
+      "title": "A su vez, aplicaremos una reducción progresiva de impuestos y gravámenes que pesan sobre los suministros del hogar familiar y, especialmente, sobre las familias",
+      "detail": "A su vez, aplicaremos una reducción progresiva de impuestos y gravámenes que pesan sobre los suministros del hogar familiar y, especialmente, sobre las familias numerosas (electricidad, agua, gas…).",
       "page": 78,
       "number": 154,
       "section": "Educación, vivienda, salud y protección social",
@@ -34239,7 +34248,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "La Agencia Tributaria no puede ser un inmenso aparato al servicio de la voracidad recaudatoria del gobierno de turno.",
-      "detail": "La Agencia Tributaria no puede ser un inmenso aparato al servicio de la voracidad recaudatoria del gobierno de turno. Revisaremos y ampliaremos todas las medidas de protec- ción del contribuyente y mecanismos de segunda oportu - nidad, para que los españoles que se encuentren en dificul - tad no se vean perjudicados por una actuaciones abusivas de la Administración. Restableceremos el Estatuto y Con - sejo de Defensa…",
+      "detail": "La Agencia Tributaria no puede ser un inmenso aparato al servicio de la voracidad recaudatoria del gobierno de turno. Revisaremos y ampliaremos todas las medidas de protección del contribuyente y mecanismos de segunda oportunidad, para que los españoles que se encuentren en dificultad no se vean perjudicados por una actuaciones abusivas de la Administración. Restableceremos el Estatuto y Consejo de Defensa del Contri…",
       "page": 78,
       "number": 155,
       "section": "Educación, vivienda, salud y protección social",
@@ -34253,8 +34262,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Una enmienda de PSOE y Podemos introducida a última hora a la Ley 13/2023, de 24 de mayo, sobre la “autoliquida - ción rectificativa” , ha dejado en una posició",
-      "detail": "Una enmienda de PSOE y Podemos introducida a última hora a la Ley 13/2023, de 24 de mayo, sobre la “autoliquida - ción rectificativa” , ha dejado en una posición de riesgo de sanción a gran cantidad de familias españolas, acabando con la seguridad del sistema anterior. Exigiremos que en los re - glamentos afectados se especifique que la Administración no podrá iniciar un expediente sancionador por las canti - dades a…",
+      "title": "Una enmienda de PSOE y Podemos introducida a última hora a la Ley 13/2023, de 24 de mayo, sobre la “autoliquidación rectificativa” , ha dejado en una posición d",
+      "detail": "Una enmienda de PSOE y Podemos introducida a última hora a la Ley 13/2023, de 24 de mayo, sobre la “autoliquidación rectificativa” , ha dejado en una posición de riesgo de sanción a gran cantidad de familias españolas, acabando con la seguridad del sistema anterior. Exigiremos que en los reglamentos afectados se especifique que la Administración no podrá iniciar un expediente sancionador por las cantidades a devolver…",
       "page": 79,
       "number": 156,
       "section": "Educación, vivienda, salud y protección social",
@@ -34268,8 +34277,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Promoveremos la educación financiera y fiscal con el obje - tivo de dotar de protección a los españoles frente a los abu - sos contra su patrimonio, que tanto e",
-      "detail": "Promoveremos la educación financiera y fiscal con el obje - tivo de dotar de protección a los españoles frente a los abu - sos contra su patrimonio, que tanto esfuerzo les ha costado cosechar.",
+      "title": "Promoveremos la educación financiera y fiscal con el objetivo de dotar de protección a los españoles frente a los abusos contra su patrimonio, que tanto esfuerz",
+      "detail": "Promoveremos la educación financiera y fiscal con el objetivo de dotar de protección a los españoles frente a los abusos contra su patrimonio, que tanto esfuerzo les ha costado cosechar.",
       "page": 79,
       "number": 157,
       "section": "Educación, vivienda, salud y protección social",
@@ -34298,8 +34307,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Promocionaremos el sector primario y la actividad económi - ca propia de las zonas rurales mediante la rebaja acelerada de impuestos para las nuevas explotacion",
-      "detail": "Promocionaremos el sector primario y la actividad económi - ca propia de las zonas rurales mediante la rebaja acelerada de impuestos para las nuevas explotaciones agrarias y las heredadas.",
+      "title": "Promocionaremos el sector primario y la actividad económica propia de las zonas rurales mediante la rebaja acelerada de impuestos para las nuevas explotaciones",
+      "detail": "Promocionaremos el sector primario y la actividad económica propia de las zonas rurales mediante la rebaja acelerada de impuestos para las nuevas explotaciones agrarias y las heredadas.",
       "page": 79,
       "number": 159,
       "section": "Educación, vivienda, salud y protección social",
@@ -34313,8 +34322,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Implementaremos un programa de deducciones para in- centivar las inversiones en actividades económicas a to - dos los españoles bajo el principio de igualdad ,",
-      "detail": "Implementaremos un programa de deducciones para in- centivar las inversiones en actividades económicas a to - dos los españoles bajo el principio de igualdad , y a los extranjeros que inviertan España, promoviendo especial - mente el regreso de empresas y empleo deslocalizado en el extranjero, y las inversiones en economía real con crea - ción efectiva de empleo. 80",
+      "title": "Implementaremos un programa de deducciones para incentivar las inversiones en actividades económicas a todos los españoles bajo el principio de igualdad , y a l",
+      "detail": "Implementaremos un programa de deducciones para incentivar las inversiones en actividades económicas a todos los españoles bajo el principio de igualdad , y a los extranjeros que inviertan España, promoviendo especialmente el regreso de empresas y empleo deslocalizado en el extranjero, y las inversiones en economía real con creación efectiva de empleo. 80",
       "page": 79,
       "number": 160,
       "section": "Educación, vivienda, salud y protección social",
@@ -34328,8 +34337,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Mejoraremos los incentivos fiscales para las PYMEs que in - viertan en I+D , así como favoreceremos un entorno econó - mico proclive a la innovación.",
-      "detail": "Mejoraremos los incentivos fiscales para las PYMEs que in - viertan en I+D , así como favoreceremos un entorno econó - mico proclive a la innovación.",
+      "title": "Mejoraremos los incentivos fiscales para las PYMEs que inviertan en I+D , así como favoreceremos un entorno económico proclive a la innovación.",
+      "detail": "Mejoraremos los incentivos fiscales para las PYMEs que inviertan en I+D , así como favoreceremos un entorno económico proclive a la innovación.",
       "page": 80,
       "number": 161,
       "section": "Educación, vivienda, salud y protección social",
@@ -34343,8 +34352,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Estableceremos una fórmula para que los gigantes tecno - lógicos , además de pagar correctamente sus impuestos, coticen también por los datos digitales que cose",
-      "detail": "Estableceremos una fórmula para que los gigantes tecno - lógicos , además de pagar correctamente sus impuestos, coticen también por los datos digitales que cosechan en España . Hay que defender la soberanía nacional y per - sonal de esos datos. Como primer paso, de acuerdo con la propuesta política de España Decide, se consultará al pueblo español mediante la aplicación del Artículo 92 de la Constitución Española , r…",
+      "title": "Estableceremos una fórmula para que los gigantes tecnológicos , además de pagar correctamente sus impuestos, coticen también por los datos digitales que cosecha",
+      "detail": "Estableceremos una fórmula para que los gigantes tecnológicos , además de pagar correctamente sus impuestos, coticen también por los datos digitales que cosechan en España . Hay que defender la soberanía nacional y personal de esos datos. Como primer paso, de acuerdo con la propuesta política de España Decide, se consultará al pueblo español mediante la aplicación del Artículo 92 de la Constitución Española , relativ…",
       "page": 80,
       "number": 162,
       "section": "Educación, vivienda, salud y protección social",
@@ -34358,8 +34367,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Cada vez que comemos, compramos, trabajamos, des - cansamos o hacemos deporte estamos generando datos, y difícilmente somos conscientes de la cantidad de infor",
-      "detail": "Cada vez que comemos, compramos, trabajamos, des - cansamos o hacemos deporte estamos generando datos, y difícilmente somos conscientes de la cantidad de infor - mación que compartimos sin saberlo. Las plataformas digitales, con sedes radicadas en el extranjero, venden hasta un 80% de los datos que recogen de nosotros. Esto significa que, sin saberlo, nos están expropiando digital - mente y haciendo dinero, habitualm…",
+      "title": "Cada vez que comemos, compramos, trabajamos, descansamos o hacemos deporte estamos generando datos, y difícilmente somos conscientes de la cantidad de informaci",
+      "detail": "Cada vez que comemos, compramos, trabajamos, descansamos o hacemos deporte estamos generando datos, y difícilmente somos conscientes de la cantidad de información que compartimos sin saberlo. Las plataformas digitales, con sedes radicadas en el extranjero, venden hasta un 80% de los datos que recogen de nosotros. Esto significa que, sin saberlo, nos están expropiando digitalmente y haciendo dinero, habitualmente en f…",
       "page": 80,
       "number": 163,
       "section": "Educación, vivienda, salud y protección social",
@@ -34373,8 +34382,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Promoveremos iniciativas regulatorias y de impulso de la transparencia para aquellas empresas que ostentan una po - sición de dominio de mercado ; en especial,",
-      "detail": "Promoveremos iniciativas regulatorias y de impulso de la transparencia para aquellas empresas que ostentan una po - sición de dominio de mercado ; en especial, si se trata de un sector estratégico (como el energético o de telefonía).",
+      "title": "Promoveremos iniciativas regulatorias y de impulso de la transparencia para aquellas empresas que ostentan una posición de dominio de mercado ; en especial, si",
+      "detail": "Promoveremos iniciativas regulatorias y de impulso de la transparencia para aquellas empresas que ostentan una posición de dominio de mercado ; en especial, si se trata de un sector estratégico (como el energético o de telefonía).",
       "page": 81,
       "number": 164,
       "section": "Educación, vivienda, salud y protección social",
@@ -34388,8 +34397,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Impulsaremos un plan de ayudas a la conservación de em - presas familiares y centenarias mediante incentivos para 82 mantener la actividad y el empleo, facilita",
-      "detail": "Impulsaremos un plan de ayudas a la conservación de em - presas familiares y centenarias mediante incentivos para 82 mantener la actividad y el empleo, facilitando el relevo ge - neracional. Aumentaremos las bonificaciones y deducciones fiscales a las empresas que compren producto nacional , priorizando los proveedores nacionales y ayudando a peque - ños comerciantes y productores españoles; e impulsaremos líneas de…",
+      "title": "Impulsaremos un plan de ayudas a la conservación de empresas familiares y centenarias mediante incentivos para 82 mantener la actividad y el empleo, facilitando",
+      "detail": "Impulsaremos un plan de ayudas a la conservación de empresas familiares y centenarias mediante incentivos para 82 mantener la actividad y el empleo, facilitando el relevo generacional. Aumentaremos las bonificaciones y deducciones fiscales a las empresas que compren producto nacional , priorizando los proveedores nacionales y ayudando a pequeños comerciantes y productores españoles; e impulsaremos líneas de ayudas al…",
       "page": 81,
       "number": 165,
       "section": "Educación, vivienda, salud y protección social",
@@ -34403,8 +34412,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Dotaremos de incentivos (fiscales, laborales, etc.) a las em - presas radicadas en zonas especialmente poco pobladas de la geografía nacional o con especial vul",
-      "detail": "Dotaremos de incentivos (fiscales, laborales, etc.) a las em - presas radicadas en zonas especialmente poco pobladas de la geografía nacional o con especial vulnerabilidad, como el Campo de Gibraltar.",
+      "title": "Dotaremos de incentivos (fiscales, laborales, etc.) a las empresas radicadas en zonas especialmente poco pobladas de la geografía nacional o con especial vulner",
+      "detail": "Dotaremos de incentivos (fiscales, laborales, etc.) a las empresas radicadas en zonas especialmente poco pobladas de la geografía nacional o con especial vulnerabilidad, como el Campo de Gibraltar.",
       "page": 82,
       "number": 166,
       "section": "Educación, vivienda, salud y protección social",
@@ -34419,7 +34428,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Para poder llevar a cabo la rebaja radical de impuestos que alivie a las familias españolas, las Administraciones Públicas deben acometer un plan de reducción d",
-      "detail": "Para poder llevar a cabo la rebaja radical de impuestos que alivie a las familias españolas, las Administraciones Públicas deben acometer un plan de reducción del gasto político que se fije en la eliminación de las partidas de carácter im - productivo , duplicado o meramente ideológico, que en nada benefician al bienestar socioeconómico de las familias espa - ñolas.",
+      "detail": "Para poder llevar a cabo la rebaja radical de impuestos que alivie a las familias españolas, las Administraciones Públicas deben acometer un plan de reducción del gasto político que se fije en la eliminación de las partidas de carácter improductivo , duplicado o meramente ideológico, que en nada benefician al bienestar socioeconómico de las familias españolas.",
       "page": 82,
       "number": 167,
       "section": "Educación, vivienda, salud y protección social",
@@ -34433,8 +34442,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Acometeremos una revisión sistemática y minuciosa de las Administraciones Públicas, dirigida a racionalizar su estruc - tura y funciones , así como la de los di",
-      "detail": "Acometeremos una revisión sistemática y minuciosa de las Administraciones Públicas, dirigida a racionalizar su estruc - tura y funciones , así como la de los diferentes organismos y entidades pertenecientes al sector público español, enume - rando y suprimiendo todos aquellos organismos innecesarios o meramente ideológicos. A su vez, auditaremos y eliminare - mos todo el gasto público relacionado con los Objetivos de…",
+      "title": "Acometeremos una revisión sistemática y minuciosa de las Administraciones Públicas, dirigida a racionalizar su estructura y funciones , así como la de los difer",
+      "detail": "Acometeremos una revisión sistemática y minuciosa de las Administraciones Públicas, dirigida a racionalizar su estructura y funciones , así como la de los diferentes organismos y entidades pertenecientes al sector público español, enumerando y suprimiendo todos aquellos organismos innecesarios o meramente ideológicos. A su vez, auditaremos y eliminaremos todo el gasto público relacionado con los Objetivos de Desarrol…",
       "page": 82,
       "number": 168,
       "section": "Educación, vivienda, salud y protección social",
@@ -34448,8 +34457,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Suprimiremos todas las oficinas de implantación de la Agen- da 2030 y crearemos una Oficina Estratégica para el Interés Nacional que vele por los intereses de l",
-      "detail": "Suprimiremos todas las oficinas de implantación de la Agen- da 2030 y crearemos una Oficina Estratégica para el Interés Nacional que vele por los intereses de los españoles en el ám - 83 bito económico, defendiendo los intereses de las empresas españolas en el exterior y atrayendo inversiones productivas.",
+      "title": "Suprimiremos todas las oficinas de implantación de la Agenda 2030 y crearemos una Oficina Estratégica para el Interés Nacional que vele por los intereses de los",
+      "detail": "Suprimiremos todas las oficinas de implantación de la Agenda 2030 y crearemos una Oficina Estratégica para el Interés Nacional que vele por los intereses de los españoles en el ámbito económico, defendiendo los intereses de las empresas españolas en el exterior y atrayendo inversiones productivas.",
       "page": 82,
       "number": 169,
       "section": "Educación, vivienda, salud y protección social",
@@ -34464,7 +34473,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Procederemos a la reestructuración de la Administración, impulsada tanto desde las Cortes Generales como desde los parlamentos regionales, integrando los servic",
-      "detail": "Procederemos a la reestructuración de la Administración, impulsada tanto desde las Cortes Generales como desde los parlamentos regionales, integrando los servicios públicos esenciales en la estructura central del Estado (Sanidad, Edu - cación, Justicia…). A su vez, cerraremos aquellos ministerios, secretarías de estado y direcciones generales que hayan demostrado su inutilidad y sean simples herramientas de propagand…",
+      "detail": "Procederemos a la reestructuración de la Administración, impulsada tanto desde las Cortes Generales como desde los parlamentos regionales, integrando los servicios públicos esenciales en la estructura central del Estado (Sanidad, Educación, Justicia…). A su vez, cerraremos aquellos ministerios, secretarías de estado y direcciones generales que hayan demostrado su inutilidad y sean simples herramientas de propaganda i…",
       "page": 83,
       "number": 170,
       "section": "Educación, vivienda, salud y protección social",
@@ -34479,7 +34488,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Acabaremos con las subvenciones a los sindicatos, partidos políticos y patronal.",
-      "detail": "Acabaremos con las subvenciones a los sindicatos, partidos políticos y patronal. Estas organizaciones, que en muchas ocasiones han renunciado a defender los intereses de sus asociados, deben sostenerse con la financiación de sus inte - grantes. Como paso previo, consultaremos al pueblo espa - ñol sobre su voluntad de eliminar las subvenciones a parti - dos, sindicatos y patronales en aplicación del artículo 92 de la…",
+      "detail": "Acabaremos con las subvenciones a los sindicatos, partidos políticos y patronal. Estas organizaciones, que en muchas ocasiones han renunciado a defender los intereses de sus asociados, deben sostenerse con la financiación de sus integrantes. Como paso previo, consultaremos al pueblo español sobre su voluntad de eliminar las subvenciones a partidos, sindicatos y patronales en aplicación del artículo 92 de la Constituc…",
       "page": 83,
       "number": 171,
       "section": "Educación, vivienda, salud y protección social",
@@ -34493,8 +34502,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Cerraremos todos los chiringuitos públicos ideológicos rega- dos con dinero público como los chiringuitos LGTB, de memo- ria histórica, ecologistas radicales o",
-      "detail": "Cerraremos todos los chiringuitos públicos ideológicos rega- dos con dinero público como los chiringuitos LGTB, de memo- ria histórica, ecologistas radicales o separatistas o vinculados a la implementación de la Agenda 2030 y pondremos fin a las subvenciones y ayudas cuando se trate de entidades privadas.",
+      "title": "Cerraremos todos los chiringuitos públicos ideológicos regados con dinero público como los chiringuitos LGTB, de memoria histórica, ecologistas radicales o sepa",
+      "detail": "Cerraremos todos los chiringuitos públicos ideológicos regados con dinero público como los chiringuitos LGTB, de memoria histórica, ecologistas radicales o separatistas o vinculados a la implementación de la Agenda 2030 y pondremos fin a las subvenciones y ayudas cuando se trate de entidades privadas.",
       "page": 83,
       "number": 172,
       "section": "Educación, vivienda, salud y protección social",
@@ -34508,8 +34517,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Exigiremos, como ya hemos hecho a nivel regional, la elimi - nación de todos los organismos autonómicos y locales de acción exterior y ayuda a la cooperación in",
-      "detail": "Exigiremos, como ya hemos hecho a nivel regional, la elimi - nación de todos los organismos autonómicos y locales de acción exterior y ayuda a la cooperación internacional. Sólo el Estado puede realizar ambas según sus atribuciones cons - titucionales. 84",
+      "title": "Exigiremos, como ya hemos hecho a nivel regional, la eliminación de todos los organismos autonómicos y locales de acción exterior y ayuda a la cooperación inter",
+      "detail": "Exigiremos, como ya hemos hecho a nivel regional, la eliminación de todos los organismos autonómicos y locales de acción exterior y ayuda a la cooperación internacional. Sólo el Estado puede realizar ambas según sus atribuciones constitucionales. 84",
       "page": 83,
       "number": 173,
       "section": "Educación, vivienda, salud y protección social",
@@ -34523,8 +34532,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Cerraremos todos los organismos destinados a crear estruc - turas paralelas del estado (consejos de juventud, defensores del pueblo, consejos consultivos, agenc",
-      "detail": "Cerraremos todos los organismos destinados a crear estruc - turas paralelas del estado (consejos de juventud, defensores del pueblo, consejos consultivos, agencias meteorológicas, cartográficas…), que suponen un gasto político ineficaz paga - do por todos y que se han convertido en voceros del gobierno autonómico de turno.",
+      "title": "Cerraremos todos los organismos destinados a crear estructuras paralelas del estado (consejos de juventud, defensores del pueblo, consejos consultivos, agencias",
+      "detail": "Cerraremos todos los organismos destinados a crear estructuras paralelas del estado (consejos de juventud, defensores del pueblo, consejos consultivos, agencias meteorológicas, cartográficas…), que suponen un gasto político ineficaz pagado por todos y que se han convertido en voceros del gobierno autonómico de turno.",
       "page": 84,
       "number": 174,
       "section": "Educación, vivienda, salud y protección social",
@@ -34538,8 +34547,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Pondremos a las delegaciones territoriales de RTVE al ser - vicio de todos los españoles , fomentando que sean medios que reflejen la realidad cultural y la act",
-      "detail": "Pondremos a las delegaciones territoriales de RTVE al ser - vicio de todos los españoles , fomentando que sean medios que reflejen la realidad cultural y la actualidad de las distintas provincias. Con ello se dará el primer paso para el cierre de las televisiones autonómicas, que sirven como altavoces del odio a España con el dinero de todos, fuentes de despilfarro e ins - trumentos al servicio del gobierno regional…",
+      "title": "Pondremos a las delegaciones territoriales de RTVE al servicio de todos los españoles , fomentando que sean medios que reflejen la realidad cultural y la actual",
+      "detail": "Pondremos a las delegaciones territoriales de RTVE al servicio de todos los españoles , fomentando que sean medios que reflejen la realidad cultural y la actualidad de las distintas provincias. Con ello se dará el primer paso para el cierre de las televisiones autonómicas, que sirven como altavoces del odio a España con el dinero de todos, fuentes de despilfarro e instrumentos al servicio del gobierno regional de tur…",
       "page": 84,
       "number": 175,
       "section": "Educación, vivienda, salud y protección social",
@@ -34553,8 +34562,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "El dinero público sí es de alguien, es de quienes pagan sus im- puestos.",
-      "detail": "El dinero público sí es de alguien, es de quienes pagan sus im- puestos. Los vecinos merecen saber el destino de sus impues- tos con total transparencia . Procederemos a la fiscalización de los caudales públicos , la persecución de la corrupción , la devolución efectiva de todos los fondos públicos obtenidos ilegalmente y la protección integral de los denunciantes.",
+      "title": "El dinero público sí es de alguien, es de quienes pagan sus impuestos.",
+      "detail": "El dinero público sí es de alguien, es de quienes pagan sus impuestos. Los vecinos merecen saber el destino de sus impuestos con total transparencia . Procederemos a la fiscalización de los caudales públicos , la persecución de la corrupción , la devolución efectiva de todos los fondos públicos obtenidos ilegalmente y la protección integral de los denunciantes.",
       "page": 84,
       "number": 176,
       "section": "Educación, vivienda, salud y protección social",
@@ -34568,8 +34577,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Crearemos una Oficina Nacional de lucha contra el Fraude y la Corrupción, que garantice la independencia en la fun - ción y la igualdad de los españoles, ponien",
-      "detail": "Crearemos una Oficina Nacional de lucha contra el Fraude y la Corrupción, que garantice la independencia en la fun - ción y la igualdad de los españoles, poniendo fin a la dis - persión autonómica. Mejoraremos los mecanismos y portales de transparencia, denuncia y rendición de cuentas para pre - venir la corrupción en la Administración con el dinero de los españoles. A su vez, lucharemos contra la evasión y la elusió…",
+      "title": "Crearemos una Oficina Nacional de lucha contra el Fraude y la Corrupción, que garantice la independencia en la función y la igualdad de los españoles, poniendo",
+      "detail": "Crearemos una Oficina Nacional de lucha contra el Fraude y la Corrupción, que garantice la independencia en la función y la igualdad de los españoles, poniendo fin a la dispersión autonómica. Mejoraremos los mecanismos y portales de transparencia, denuncia y rendición de cuentas para prevenir la corrupción en la Administración con el dinero de los españoles. A su vez, lucharemos contra la evasión y la elusión fiscal,…",
       "page": 84,
       "number": 177,
       "section": "Educación, vivienda, salud y protección social",
@@ -34583,8 +34592,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Defenderemos el derecho de los españoles a utilizar la mone - da en curso legal, en billetes y monedas, oponiéndonos a la eliminación del dinero en efectivo.",
-      "detail": "Defenderemos el derecho de los españoles a utilizar la mone - da en curso legal, en billetes y monedas, oponiéndonos a la eliminación del dinero en efectivo. Además, no obligaremos a las pequeñas empresas a aceptar pagos electrónicos.",
+      "title": "Defenderemos el derecho de los españoles a utilizar la moneda en curso legal, en billetes y monedas, oponiéndonos a la eliminación del dinero en efectivo.",
+      "detail": "Defenderemos el derecho de los españoles a utilizar la moneda en curso legal, en billetes y monedas, oponiéndonos a la eliminación del dinero en efectivo. Además, no obligaremos a las pequeñas empresas a aceptar pagos electrónicos.",
       "page": 85,
       "number": 178,
       "section": "Educación, vivienda, salud y protección social",
@@ -34598,8 +34607,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "El Estado de las Autonomías es uno de los grandes frenos al crecimiento económico e industrial y la atracción de la in - versión a España.",
-      "detail": "El Estado de las Autonomías es uno de los grandes frenos al crecimiento económico e industrial y la atracción de la in - versión a España. Recuperaremos la unidad de mercado in - terior, así como las competencias económicas para el Esta - do. Reduciremos el exceso de legislación de las actividades económicas que actúan como barreras de entrada para los nuevos empresarios y autónomos.",
+      "title": "El Estado de las Autonomías es uno de los grandes frenos al crecimiento económico e industrial y la atracción de la inversión a España.",
+      "detail": "El Estado de las Autonomías es uno de los grandes frenos al crecimiento económico e industrial y la atracción de la inversión a España. Recuperaremos la unidad de mercado interior, así como las competencias económicas para el Estado. Reduciremos el exceso de legislación de las actividades económicas que actúan como barreras de entrada para los nuevos empresarios y autónomos.",
       "page": 85,
       "number": 179,
       "section": "Educación, vivienda, salud y protección social",
@@ -34613,8 +34622,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Unificaremos la legislación que afecta al suelo, tramitación de permisos, comercio, exigencias de calidad, requisitos lin - güísticos, estrategias de atracción",
-      "detail": "Unificaremos la legislación que afecta al suelo, tramitación de permisos, comercio, exigencias de calidad, requisitos lin - güísticos, estrategias de atracción de la inversión etc. Sólo así podremos trasladar a las empresas e inversores un plan cla - ro y determinado como nación sin inseguridad jurídica.",
+      "title": "Unificaremos la legislación que afecta al suelo, tramitación de permisos, comercio, exigencias de calidad, requisitos lingüísticos, estrategias de atracción de",
+      "detail": "Unificaremos la legislación que afecta al suelo, tramitación de permisos, comercio, exigencias de calidad, requisitos lingüísticos, estrategias de atracción de la inversión etc. Sólo así podremos trasladar a las empresas e inversores un plan claro y determinado como nación sin inseguridad jurídica.",
       "page": 85,
       "number": 180,
       "section": "Educación, vivienda, salud y protección social",
@@ -34628,8 +34637,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Despolitizaremos los órganos del Estado que Sánchez ha tratado de patrimonializar con fines partidistas como el Tribu- nal de Cuentas , el Banco de España o la",
-      "detail": "Despolitizaremos los órganos del Estado que Sánchez ha tratado de patrimonializar con fines partidistas como el Tribu- nal de Cuentas , el Banco de España o la Comisión Nacional de los Mercados y la Competencia (CNMC) .",
+      "title": "Despolitizaremos los órganos del Estado que Sánchez ha tratado de patrimonializar con fines partidistas como el Tribunal de Cuentas , el Banco de España o la Co",
+      "detail": "Despolitizaremos los órganos del Estado que Sánchez ha tratado de patrimonializar con fines partidistas como el Tribunal de Cuentas , el Banco de España o la Comisión Nacional de los Mercados y la Competencia (CNMC) .",
       "page": 85,
       "number": 181,
       "section": "Educación, vivienda, salud y protección social",
@@ -34643,8 +34652,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Vigilaremos, como no se ha hecho jamás, el impacto econó - mico y social para la economía española y para las familias, de cualquier Reglamento, Directiva o Dec",
-      "detail": "Vigilaremos, como no se ha hecho jamás, el impacto econó - mico y social para la economía española y para las familias, de cualquier Reglamento, Directiva o Decisión comunitaria , antes de su aprobación, para exigir en Bruselas su no aproba - ción o modificación antes de aprobarse, así como antes de la ratificación de cualquier Tratado Internacional. 86 ALGUNAS DE LAS ACCIONES MÁS DESTACADAS DE VOX SOBRE FISCALIDAD P…",
+      "title": "Vigilaremos, como no se ha hecho jamás, el impacto económico y social para la economía española y para las familias, de cualquier Reglamento, Directiva o Decisi",
+      "detail": "Vigilaremos, como no se ha hecho jamás, el impacto económico y social para la economía española y para las familias, de cualquier Reglamento, Directiva o Decisión comunitaria , antes de su aprobación, para exigir en Bruselas su no aprobación o modificación antes de aprobarse, así como antes de la ratificación de cualquier Tratado Internacional. 86 ALGUNAS DE LAS ACCIONES MÁS DESTACADAS DE VOX SOBRE FISCALIDAD Proposi…",
       "page": 85,
       "number": 182,
       "section": "Educación, vivienda, salud y protección social",
@@ -34674,7 +34683,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Los funcionarios de Prisiones serán agentes de autoridad y junto a los miembros de las FFAA y FCSE recibirán la adecuada instrucción y adiestramiento y dispondr",
-      "detail": "Los funcionarios de Prisiones serán agentes de autoridad y junto a los miembros de las FFAA y FCSE recibirán la adecuada instrucción y adiestramiento y dispondrán de los medios humanos, recursos materiales, seguridad jurídi - ca y amparo legal necesarios para no padecer un calvario judicial o administrativo derivado de actuaciones practica - das en el ejercicio de sus funciones, impulsando su secto - rización .",
+      "detail": "Los funcionarios de Prisiones serán agentes de autoridad y junto a los miembros de las FFAA y FCSE recibirán la adecuada instrucción y adiestramiento y dispondrán de los medios humanos, recursos materiales, seguridad jurídica y amparo legal necesarios para no padecer un calvario judicial o administrativo derivado de actuaciones practicadas en el ejercicio de sus funciones, impulsando su sectorización .",
       "page": 90,
       "number": 184,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -34688,8 +34697,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Una nueva Estrategia de Seguridad Nacional integrará De - fensa, Interior e Inteligencia y permitirá prevenir y evitar eficazmente cualquier peligro, amenaza o",
-      "detail": "Una nueva Estrategia de Seguridad Nacional integrará De - fensa, Interior e Inteligencia y permitirá prevenir y evitar eficazmente cualquier peligro, amenaza o agresión contra la independencia o la integridad territorial de España , los intereses nacionales, las infraestructuras críticas, cibersegu - ridad y soberanía de datos, soberanía industrial y energéti - ca, recursos naturales, así como la estabilidad del Esta…",
+      "title": "Una nueva Estrategia de Seguridad Nacional integrará Defensa, Interior e Inteligencia y permitirá prevenir y evitar eficazmente cualquier peligro, amenaza o agr",
+      "detail": "Una nueva Estrategia de Seguridad Nacional integrará Defensa, Interior e Inteligencia y permitirá prevenir y evitar eficazmente cualquier peligro, amenaza o agresión contra la independencia o la integridad territorial de España , los intereses nacionales, las infraestructuras críticas, ciberseguridad y soberanía de datos, soberanía industrial y energética, recursos naturales, así como la estabilidad del Estado de Der…",
       "page": 90,
       "number": 185,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -34703,8 +34712,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "La recuperación de competencias exige que las FFAA y to - das las policías dependan en última instancia del Estado a través del Ministerio correspondiente.",
-      "detail": "La recuperación de competencias exige que las FFAA y to - das las policías dependan en última instancia del Estado a través del Ministerio correspondiente. Hasta que sea efecti - 91 vo, alcanzaremos la equiparación real en salario y la justa jubilación para las Fuerzas Armadas, Fuerzas y Cuerpos de Seguridad del Estado (Guardia Civil, Cuerpo Nacional de Po - licía), Servicio de Vigilancia Aduanera y policías autonómi…",
+      "title": "La recuperación de competencias exige que las FFAA y todas las policías dependan en última instancia del Estado a través del Ministerio correspondiente.",
+      "detail": "La recuperación de competencias exige que las FFAA y todas las policías dependan en última instancia del Estado a través del Ministerio correspondiente. Hasta que sea efectivo, alcanzaremos la equiparación real en salario y la justa jubilación para las Fuerzas Armadas, Fuerzas y Cuerpos de Seguridad del Estado (Guardia Civil, Cuerpo Nacional de Policía), Servicio de Vigilancia Aduanera y policías autonómicas y locale…",
       "page": 90,
       "number": 186,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -34718,8 +34727,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Un Mando Integrado de Gestión de las Fronteras salvaguar - dará la inviolabilidad del territorio nacional mediante la vi - gilancia, control e inspección de per",
-      "detail": "Un Mando Integrado de Gestión de las Fronteras salvaguar - dará la inviolabilidad del territorio nacional mediante la vi - gilancia, control e inspección de personas y mercancías ex - tranjeras en el acceso a España por vía terrestre, marítima y aérea. Despliegue militar en las fronteras de Ceuta, Melilla y Canarias para garantizar la protección de esos territorios ante invasiones promocionadas desde estados vecinos…",
+      "title": "Un Mando Integrado de Gestión de las Fronteras salvaguardará la inviolabilidad del territorio nacional mediante la vigilancia, control e inspección de personas",
+      "detail": "Un Mando Integrado de Gestión de las Fronteras salvaguardará la inviolabilidad del territorio nacional mediante la vigilancia, control e inspección de personas y mercancías extranjeras en el acceso a España por vía terrestre, marítima y aérea. Despliegue militar en las fronteras de Ceuta, Melilla y Canarias para garantizar la protección de esos territorios ante invasiones promocionadas desde estados vecinos u organiz…",
       "page": 91,
       "number": 187,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -34734,7 +34743,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Dignificación de la vocación profesional militar .",
-      "detail": "Dignificación de la vocación profesional militar . Una Ley de Carrera Militar única para las Escalas de Oficiales, Suboficia - les y Tropa y Marinería, que permita que después de los 45 años los mejores puedan permanecer en la estructura del Ministerio de Defensa mediante el desempeño de funciones logísticas, administrativas, de seguridad y protección de las instalaciones, salvaguardando una estructura operativa jo -…",
+      "detail": "Dignificación de la vocación profesional militar . Una Ley de Carrera Militar única para las Escalas de Oficiales, Suboficiales y Tropa y Marinería, que permita que después de los 45 años los mejores puedan permanecer en la estructura del Ministerio de Defensa mediante el desempeño de funciones logísticas, administrativas, de seguridad y protección de las instalaciones, salvaguardando una estructura operativa joven e…",
       "page": 91,
       "number": 188,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -34749,7 +34758,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Las Academias militares serán centros de la Universidad de Defensa.",
-      "detail": "Las Academias militares serán centros de la Universidad de Defensa. Homologación civil de los estudios y especialida - des militares, así como de las competencias profesionales en materia de seguridad privada, protección de personas y explosivos. El tiempo de servicio prestado en las Fuerzas Armadas servirá de mérito para el acceso al empleo públi - co, con reserva de plazas. 92 • España no debe abandonar a quienes h…",
+      "detail": "Las Academias militares serán centros de la Universidad de Defensa. Homologación civil de los estudios y especialidades militares, así como de las competencias profesionales en materia de seguridad privada, protección de personas y explosivos. El tiempo de servicio prestado en las Fuerzas Armadas servirá de mérito para el acceso al empleo público, con reserva de plazas. 92 • España no debe abandonar a quienes han ded…",
       "page": 91,
       "number": 189,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -34763,8 +34772,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Complementariamente a un modelo de Ejército profe - sional permanente, desarrollaremos el Servicio Militar de reserva voluntaria , en el que todos los españoles",
-      "detail": "Complementariamente a un modelo de Ejército profe - sional permanente, desarrollaremos el Servicio Militar de reserva voluntaria , en el que todos los españoles sin exclusión podrán ejercer su derecho y deber de defen - der a España previsto en el art. 30.1 CE. Un Sistema Na - cional de Protección Civil vertebrará de forma unitaria la respuesta ante emergencias, catástrofes, incendios e inundaciones y unificará el ré…",
+      "title": "Complementariamente a un modelo de Ejército profesional permanente, desarrollaremos el Servicio Militar de reserva voluntaria , en el que todos los españoles si",
+      "detail": "Complementariamente a un modelo de Ejército profesional permanente, desarrollaremos el Servicio Militar de reserva voluntaria , en el que todos los españoles sin exclusión podrán ejercer su derecho y deber de defender a España previsto en el art. 30.1 CE. Un Sistema Nacional de Protección Civil vertebrará de forma unitaria la respuesta ante emergencias, catástrofes, incendios e inundaciones y unificará el régimen de…",
       "page": 92,
       "number": 190,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -34778,8 +34787,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Fomentaremos la bilateralidad en las relaciones inter - nacionales y revisaremos la contribución e incluso la per - tenencia de España a organismos internaciona",
-      "detail": "Fomentaremos la bilateralidad en las relaciones inter - nacionales y revisaremos la contribución e incluso la per - tenencia de España a organismos internacionales si ac - túan contra los intereses nacionales.",
+      "title": "Fomentaremos la bilateralidad en las relaciones internacionales y revisaremos la contribución e incluso la pertenencia de España a organismos internacionales si",
+      "detail": "Fomentaremos la bilateralidad en las relaciones internacionales y revisaremos la contribución e incluso la pertenencia de España a organismos internacionales si actúan contra los intereses nacionales.",
       "page": 92,
       "number": 191,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -34794,7 +34803,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Exigiremos la modificación del Tratado del Atlántico Norte para que este recoja e incluya, de forma explícita, a las ciudades españolas de Ceuta y Melilla bajo",
-      "detail": "Exigiremos la modificación del Tratado del Atlántico Norte para que este recoja e incluya, de forma explícita, a las ciudades españolas de Ceuta y Melilla bajo la pro - tección de la OTAN.",
+      "detail": "Exigiremos la modificación del Tratado del Atlántico Norte para que este recoja e incluya, de forma explícita, a las ciudades españolas de Ceuta y Melilla bajo la protección de la OTAN.",
       "page": 92,
       "number": 192,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -34808,8 +34817,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "La ayuda internacional de España a países en vías de desarrollo estará vinculada a la colaboración con la po - lítica migratoria nacional.",
-      "detail": "La ayuda internacional de España a países en vías de desarrollo estará vinculada a la colaboración con la po - lítica migratoria nacional. Ni un euro de los españoles debe financiar a países que violentan nuestras fronteras.",
+      "title": "La ayuda internacional de España a países en vías de desarrollo estará vinculada a la colaboración con la política migratoria nacional.",
+      "detail": "La ayuda internacional de España a países en vías de desarrollo estará vinculada a la colaboración con la política migratoria nacional. Ni un euro de los españoles debe financiar a países que violentan nuestras fronteras.",
       "page": 92,
       "number": 193,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -34824,7 +34833,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Lucha incesante contra el terrorismo.",
-      "detail": "Lucha incesante contra el terrorismo. Se exigirá a los res - ponsables de la religión islámica en España su colabo - ración para la detención de radicales. España participará 93 en misiones de seguridad internacional y lucha contra el yihadismo según nuestros intereses y capacidades.",
+      "detail": "Lucha incesante contra el terrorismo. Se exigirá a los responsables de la religión islámica en España su colaboración para la detención de radicales. España participará 93 en misiones de seguridad internacional y lucha contra el yihadismo según nuestros intereses y capacidades.",
       "page": 92,
       "number": 194,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -34853,8 +34862,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Garantizaremos que en el seno de las FFAA y FCSE se ce - lebre sin excepción el debido reconocimiento y homenaje a todos los que, desde perspectivas históricas",
-      "detail": "Garantizaremos que en el seno de las FFAA y FCSE se ce - lebre sin excepción el debido reconocimiento y homenaje a todos los que, desde perspectivas históricas diferentes, lucharon por España. Mantendremos nuestras tradiciones militares, señas de identidad, patronos, armas y cuerpos, etc., y nuestro rico patrimonio histórico-militar, en especial panteones y cementerios militares. Difusión de la Cultura de Defensa a f…",
+      "title": "Garantizaremos que en el seno de las FFAA y FCSE se celebre sin excepción el debido reconocimiento y homenaje a todos los que, desde perspectivas históricas dif",
+      "detail": "Garantizaremos que en el seno de las FFAA y FCSE se celebre sin excepción el debido reconocimiento y homenaje a todos los que, desde perspectivas históricas diferentes, lucharon por España. Mantendremos nuestras tradiciones militares, señas de identidad, patronos, armas y cuerpos, etc., y nuestro rico patrimonio histórico-militar, en especial panteones y cementerios militares. Difusión de la Cultura de Defensa a fin…",
       "page": 93,
       "number": 196,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -34868,8 +34877,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Fin de la impunidad y los machetazos en las calles: las fuer- zas de seguridad y jueces contarán con los medios legales necesarios para detener y procesar a may",
-      "detail": "Fin de la impunidad y los machetazos en las calles: las fuer- zas de seguridad y jueces contarán con los medios legales necesarios para detener y procesar a mayores y menores de edad violentos por la adquisición, tenencia o uso de armas blancas o de fuego prohibidas. Un nuevo Código Penal y Ley Penal del Menor elevarán las penas para los crímenes violen - tos perpetrados por bandas e individuos armados, así como para…",
+      "title": "Fin de la impunidad y los machetazos en las calles: las fuerzas de seguridad y jueces contarán con los medios legales necesarios para detener y procesar a mayor",
+      "detail": "Fin de la impunidad y los machetazos en las calles: las fuerzas de seguridad y jueces contarán con los medios legales necesarios para detener y procesar a mayores y menores de edad violentos por la adquisición, tenencia o uso de armas blancas o de fuego prohibidas. Un nuevo Código Penal y Ley Penal del Menor elevarán las penas para los crímenes violentos perpetrados por bandas e individuos armados, así como para los…",
       "page": 93,
       "number": 197,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -34883,8 +34892,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Puesta en marcha de un estudio en profundidad sobre el aumento de las agresiones sexuales , en especial los abe - rrantes casos de violaciones grupales, para de",
-      "detail": "Puesta en marcha de un estudio en profundidad sobre el aumento de las agresiones sexuales , en especial los abe - rrantes casos de violaciones grupales, para determinar sus causas y elaborar los perfiles repetidos de los agresores para poder combatirlos con más eficacia. La revisión del Sistema Estadístico de Criminalidad también evitará que todos los tipos penales tengan el mismo peso a la hora de calibrar el índice…",
+      "title": "Puesta en marcha de un estudio en profundidad sobre el aumento de las agresiones sexuales , en especial los aberrantes casos de violaciones grupales, para deter",
+      "detail": "Puesta en marcha de un estudio en profundidad sobre el aumento de las agresiones sexuales , en especial los aberrantes casos de violaciones grupales, para determinar sus causas y elaborar los perfiles repetidos de los agresores para poder combatirlos con más eficacia. La revisión del Sistema Estadístico de Criminalidad también evitará que todos los tipos penales tengan el mismo peso a la hora de calibrar el índice de…",
       "page": 94,
       "number": 198,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -34898,8 +34907,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Preservaremos desde los poderes públicos la inocencia de los menores y protegerlos frente a los riesgos presen - tes en los entornos digitales , tales como la a",
-      "detail": "Preservaremos desde los poderes públicos la inocencia de los menores y protegerlos frente a los riesgos presen - tes en los entornos digitales , tales como la adicción al jue - go o la pornografía o la mayor vulnerabilidad ante ciertos delitos.",
+      "title": "Preservaremos desde los poderes públicos la inocencia de los menores y protegerlos frente a los riesgos presentes en los entornos digitales , tales como la adic",
+      "detail": "Preservaremos desde los poderes públicos la inocencia de los menores y protegerlos frente a los riesgos presentes en los entornos digitales , tales como la adicción al juego o la pornografía o la mayor vulnerabilidad ante ciertos delitos.",
       "page": 94,
       "number": 199,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -34914,7 +34923,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "En materia de Seguridad Ciudadana , garantizaremos la presencia policial en todas las calles y todos los barrios de España imposibilitando la creación de guetos",
-      "detail": "En materia de Seguridad Ciudadana , garantizaremos la presencia policial en todas las calles y todos los barrios de España imposibilitando la creación de guetos como ya ocurre en muchos lugares de Europa, donde el Estado de derecho desaparece y se impone la ley islámica. 200.1 A su vez, dotaremos de mayores medios y recursos a las unidades de la Policía Nacional y de la Guar - dia Civil especializadas en la lucha con…",
+      "detail": "En materia de Seguridad Ciudadana , garantizaremos la presencia policial en todas las calles y todos los barrios de España imposibilitando la creación de guetos como ya ocurre en muchos lugares de Europa, donde el Estado de derecho desaparece y se impone la ley islámica. 200.1 A su vez, dotaremos de mayores medios y recursos a las unidades de la Policía Nacional y de la Guardia Civil especializadas en la lucha contra…",
       "page": 94,
       "number": 200,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -34928,8 +34937,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Como primera medida, consultaremos o exigiremos con- sultar al pueblo español , el que sufre en primera persona las consecuencias de las políticas de puertas ab",
-      "detail": "Como primera medida, consultaremos o exigiremos con- sultar al pueblo español , el que sufre en primera persona las consecuencias de las políticas de puertas abiertas, so - bre el modelo de gestión de la inmigración y defensa de las fronteras que quieren para España. En aplicación del artículo 92 de la Constitución , sobre consultas políticas de especial relevancia, consultaremos a los españoles so - bre las política…",
+      "title": "Como primera medida, consultaremos o exigiremos consultar al pueblo español , el que sufre en primera persona las consecuencias de las políticas de puertas abie",
+      "detail": "Como primera medida, consultaremos o exigiremos consultar al pueblo español , el que sufre en primera persona las consecuencias de las políticas de puertas abiertas, sobre el modelo de gestión de la inmigración y defensa de las fronteras que quieren para España. En aplicación del artículo 92 de la Constitución , sobre consultas políticas de especial relevancia, consultaremos a los españoles sobre las políticas migrat…",
       "page": 100,
       "number": 201,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -34943,8 +34952,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Cualquier persona que quiera venir y permanecer en Es - paña en búsqueda de oportunidades debe cumplir la ley y tener una clara voluntad de integración y adapta",
-      "detail": "Cualquier persona que quiera venir y permanecer en Es - paña en búsqueda de oportunidades debe cumplir la ley y tener una clara voluntad de integración y adaptación. Inmediata expulsión de todos los inmigrantes que acce - dan ilegalmente a nuestro país. A España solo se entra de forma legal, ordenada y con la voluntad de integrarse y aportar al desarrollo de la Nación.",
+      "title": "Cualquier persona que quiera venir y permanecer en España en búsqueda de oportunidades debe cumplir la ley y tener una clara voluntad de integración y adaptació",
+      "detail": "Cualquier persona que quiera venir y permanecer en España en búsqueda de oportunidades debe cumplir la ley y tener una clara voluntad de integración y adaptación. Inmediata expulsión de todos los inmigrantes que accedan ilegalmente a nuestro país. A España solo se entra de forma legal, ordenada y con la voluntad de integrarse y aportar al desarrollo de la Nación.",
       "page": 100,
       "number": 202,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -34958,8 +34967,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Expulsaremos de forma inmediata a los inmigrantes le - gales que cometan delitos graves o hagan del delito leve su forma de vida , procurando que cumplan las pe",
-      "detail": "Expulsaremos de forma inmediata a los inmigrantes le - gales que cometan delitos graves o hagan del delito leve su forma de vida , procurando que cumplan las penas en sus países de origen.",
+      "title": "Expulsaremos de forma inmediata a los inmigrantes legales que cometan delitos graves o hagan del delito leve su forma de vida , procurando que cumplan las penas",
+      "detail": "Expulsaremos de forma inmediata a los inmigrantes legales que cometan delitos graves o hagan del delito leve su forma de vida , procurando que cumplan las penas en sus países de origen.",
       "page": 100,
       "number": 203,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -34973,8 +34982,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Eliminaremos las ayudas públicas a inmigrantes en si - tuación ilegal y las subvenciones a ONGs, asociaciones o cualquier entidad que destine sus fondos a promo",
-      "detail": "Eliminaremos las ayudas públicas a inmigrantes en si - tuación ilegal y las subvenciones a ONGs, asociaciones o cualquier entidad que destine sus fondos a promover o ayudar a la inmigración ilegal. Exigiremos que las ayudas sociales estén vinculadas a la residencia legal y no al mero empadronamiento. 101",
+      "title": "Eliminaremos las ayudas públicas a inmigrantes en situación ilegal y las subvenciones a ONGs, asociaciones o cualquier entidad que destine sus fondos a promover",
+      "detail": "Eliminaremos las ayudas públicas a inmigrantes en situación ilegal y las subvenciones a ONGs, asociaciones o cualquier entidad que destine sus fondos a promover o ayudar a la inmigración ilegal. Exigiremos que las ayudas sociales estén vinculadas a la residencia legal y no al mero empadronamiento. 101",
       "page": 100,
       "number": 204,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -34988,8 +34997,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Endureceremos las penas contra las mafias de la inmi - gración ilegal , así como para quienes colaboren con ellas, ya sean ONGs, empresas o particulares.",
-      "detail": "Endureceremos las penas contra las mafias de la inmi - gración ilegal , así como para quienes colaboren con ellas, ya sean ONGs, empresas o particulares. Se promoverán sanciones a aquellos Estados que promuevan oleadas ma - sivas de inmigrantes o las utilicen como arma diplomática y se ilegalizarán todas las entidades que colaboren activa - mente con la inmigración ilegal.",
+      "title": "Endureceremos las penas contra las mafias de la inmigración ilegal , así como para quienes colaboren con ellas, ya sean ONGs, empresas o particulares.",
+      "detail": "Endureceremos las penas contra las mafias de la inmigración ilegal , así como para quienes colaboren con ellas, ya sean ONGs, empresas o particulares. Se promoverán sanciones a aquellos Estados que promuevan oleadas masivas de inmigrantes o las utilicen como arma diplomática y se ilegalizarán todas las entidades que colaboren activamente con la inmigración ilegal.",
       "page": 101,
       "number": 205,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -35003,8 +35012,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Debemos acabar con las políticas de efecto llamada que han llevado a miles de personas a jugarse la vida, y perderla trágicamente en demasiados casos, como con",
-      "detail": "Debemos acabar con las políticas de efecto llamada que han llevado a miles de personas a jugarse la vida, y perderla trágicamente en demasiados casos, como con - secuencia de las falsas promesas de un futuro mejor en Europa con la complicidad de oenegés y mafias del tráfico de personas. Trasladaremos el mensaje claro de que cual - quier inmigrante que llegue ilegalmente nunca podrá re - gularizar su situación en Espa…",
+      "title": "Debemos acabar con las políticas de efecto llamada que han llevado a miles de personas a jugarse la vida, y perderla trágicamente en demasiados casos, como cons",
+      "detail": "Debemos acabar con las políticas de efecto llamada que han llevado a miles de personas a jugarse la vida, y perderla trágicamente en demasiados casos, como consecuencia de las falsas promesas de un futuro mejor en Europa con la complicidad de oenegés y mafias del tráfico de personas. Trasladaremos el mensaje claro de que cualquier inmigrante que llegue ilegalmente nunca podrá regularizar su situación en España.",
       "page": 101,
       "number": 206,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -35018,8 +35027,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Cerraremos los centros de MENA que crean inseguri - dad en nuestras calles .",
-      "detail": "Cerraremos los centros de MENA que crean inseguri - dad en nuestras calles . Todos los menores extranjeros no acompañados deben ser repatriados con sus padres a sus países de origen de forma inmediata. Hasta que se im - planten los protocolos y mecanismos suficientes para lo - grar este objetivo, los centros de MENA se reubicarán ale - jados de núcleos urbanos con el fin de impedir conductas delictivas y que atentan…",
+      "title": "Cerraremos los centros de MENA que crean inseguridad en nuestras calles .",
+      "detail": "Cerraremos los centros de MENA que crean inseguridad en nuestras calles . Todos los menores extranjeros no acompañados deben ser repatriados con sus padres a sus países de origen de forma inmediata. Hasta que se implanten los protocolos y mecanismos suficientes para lograr este objetivo, los centros de MENA se reubicarán alejados de núcleos urbanos con el fin de impedir conductas delictivas y que atentan contra la co…",
       "page": 101,
       "number": 207,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -35034,7 +35043,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "La identidad nacional de España se forjó en su historia conjunta con las naciones de la Iberosfera .",
-      "detail": "La identidad nacional de España se forjó en su historia conjunta con las naciones de la Iberosfera . Nuestra po - lítica de inmigración atenderá de forma prioritaria a los ciudadanos procedentes de las naciones que comparten idioma e importantes lazos de amistad, historia y cultura con España. 102",
+      "detail": "La identidad nacional de España se forjó en su historia conjunta con las naciones de la Iberosfera . Nuestra política de inmigración atenderá de forma prioritaria a los ciudadanos procedentes de las naciones que comparten idioma e importantes lazos de amistad, historia y cultura con España. 102",
       "page": 101,
       "number": 208,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -35048,8 +35057,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Impulsaremos un bloqueo naval que proteja nuestras cos - tas de la llegada masiva de inmigrantes ilegales, evitando los trágicos naufragios de embarcaciones lan",
-      "detail": "Impulsaremos un bloqueo naval que proteja nuestras cos - tas de la llegada masiva de inmigrantes ilegales, evitando los trágicos naufragios de embarcaciones lanzadas al Mediterrá - neo por las políticas de fronteras abiertas y asegurando su devolución inmediata a los puertos cercanos más seguros en los países de origen y tránsito.",
+      "title": "Impulsaremos un bloqueo naval que proteja nuestras costas de la llegada masiva de inmigrantes ilegales, evitando los trágicos naufragios de embarcaciones lanzad",
+      "detail": "Impulsaremos un bloqueo naval que proteja nuestras costas de la llegada masiva de inmigrantes ilegales, evitando los trágicos naufragios de embarcaciones lanzadas al Mediterráneo por las políticas de fronteras abiertas y asegurando su devolución inmediata a los puertos cercanos más seguros en los países de origen y tránsito.",
       "page": 102,
       "number": 209,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -35078,8 +35087,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Exigencia ante la Unión Europea de creación de plataformas seguras de desembarco en territorios no europeos gestio - nados por la propia Unión para evaluar las",
-      "detail": "Exigencia ante la Unión Europea de creación de plataformas seguras de desembarco en territorios no europeos gestio - nados por la propia Unión para evaluar las solicitudes de asilo y reparto equitativo solo de los que tengan derecho en los 27 países miembros así como para la gestión eficaz del retorno de inmigrantes ilegales, supeditando los acuerdos de coope - ración a la voluntad de repatriación de los estados de o…",
+      "title": "Exigencia ante la Unión Europea de creación de plataformas seguras de desembarco en territorios no europeos gestionados por la propia Unión para evaluar las sol",
+      "detail": "Exigencia ante la Unión Europea de creación de plataformas seguras de desembarco en territorios no europeos gestionados por la propia Unión para evaluar las solicitudes de asilo y reparto equitativo solo de los que tengan derecho en los 27 países miembros así como para la gestión eficaz del retorno de inmigrantes ilegales, supeditando los acuerdos de cooperación a la voluntad de repatriación de los estados de origen.",
       "page": 102,
       "number": 211,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -35093,8 +35102,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Los inmigrantes ilegales no podrán empadronarse ni adqui - rir con ello los beneficios y las ayudas correspondientes.",
-      "detail": "Los inmigrantes ilegales no podrán empadronarse ni adqui - rir con ello los beneficios y las ayudas correspondientes.",
+      "title": "Los inmigrantes ilegales no podrán empadronarse ni adquirir con ello los beneficios y las ayudas correspondientes.",
+      "detail": "Los inmigrantes ilegales no podrán empadronarse ni adquirir con ello los beneficios y las ayudas correspondientes.",
       "page": 102,
       "number": 212,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -35123,8 +35132,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Tolerancia cero con toda forma de fundamentalismo islá - mico.",
-      "detail": "Tolerancia cero con toda forma de fundamentalismo islá - mico. Cerraremos las mezquitas o centros de culto que pro - paguen ideas que son contrarias a nuestra cultura e identi - dad como el radicalismo islámico, la yihad o el menosprecio a la mujer y a nuestras costumbres. 103",
+      "title": "Tolerancia cero con toda forma de fundamentalismo islámico.",
+      "detail": "Tolerancia cero con toda forma de fundamentalismo islámico. Cerraremos las mezquitas o centros de culto que propaguen ideas que son contrarias a nuestra cultura e identidad como el radicalismo islámico, la yihad o el menosprecio a la mujer y a nuestras costumbres. 103",
       "page": 102,
       "number": 214,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -35138,8 +35147,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Lucha sin cuartel contra todas las mafias, el terrorismo y la corrupción que amenazan nuestra seguridad y conviven - cia.",
-      "detail": "Lucha sin cuartel contra todas las mafias, el terrorismo y la corrupción que amenazan nuestra seguridad y conviven - cia. Lucha contra la degradación sin permitir la existencia de enclaves de ilegalidad. Lucha contra las pandillas y bandas callejeras, el tráfico de drogas y la pequeña delincuencia.",
+      "title": "Lucha sin cuartel contra todas las mafias, el terrorismo y la corrupción que amenazan nuestra seguridad y convivencia.",
+      "detail": "Lucha sin cuartel contra todas las mafias, el terrorismo y la corrupción que amenazan nuestra seguridad y convivencia. Lucha contra la degradación sin permitir la existencia de enclaves de ilegalidad. Lucha contra las pandillas y bandas callejeras, el tráfico de drogas y la pequeña delincuencia.",
       "page": 103,
       "number": 215,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -35168,8 +35177,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Auditaremos todos los programas de la Cooperación Espa - ñola Internacional , y desecharemos todos aquellos que se desarrollen en países que no colaboren con el",
-      "detail": "Auditaremos todos los programas de la Cooperación Espa - ñola Internacional , y desecharemos todos aquellos que se desarrollen en países que no colaboren con el nuestro en la lucha contra la inmigración ilegal.",
+      "title": "Auditaremos todos los programas de la Cooperación Española Internacional , y desecharemos todos aquellos que se desarrollen en países que no colaboren con el nu",
+      "detail": "Auditaremos todos los programas de la Cooperación Española Internacional , y desecharemos todos aquellos que se desarrollen en países que no colaboren con el nuestro en la lucha contra la inmigración ilegal.",
       "page": 103,
       "number": 217,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -35183,8 +35192,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Supresión de la institución del arraigo como forma de regu - lar la inmigración ilegal y revocación de las pasarelas rápidas para adquirir la nacionalidad españ",
-      "detail": "Supresión de la institución del arraigo como forma de regu - lar la inmigración ilegal y revocación de las pasarelas rápidas para adquirir la nacionalidad española. Asimismo, se elimina - rá la posibilidad de sustituir la expulsión por una multa.",
+      "title": "Supresión de la institución del arraigo como forma de regular la inmigración ilegal y revocación de las pasarelas rápidas para adquirir la nacionalidad española",
+      "detail": "Supresión de la institución del arraigo como forma de regular la inmigración ilegal y revocación de las pasarelas rápidas para adquirir la nacionalidad española. Asimismo, se eliminará la posibilidad de sustituir la expulsión por una multa.",
       "page": 103,
       "number": 218,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -35198,8 +35207,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Reforma de la normativa sobre nacionalidad para impe - dir la adquisición fraudulenta o abusiva de la nacionali - dad española , resignificando la condición de",
-      "detail": "Reforma de la normativa sobre nacionalidad para impe - dir la adquisición fraudulenta o abusiva de la nacionali - dad española , resignificando la condición de ser español; y ampliando los supuestos de pérdida de la nacionalidad. La adquisición de la nacionalidad debe estar sometida en cual - quier caso a una integración real y comprobable, a una au - sencia total de antecedentes penales y a un perfecto conoci - mien…",
+      "title": "Reforma de la normativa sobre nacionalidad para impedir la adquisición fraudulenta o abusiva de la nacionalidad española , resignificando la condición de ser es",
+      "detail": "Reforma de la normativa sobre nacionalidad para impedir la adquisición fraudulenta o abusiva de la nacionalidad española , resignificando la condición de ser español; y ampliando los supuestos de pérdida de la nacionalidad. La adquisición de la nacionalidad debe estar sometida en cualquier caso a una integración real y comprobable, a una ausencia total de antecedentes penales y a un perfecto conocimiento del español.",
       "page": 103,
       "number": 219,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -35213,8 +35222,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Revisaremos el derecho a la nacionalidad vinculada úni - camente al hecho de haber nacido en territorio nacional .",
-      "detail": "Revisaremos el derecho a la nacionalidad vinculada úni - camente al hecho de haber nacido en territorio nacional . 104 La concesión de la nacionalidad debe ser fruto del esfuerzo por integrarse en nuestra nación y las personas que logren adquirirla deben poder sentirse orgullosas. 105 ALGUNAS DE LAS ACCIONES MÁS DESTACADAS DE VOX SOBRE INMIGRACIÓN Proposición de Ley relativa a la modificación del régimen jurídico de…",
+      "title": "Revisaremos el derecho a la nacionalidad vinculada únicamente al hecho de haber nacido en territorio nacional .",
+      "detail": "Revisaremos el derecho a la nacionalidad vinculada únicamente al hecho de haber nacido en territorio nacional . 104 La concesión de la nacionalidad debe ser fruto del esfuerzo por integrarse en nuestra nación y las personas que logren adquirirla deben poder sentirse orgullosas. 105 ALGUNAS DE LAS ACCIONES MÁS DESTACADAS DE VOX SOBRE INMIGRACIÓN Proposición de Ley relativa a la modificación del régimen jurídico de la…",
       "page": 103,
       "number": 220,
       "section": "Seguridad, defensa, inmigración y justicia",
@@ -35244,7 +35253,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Promoveremos la protección del medio natural con el ser humano como principal protagonista .",
-      "detail": "Promoveremos la protección del medio natural con el ser humano como principal protagonista . Frente al ecologismo radical de las agendas impuestas por las élites que prescin - den de las personas, la conservación de espacios naturales y protegidos no puede realizarse perjudicando a las comuni - dades locales y los modos de producción tradicionales. Toda política de defensa del medio debe contemplar también el interés…",
+      "detail": "Promoveremos la protección del medio natural con el ser humano como principal protagonista . Frente al ecologismo radical de las agendas impuestas por las élites que prescinden de las personas, la conservación de espacios naturales y protegidos no puede realizarse perjudicando a las comunidades locales y los modos de producción tradicionales. Toda política de defensa del medio debe contemplar también el interés de lo…",
       "page": 108,
       "number": 222,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35273,8 +35282,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Para garantizar la efectiva aplicación y desarrollo de estos principios es necesario que la normativa en defensa del me - dio sea de carácter nacional , elabora",
-      "detail": "Para garantizar la efectiva aplicación y desarrollo de estos principios es necesario que la normativa en defensa del me - dio sea de carácter nacional , elaborada sin injerencias de or - ganismos externos. España no puede quedar exclusivamen - te sometida a intereses de terceros países o a los prejuicios ideológicos de los lobbies que actualmente dirigen la política de Bruselas, máxime cuando esta normativa es abiert…",
+      "title": "Para garantizar la efectiva aplicación y desarrollo de estos principios es necesario que la normativa en defensa del medio sea de carácter nacional , elaborada",
+      "detail": "Para garantizar la efectiva aplicación y desarrollo de estos principios es necesario que la normativa en defensa del medio sea de carácter nacional , elaborada sin injerencias de organismos externos. España no puede quedar exclusivamente sometida a intereses de terceros países o a los prejuicios ideológicos de los lobbies que actualmente dirigen la política de Bruselas, máxime cuando esta normativa es abiertamente pe…",
       "page": 108,
       "number": 224,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35289,7 +35298,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Aseguraremos una posición cerrada en defensa del campo español ante la Comisión Europea.",
-      "detail": "Aseguraremos una posición cerrada en defensa del campo español ante la Comisión Europea. Exigiremos una Política Agraria Común que anteponga el interés de los productores nacionales y comunitarios sobre los delirios ideológicos de los lobbies ecologistas y proteja a nuestro campo de la com - petencia desleal extranjera.",
+      "detail": "Aseguraremos una posición cerrada en defensa del campo español ante la Comisión Europea. Exigiremos una Política Agraria Común que anteponga el interés de los productores nacionales y comunitarios sobre los delirios ideológicos de los lobbies ecologistas y proteja a nuestro campo de la competencia desleal extranjera.",
       "page": 109,
       "number": 225,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35303,23 +35312,23 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "La gestión del agua siempre debe abordarse desde una con - cepción nacional, porque es un recurso de todos los españo - les.",
-      "detail": "La gestión del agua siempre debe abordarse desde una con - cepción nacional, porque es un recurso de todos los españo - les. Por eso es urgente realizar un Plan Nacional del Agua bajo los principios de solidaridad y bien común. Dicho plan impulsará la interconexión de todas las cuencas que permita una gestión más eficiente del agua y pueda servir para reacti - var económicamente a nuestro sector primario.",
+      "title": "La gestión del agua siempre debe abordarse desde una concepción nacional, porque es un recurso de todos los españoles.",
+      "detail": "La gestión del agua siempre debe abordarse desde una concepción nacional, porque es un recurso de todos los españoles. Por eso es urgente realizar un Plan Nacional del Agua bajo los principios de solidaridad y bien común. Dicho plan impulsará la interconexión de todas las cuencas que permita una gestión más eficiente del agua y pueda servir para reactivar económicamente a nuestro sector primario.",
       "page": 109,
       "number": 226,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
       "subthemeIds": [
+        "impuestos-fiscalidad",
         "agua",
-        "energia",
-        "medio-ambiente"
+        "energia"
       ],
       "priorityIndex": 4,
       "originalBlockIndex": 11,
       "kind": "document"
     },
     {
-      "title": "Acabaremos con la destrucción de presas y embalses impul- sada por motivos ideológicos en el territorio nacional.",
-      "detail": "Acabaremos con la destrucción de presas y embalses impul- sada por motivos ideológicos en el territorio nacional. Facilita - remos la inversión en las infraestructuras hidráulicas necesa - rias para almacenar y llevar agua en abundancia a todos los rincones de España, y protegeremos las ya existentes.",
+      "title": "Acabaremos con la destrucción de presas y embalses impulsada por motivos ideológicos en el territorio nacional.",
+      "detail": "Acabaremos con la destrucción de presas y embalses impulsada por motivos ideológicos en el territorio nacional. Facilitaremos la inversión en las infraestructuras hidráulicas necesarias para almacenar y llevar agua en abundancia a todos los rincones de España, y protegeremos las ya existentes.",
       "page": 109,
       "number": 227,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35333,8 +35342,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Ante la situación de inmovilismo por parte del resto de parti - dos para aplicar estas políticas, VOX consultará o exigirá con- sultar a los españoles, en aplic",
-      "detail": "Ante la situación de inmovilismo por parte del resto de parti - dos para aplicar estas políticas, VOX consultará o exigirá con- sultar a los españoles, en aplicación del del artículo 92 de la Constitución, si quieren un Plan Nacional del Agua que ga - rantice el derecho de los españoles a disfrutar de sus bienes naturales en todo el territorio nacional o si, por el contrario, quieren mantener un modelo que empobrece…",
+      "title": "Ante la situación de inmovilismo por parte del resto de partidos para aplicar estas políticas, VOX consultará o exigirá consultar a los españoles, en aplicación",
+      "detail": "Ante la situación de inmovilismo por parte del resto de partidos para aplicar estas políticas, VOX consultará o exigirá consultar a los españoles, en aplicación del del artículo 92 de la Constitución, si quieren un Plan Nacional del Agua que garantice el derecho de los españoles a disfrutar de sus bienes naturales en todo el territorio nacional o si, por el contrario, quieren mantener un modelo que empobrece a las fa…",
       "page": 109,
       "number": 228,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35348,8 +35357,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Se procederá a la derogación de la ley para el reconoci - miento de personalidad jurídica del Mar Menor y su cuen - ca, que será sustituida por una ley que real",
-      "detail": "Se procederá a la derogación de la ley para el reconoci - miento de personalidad jurídica del Mar Menor y su cuen - ca, que será sustituida por una ley que realmente proteja el 110 Mar Menor y contemple en su marco la gestión integral del acuífero en colaboración con los regantes y usuarios, eje - cutando las infraestructuras hidráulicas que sean precisas y procediendo a la inmediata renovación del sistema de sa - ne…",
+      "title": "Se procederá a la derogación de la ley para el reconocimiento de personalidad jurídica del Mar Menor y su cuenca, que será sustituida por una ley que realmente",
+      "detail": "Se procederá a la derogación de la ley para el reconocimiento de personalidad jurídica del Mar Menor y su cuenca, que será sustituida por una ley que realmente proteja el 110 Mar Menor y contemple en su marco la gestión integral del acuífero en colaboración con los regantes y usuarios, ejecutando las infraestructuras hidráulicas que sean precisas y procediendo a la inmediata renovación del sistema de saneamiento de l…",
       "page": 109,
       "number": 229,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35378,8 +35387,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Revisaremos el cumplimiento de los tratados internaciona - les con Portugal para comprobar que no se vierte al mar más de lo necesario sin aprovechar antes cada",
-      "detail": "Revisaremos el cumplimiento de los tratados internaciona - les con Portugal para comprobar que no se vierte al mar más de lo necesario sin aprovechar antes cada gota de agua en be- neficio de los españoles, nuestro campo y la producción ener - gética e industrial de toda España. Solo en el Tajo entregamos al país vecino un caudal tres veces más alto que el estipulado por los tratados.",
+      "title": "Revisaremos el cumplimiento de los tratados internacionales con Portugal para comprobar que no se vierte al mar más de lo necesario sin aprovechar antes cada go",
+      "detail": "Revisaremos el cumplimiento de los tratados internacionales con Portugal para comprobar que no se vierte al mar más de lo necesario sin aprovechar antes cada gota de agua en beneficio de los españoles, nuestro campo y la producción energética e industrial de toda España. Solo en el Tajo entregamos al país vecino un caudal tres veces más alto que el estipulado por los tratados.",
       "page": 110,
       "number": 231,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35393,8 +35402,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Todos los veranos somos testigos de los estragos de los incen - dios forestales y del esfuerzo y sacrificio de nuestros cuerpos de bomberos, Protección Civil, F",
-      "detail": "Todos los veranos somos testigos de los estragos de los incen - dios forestales y del esfuerzo y sacrificio de nuestros cuerpos de bomberos, Protección Civil, FCSE y la UME en su extinción. Sin embargo, los incendios se empiezan a combatir en in - vierno, por eso es necesario anticiparse al período estival y realizar todas las tareas necesarias para prevenir su propa - gación y el aumento de los daños .",
+      "title": "Todos los veranos somos testigos de los estragos de los incendios forestales y del esfuerzo y sacrificio de nuestros cuerpos de bomberos, Protección Civil, FCSE",
+      "detail": "Todos los veranos somos testigos de los estragos de los incendios forestales y del esfuerzo y sacrificio de nuestros cuerpos de bomberos, Protección Civil, FCSE y la UME en su extinción. Sin embargo, los incendios se empiezan a combatir en invierno, por eso es necesario anticiparse al período estival y realizar todas las tareas necesarias para prevenir su propagación y el aumento de los daños .",
       "page": 110,
       "number": 232,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35408,8 +35417,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Entre las medidas que impulsaremos con el objetivo de pre- venir incendios y facilitar su extinción se encuentran: facilitar el pastoreo de ganadería extensiva,",
-      "detail": "Entre las medidas que impulsaremos con el objetivo de pre- venir incendios y facilitar su extinción se encuentran: facilitar el pastoreo de ganadería extensiva, realización de cortafue - gos, limpieza de montes, desbroce y recogida de leña y dotar 111 de material y equipos suficientes a los bomberos y demás ser - vicios de emergencia. También incrementaremos las penas a los pirómanos y autores de incendios .",
+      "title": "Entre las medidas que impulsaremos con el objetivo de prevenir incendios y facilitar su extinción se encuentran: facilitar el pastoreo de ganadería extensiva, r",
+      "detail": "Entre las medidas que impulsaremos con el objetivo de prevenir incendios y facilitar su extinción se encuentran: facilitar el pastoreo de ganadería extensiva, realización de cortafuegos, limpieza de montes, desbroce y recogida de leña y dotar 111 de material y equipos suficientes a los bomberos y demás servicios de emergencia. También incrementaremos las penas a los pirómanos y autores de incendios .",
       "page": 110,
       "number": 233,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35424,7 +35433,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Estableceremos los controles necesarios de preservación del medio ambiente y de la forma de vida local.",
-      "detail": "Estableceremos los controles necesarios de preservación del medio ambiente y de la forma de vida local. Por ejemplo, reforzaremos los informes de afección medioambiental y de usos del suelo para que, previa instalación de los macropro - yectos de energías renovables, valoren su impacto en nuestro patrimonio natural y su compatibilidad e impacto en las acti - vidades humanas del entorno.",
+      "detail": "Estableceremos los controles necesarios de preservación del medio ambiente y de la forma de vida local. Por ejemplo, reforzaremos los informes de afección medioambiental y de usos del suelo para que, previa instalación de los macroproyectos de energías renovables, valoren su impacto en nuestro patrimonio natural y su compatibilidad e impacto en las actividades humanas del entorno.",
       "page": 111,
       "number": 234,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35453,8 +35462,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Incorporaremos a los pescadores a los proyectos de desa - rrollo de eólica marina que sean susceptibles de afectar a los recursos pesqueros y a la situación de",
-      "detail": "Incorporaremos a los pescadores a los proyectos de desa - rrollo de eólica marina que sean susceptibles de afectar a los recursos pesqueros y a la situación de los caladeros, te - niéndose en cuenta sus puntos de vista, actividad económica y necesidades.",
+      "title": "Incorporaremos a los pescadores a los proyectos de desarrollo de eólica marina que sean susceptibles de afectar a los recursos pesqueros y a la situación de los",
+      "detail": "Incorporaremos a los pescadores a los proyectos de desarrollo de eólica marina que sean susceptibles de afectar a los recursos pesqueros y a la situación de los caladeros, teniéndose en cuenta sus puntos de vista, actividad económica y necesidades.",
       "page": 111,
       "number": 236,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35468,8 +35477,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Protegeremos aquellas zonas que tengan un especial inte - rés estratégico para el sector primario español como suelos fértiles o zonas pesqueras, así como aquel",
-      "detail": "Protegeremos aquellas zonas que tengan un especial inte - rés estratégico para el sector primario español como suelos fértiles o zonas pesqueras, así como aquellas que por su valor paisajístico puedan tener un especial interés de conservación y promuevan la actividad turística, trasladando los posibles proyectos a suelos infértiles o sin interés o valor paisajístico. • Pondremos en marcha planes que fomenten el apro…",
+      "title": "Protegeremos aquellas zonas que tengan un especial interés estratégico para el sector primario español como suelos fértiles o zonas pesqueras, así como aquellas",
+      "detail": "Protegeremos aquellas zonas que tengan un especial interés estratégico para el sector primario español como suelos fértiles o zonas pesqueras, así como aquellas que por su valor paisajístico puedan tener un especial interés de conservación y promuevan la actividad turística, trasladando los posibles proyectos a suelos infértiles o sin interés o valor paisajístico. • Pondremos en marcha planes que fomenten el aprovech…",
       "page": 111,
       "number": 237,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35483,8 +35492,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Las costas y playas forman parte de la riqueza natural y paisa - jística de España.",
-      "detail": "Las costas y playas forman parte de la riqueza natural y paisa - jística de España. La necesaria protección de este patrimonio ha de hacerse compatible con el desarrollo de legítimas acti - vidades económicas. Paralizaremos la reforma de la Ley de Costas, que pone en riesgo el empleo de decenas de miles de trabajadores y sus familias. Impulsaremos las necesarias reformas para asegurar la continuidad de estas activida…",
+      "title": "Las costas y playas forman parte de la riqueza natural y paisajística de España.",
+      "detail": "Las costas y playas forman parte de la riqueza natural y paisajística de España. La necesaria protección de este patrimonio ha de hacerse compatible con el desarrollo de legítimas actividades económicas. Paralizaremos la reforma de la Ley de Costas, que pone en riesgo el empleo de decenas de miles de trabajadores y sus familias. Impulsaremos las necesarias reformas para asegurar la continuidad de estas actividades y…",
       "page": 112,
       "number": 238,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35498,8 +35507,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Impulsaremos un Plan Nacional de Soberanía Energé - tica para asegurar que los recursos energéticos de que dispone España sean aprovechados para la generación e",
-      "detail": "Impulsaremos un Plan Nacional de Soberanía Energé - tica para asegurar que los recursos energéticos de que dispone España sean aprovechados para la generación energética y reducir la dependencia del exterior al máxi - mo.",
+      "title": "Impulsaremos un Plan Nacional de Soberanía Energética para asegurar que los recursos energéticos de que dispone España sean aprovechados para la generación ener",
+      "detail": "Impulsaremos un Plan Nacional de Soberanía Energética para asegurar que los recursos energéticos de que dispone España sean aprovechados para la generación energética y reducir la dependencia del exterior al máximo.",
       "page": 116,
       "number": 239,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35513,8 +35522,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "España debe asegurar con todos los medios a su alcan - ce su soberanía energética.",
-      "detail": "España debe asegurar con todos los medios a su alcan - ce su soberanía energética. El suministro energético de todos los españoles no puede depender de la especula - ción de terceros países. Además de todas las medidas encaminadas a alcanzar nuestra soberanía energética, elaboraremos un plan de emergencia para hacer frente a cortes de energía o de suministros inesperados y pro - longados.",
+      "title": "España debe asegurar con todos los medios a su alcance su soberanía energética.",
+      "detail": "España debe asegurar con todos los medios a su alcance su soberanía energética. El suministro energético de todos los españoles no puede depender de la especulación de terceros países. Además de todas las medidas encaminadas a alcanzar nuestra soberanía energética, elaboraremos un plan de emergencia para hacer frente a cortes de energía o de suministros inesperados y prolongados.",
       "page": 116,
       "number": 240,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35528,8 +35537,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Supresión de los impuestos que pesan sobre la factu - ra de la luz y que fueron establecidos por los sucesivos gobiernos del bipartidismo que asumieron los cost",
-      "detail": "Supresión de los impuestos que pesan sobre la factu - ra de la luz y que fueron establecidos por los sucesivos gobiernos del bipartidismo que asumieron los costes del desarrollo de las energías renovables, costes que siguen pagando los españoles con la factura más cara de la his - toria.",
+      "title": "Supresión de los impuestos que pesan sobre la factura de la luz y que fueron establecidos por los sucesivos gobiernos del bipartidismo que asumieron los costes",
+      "detail": "Supresión de los impuestos que pesan sobre la factura de la luz y que fueron establecidos por los sucesivos gobiernos del bipartidismo que asumieron los costes del desarrollo de las energías renovables, costes que siguen pagando los españoles con la factura más cara de la historia.",
       "page": 116,
       "number": 241,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35558,8 +35567,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Impulsaremos una Ley de industria para potenciar la reindustrialización de España y que garantice la pro - 117 ducción industrial como forma de generar riqueza",
-      "detail": "Impulsaremos una Ley de industria para potenciar la reindustrialización de España y que garantice la pro - 117 ducción industrial como forma de generar riqueza y em - pleo; todo ello mediante la creación de condiciones favo - rables para la industria que eviten la deslocalización, la competencia desleal o los condicionantes a la producción impuestos desde fuera.",
+      "title": "Impulsaremos una Ley de industria para potenciar la reindustrialización de España y que garantice la producción industrial como forma de generar riqueza y emple",
+      "detail": "Impulsaremos una Ley de industria para potenciar la reindustrialización de España y que garantice la producción industrial como forma de generar riqueza y empleo; todo ello mediante la creación de condiciones favorables para la industria que eviten la deslocalización, la competencia desleal o los condicionantes a la producción impuestos desde fuera.",
       "page": 116,
       "number": 243,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35573,8 +35582,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Vamos a detener el cierre súbito de plantas industriales y energéticas provocado por las imposiciones de la nue - va religión climática.",
-      "detail": "Vamos a detener el cierre súbito de plantas industriales y energéticas provocado por las imposiciones de la nue - va religión climática. España debe adaptar los plazos de la transformación a una economía menos contaminante sin poner en peligro el empleo de los españoles y pensan - do en el interés nacional.",
+      "title": "Vamos a detener el cierre súbito de plantas industriales y energéticas provocado por las imposiciones de la nueva religión climática.",
+      "detail": "Vamos a detener el cierre súbito de plantas industriales y energéticas provocado por las imposiciones de la nueva religión climática. España debe adaptar los plazos de la transformación a una economía menos contaminante sin poner en peligro el empleo de los españoles y pensando en el interés nacional.",
       "page": 117,
       "number": 244,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35588,8 +35597,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Utilizaremos los emplazamientos de las centrales nu - cleares cerradas y los nodos de vertido de las centrales térmicas clausuradas en España para implantar en",
-      "detail": "Utilizaremos los emplazamientos de las centrales nu - cleares cerradas y los nodos de vertido de las centrales térmicas clausuradas en España para implantar en di - chas localizaciones mini reactores nucleares (SMR).",
+      "title": "Utilizaremos los emplazamientos de las centrales nucleares cerradas y los nodos de vertido de las centrales térmicas clausuradas en España para implantar en dic",
+      "detail": "Utilizaremos los emplazamientos de las centrales nucleares cerradas y los nodos de vertido de las centrales térmicas clausuradas en España para implantar en dichas localizaciones mini reactores nucleares (SMR).",
       "page": 117,
       "number": 245,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35618,8 +35627,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Promoveremos todas las fuentes de energía que con - tribuyan a alcanzar la soberanía energética de España con una planificación ordenada y que responda al in -",
-      "detail": "Promoveremos todas las fuentes de energía que con - tribuyan a alcanzar la soberanía energética de España con una planificación ordenada y que responda al in - terés nacional, dejando a un lado intereses especulati - vos que amenazan la sostenibilidad social, económica y medioambiental de nuestra Nación.",
+      "title": "Promoveremos todas las fuentes de energía que contribuyan a alcanzar la soberanía energética de España con una planificación ordenada y que responda al interés",
+      "detail": "Promoveremos todas las fuentes de energía que contribuyan a alcanzar la soberanía energética de España con una planificación ordenada y que responda al interés nacional, dejando a un lado intereses especulativos que amenazan la sostenibilidad social, económica y medioambiental de nuestra Nación.",
       "page": 117,
       "number": 247,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35633,8 +35642,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Estimularemos la disponibilidad de un mix energético que incluya energía fotovoltaica, eólica, hidráulica y nu - clear y las utilice de forma proporcionada para",
-      "detail": "Estimularemos la disponibilidad de un mix energético que incluya energía fotovoltaica, eólica, hidráulica y nu - clear y las utilice de forma proporcionada para garantizar la soberanía energética. 118",
+      "title": "Estimularemos la disponibilidad de un mix energético que incluya energía fotovoltaica, eólica, hidráulica y nuclear y las utilice de forma proporcionada para ga",
+      "detail": "Estimularemos la disponibilidad de un mix energético que incluya energía fotovoltaica, eólica, hidráulica y nuclear y las utilice de forma proporcionada para garantizar la soberanía energética. 118",
       "page": 117,
       "number": 248,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35648,15 +35657,15 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Lanzaremos un estudio nacional para el diseño e instala - ción de nuevos pantanos que almacenen agua para con - sumo humano, uso agrícola y generación energétic",
-      "detail": "Lanzaremos un estudio nacional para el diseño e instala - ción de nuevos pantanos que almacenen agua para con - sumo humano, uso agrícola y generación energética.",
+      "title": "Lanzaremos un estudio nacional para el diseño e instalación de nuevos pantanos que almacenen agua para consumo humano, uso agrícola y generación energética.",
+      "detail": "Lanzaremos un estudio nacional para el diseño e instalación de nuevos pantanos que almacenen agua para consumo humano, uso agrícola y generación energética.",
       "page": 118,
       "number": 249,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
       "subthemeIds": [
+        "coste-vida",
         "agua",
-        "energia",
-        "medio-ambiente"
+        "energia"
       ],
       "priorityIndex": 4,
       "originalBlockIndex": 12,
@@ -35664,7 +35673,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Instalaremos bombeos hidráulicos en todos aquellos pantanos destinados a la generación hidroeléctrica en que sea posible, adoptando las medidas legislativas nec",
-      "detail": "Instalaremos bombeos hidráulicos en todos aquellos pantanos destinados a la generación hidroeléctrica en que sea posible, adoptando las medidas legislativas nece - sarias.",
+      "detail": "Instalaremos bombeos hidráulicos en todos aquellos pantanos destinados a la generación hidroeléctrica en que sea posible, adoptando las medidas legislativas necesarias.",
       "page": 118,
       "number": 250,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35693,8 +35702,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Las empresas españolas están sometidas a una normativa asfixiante que les hace competir en inferioridad de con - diciones frente a las industrias de terceros pa",
-      "detail": "Las empresas españolas están sometidas a una normativa asfixiante que les hace competir en inferioridad de con - diciones frente a las industrias de terceros países. La libre competencia está adulterada y es urgente compensar a nuestras empresas con la imposición de aranceles y ba - rreras a la entrada de todo producto que no cumpla con las normas que asfixian a nuestros productores.",
+      "title": "Las empresas españolas están sometidas a una normativa asfixiante que les hace competir en inferioridad de condiciones frente a las industrias de terceros paíse",
+      "detail": "Las empresas españolas están sometidas a una normativa asfixiante que les hace competir en inferioridad de condiciones frente a las industrias de terceros países. La libre competencia está adulterada y es urgente compensar a nuestras empresas con la imposición de aranceles y barreras a la entrada de todo producto que no cumpla con las normas que asfixian a nuestros productores.",
       "page": 118,
       "number": 252,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35708,8 +35717,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Refuerzo de los controles fronterizos para todos los pro - ductos de terceros países que lleguen a nuestro mercado.",
-      "detail": "Refuerzo de los controles fronterizos para todos los pro - ductos de terceros países que lleguen a nuestro mercado. Se vigilará de manera rigurosa el etiquetado para prevenir el fraude y así proteger tanto a nuestras empresas y trabaja - dores como a nuestros consumidores, habituales víctimas de información errónea y del uso de pesticidas o productos fitosanitarios que llevan años prohibidos en Europa.",
+      "title": "Refuerzo de los controles fronterizos para todos los productos de terceros países que lleguen a nuestro mercado.",
+      "detail": "Refuerzo de los controles fronterizos para todos los productos de terceros países que lleguen a nuestro mercado. Se vigilará de manera rigurosa el etiquetado para prevenir el fraude y así proteger tanto a nuestras empresas y trabajadores como a nuestros consumidores, habituales víctimas de información errónea y del uso de pesticidas o productos fitosanitarios que llevan años prohibidos en Europa.",
       "page": 118,
       "number": 253,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35723,8 +35732,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Suspensión de toda norma climática impuesta por las élites globalistas que afecte gravemente al interés y pros - peridad de los españoles.",
-      "detail": "Suspensión de toda norma climática impuesta por las élites globalistas que afecte gravemente al interés y pros - peridad de los españoles. 119",
+      "title": "Suspensión de toda norma climática impuesta por las élites globalistas que afecte gravemente al interés y prosperidad de los españoles.",
+      "detail": "Suspensión de toda norma climática impuesta por las élites globalistas que afecte gravemente al interés y prosperidad de los españoles. 119",
       "page": 118,
       "number": 254,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35738,8 +35747,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Abandonaremos todos los acuerdos lesivos para la sobera - nía energética de España y en detrimento del interés nacio - nal, como el Acuerdo de París.",
-      "detail": "Abandonaremos todos los acuerdos lesivos para la sobera - nía energética de España y en detrimento del interés nacio - nal, como el Acuerdo de París.",
+      "title": "Abandonaremos todos los acuerdos lesivos para la soberanía energética de España y en detrimento del interés nacional, como el Acuerdo de París.",
+      "detail": "Abandonaremos todos los acuerdos lesivos para la soberanía energética de España y en detrimento del interés nacional, como el Acuerdo de París.",
       "page": 119,
       "number": 255,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35754,7 +35763,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Despolitizaremos los consejos de administración de las eléctricas.",
-      "detail": "Despolitizaremos los consejos de administración de las eléctricas. Las puertas giratorias han provocado una abun - dancia de políticos en los consejos causando pérdida de so - beranía energética, sueldos millonarios para los expolíticos y pobreza energética para los españoles.",
+      "detail": "Despolitizaremos los consejos de administración de las eléctricas. Las puertas giratorias han provocado una abundancia de políticos en los consejos causando pérdida de soberanía energética, sueldos millonarios para los expolíticos y pobreza energética para los españoles.",
       "page": 119,
       "number": 256,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35768,8 +35777,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Combatiremos la especulación financiera sobre los costes de las materias primas que adultera el mercado y dispa - ra los precios artificialmente lastrando el de",
-      "detail": "Combatiremos la especulación financiera sobre los costes de las materias primas que adultera el mercado y dispa - ra los precios artificialmente lastrando el desarrollo social y económico de nuestra Nación.",
+      "title": "Combatiremos la especulación financiera sobre los costes de las materias primas que adultera el mercado y dispara los precios artificialmente lastrando el desar",
+      "detail": "Combatiremos la especulación financiera sobre los costes de las materias primas que adultera el mercado y dispara los precios artificialmente lastrando el desarrollo social y económico de nuestra Nación.",
       "page": 119,
       "number": 257,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35783,8 +35792,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Transparencia total sobre los precios de la energía , des - glosándolos por tipo de producción, mediante una reforma completa del operador del mercado.",
-      "detail": "Transparencia total sobre los precios de la energía , des - glosándolos por tipo de producción, mediante una reforma completa del operador del mercado.",
+      "title": "Transparencia total sobre los precios de la energía , desglosándolos por tipo de producción, mediante una reforma completa del operador del mercado.",
+      "detail": "Transparencia total sobre los precios de la energía , desglosándolos por tipo de producción, mediante una reforma completa del operador del mercado.",
       "page": 119,
       "number": 258,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35798,8 +35807,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Exigiremos una modificación del mecanismo marginalis - ta de fijación del precio de mercado de la electricidad, en el que la tecnología más cara fija el precio",
-      "detail": "Exigiremos una modificación del mecanismo marginalis - ta de fijación del precio de mercado de la electricidad, en el que la tecnología más cara fija el precio final.",
+      "title": "Exigiremos una modificación del mecanismo marginalista de fijación del precio de mercado de la electricidad, en el que la tecnología más cara fija el precio fin",
+      "detail": "Exigiremos una modificación del mecanismo marginalista de fijación del precio de mercado de la electricidad, en el que la tecnología más cara fija el precio final.",
       "page": 119,
       "number": 259,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35814,7 +35823,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Exigiremos, en el seno de la Unión Europea, la supresión del mercado de emisiones de CO2 y del mecanismo de asignación de los derechos a través de subasta por s",
-      "detail": "Exigiremos, en el seno de la Unión Europea, la supresión del mercado de emisiones de CO2 y del mecanismo de asignación de los derechos a través de subasta por su ca - rácter especulativo , ya que lastra la economía y provoca la pérdida de industria y capacidad productiva esencial de los Estados Miembros.",
+      "detail": "Exigiremos, en el seno de la Unión Europea, la supresión del mercado de emisiones de CO2 y del mecanismo de asignación de los derechos a través de subasta por su carácter especulativo , ya que lastra la economía y provoca la pérdida de industria y capacidad productiva esencial de los Estados Miembros.",
       "page": 119,
       "number": 260,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35843,8 +35852,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Se aplicarán bonificaciones a la construcción y reorganiza - rán y armonizarán los incentivos a la seguridad y eficiencia energética en edificios públicos y pri",
-      "detail": "Se aplicarán bonificaciones a la construcción y reorganiza - rán y armonizarán los incentivos a la seguridad y eficiencia energética en edificios públicos y privados. No se impon - drá ninguna obligación de eficiencia energética en los edificios de titularidad privada que no se cumplan en pri - mer lugar por todos los inmuebles públicos.",
+      "title": "Se aplicarán bonificaciones a la construcción y reorganizarán y armonizarán los incentivos a la seguridad y eficiencia energética en edificios públicos y privad",
+      "detail": "Se aplicarán bonificaciones a la construcción y reorganizarán y armonizarán los incentivos a la seguridad y eficiencia energética en edificios públicos y privados. No se impondrá ninguna obligación de eficiencia energética en los edificios de titularidad privada que no se cumplan en primer lugar por todos los inmuebles públicos.",
       "page": 120,
       "number": 262,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35874,7 +35883,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Los españoles deben decidir.",
-      "detail": "Los españoles deben decidir. Las decisiones políticas de los gobiernos nacionales durante las últimas décadas han socavado nuestra soberanía energética. Su sumisión a las agendas globalistas y sus compromisos alcanzados de es - paldas a los españoles han dejado nuestro futuro en manos de quienes pretenden imponer ideologías y de quienes son ajenos a los intereses de España. Por eso preguntaremos a los españoles sobre…",
+      "detail": "Los españoles deben decidir. Las decisiones políticas de los gobiernos nacionales durante las últimas décadas han socavado nuestra soberanía energética. Su sumisión a las agendas globalistas y sus compromisos alcanzados de espaldas a los españoles han dejado nuestro futuro en manos de quienes pretenden imponer ideologías y de quienes son ajenos a los intereses de España. Por eso preguntaremos a los españoles sobre el…",
       "page": 120,
       "number": 264,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35889,7 +35898,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Mientras no se devuelva la competencia de Justicia al Estado, desarrollaremos un sistema de gestión procesal único en toda España, de tal manera que se garantic",
-      "detail": "Mientras no se devuelva la competencia de Justicia al Estado, desarrollaremos un sistema de gestión procesal único en toda España, de tal manera que se garantice la interoperabilidad entre juzgados, facilitando la labor profesional de Abogados, Procuradores y restantes ope - radores de nuestro sistema judicial.",
+      "detail": "Mientras no se devuelva la competencia de Justicia al Estado, desarrollaremos un sistema de gestión procesal único en toda España, de tal manera que se garantice la interoperabilidad entre juzgados, facilitando la labor profesional de Abogados, Procuradores y restantes operadores de nuestro sistema judicial.",
       "page": 126,
       "number": 265,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35903,8 +35912,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Garantizaremos la primacía del Derecho nacional y la re - cuperación de la soberanía de nuestros jueces y tribunales en el conocimiento y enjuiciamiento de cond",
-      "detail": "Garantizaremos la primacía del Derecho nacional y la re - cuperación de la soberanía de nuestros jueces y tribunales en el conocimiento y enjuiciamiento de conductas delic - tivas. España no puede volver a permitir que golpistas, te - rroristas o delincuentes perseguidos en nuestro territorio se paseen por países europeos que se niegan a detenerlos y entregarlos.",
+      "title": "Garantizaremos la primacía del Derecho nacional y la recuperación de la soberanía de nuestros jueces y tribunales en el conocimiento y enjuiciamiento de conduct",
+      "detail": "Garantizaremos la primacía del Derecho nacional y la recuperación de la soberanía de nuestros jueces y tribunales en el conocimiento y enjuiciamiento de conductas delictivas. España no puede volver a permitir que golpistas, terroristas o delincuentes perseguidos en nuestro territorio se paseen por países europeos que se niegan a detenerlos y entregarlos.",
       "page": 126,
       "number": 266,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35919,7 +35928,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Trabajaremos por la existencia de un único Alto Tribunal , de forma que el Tribunal Constitucional pase a integrarse y desarrollar sus funciones en una nueva Sa",
-      "detail": "Trabajaremos por la existencia de un único Alto Tribunal , de forma que el Tribunal Constitucional pase a integrarse y desarrollar sus funciones en una nueva Sala Sexta del Tribunal Supremo. En tanto esto se produzca, modificare - mos la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional para establecer un plazo máximo de tres meses para que el TC resuelva los recursos y cuestiones de inconstitucionali…",
+      "detail": "Trabajaremos por la existencia de un único Alto Tribunal , de forma que el Tribunal Constitucional pase a integrarse y desarrollar sus funciones en una nueva Sala Sexta del Tribunal Supremo. En tanto esto se produzca, modificaremos la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional para establecer un plazo máximo de tres meses para que el TC resuelva los recursos y cuestiones de inconstitucionalidad…",
       "page": 126,
       "number": 267,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35933,8 +35942,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Reformaremos el Código Penal para recuperar el delito de sedición y para agravar el tipo delictivo de la malver - sación de caudales públicos , que ha sido abar",
-      "detail": "Reformaremos el Código Penal para recuperar el delito de sedición y para agravar el tipo delictivo de la malver - sación de caudales públicos , que ha sido abaratado en la última reforma del Gobierno de Sánchez para favorecer a sus socios separatistas. 127",
+      "title": "Reformaremos el Código Penal para recuperar el delito de sedición y para agravar el tipo delictivo de la malversación de caudales públicos , que ha sido abarata",
+      "detail": "Reformaremos el Código Penal para recuperar el delito de sedición y para agravar el tipo delictivo de la malversación de caudales públicos , que ha sido abaratado en la última reforma del Gobierno de Sánchez para favorecer a sus socios separatistas. 127",
       "page": 126,
       "number": 268,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35949,7 +35958,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Prohibiremos los indultos para delitos relacionados con la corrupción política, la forma política del Estado o la integridad territorial para así evitar que pre",
-      "detail": "Prohibiremos los indultos para delitos relacionados con la corrupción política, la forma política del Estado o la integridad territorial para así evitar que presiden - tes como Sánchez puedan beneficiar a separatistas por interés propio, conformando alianzas que amenazan la unidad y la soberanía de España.",
+      "detail": "Prohibiremos los indultos para delitos relacionados con la corrupción política, la forma política del Estado o la integridad territorial para así evitar que presidentes como Sánchez puedan beneficiar a separatistas por interés propio, conformando alianzas que amenazan la unidad y la soberanía de España.",
       "page": 127,
       "number": 269,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35963,8 +35972,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Pondremos sentido común a la nefasta técnica legisla - tiva de los últimos gobiernos, que han abusado del Real Decreto Ley, y de la voracidad normativa, derogan",
-      "detail": "Pondremos sentido común a la nefasta técnica legisla - tiva de los últimos gobiernos, que han abusado del Real Decreto Ley, y de la voracidad normativa, derogando nor - mas para simplificar las leyes y reglamentos.",
+      "title": "Pondremos sentido común a la nefasta técnica legislativa de los últimos gobiernos, que han abusado del Real Decreto Ley, y de la voracidad normativa, derogando",
+      "detail": "Pondremos sentido común a la nefasta técnica legislativa de los últimos gobiernos, que han abusado del Real Decreto Ley, y de la voracidad normativa, derogando normas para simplificar las leyes y reglamentos.",
       "page": 127,
       "number": 270,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -35979,7 +35988,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Los jueces deben elegir a los jueces.",
-      "detail": "Los jueces deben elegir a los jueces. Aprobaremos una Ley Orgánica para modificar el sistema de elección de los vocales del Consejo General del Poder Judicial ajus- tándose al artículo 122.3 de la Constitución, de manera que todos los miembros del CGPJ sean designados o pro - puestos por los propios jueces y magistrados, sin injeren - cia de partidos o asociaciones politizadas.",
+      "detail": "Los jueces deben elegir a los jueces. Aprobaremos una Ley Orgánica para modificar el sistema de elección de los vocales del Consejo General del Poder Judicial ajustándose al artículo 122.3 de la Constitución, de manera que todos los miembros del CGPJ sean designados o propuestos por los propios jueces y magistrados, sin injerencia de partidos o asociaciones politizadas.",
       "page": 127,
       "number": 271,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36008,8 +36017,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Rechazaremos cualquier intento de atribuir la instruc - ción del proceso penal al Ministerio Fiscal .",
-      "detail": "Rechazaremos cualquier intento de atribuir la instruc - ción del proceso penal al Ministerio Fiscal . La persecu - ción de los delitos no puede depender del gobierno de turno.",
+      "title": "Rechazaremos cualquier intento de atribuir la instrucción del proceso penal al Ministerio Fiscal .",
+      "detail": "Rechazaremos cualquier intento de atribuir la instrucción del proceso penal al Ministerio Fiscal . La persecución de los delitos no puede depender del gobierno de turno.",
       "page": 127,
       "number": 273,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36024,7 +36033,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Modificaremos la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad para dotar a la Policía Judicial de una dependencia total, orgánica y fu",
-      "detail": "Modificaremos la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad para dotar a la Policía Judicial de una dependencia total, orgánica y funcio - nal, de los jueces y tribunales , en aras de cumplir así con el principio de separación de poderes del Estado. 128",
+      "detail": "Modificaremos la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad para dotar a la Policía Judicial de una dependencia total, orgánica y funcional, de los jueces y tribunales , en aras de cumplir así con el principio de separación de poderes del Estado. 128",
       "page": 127,
       "number": 274,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36053,8 +36062,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Promoveremos las reformas legislativas necesarias para que Juzgados y Tribunales, en el ejercicio de sus funciones guber- nativas, participen en la decisión de",
-      "detail": "Promoveremos las reformas legislativas necesarias para que Juzgados y Tribunales, en el ejercicio de sus funciones guber- nativas, participen en la decisión de asignación y dotación de medios personales y materiales al servicio de la Administra - ción de Justicia, para garantizar una verdadera independencia del Poder Judicial y que se mejoren y dignifiquen las retribu- ciones de jueces, magistrados, fiscales, letrado…",
+      "title": "Promoveremos las reformas legislativas necesarias para que Juzgados y Tribunales, en el ejercicio de sus funciones gubernativas, participen en la decisión de as",
+      "detail": "Promoveremos las reformas legislativas necesarias para que Juzgados y Tribunales, en el ejercicio de sus funciones gubernativas, participen en la decisión de asignación y dotación de medios personales y materiales al servicio de la Administración de Justicia, para garantizar una verdadera independencia del Poder Judicial y que se mejoren y dignifiquen las retribuciones de jueces, magistrados, fiscales, letrados y dem…",
       "page": 128,
       "number": 276,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36068,8 +36077,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Firmaremos acuerdos bilaterales con terceros países para que los presos extranjeros cumplan las penas que les han sido im- puestas en sus estados de origen.",
-      "detail": "Firmaremos acuerdos bilaterales con terceros países para que los presos extranjeros cumplan las penas que les han sido im- puestas en sus estados de origen.",
+      "title": "Firmaremos acuerdos bilaterales con terceros países para que los presos extranjeros cumplan las penas que les han sido impuestas en sus estados de origen.",
+      "detail": "Firmaremos acuerdos bilaterales con terceros países para que los presos extranjeros cumplan las penas que les han sido impuestas en sus estados de origen.",
       "page": 128,
       "number": 277,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36083,8 +36092,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Derogaremos la Ley de violencia de género y de toda norma que derive de la teoría de género, que atente contra la presun- ción de inocencia o establezca tribuna",
-      "detail": "Derogaremos la Ley de violencia de género y de toda norma que derive de la teoría de género, que atente contra la presun- ción de inocencia o establezca tribunales de excepción según el sexo del agresor o la víctima. Eliminaremos los Juzgados de Violencia sobre la mujer.",
+      "title": "Derogaremos la Ley de violencia de género y de toda norma que derive de la teoría de género, que atente contra la presunción de inocencia o establezca tribunale",
+      "detail": "Derogaremos la Ley de violencia de género y de toda norma que derive de la teoría de género, que atente contra la presunción de inocencia o establezca tribunales de excepción según el sexo del agresor o la víctima. Eliminaremos los Juzgados de Violencia sobre la mujer.",
       "page": 128,
       "number": 278,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36098,8 +36107,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Suprimiremos las Fiscalías especiales con finalidad neta - mente ideológica, como la de Memoria Democrática y la de Delitos de Odio y Discriminación , integrare",
-      "detail": "Suprimiremos las Fiscalías especiales con finalidad neta - mente ideológica, como la de Memoria Democrática y la de Delitos de Odio y Discriminación , integraremos las actuales Fiscalías Especiales contra la Violencia sobre la Mujer en unas dedicadas ampliamente a asuntos de familia, y dotaremos de mayores medios y recursos a la Fiscalía Anticorrupción.",
+      "title": "Suprimiremos las Fiscalías especiales con finalidad netamente ideológica, como la de Memoria Democrática y la de Delitos de Odio y Discriminación , integraremos",
+      "detail": "Suprimiremos las Fiscalías especiales con finalidad netamente ideológica, como la de Memoria Democrática y la de Delitos de Odio y Discriminación , integraremos las actuales Fiscalías Especiales contra la Violencia sobre la Mujer en unas dedicadas ampliamente a asuntos de familia, y dotaremos de mayores medios y recursos a la Fiscalía Anticorrupción.",
       "page": 128,
       "number": 279,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36113,8 +36122,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Impulsaremos la aprobación una Ley de memoria, digni - dad y justicia para las víctimas del terrorismo .",
-      "detail": "Impulsaremos la aprobación una Ley de memoria, digni - dad y justicia para las víctimas del terrorismo . Esta norma, impedirá de forma efectiva el enaltecimiento del terrorismo, 129 homenajes a terroristas, actos de humillación de las víctimas o los ataques a las instituciones y símbolos de España.",
+      "title": "Impulsaremos la aprobación una Ley de memoria, dignidad y justicia para las víctimas del terrorismo .",
+      "detail": "Impulsaremos la aprobación una Ley de memoria, dignidad y justicia para las víctimas del terrorismo . Esta norma, impedirá de forma efectiva el enaltecimiento del terrorismo, 129 homenajes a terroristas, actos de humillación de las víctimas o los ataques a las instituciones y símbolos de España.",
       "page": 128,
       "number": 280,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36129,7 +36138,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Promoveremos la investigación de todos los crímenes de ETA aún no resueltos e impulsaremos la consideración de los delitos cometidos por ETA como de lesa humani",
-      "detail": "Promoveremos la investigación de todos los crímenes de ETA aún no resueltos e impulsaremos la consideración de los delitos cometidos por ETA como de lesa humanidad , para que nunca prescriban. Ilegalizaremos los partidos políticos, asociaciones u organizaciones de cualquier tipo que persi - gan la destrucción de la unidad territorial de la Nación y de su soberanía.",
+      "detail": "Promoveremos la investigación de todos los crímenes de ETA aún no resueltos e impulsaremos la consideración de los delitos cometidos por ETA como de lesa humanidad , para que nunca prescriban. Ilegalizaremos los partidos políticos, asociaciones u organizaciones de cualquier tipo que persigan la destrucción de la unidad territorial de la Nación y de su soberanía.",
       "page": 129,
       "number": 281,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36143,8 +36152,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Impulsaremos un nuevo plan penitenciario y un aumen - to del personal de equipamiento de los funcionarios de prisiones.",
-      "detail": "Impulsaremos un nuevo plan penitenciario y un aumen - to del personal de equipamiento de los funcionarios de prisiones. Eliminaremos los privilegios penitenciarios a los presos condenados por terrorismo. Además, prohibiremos la utilización de los centros penitenciarios para el intercambio de presos peligrosos a cambio del acercamiento de presos de ETA a las cárceles vascas. 130 ALGUNAS DE LAS ACCIONES MÁS DESTACADAS…",
+      "title": "Impulsaremos un nuevo plan penitenciario y un aumento del personal de equipamiento de los funcionarios de prisiones.",
+      "detail": "Impulsaremos un nuevo plan penitenciario y un aumento del personal de equipamiento de los funcionarios de prisiones. Eliminaremos los privilegios penitenciarios a los presos condenados por terrorismo. Además, prohibiremos la utilización de los centros penitenciarios para el intercambio de presos peligrosos a cambio del acercamiento de presos de ETA a las cárceles vascas. 130 ALGUNAS DE LAS ACCIONES MÁS DESTACADAS DE…",
       "page": 129,
       "number": 282,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36159,7 +36168,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "La Unión Europea debe respetar la soberanía nacional de los Estados miembros singularizada en sus Parlamentos.",
-      "detail": "La Unión Europea debe respetar la soberanía nacional de los Estados miembros singularizada en sus Parlamentos. Impul- saremos un nuevo tratado europeo que devuelva a los Es - tados miembros el protagonismo frente a la burocracia de una Comisión Europea que nadie elige y a la que nadie pue - de fiscalizar. La Unión Europea debe estar al servicio de los Es - tados miembros y de los ciudadanos, no de sus élites. Recha -…",
+      "detail": "La Unión Europea debe respetar la soberanía nacional de los Estados miembros singularizada en sus Parlamentos. Impulsaremos un nuevo tratado europeo que devuelva a los Estados miembros el protagonismo frente a la burocracia de una Comisión Europea que nadie elige y a la que nadie puede fiscalizar. La Unión Europea debe estar al servicio de los Estados miembros y de los ciudadanos, no de sus élites. Rechazaremos cualq…",
       "page": 134,
       "number": 283,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36173,8 +36182,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Defenderemos la primacía de la Constitución sobre el De - recho europeo y, en general, del Derecho nacional en cues - tiones que afecten el Bien Común de España",
-      "detail": "Defenderemos la primacía de la Constitución sobre el De - recho europeo y, en general, del Derecho nacional en cues - tiones que afecten el Bien Común de España y los intereses generales del Estado.",
+      "title": "Defenderemos la primacía de la Constitución sobre el Derecho europeo y, en general, del Derecho nacional en cuestiones que afecten el Bien Común de España y los",
+      "detail": "Defenderemos la primacía de la Constitución sobre el Derecho europeo y, en general, del Derecho nacional en cuestiones que afecten el Bien Común de España y los intereses generales del Estado.",
       "page": 134,
       "number": 284,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36189,7 +36198,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Impulsaremos la recuperación de la soberanía nacional en la aplicación de las sentencias de nuestros tribunales .",
-      "detail": "Impulsaremos la recuperación de la soberanía nacional en la aplicación de las sentencias de nuestros tribunales . Aseguraremos el respeto a las decisiones de los jueces es - pañoles e impulsaremos la reforma de la euroorden para eliminar la posibilidad de que individuos con causas pe - nales pendientes en España se beneficien del amparo de organismos europeos, como ha sucedido hasta ahora.",
+      "detail": "Impulsaremos la recuperación de la soberanía nacional en la aplicación de las sentencias de nuestros tribunales . Aseguraremos el respeto a las decisiones de los jueces españoles e impulsaremos la reforma de la euroorden para eliminar la posibilidad de que individuos con causas penales pendientes en España se beneficien del amparo de organismos europeos, como ha sucedido hasta ahora.",
       "page": 134,
       "number": 285,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36203,8 +36212,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Plantearemos ante la Comisión Europea de modo inme - diato la reforma y adecuación del Plan de Recuperación de Sánchez y sus socios a fin de impedir, por ejempl",
-      "detail": "Plantearemos ante la Comisión Europea de modo inme - diato la reforma y adecuación del Plan de Recuperación de Sánchez y sus socios a fin de impedir, por ejemplo, la imposición de peajes, y asegurar en todo caso que los fondos europeos se invierten en la economía real, creando empleo y llevando prosperidad a todo el territorio nacional, con infraestructuras de todo tipo, incluidas las hidráulicas. 135",
+      "title": "Plantearemos ante la Comisión Europea de modo inmediato la reforma y adecuación del Plan de Recuperación de Sánchez y sus socios a fin de impedir, por ejemplo,",
+      "detail": "Plantearemos ante la Comisión Europea de modo inmediato la reforma y adecuación del Plan de Recuperación de Sánchez y sus socios a fin de impedir, por ejemplo, la imposición de peajes, y asegurar en todo caso que los fondos europeos se invierten en la economía real, creando empleo y llevando prosperidad a todo el territorio nacional, con infraestructuras de todo tipo, incluidas las hidráulicas. 135",
       "page": 134,
       "number": 286,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36233,8 +36242,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Lideraremos la formación de un eje de la Europa del sur para la defensa de intereses comunes , tales como protec - ción de fronteras, el sector primario o la cu",
-      "detail": "Lideraremos la formación de un eje de la Europa del sur para la defensa de intereses comunes , tales como protec - ción de fronteras, el sector primario o la cultura.",
+      "title": "Lideraremos la formación de un eje de la Europa del sur para la defensa de intereses comunes , tales como protección de fronteras, el sector primario o la cultu",
+      "detail": "Lideraremos la formación de un eje de la Europa del sur para la defensa de intereses comunes , tales como protección de fronteras, el sector primario o la cultura.",
       "page": 135,
       "number": 288,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36263,8 +36272,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "La Unión Europea no puede convertirse en una máquina implacable de imponer normas que, lejos de ayudar y po - tenciar nuestro campo e industria, le obligue a co",
-      "detail": "La Unión Europea no puede convertirse en una máquina implacable de imponer normas que, lejos de ayudar y po - tenciar nuestro campo e industria, le obligue a competir en desigualdad de condiciones con productos del exterior. Exigiremos la recuperación y aplicación del principio de preferencia comunitaria como principio jurídico de alcan - ce general y absoluto en todos aquellos acuerdos comer - ciales que nos afecten…",
+      "title": "La Unión Europea no puede convertirse en una máquina implacable de imponer normas que, lejos de ayudar y potenciar nuestro campo e industria, le obligue a compe",
+      "detail": "La Unión Europea no puede convertirse en una máquina implacable de imponer normas que, lejos de ayudar y potenciar nuestro campo e industria, le obligue a competir en desigualdad de condiciones con productos del exterior. Exigiremos la recuperación y aplicación del principio de preferencia comunitaria como principio jurídico de alcance general y absoluto en todos aquellos acuerdos comerciales que nos afecten, así com…",
       "page": 135,
       "number": 290,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36278,8 +36287,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Impulsaremos una PAC que reconozca el carácter priorita - rio y estratégico de nuestro sector primario .",
-      "detail": "Impulsaremos una PAC que reconozca el carácter priorita - rio y estratégico de nuestro sector primario . Revisaremos el Plan Estratégico Nacional de la PAC para priorizar la renta - bilidad de las explotaciones agrarias. La “arquitectura verde” de la PAC supone más costes, más burocracia y limitaciones a la hora de producir. Es necesario modificar el sistema de concesión de ayudas para que lleguen antes y en mayor 13…",
+      "title": "Impulsaremos una PAC que reconozca el carácter prioritario y estratégico de nuestro sector primario .",
+      "detail": "Impulsaremos una PAC que reconozca el carácter prioritario y estratégico de nuestro sector primario . Revisaremos el Plan Estratégico Nacional de la PAC para priorizar la rentabilidad de las explotaciones agrarias. La “arquitectura verde” de la PAC supone más costes, más burocracia y limitaciones a la hora de producir. Es necesario modificar el sistema de concesión de ayudas para que lleguen antes y en mayor 136 cant…",
       "page": 135,
       "number": 291,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36293,8 +36302,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Abogaremos por la recuperación de la competencia exclu - siva del Estado en lo que se refiere a relaciones interna - cionales , tanto en los ámbitos internos de",
-      "detail": "Abogaremos por la recuperación de la competencia exclu - siva del Estado en lo que se refiere a relaciones interna - cionales , tanto en los ámbitos internos de la Unión, como en las relaciones bilaterales entre los Estados miembros, o la presencia de los Estados de la Unión en organismos interna - cionales, suprimiendo toda representación política exterior de regiones o municipios.",
+      "title": "Abogaremos por la recuperación de la competencia exclusiva del Estado en lo que se refiere a relaciones internacionales , tanto en los ámbitos internos de la Un",
+      "detail": "Abogaremos por la recuperación de la competencia exclusiva del Estado en lo que se refiere a relaciones internacionales , tanto en los ámbitos internos de la Unión, como en las relaciones bilaterales entre los Estados miembros, o la presencia de los Estados de la Unión en organismos internacionales, suprimiendo toda representación política exterior de regiones o municipios.",
       "page": 136,
       "number": 292,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36309,7 +36318,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Rechazaremos cualquier acuerdo Unión Europea-Reino Unido o España-Reino Unido que no pase por respetar los derechos soberanos de España sobre la colonia británi",
-      "detail": "Rechazaremos cualquier acuerdo Unión Europea-Reino Unido o España-Reino Unido que no pase por respetar los derechos soberanos de España sobre la colonia británica de Gibraltar . Exigiremos a la Unión Europea un firme com - promiso con la legítima aspiración española de recuperar Gi - braltar. Es inaceptable que exista un paraíso fiscal en suelo soberano español.",
+      "detail": "Rechazaremos cualquier acuerdo Unión Europea-Reino Unido o España-Reino Unido que no pase por respetar los derechos soberanos de España sobre la colonia británica de Gibraltar . Exigiremos a la Unión Europea un firme compromiso con la legítima aspiración española de recuperar Gibraltar. Es inaceptable que exista un paraíso fiscal en suelo soberano español.",
       "page": 136,
       "number": 293,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36323,8 +36332,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Defenderemos en el Consejo de la Unión una reforma com - pleta de la política inmigratoria y de asilo de la Unión Euro - pea.",
-      "detail": "Defenderemos en el Consejo de la Unión una reforma com - pleta de la política inmigratoria y de asilo de la Unión Euro - pea. Frente al fracasado modelo multicultural impuesto por las élites de Bruselas, las naciones europeas han de apostar por políticas de integración cultural. El multiculturalismo debilita la cohesión social y, consecuentemente, la voluntad general de defensa de la nación. Todo inmigrante tiene la…",
+      "title": "Defenderemos en el Consejo de la Unión una reforma completa de la política inmigratoria y de asilo de la Unión Europea.",
+      "detail": "Defenderemos en el Consejo de la Unión una reforma completa de la política inmigratoria y de asilo de la Unión Europea. Frente al fracasado modelo multicultural impuesto por las élites de Bruselas, las naciones europeas han de apostar por políticas de integración cultural. El multiculturalismo debilita la cohesión social y, consecuentemente, la voluntad general de defensa de la nación. Todo inmigrante tiene la obliga…",
       "page": 136,
       "number": 294,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36339,7 +36348,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Reforzaremos la cooperación policial en materia de lucha contra el terrorismo , así como una política coordinada de 137 tolerancia cero con mezquitas y centros",
-      "detail": "Reforzaremos la cooperación policial en materia de lucha contra el terrorismo , así como una política coordinada de 137 tolerancia cero con mezquitas y centros de culto que propa - guen la yihad, el menosprecio a la mujer y nuestras costum - bres o el radicalismo.",
+      "detail": "Reforzaremos la cooperación policial en materia de lucha contra el terrorismo , así como una política coordinada de 137 tolerancia cero con mezquitas y centros de culto que propaguen la yihad, el menosprecio a la mujer y nuestras costumbres o el radicalismo.",
       "page": 136,
       "number": 295,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36354,7 +36363,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Defenderemos una política europea común que sirva de freno a los oligopolios tecnológicos y que contemple la soberanía nacional y personal de los datos.",
-      "detail": "Defenderemos una política europea común que sirva de freno a los oligopolios tecnológicos y que contemple la soberanía nacional y personal de los datos. Protegeremos la soberanía de los datos digitales de los españoles estable - ciendo mecanismos de control para evitar que las multina - cionales puedan utilizarlos contra el interés general nacio - nal.",
+      "detail": "Defenderemos una política europea común que sirva de freno a los oligopolios tecnológicos y que contemple la soberanía nacional y personal de los datos. Protegeremos la soberanía de los datos digitales de los españoles estableciendo mecanismos de control para evitar que las multinacionales puedan utilizarlos contra el interés general nacional.",
       "page": 137,
       "number": 296,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36383,8 +36392,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Exigiremos que la adopción de acuerdos en el Consejo eu - ropeo y el Consejo de la UE garantice el pleno consenti - miento de todos los Estados miembros , recup",
-      "detail": "Exigiremos que la adopción de acuerdos en el Consejo eu - ropeo y el Consejo de la UE garantice el pleno consenti - miento de todos los Estados miembros , recuperando la re - gla de la unanimidad allí donde sea precisa para asegurar el respeto a la soberanía nacional.",
+      "title": "Exigiremos que la adopción de acuerdos en el Consejo europeo y el Consejo de la UE garantice el pleno consentimiento de todos los Estados miembros , recuperando",
+      "detail": "Exigiremos que la adopción de acuerdos en el Consejo europeo y el Consejo de la UE garantice el pleno consentimiento de todos los Estados miembros , recuperando la regla de la unanimidad allí donde sea precisa para asegurar el respeto a la soberanía nacional.",
       "page": 137,
       "number": 298,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36413,8 +36422,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Impulsaremos desde el Consejo de la Unión Europea la suspensión inmediata y revisión de todo el Pacto Verde Eu - ropeo, eliminando cuanto perjudica a nuestros p",
-      "detail": "Impulsaremos desde el Consejo de la Unión Europea la suspensión inmediata y revisión de todo el Pacto Verde Eu - ropeo, eliminando cuanto perjudica a nuestros productores y economía. 138 ALGUNAS DE LAS ACCIONES MÁS DESTACADAS DE VOX RELACIONADAS CON LA UNIÓN EUROPEA Proposición no de Ley relativa a instar la adopción de medi - das destinadas a aumentar la ciberseguridad de las redes e instituciones públicas de los Es…",
+      "title": "Impulsaremos desde el Consejo de la Unión Europea la suspensión inmediata y revisión de todo el Pacto Verde Europeo, eliminando cuanto perjudica a nuestros prod",
+      "detail": "Impulsaremos desde el Consejo de la Unión Europea la suspensión inmediata y revisión de todo el Pacto Verde Europeo, eliminando cuanto perjudica a nuestros productores y economía. 138 ALGUNAS DE LAS ACCIONES MÁS DESTACADAS DE VOX RELACIONADAS CON LA UNIÓN EUROPEA Proposición no de Ley relativa a instar la adopción de medidas destinadas a aumentar la ciberseguridad de las redes e instituciones públicas de los Estados…",
       "page": 137,
       "number": 300,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36428,8 +36437,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Difundiremos la Carta de Madrid como respuesta a la ame - naza totalitaria y globalista encabezada por el Foro Sao Pau - lo y el Grupo de Puebla bajo el paragua",
-      "detail": "Difundiremos la Carta de Madrid como respuesta a la ame - naza totalitaria y globalista encabezada por el Foro Sao Pau - lo y el Grupo de Puebla bajo el paraguas del régimen cas - trista.",
+      "title": "Difundiremos la Carta de Madrid como respuesta a la amenaza totalitaria y globalista encabezada por el Foro Sao Paulo y el Grupo de Puebla bajo el paraguas del",
+      "detail": "Difundiremos la Carta de Madrid como respuesta a la amenaza totalitaria y globalista encabezada por el Foro Sao Paulo y el Grupo de Puebla bajo el paraguas del régimen castrista.",
       "page": 142,
       "number": 301,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36443,8 +36452,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Profundizaremos en las alianzas que afrontan los retos co - munes en defensa del Estado de Derecho, el imperio de la ley, la libertad de expresión, la propiedad",
-      "detail": "Profundizaremos en las alianzas que afrontan los retos co - munes en defensa del Estado de Derecho, el imperio de la ley, la libertad de expresión, la propiedad privada y la separación de poderes frente a la ofensiva totalitaria del co - munismo y el socialismo en los países de la Iberosfera. Pon - dremos en marcha todas las medidas diplomáticas a nuestro alcance para evitar que las naciones de la Iberosfera retroce…",
+      "title": "Profundizaremos en las alianzas que afrontan los retos comunes en defensa del Estado de Derecho, el imperio de la ley, la libertad de expresión, la propiedad pr",
+      "detail": "Profundizaremos en las alianzas que afrontan los retos comunes en defensa del Estado de Derecho, el imperio de la ley, la libertad de expresión, la propiedad privada y la separación de poderes frente a la ofensiva totalitaria del comunismo y el socialismo en los países de la Iberosfera. Pondremos en marcha todas las medidas diplomáticas a nuestro alcance para evitar que las naciones de la Iberosfera retrocedan en el…",
       "page": 142,
       "number": 302,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36458,8 +36467,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "El respeto a la democracia, al Estado Derecho y a los dere - chos humanos ha de determinar el alcance de las relaciones diplomáticas de España con los países de",
-      "detail": "El respeto a la democracia, al Estado Derecho y a los dere - chos humanos ha de determinar el alcance de las relaciones diplomáticas de España con los países de la Iberosfera. Man- tendremos nuestro firme compromiso con la oposición democrática a los regímenes autoritarios en la Iberosfera. Exigiremos la liberación de todos los presos políticos en Ve - nezuela, Bolivia, Nicaragua y Cuba.",
+      "title": "El respeto a la democracia, al Estado Derecho y a los derechos humanos ha de determinar el alcance de las relaciones diplomáticas de España con los países de la",
+      "detail": "El respeto a la democracia, al Estado Derecho y a los derechos humanos ha de determinar el alcance de las relaciones diplomáticas de España con los países de la Iberosfera. Mantendremos nuestro firme compromiso con la oposición democrática a los regímenes autoritarios en la Iberosfera. Exigiremos la liberación de todos los presos políticos en Venezuela, Bolivia, Nicaragua y Cuba.",
       "page": 142,
       "number": 303,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36473,8 +36482,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Velaremos porque las instituciones europeas se impliquen de forma efectiva en la defensa de la libertad y la democra - cia frente a los ataques que sufren las n",
-      "detail": "Velaremos porque las instituciones europeas se impliquen de forma efectiva en la defensa de la libertad y la democra - cia frente a los ataques que sufren las naciones de la Ibe - rosfera. La Unión Europea no puede mirar a otro lado ante la violación sistemática de derechos humanos que se produ - ce en la narcodictadura venezolana y las tiranías cubana y 143 nicaragüense. Al mismo tiempo, España debe enriquecer y lid…",
+      "title": "Velaremos porque las instituciones europeas se impliquen de forma efectiva en la defensa de la libertad y la democracia frente a los ataques que sufren las naci",
+      "detail": "Velaremos porque las instituciones europeas se impliquen de forma efectiva en la defensa de la libertad y la democracia frente a los ataques que sufren las naciones de la Iberosfera. La Unión Europea no puede mirar a otro lado ante la violación sistemática de derechos humanos que se produce en la narcodictadura venezolana y las tiranías cubana y 143 nicaragüense. Al mismo tiempo, España debe enriquecer y liderar el d…",
       "page": 142,
       "number": 304,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36489,7 +36498,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "España no puede mirar solo hacia Europa.",
-      "detail": "España no puede mirar solo hacia Europa. Promoveremos la Iberosfera como un espacio de intercambio político, eco - nómico y cultural en condiciones de libertad para todos los ciudadanos a ambos lados del Atlántico. Potenciaremos el papel de las Cumbres Iberoamericanas.",
+      "detail": "España no puede mirar solo hacia Europa. Promoveremos la Iberosfera como un espacio de intercambio político, económico y cultural en condiciones de libertad para todos los ciudadanos a ambos lados del Atlántico. Potenciaremos el papel de las Cumbres Iberoamericanas.",
       "page": 143,
       "number": 305,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36504,7 +36513,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "La Unión Europea no puede mirar solo hacia China.",
-      "detail": "La Unión Europea no puede mirar solo hacia China. España tiene la obligación de velar para que las instituciones euro - peas se impliquen de forma efectiva en la defensa de la li - bertad y la democracia frente a los ataques que sufren las naciones de la Iberosfera.",
+      "detail": "La Unión Europea no puede mirar solo hacia China. España tiene la obligación de velar para que las instituciones europeas se impliquen de forma efectiva en la defensa de la libertad y la democracia frente a los ataques que sufren las naciones de la Iberosfera.",
       "page": 143,
       "number": 306,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36518,8 +36527,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "España es el principal inversor europeo en Hispanoamérica, mostrando las inversiones españolas una gran diversifica - ción (sector financiero, energía, telecomu",
-      "detail": "España es el principal inversor europeo en Hispanoamérica, mostrando las inversiones españolas una gran diversifica - ción (sector financiero, energía, telecomunicaciones, etc.). Por ello, velaremos por la protección de las inversiones ex - teriores de nuestras empresas en los países hispanoame - ricanos.",
+      "title": "España es el principal inversor europeo en Hispanoamérica, mostrando las inversiones españolas una gran diversificación (sector financiero, energía, telecomunic",
+      "detail": "España es el principal inversor europeo en Hispanoamérica, mostrando las inversiones españolas una gran diversificación (sector financiero, energía, telecomunicaciones, etc.). Por ello, velaremos por la protección de las inversiones exteriores de nuestras empresas en los países hispanoamericanos.",
       "page": 143,
       "number": 307,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36533,8 +36542,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Eliminaremos cualquier tipo de ayuda destinada a la im - plementación de la Agenda 2030 o la financiación de movimientos de ideología de género o indigenistas e",
-      "detail": "Eliminaremos cualquier tipo de ayuda destinada a la im - plementación de la Agenda 2030 o la financiación de movimientos de ideología de género o indigenistas en la Iberosfera. Revisaremos nuestra política de cooperación in - ternacional al desarrollo con el fin de no contribuir de ma - nera indirecta al sostenimiento de regímenes autoritarios o que violen los derechos humanos. Reforzaremos e intensifi - caremos el c…",
+      "title": "Eliminaremos cualquier tipo de ayuda destinada a la implementación de la Agenda 2030 o la financiación de movimientos de ideología de género o indigenistas en l",
+      "detail": "Eliminaremos cualquier tipo de ayuda destinada a la implementación de la Agenda 2030 o la financiación de movimientos de ideología de género o indigenistas en la Iberosfera. Revisaremos nuestra política de cooperación internacional al desarrollo con el fin de no contribuir de manera indirecta al sostenimiento de regímenes autoritarios o que violen los derechos humanos. Reforzaremos e intensificaremos el control de la…",
       "page": 143,
       "number": 308,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36548,8 +36557,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "En materia de inmigración, que se afrontará en todo caso atendiendo a las necesidades de la economía española, es- tableceremos condiciones que tengan en cuenta",
-      "detail": "En materia de inmigración, que se afrontará en todo caso atendiendo a las necesidades de la economía española, es- tableceremos condiciones que tengan en cuenta las nacio - nalidades que comparten idioma y lazos históricos y cultu - rales con España.",
+      "title": "En materia de inmigración, que se afrontará en todo caso atendiendo a las necesidades de la economía española, estableceremos condiciones que tengan en cuenta l",
+      "detail": "En materia de inmigración, que se afrontará en todo caso atendiendo a las necesidades de la economía española, estableceremos condiciones que tengan en cuenta las nacionalidades que comparten idioma y lazos históricos y culturales con España.",
       "page": 144,
       "number": 309,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36564,7 +36573,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Defenderemos nuestra cultura, lenguas y raíces comunes.",
-      "detail": "Defenderemos nuestra cultura, lenguas y raíces comunes. Fomentaremos el mayor conocimiento y la cooperación en - tre el conjunto de pueblos y países hispanohablantes y lu - sófonos de todos los continentes. Apoyaremos el desarro - llo de proyectos de conservación y restauración de nuestro patrimonio histórico compartido. Reforzaremos el papel del Instituto Cervantes en su labor de promoción universal de la lengua esp…",
+      "detail": "Defenderemos nuestra cultura, lenguas y raíces comunes. Fomentaremos el mayor conocimiento y la cooperación entre el conjunto de pueblos y países hispanohablantes y lusófonos de todos los continentes. Apoyaremos el desarrollo de proyectos de conservación y restauración de nuestro patrimonio histórico compartido. Reforzaremos el papel del Instituto Cervantes en su labor de promoción universal de la lengua española y d…",
       "page": 144,
       "number": 310,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36579,7 +36588,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Combatiremos los intentos de borrado del legado español en América.",
-      "detail": "Combatiremos los intentos de borrado del legado español en América. Los españoles no tenemos que pedir perdón por nuestro pasado. I mpulsaremos iniciativas culturales y educativas, tanto dentro como fuera de nuestras fronteras, destinadas a combatir la “leyenda negra” y a dar a cono - cer la labor civilizadora de España en América. También se prestará especial atención a la preservación del legado espa - ñol en Guine…",
+      "detail": "Combatiremos los intentos de borrado del legado español en América. Los españoles no tenemos que pedir perdón por nuestro pasado. I mpulsaremos iniciativas culturales y educativas, tanto dentro como fuera de nuestras fronteras, destinadas a combatir la “leyenda negra” y a dar a conocer la labor civilizadora de España en América. También se prestará especial atención a la preservación del legado español en Guinea Ecua…",
       "page": 144,
       "number": 311,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36623,23 +36632,23 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Reforzaremos las infraestructuras de transporte en la Es - paña rural abandonada por los sucesivos gobiernos para garantizar la rápida conexión de cualquier núc",
-      "detail": "Reforzaremos las infraestructuras de transporte en la Es - paña rural abandonada por los sucesivos gobiernos para garantizar la rápida conexión de cualquier núcleo rural con servicios públicos básicos como centros sanitarios o educa - tivos. Además, se debe frenar la imposición de peajes en las autopistas.",
+      "title": "Reforzaremos las infraestructuras de transporte en la España rural abandonada por los sucesivos gobiernos para garantizar la rápida conexión de cualquier núcleo",
+      "detail": "Reforzaremos las infraestructuras de transporte en la España rural abandonada por los sucesivos gobiernos para garantizar la rápida conexión de cualquier núcleo rural con servicios públicos básicos como centros sanitarios o educativos. Además, se debe frenar la imposición de peajes en las autopistas.",
       "page": 148,
       "number": 314,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
       "subthemeIds": [
+        "educacion-conocimiento",
         "transporte-infraestructuras",
-        "infraestructuras",
-        "energia"
+        "infraestructuras"
       ],
       "priorityIndex": 4,
       "originalBlockIndex": 16,
       "kind": "document"
     },
     {
-      "title": "Mejoraremos la red ferroviaria para conectar todas las regio - nes de España y facilitar las exportaciones al resto de Europa.",
-      "detail": "Mejoraremos la red ferroviaria para conectar todas las regio - nes de España y facilitar las exportaciones al resto de Europa. Impulso de la Red de Cercanías para enlazar todas las pro - vincias de forma eficaz.",
+      "title": "Mejoraremos la red ferroviaria para conectar todas las regiones de España y facilitar las exportaciones al resto de Europa.",
+      "detail": "Mejoraremos la red ferroviaria para conectar todas las regiones de España y facilitar las exportaciones al resto de Europa. Impulso de la Red de Cercanías para enlazar todas las provincias de forma eficaz.",
       "page": 148,
       "number": 315,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36654,7 +36663,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "En España hay agua para todos.",
-      "detail": "En España hay agua para todos. Frente a la insolidaridad y el ecologismo radical , que han sido el santo y seña del PSOE durante décadas, es necesaria una planificación adecuada y 149 una gestión correcta para establecer mecanismos de repar - to óptimos del agua y la adopción de medidas contra la sequía.",
+      "detail": "En España hay agua para todos. Frente a la insolidaridad y el ecologismo radical , que han sido el santo y seña del PSOE durante décadas, es necesaria una planificación adecuada y 149 una gestión correcta para establecer mecanismos de reparto óptimos del agua y la adopción de medidas contra la sequía.",
       "page": 148,
       "number": 316,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36668,8 +36677,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Volveremos a legitimar el aprovechamiento por los agricul - tores de las aguas provenientes de lluvias torrenciales den- tro de la propia finca o explotación, a",
-      "detail": "Volveremos a legitimar el aprovechamiento por los agricul - tores de las aguas provenientes de lluvias torrenciales den- tro de la propia finca o explotación, al amparo de lo previsto en la Ley de Aguas , de manera que se haga un uso eficiente del agua de lluvia, se aprovechen fuentes alternativas para los nuevos regadíos, y se eviten así los efectos perjudiciales de las escorrentías.",
+      "title": "Volveremos a legitimar el aprovechamiento por los agricultores de las aguas provenientes de lluvias torrenciales dentro de la propia finca o explotación, al amp",
+      "detail": "Volveremos a legitimar el aprovechamiento por los agricultores de las aguas provenientes de lluvias torrenciales dentro de la propia finca o explotación, al amparo de lo previsto en la Ley de Aguas , de manera que se haga un uso eficiente del agua de lluvia, se aprovechen fuentes alternativas para los nuevos regadíos, y se eviten así los efectos perjudiciales de las escorrentías.",
       "page": 149,
       "number": 317,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36698,8 +36707,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Frenaremos la estigmatización de alimentos que única - mente responde a motivos ideológicos.",
-      "detail": "Frenaremos la estigmatización de alimentos que única - mente responde a motivos ideológicos. España debe defen - der a sus productores, motor económico de municipios y provincias, frente a las agendas globalistas y la competencia desleal.",
+      "title": "Frenaremos la estigmatización de alimentos que únicamente responde a motivos ideológicos.",
+      "detail": "Frenaremos la estigmatización de alimentos que únicamente responde a motivos ideológicos. España debe defender a sus productores, motor económico de municipios y provincias, frente a las agendas globalistas y la competencia desleal.",
       "page": 149,
       "number": 319,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36728,8 +36737,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Apoyaremos a la industria agroalimentaria nacional y la producción de las pequeñas y medianas empresas de ca - rácter asociativo y familiar , para hacer posible",
-      "detail": "Apoyaremos a la industria agroalimentaria nacional y la producción de las pequeñas y medianas empresas de ca - rácter asociativo y familiar , para hacer posible el equilibrio entre la producción tradicional y la incorporación de mejoras tecnológicas. 150",
+      "title": "Apoyaremos a la industria agroalimentaria nacional y la producción de las pequeñas y medianas empresas de carácter asociativo y familiar , para hacer posible el",
+      "detail": "Apoyaremos a la industria agroalimentaria nacional y la producción de las pequeñas y medianas empresas de carácter asociativo y familiar , para hacer posible el equilibrio entre la producción tradicional y la incorporación de mejoras tecnológicas. 150",
       "page": 149,
       "number": 321,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36743,8 +36752,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Aseguraremos la soberanía de los datos digitales ge - nerados en el curso de la actividad agraria por produc - tores, negocios y explotaciones de nuestra nación",
-      "detail": "Aseguraremos la soberanía de los datos digitales ge - nerados en el curso de la actividad agraria por produc - tores, negocios y explotaciones de nuestra nación para evitar que las grandes compañías y multinacionales del sector agrario que tratan esos datos puedan utilizarlos como herramientas de especulación inversora y en con - tra del interés nacional ante el desarrollo de las nuevas tecnologías en este sector.",
+      "title": "Aseguraremos la soberanía de los datos digitales generados en el curso de la actividad agraria por productores, negocios y explotaciones de nuestra nación para",
+      "detail": "Aseguraremos la soberanía de los datos digitales generados en el curso de la actividad agraria por productores, negocios y explotaciones de nuestra nación para evitar que las grandes compañías y multinacionales del sector agrario que tratan esos datos puedan utilizarlos como herramientas de especulación inversora y en contra del interés nacional ante el desarrollo de las nuevas tecnologías en este sector.",
       "page": 150,
       "number": 322,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36758,8 +36767,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Defensa de la caza como actividad esencial para el control de las poblaciones y para la protección de las ex - plotaciones agrícolas y ganaderas, así como por s",
-      "detail": "Defensa de la caza como actividad esencial para el control de las poblaciones y para la protección de las ex - plotaciones agrícolas y ganaderas, así como por su valor medioambiental y económico . 323.1 Aprobación de un Plan Nacional del Lobo que garantice, mediante el diseño de mecanismos de control, la conservación de la especie y el necesario equilibrio entre el hombre y el lobo . Exclusión del lobo del Listado de…",
+      "title": "Defensa de la caza como actividad esencial para el control de las poblaciones y para la protección de las explotaciones agrícolas y ganaderas, así como por su v",
+      "detail": "Defensa de la caza como actividad esencial para el control de las poblaciones y para la protección de las explotaciones agrícolas y ganaderas, así como por su valor medioambiental y económico . 323.1 Aprobación de un Plan Nacional del Lobo que garantice, mediante el diseño de mecanismos de control, la conservación de la especie y el necesario equilibrio entre el hombre y el lobo . Exclusión del lobo del Listado de Es…",
       "page": 150,
       "number": 323,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36773,8 +36782,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Suprimiremos la Dirección General de Derechos de los Animales , por ser un organismo que responde a inte - reses exclusivamente ideológicos y que trata de huma",
-      "detail": "Suprimiremos la Dirección General de Derechos de los Animales , por ser un organismo que responde a inte - reses exclusivamente ideológicos y que trata de huma - nizar al animal, atentando simultáneamente contra la posición central del hombre en la naturaleza. 151",
+      "title": "Suprimiremos la Dirección General de Derechos de los Animales , por ser un organismo que responde a intereses exclusivamente ideológicos y que trata de humaniza",
+      "detail": "Suprimiremos la Dirección General de Derechos de los Animales , por ser un organismo que responde a intereses exclusivamente ideológicos y que trata de humanizar al animal, atentando simultáneamente contra la posición central del hombre en la naturaleza. 151",
       "page": 150,
       "number": 324,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36788,8 +36797,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Protección de las tradiciones populares, eventos reli - giosos y festejos taurinos propios de la España rural frente a los ataques del progresismo y el globalis",
-      "detail": "Protección de las tradiciones populares, eventos reli - giosos y festejos taurinos propios de la España rural frente a los ataques del progresismo y el globalismo.",
+      "title": "Protección de las tradiciones populares, eventos religiosos y festejos taurinos propios de la España rural frente a los ataques del progresismo y el globalismo.",
+      "detail": "Protección de las tradiciones populares, eventos religiosos y festejos taurinos propios de la España rural frente a los ataques del progresismo y el globalismo.",
       "page": 151,
       "number": 325,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36803,8 +36812,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Impulsaremos la defensa y conservación de la raza au - tóctona del Toro de Lidia para evitar su desaparición.",
-      "detail": "Impulsaremos la defensa y conservación de la raza au - tóctona del Toro de Lidia para evitar su desaparición. La destrucción de esta raza única causaría un daño irrepa - rable en la Dehesa, lo que provocaría la desaparición de muchas especies del ecosistema como queda probado en varios informes de expertos.",
+      "title": "Impulsaremos la defensa y conservación de la raza autóctona del Toro de Lidia para evitar su desaparición.",
+      "detail": "Impulsaremos la defensa y conservación de la raza autóctona del Toro de Lidia para evitar su desaparición. La destrucción de esta raza única causaría un daño irreparable en la Dehesa, lo que provocaría la desaparición de muchas especies del ecosistema como queda probado en varios informes de expertos.",
       "page": 151,
       "number": 326,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36818,8 +36827,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Apoyaremos con medidas fiscales y crediticias la tauroma - quia y los espectáculos taurinos.",
-      "detail": "Apoyaremos con medidas fiscales y crediticias la tauroma - quia y los espectáculos taurinos.",
+      "title": "Apoyaremos con medidas fiscales y crediticias la tauromaquia y los espectáculos taurinos.",
+      "detail": "Apoyaremos con medidas fiscales y crediticias la tauromaquia y los espectáculos taurinos.",
       "page": 151,
       "number": 327,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36833,8 +36842,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Protegeremos y conservaremos el patrimonio históri - co-artístico tradicional como garante de nuestra identi - dad nacional y motor económico y turístico , medi",
-      "detail": "Protegeremos y conservaremos el patrimonio históri - co-artístico tradicional como garante de nuestra identi - dad nacional y motor económico y turístico , mediante un plan nacional de catalogación, restauración, conservación y difusión de este, con el apoyo de una nueva ley de me - cenazgo.",
+      "title": "Protegeremos y conservaremos el patrimonio histórico-artístico tradicional como garante de nuestra identidad nacional y motor económico y turístico , mediante u",
+      "detail": "Protegeremos y conservaremos el patrimonio histórico-artístico tradicional como garante de nuestra identidad nacional y motor económico y turístico , mediante un plan nacional de catalogación, restauración, conservación y difusión de este, con el apoyo de una nueva ley de mecenazgo.",
       "page": 151,
       "number": 328,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36848,15 +36857,15 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Revisaremos el Catastro para acabar con las enormes di - ferencias que existen en la España Rural entre un valor catastral muy superior al valor de mercado de l",
-      "detail": "Revisaremos el Catastro para acabar con las enormes di - ferencias que existen en la España Rural entre un valor catastral muy superior al valor de mercado de los inmue - bles, que en muchos casos son enormes y generan una tributación desmesurada que lastra la compraventa de vi - viendas en el mundo rural.",
+      "title": "Revisaremos el Catastro para acabar con las enormes diferencias que existen en la España Rural entre un valor catastral muy superior al valor de mercado de los",
+      "detail": "Revisaremos el Catastro para acabar con las enormes diferencias que existen en la España Rural entre un valor catastral muy superior al valor de mercado de los inmuebles, que en muchos casos son enormes y generan una tributación desmesurada que lastra la compraventa de viviendas en el mundo rural.",
       "page": 151,
       "number": 329,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
       "subthemeIds": [
         "impuestos-fiscalidad",
-        "energia",
-        "medio-ambiente"
+        "vivienda-proximidad",
+        "energia"
       ],
       "priorityIndex": 4,
       "originalBlockIndex": 16,
@@ -36864,7 +36873,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Fortaleceremos el turismo rural.",
-      "detail": "Fortaleceremos el turismo rural. 152 ALGUNAS DE LAS ACCIONES MÁS DESTACADAS DE VOX SOBRE ESPAÑA RURAL PNL para la puesta en marcha de un Plan Nacional del Lobo que permita el control poblacional a través de la ac - tividad cinegética para favorecer la ganadería y facilitar la vida de la población rural (mayo 2023). PNL sobre eliminación de las desigualdades sociales que genera la despoblación de la España rural media…",
+      "detail": "Fortaleceremos el turismo rural. 152 ALGUNAS DE LAS ACCIONES MÁS DESTACADAS DE VOX SOBRE ESPAÑA RURAL PNL para la puesta en marcha de un Plan Nacional del Lobo que permita el control poblacional a través de la actividad cinegética para favorecer la ganadería y facilitar la vida de la población rural (mayo 2023). PNL sobre eliminación de las desigualdades sociales que genera la despoblación de la España rural mediante…",
       "page": 151,
       "number": 330,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36878,8 +36887,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Garantizaremos el derecho a comunicar o recibir libremen - te información veraz , en tanto que la libre circulación de las ideas favorece el conocimiento y el r",
-      "detail": "Garantizaremos el derecho a comunicar o recibir libremen - te información veraz , en tanto que la libre circulación de las ideas favorece el conocimiento y el respeto a los derechos de la persona , especialmente el derecho al honor, a la intimi - dad personal y familiar, a la propia imagen y a la protección de la juventud y de la infancia.",
+      "title": "Garantizaremos el derecho a comunicar o recibir libremente información veraz , en tanto que la libre circulación de las ideas favorece el conocimiento y el resp",
+      "detail": "Garantizaremos el derecho a comunicar o recibir libremente información veraz , en tanto que la libre circulación de las ideas favorece el conocimiento y el respeto a los derechos de la persona , especialmente el derecho al honor, a la intimidad personal y familiar, a la propia imagen y a la protección de la juventud y de la infancia.",
       "page": 156,
       "number": 331,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36893,8 +36902,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Aprobación de una legislación que impida que las grandes plataformas digitales se conviertan en tribunales de ex - cepción que, de facto, atacan el ejercicio de",
-      "detail": "Aprobación de una legislación que impida que las grandes plataformas digitales se conviertan en tribunales de ex - cepción que, de facto, atacan el ejercicio de la libertad de información y expresión, vulneran los derechos de la ciuda - danía y socavan la soberanía nacional.",
+      "title": "Aprobación de una legislación que impida que las grandes plataformas digitales se conviertan en tribunales de excepción que, de facto, atacan el ejercicio de la",
+      "detail": "Aprobación de una legislación que impida que las grandes plataformas digitales se conviertan en tribunales de excepción que, de facto, atacan el ejercicio de la libertad de información y expresión, vulneran los derechos de la ciudadanía y socavan la soberanía nacional.",
       "page": 156,
       "number": 332,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36909,7 +36918,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Detendremos la persecución de opiniones, sentimientos o valores arraigados en nuestra sociedad camuflada bajo el ambiguo paraguas del “delito de odio” , que cas",
-      "detail": "Detendremos la persecución de opiniones, sentimientos o valores arraigados en nuestra sociedad camuflada bajo el ambiguo paraguas del “delito de odio” , que casi nunca se aplica a los verdaderos promotores del odio en España: los separatismos, la extrema izquierda y las ideologías totalita - rias.",
+      "detail": "Detendremos la persecución de opiniones, sentimientos o valores arraigados en nuestra sociedad camuflada bajo el ambiguo paraguas del “delito de odio” , que casi nunca se aplica a los verdaderos promotores del odio en España: los separatismos, la extrema izquierda y las ideologías totalitarias.",
       "page": 156,
       "number": 333,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36923,8 +36932,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Las grandes tecnológicas que hacen negocios en Espa - ña deben pagar en nuestro país todos los impuestos que les corresponden .",
-      "detail": "Las grandes tecnológicas que hacen negocios en Espa - ña deben pagar en nuestro país todos los impuestos que les corresponden . Por eso, se debe asegurar la persecución efectiva de este modelo de evasión fiscal.",
+      "title": "Las grandes tecnológicas que hacen negocios en España deben pagar en nuestro país todos los impuestos que les corresponden .",
+      "detail": "Las grandes tecnológicas que hacen negocios en España deben pagar en nuestro país todos los impuestos que les corresponden . Por eso, se debe asegurar la persecución efectiva de este modelo de evasión fiscal.",
       "page": 156,
       "number": 334,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36938,8 +36947,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "El Gobierno tiene que proteger la soberanía personal y na - cional de los datos digitales desarrollando una nueva legis - lación que proteja los datos de los es",
-      "detail": "El Gobierno tiene que proteger la soberanía personal y na - cional de los datos digitales desarrollando una nueva legis - lación que proteja los datos de los españoles e impida que sean utilizados contra los intereses de los nacionales . 157",
+      "title": "El Gobierno tiene que proteger la soberanía personal y nacional de los datos digitales desarrollando una nueva legislación que proteja los datos de los españole",
+      "detail": "El Gobierno tiene que proteger la soberanía personal y nacional de los datos digitales desarrollando una nueva legislación que proteja los datos de los españoles e impida que sean utilizados contra los intereses de los nacionales . 157",
       "page": 156,
       "number": 335,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36953,8 +36962,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Las multinacionales deben revertir en España la riqueza que generan cosechando datos aquí , por lo que se asegu - rará el derecho de los españoles a ser retribu",
-      "detail": "Las multinacionales deben revertir en España la riqueza que generan cosechando datos aquí , por lo que se asegu - rará el derecho de los españoles a ser retribuidos cuando comparten datos con ellas.",
+      "title": "Las multinacionales deben revertir en España la riqueza que generan cosechando datos aquí , por lo que se asegurará el derecho de los españoles a ser retribuido",
+      "detail": "Las multinacionales deben revertir en España la riqueza que generan cosechando datos aquí , por lo que se asegurará el derecho de los españoles a ser retribuidos cuando comparten datos con ellas.",
       "page": 157,
       "number": 336,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36969,7 +36978,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Se aplicará el artículo 92 de la Constitución para convocar un referéndum y preguntar a los españoles si quieren sus datos sean almacenados y tratados sin contr",
-      "detail": "Se aplicará el artículo 92 de la Constitución para convocar un referéndum y preguntar a los españoles si quieren sus datos sean almacenados y tratados sin control fuera de Es - paña o si, por el contrario, quieren normas que les protejan en su decisión sobre qué hacer con sus datos personales, ya sea obtener beneficios económicos por la cesión de éstos o simplemente no cederlos.",
+      "detail": "Se aplicará el artículo 92 de la Constitución para convocar un referéndum y preguntar a los españoles si quieren sus datos sean almacenados y tratados sin control fuera de España o si, por el contrario, quieren normas que les protejan en su decisión sobre qué hacer con sus datos personales, ya sea obtener beneficios económicos por la cesión de éstos o simplemente no cederlos.",
       "page": 157,
       "number": 337,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -36983,8 +36992,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Prohibición de las ayudas directas públicas a medios priva - dos de información .",
-      "detail": "Prohibición de las ayudas directas públicas a medios priva - dos de información . Los periódicos y cadenas de radio y te - levisión han de sustentarse con los fondos de sus accionistas y la popularidad de su programación entre la audiencia. Los gobiernos no pueden seguir comprando voluntades y aca - bando con la disparidad de ideas a golpe de talonario.",
+      "title": "Prohibición de las ayudas directas públicas a medios privados de información .",
+      "detail": "Prohibición de las ayudas directas públicas a medios privados de información . Los periódicos y cadenas de radio y televisión han de sustentarse con los fondos de sus accionistas y la popularidad de su programación entre la audiencia. Los gobiernos no pueden seguir comprando voluntades y acabando con la disparidad de ideas a golpe de talonario.",
       "page": 157,
       "number": 338,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37014,7 +37023,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Es urgente librar a Radio Televisión Española de la politización a la que se ha sometido a la Corporación, con el consiguiente desafecto por parte de los espect",
-      "detail": "Es urgente librar a Radio Televisión Española de la politización a la que se ha sometido a la Corporación, con el consiguiente desafecto por parte de los espectadores , la pérdida de cali - dad de sus programas y el hundimiento de las audiencias.",
+      "detail": "Es urgente librar a Radio Televisión Española de la politización a la que se ha sometido a la Corporación, con el consiguiente desafecto por parte de los espectadores , la pérdida de calidad de sus programas y el hundimiento de las audiencias.",
       "page": 157,
       "number": 340,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37028,8 +37037,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "La memoria de cada español es única y libre , la Historia es el campo de trabajo de los historiadores y la función de los po- deres públicos es trabajar para lo",
-      "detail": "La memoria de cada español es única y libre , la Historia es el campo de trabajo de los historiadores y la función de los po- deres públicos es trabajar para lograr de nuevo la concordia entre españoles , superando divisiones y enfrentamientos. 158",
+      "title": "La memoria de cada español es única y libre , la Historia es el campo de trabajo de los historiadores y la función de los poderes públicos es trabajar para logr",
+      "detail": "La memoria de cada español es única y libre , la Historia es el campo de trabajo de los historiadores y la función de los poderes públicos es trabajar para lograr de nuevo la concordia entre españoles , superando divisiones y enfrentamientos. 158",
       "page": 157,
       "number": 341,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37044,7 +37053,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Derogación de toda legislación de “memoria histórica” o “democrática”.",
-      "detail": "Derogación de toda legislación de “memoria histórica” o “democrática”. Dichas leyes son un despropósito totalitario, que atenta contra libertades básicas, impone un único dis - curso a todos los españoles, criminalizándoles en función del bando en que lucharan sus abuelos, y amenaza la libertad de cátedra e investigación.",
+      "detail": "Derogación de toda legislación de “memoria histórica” o “democrática”. Dichas leyes son un despropósito totalitario, que atenta contra libertades básicas, impone un único discurso a todos los españoles, criminalizándoles en función del bando en que lucharan sus abuelos, y amenaza la libertad de cátedra e investigación.",
       "page": 158,
       "number": 342,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37058,8 +37067,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Aprobación de una Ley de Concordia que fomente el en - cuentro y la reconciliación y cuyo fin sea superar las divi - siones y hostilidades entre españoles media",
-      "detail": "Aprobación de una Ley de Concordia que fomente el en - cuentro y la reconciliación y cuyo fin sea superar las divi - siones y hostilidades entre españoles mediante la coope - ración y la integración en este proyecto común de España. 159 ALGUNAS DE LAS ACCIONES MÁS DESTACADAS DE VOX SOBRE LIBERTAD DE EXPRESIÓN PNL sobre la financiación pública de los medios de comu - nicación privados que denuncia las grandes cantidad…",
+      "title": "Aprobación de una Ley de Concordia que fomente el encuentro y la reconciliación y cuyo fin sea superar las divisiones y hostilidades entre españoles mediante la",
+      "detail": "Aprobación de una Ley de Concordia que fomente el encuentro y la reconciliación y cuyo fin sea superar las divisiones y hostilidades entre españoles mediante la cooperación y la integración en este proyecto común de España. 159 ALGUNAS DE LAS ACCIONES MÁS DESTACADAS DE VOX SOBRE LIBERTAD DE EXPRESIÓN PNL sobre la financiación pública de los medios de comunicación privados que denuncia las grandes cantidades de dinero…",
       "page": 158,
       "number": 343,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37073,8 +37082,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Suprimiremos el Ministerio de Igualdad y en su lugar crea - remos un Ministerio de Familia.",
-      "detail": "Suprimiremos el Ministerio de Igualdad y en su lugar crea - remos un Ministerio de Familia. El nuevo Ministerio dirigirá su acción a la puesta en marcha de políticas de impulso de la natalidad mediante un Plan Nacional de natalidad y de apoyo a la familia , y gestionará los recursos destinados a su fortalecimiento.",
+      "title": "Suprimiremos el Ministerio de Igualdad y en su lugar crearemos un Ministerio de Familia.",
+      "detail": "Suprimiremos el Ministerio de Igualdad y en su lugar crearemos un Ministerio de Familia. El nuevo Ministerio dirigirá su acción a la puesta en marcha de políticas de impulso de la natalidad mediante un Plan Nacional de natalidad y de apoyo a la familia , y gestionará los recursos destinados a su fortalecimiento.",
       "page": 162,
       "number": 344,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37088,8 +37097,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Promulgaremos una Ley de protección integral de la fami - lia, que reconozca y ampare la trascendencia de la familia y el papel esencial que desempeña como núcl",
-      "detail": "Promulgaremos una Ley de protección integral de la fami - lia, que reconozca y ampare la trascendencia de la familia y el papel esencial que desempeña como núcleo vertebrador de nuestro ser social y medio natural de desarrollo y creci - miento de la persona. Esta norma incluirá medidas de pro - tección fiscal, económica, social y en el ámbito de la violencia doméstica.",
+      "title": "Promulgaremos una Ley de protección integral de la familia, que reconozca y ampare la trascendencia de la familia y el papel esencial que desempeña como núcleo",
+      "detail": "Promulgaremos una Ley de protección integral de la familia, que reconozca y ampare la trascendencia de la familia y el papel esencial que desempeña como núcleo vertebrador de nuestro ser social y medio natural de desarrollo y crecimiento de la persona. Esta norma incluirá medidas de protección fiscal, económica, social y en el ámbito de la violencia doméstica.",
       "page": 162,
       "number": 345,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37103,8 +37112,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Incluiremos bonificaciones fiscales para familias numero - sas, préstamos sin intereses o avales bancarios para parejas jóvenes con hijos, becas escolares al co",
-      "detail": "Incluiremos bonificaciones fiscales para familias numero - sas, préstamos sin intereses o avales bancarios para parejas jóvenes con hijos, becas escolares al comedor y transporte, ayudas deportivas y beneficios en el acceso a servicios públi - cos en colaboración con el resto de administraciones.",
+      "title": "Incluiremos bonificaciones fiscales para familias numerosas, préstamos sin intereses o avales bancarios para parejas jóvenes con hijos, becas escolares al comed",
+      "detail": "Incluiremos bonificaciones fiscales para familias numerosas, préstamos sin intereses o avales bancarios para parejas jóvenes con hijos, becas escolares al comedor y transporte, ayudas deportivas y beneficios en el acceso a servicios públicos en colaboración con el resto de administraciones.",
       "page": 162,
       "number": 346,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37118,8 +37127,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Apoyo decidido a la natalidad , impulsaremos medidas de protección integral a la natalidad, tanto fiscales como sanita - rias, psicológicas o de acceso a servic",
-      "detail": "Apoyo decidido a la natalidad , impulsaremos medidas de protección integral a la natalidad, tanto fiscales como sanita - rias, psicológicas o de acceso a servicios sociales. Nadie de - bería verse desanimado a tener un hijo por falta de apoyo de la administración.",
+      "title": "Apoyo decidido a la natalidad , impulsaremos medidas de protección integral a la natalidad, tanto fiscales como sanitarias, psicológicas o de acceso a servicios",
+      "detail": "Apoyo decidido a la natalidad , impulsaremos medidas de protección integral a la natalidad, tanto fiscales como sanitarias, psicológicas o de acceso a servicios sociales. Nadie debería verse desanimado a tener un hijo por falta de apoyo de la administración.",
       "page": 162,
       "number": 347,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37134,7 +37143,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Situaremos a las familias en el centro de todas las políticas públicas .",
-      "detail": "Situaremos a las familias en el centro de todas las políticas públicas . En la aprobación de toda nueva norma se incluirá 163 un estudio que evalúe su impacto real en la vida de las fami - lias.",
+      "detail": "Situaremos a las familias en el centro de todas las políticas públicas . En la aprobación de toda nueva norma se incluirá 163 un estudio que evalúe su impacto real en la vida de las familias.",
       "page": 162,
       "number": 348,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37148,8 +37157,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Paralizaremos la tramitación de la Ley de Familias impul - sada desde el Ministerio de Ione Belarra y por la cual la ins - titución familiar queda conscientemen",
-      "detail": "Paralizaremos la tramitación de la Ley de Familias impul - sada desde el Ministerio de Ione Belarra y por la cual la ins - titución familiar queda conscientemente desdibujada por el reconocimiento de dieciséis tipos diferentes de familias, pretendiendo la desnaturalización de la célula básica de la sociedad. Si todo es familia, nada lo es.",
+      "title": "Paralizaremos la tramitación de la Ley de Familias impulsada desde el Ministerio de Ione Belarra y por la cual la institución familiar queda conscientemente des",
+      "detail": "Paralizaremos la tramitación de la Ley de Familias impulsada desde el Ministerio de Ione Belarra y por la cual la institución familiar queda conscientemente desdibujada por el reconocimiento de dieciséis tipos diferentes de familias, pretendiendo la desnaturalización de la célula básica de la sociedad. Si todo es familia, nada lo es.",
       "page": 163,
       "number": 349,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37163,8 +37172,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Ofreceremos medidas en favor de la mediación familiar prestando apoyo a las familias para la resolución de situa - ciones conflictivas , siempre en consideració",
-      "detail": "Ofreceremos medidas en favor de la mediación familiar prestando apoyo a las familias para la resolución de situa - ciones conflictivas , siempre en consideración del interés su - perior del menor. Apoyaremos a las familias en la promoción de estilos de vida saludables y en la prevención de las conduc- tas adictivas y otras situaciones de riesgo psicosocial.",
+      "title": "Ofreceremos medidas en favor de la mediación familiar prestando apoyo a las familias para la resolución de situaciones conflictivas , siempre en consideración d",
+      "detail": "Ofreceremos medidas en favor de la mediación familiar prestando apoyo a las familias para la resolución de situaciones conflictivas , siempre en consideración del interés superior del menor. Apoyaremos a las familias en la promoción de estilos de vida saludables y en la prevención de las conductas adictivas y otras situaciones de riesgo psicosocial.",
       "page": 163,
       "number": 350,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37178,8 +37187,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Implementaremos un documento familiar identificativo de sus miembros y que supondrá para sus portadores condi - ciones más beneficiosas en el acceso a distintos",
-      "detail": "Implementaremos un documento familiar identificativo de sus miembros y que supondrá para sus portadores condi - ciones más beneficiosas en el acceso a distintos servicios públicos: transporte, bibliotecas, instalaciones deportivas o actividades de ocio.",
+      "title": "Implementaremos un documento familiar identificativo de sus miembros y que supondrá para sus portadores condiciones más beneficiosas en el acceso a distintos se",
+      "detail": "Implementaremos un documento familiar identificativo de sus miembros y que supondrá para sus portadores condiciones más beneficiosas en el acceso a distintos servicios públicos: transporte, bibliotecas, instalaciones deportivas o actividades de ocio.",
       "page": 163,
       "number": 351,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37193,8 +37202,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Combatiremos la brecha maternal que penaliza a las mu - jeres por el hecho de ser madres .",
-      "detail": "Combatiremos la brecha maternal que penaliza a las mu - jeres por el hecho de ser madres . Facilitaremos la forma - ción y reincorporación al trabajo de las madres que han in - terrumpido su carrera por la maternidad y desean retomarla, así como medidas contra la discriminación, las presiones y la penalización económica que pueden sufrir las mujeres que desean ser madres en el ámbito laboral.",
+      "title": "Combatiremos la brecha maternal que penaliza a las mujeres por el hecho de ser madres .",
+      "detail": "Combatiremos la brecha maternal que penaliza a las mujeres por el hecho de ser madres . Facilitaremos la formación y reincorporación al trabajo de las madres que han interrumpido su carrera por la maternidad y desean retomarla, así como medidas contra la discriminación, las presiones y la penalización económica que pueden sufrir las mujeres que desean ser madres en el ámbito laboral.",
       "page": 163,
       "number": 352,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37208,8 +37217,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Los españoles no deben ser privados de un tiempo destina - do a la familia.",
-      "detail": "Los españoles no deben ser privados de un tiempo destina - do a la familia. Incentivaremos fiscalmente a las empresas 164 que contraten a nuevas madres y promuevan formas de conciliación de la vida personal, familiar y laboral. Apo - yaremos a los ayuntamientos para garantizar guarderías gratuitas abiertas hasta el horario de comercios y oficinas. Atenderemos las necesidades de movilidad geográfica de los miembros de…",
+      "title": "Los españoles no deben ser privados de un tiempo destinado a la familia.",
+      "detail": "Los españoles no deben ser privados de un tiempo destinado a la familia. Incentivaremos fiscalmente a las empresas 164 que contraten a nuevas madres y promuevan formas de conciliación de la vida personal, familiar y laboral. Apoyaremos a los ayuntamientos para garantizar guarderías gratuitas abiertas hasta el horario de comercios y oficinas. Atenderemos las necesidades de movilidad geográfica de los miembros de nuest…",
       "page": 163,
       "number": 353,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37223,8 +37232,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Reduciremos radicalmente el IVA de los productos des - tinados a la primera infancia como pañales, biberones o leche de fórmula .",
-      "detail": "Reduciremos radicalmente el IVA de los productos des - tinados a la primera infancia como pañales, biberones o leche de fórmula .",
+      "title": "Reduciremos radicalmente el IVA de los productos destinados a la primera infancia como pañales, biberones o leche de fórmula .",
+      "detail": "Reduciremos radicalmente el IVA de los productos destinados a la primera infancia como pañales, biberones o leche de fórmula .",
       "page": 164,
       "number": 354,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37238,8 +37247,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Estableceremos la deducibilidad fiscal de los gastos en que incurren las familias por la contratación de cuidado - res de personas dependientes , así como medid",
-      "detail": "Estableceremos la deducibilidad fiscal de los gastos en que incurren las familias por la contratación de cuidado - res de personas dependientes , así como medidas de apoyo a las personas que decidan cuidar a sus familiares mayores en el hogar, incluyendo el contacto con un profesional sani - tario que les apoye externamente en esta labor.",
+      "title": "Estableceremos la deducibilidad fiscal de los gastos en que incurren las familias por la contratación de cuidadores de personas dependientes , así como medidas",
+      "detail": "Estableceremos la deducibilidad fiscal de los gastos en que incurren las familias por la contratación de cuidadores de personas dependientes , así como medidas de apoyo a las personas que decidan cuidar a sus familiares mayores en el hogar, incluyendo el contacto con un profesional sanitario que les apoye externamente en esta labor.",
       "page": 164,
       "number": 355,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37253,8 +37262,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Ofreceremos apoyo a los padres en su preocupación por la protección de sus hijos menores ante adicciones como el jue- go o la pornografía, con acciones como la",
-      "detail": "Ofreceremos apoyo a los padres en su preocupación por la protección de sus hijos menores ante adicciones como el jue- go o la pornografía, con acciones como la oferta de formación y asistencia en implantación de filtros para dispositivos móvi- les en escuelas, bibliotecas o centros culturales públicos.",
+      "title": "Ofreceremos apoyo a los padres en su preocupación por la protección de sus hijos menores ante adicciones como el juego o la pornografía, con acciones como la of",
+      "detail": "Ofreceremos apoyo a los padres en su preocupación por la protección de sus hijos menores ante adicciones como el juego o la pornografía, con acciones como la oferta de formación y asistencia en implantación de filtros para dispositivos móviles en escuelas, bibliotecas o centros culturales públicos.",
       "page": 164,
       "number": 356,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37269,7 +37278,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "El gobierno que decía ser el más feminista de la historia es el mismo que ha soltado violadores a la calle.",
-      "detail": "El gobierno que decía ser el más feminista de la historia es el mismo que ha soltado violadores a la calle. Derogare - mos la ley de violencia de género y toda la normativa que, lejos de proteger a las mujeres eficazmente, ha alentado una guerra de sexos, la ruptura de familias, la desigualdad ante la ley y la destrucción de la presunción de inocencia. Aprobaremos medidas legislativas que combatan eficaz - mente la v…",
+      "detail": "El gobierno que decía ser el más feminista de la historia es el mismo que ha soltado violadores a la calle. Derogaremos la ley de violencia de género y toda la normativa que, lejos de proteger a las mujeres eficazmente, ha alentado una guerra de sexos, la ruptura de familias, la desigualdad ante la ley y la destrucción de la presunción de inocencia. Aprobaremos medidas legislativas que combatan eficazmente la violenc…",
       "page": 164,
       "number": 357,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37283,8 +37292,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Protección del interés superior del menor en las decisio - nes judiciales y administrativas que les afecten, estable - ciendo la medida de la custodia compartid",
-      "detail": "Protección del interés superior del menor en las decisio - nes judiciales y administrativas que les afecten, estable - ciendo la medida de la custodia compartida como la regla general en caso de separaciones entre cónyuges para pre - servar y proteger el derecho de los menores a relacionarse con sus padres y abuelos.",
+      "title": "Protección del interés superior del menor en las decisiones judiciales y administrativas que les afecten, estableciendo la medida de la custodia compartida como",
+      "detail": "Protección del interés superior del menor en las decisiones judiciales y administrativas que les afecten, estableciendo la medida de la custodia compartida como la regla general en caso de separaciones entre cónyuges para preservar y proteger el derecho de los menores a relacionarse con sus padres y abuelos.",
       "page": 165,
       "number": 358,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37298,8 +37307,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Estableceremos un marco jurídico que impida que per - sonas que actúan en legítima defensa para proteger su hogar y a su familia tengan que sufrir un infierno j",
-      "detail": "Estableceremos un marco jurídico que impida que per - sonas que actúan en legítima defensa para proteger su hogar y a su familia tengan que sufrir un infierno judicial hasta demostrar su inocencia. 166 ALGUNAS DE LAS ACCIONES MÁS DESTACADAS DE VOX EN MATERIA DE FAMILIA Proposición no de Ley relativa al establecimiento del tipo superreducido del 4% del Impuesto sobre el Valor Añadi - do sobre determinados productos in…",
+      "title": "Estableceremos un marco jurídico que impida que personas que actúan en legítima defensa para proteger su hogar y a su familia tengan que sufrir un infierno judi",
+      "detail": "Estableceremos un marco jurídico que impida que personas que actúan en legítima defensa para proteger su hogar y a su familia tengan que sufrir un infierno judicial hasta demostrar su inocencia. 166 ALGUNAS DE LAS ACCIONES MÁS DESTACADAS DE VOX EN MATERIA DE FAMILIA Proposición no de Ley relativa al establecimiento del tipo superreducido del 4% del Impuesto sobre el Valor Añadido sobre determinados productos infantil…",
       "page": 165,
       "number": 359,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37329,7 +37338,7 @@ window.ELECTION_SOURCE_CATALOG = {
     },
     {
       "title": "Eliminaremos el falso “derecho al aborto” y defenderemos el derecho a que toda mujer embarazada pueda acceder a un protocolo de información permanente en que lo",
-      "detail": "Eliminaremos el falso “derecho al aborto” y defenderemos el derecho a que toda mujer embarazada pueda acceder a un protocolo de información permanente en que los profe - sionales de la salud pongan a su disposición todas las ayudas para la manutención, educación y cuidado de los hijos. • El protocolo incluirá la posibilidad de acceso por la madre gestante a una atención psicosocial específica mediante el acceso a un…",
+      "detail": "Eliminaremos el falso “derecho al aborto” y defenderemos el derecho a que toda mujer embarazada pueda acceder a un protocolo de información permanente en que los profesionales de la salud pongan a su disposición todas las ayudas para la manutención, educación y cuidado de los hijos. • El protocolo incluirá la posibilidad de acceso por la madre gestante a una atención psicosocial específica mediante el acceso a un psi…",
       "page": 170,
       "number": 361,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37343,8 +37352,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Garantizaremos la información, apoyo y alternativas nece - sarias para todas aquellas madres con un embarazo proble - mático e inesperado y promoveremos la adop",
-      "detail": "Garantizaremos la información, apoyo y alternativas nece - sarias para todas aquellas madres con un embarazo proble - mático e inesperado y promoveremos la adopción nacional y el acogimiento familiar como alternativa al aborto.",
+      "title": "Garantizaremos la información, apoyo y alternativas necesarias para todas aquellas madres con un embarazo problemático e inesperado y promoveremos la adopción n",
+      "detail": "Garantizaremos la información, apoyo y alternativas necesarias para todas aquellas madres con un embarazo problemático e inesperado y promoveremos la adopción nacional y el acogimiento familiar como alternativa al aborto.",
       "page": 170,
       "number": 362,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37358,8 +37367,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Eliminaremos las ayudas públicas a aquellas organizacio - nes que promuevan prácticas contrarias al fomento de la vida desde su concepción, o induzcan activamen",
-      "detail": "Eliminaremos las ayudas públicas a aquellas organizacio - nes que promuevan prácticas contrarias al fomento de la vida desde su concepción, o induzcan activamente a las mu - jeres a realizarlas.",
+      "title": "Eliminaremos las ayudas públicas a aquellas organizaciones que promuevan prácticas contrarias al fomento de la vida desde su concepción, o induzcan activamente",
+      "detail": "Eliminaremos las ayudas públicas a aquellas organizaciones que promuevan prácticas contrarias al fomento de la vida desde su concepción, o induzcan activamente a las mujeres a realizarlas.",
       "page": 170,
       "number": 363,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37373,8 +37382,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Adoptaremos todas las medidas necesarias desde los po - deres públicos para revertir la emergencia demográfica en 171 la que se encuentra España, fomentando la",
-      "detail": "Adoptaremos todas las medidas necesarias desde los po - deres públicos para revertir la emergencia demográfica en 171 la que se encuentra España, fomentando la natalidad y com - batiendo la cultura de la muerte.",
+      "title": "Adoptaremos todas las medidas necesarias desde los poderes públicos para revertir la emergencia demográfica en 171 la que se encuentra España, fomentando la nat",
+      "detail": "Adoptaremos todas las medidas necesarias desde los poderes públicos para revertir la emergencia demográfica en 171 la que se encuentra España, fomentando la natalidad y combatiendo la cultura de la muerte.",
       "page": 170,
       "number": 364,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",
@@ -37388,8 +37397,8 @@ window.ELECTION_SOURCE_CATALOG = {
       "kind": "document"
     },
     {
-      "title": "Impulsaremos la terapia ocupacional con el objetivo de ga - rantizar la inclusión social y económica de las personas con discapacidad.",
-      "detail": "Impulsaremos la terapia ocupacional con el objetivo de ga - rantizar la inclusión social y económica de las personas con discapacidad. que se me modifica la Ley Orgánica 10/1995, de 23 de no - viembre, del Código Penal, para suprimir el artículo 172 qua - ter, de forma que ninguna conducta de apoyo a la vida y a la integridad física y moral de las mujeres que se plantean abortar pueda ser penalizada. conciencia por e…",
+      "title": "Impulsaremos la terapia ocupacional con el objetivo de garantizar la inclusión social y económica de las personas con discapacidad.",
+      "detail": "Impulsaremos la terapia ocupacional con el objetivo de garantizar la inclusión social y económica de las personas con discapacidad. que se me modifica la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal, para suprimir el artículo 172 quater, de forma que ninguna conducta de apoyo a la vida y a la integridad física y moral de las mujeres que se plantean abortar pueda ser penalizada. conciencia por el persona…",
       "page": 171,
       "number": 365,
       "section": "Medio ambiente, energía, Europa, mundo rural y familia",

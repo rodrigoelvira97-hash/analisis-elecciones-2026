@@ -19,14 +19,49 @@ def normalize(value: str) -> str:
 
 
 def clean_lines(raw: str) -> list[str]:
+    # Los extractores de PDF suelen conservar la separación silábica visual
+    # del documento (por ejemplo, "po -\nlítica" o "univer-\nsidades").
+    # Hay que corregirla antes de separar las líneas; de lo contrario,
+    # flatten() vuelve a introducir un espacio entre el guion y la palabra.
+    raw = raw.replace("\r", "").replace("\u00ad", "")
+    raw = re.sub(r"(?<=[^\W\d_])\s*-\s*\n\s*(?=[^\W\d_])", "", raw)
+
     lines = []
-    for line in raw.replace("\r", "").split("\n"):
-        line = line.replace("\u00ad", "")
+    for line in raw.split("\n"):
         line = re.sub(r"(?<=\w)-\s+(?=\w)", "", line)
         line = re.sub(r"\s+", " ", line).strip()
         if line:
             lines.append(line)
     return lines
+
+
+def repair_page_boundaries(pages: list[tuple[int, list[str]]]) -> list[tuple[int, list[str]]]:
+    """Repara palabras partidas justo antes de un salto de página.
+
+    Algunos PDF colocan el número de página entre las dos mitades de una
+    palabra (por ejemplo, ``po -`` al final de una página y ``26`` +
+    ``niendo`` al comienzo de la siguiente). Ese número no forma parte de la
+    propuesta y debe retirarse solo en este patrón inequívoco.
+    """
+    repaired: list[tuple[int, list[str]]] = []
+    letter = r"[^\W\d_]"
+
+    for page_number, lines in pages:
+        current_lines = list(lines)
+        if repaired:
+            previous_number, previous_lines = repaired[-1]
+            if previous_lines and current_lines:
+                hyphen = re.search(rf"(?<={letter})\s*-\s*$", previous_lines[-1])
+                start = 0
+                if len(current_lines) >= 2 and re.fullmatch(r"\d{1,4}", current_lines[0]):
+                    start = 1
+                if hyphen and start < len(current_lines) and re.match(rf"^{letter}", current_lines[start]):
+                    previous_lines[-1] = previous_lines[-1][:hyphen.start()] + current_lines[start]
+                    current_lines = current_lines[start + 1:]
+                    repaired[-1] = (previous_number, previous_lines)
+        repaired.append((page_number, current_lines))
+
+    return repaired
 
 
 def pages_for(filename: str) -> list[tuple[int, list[str]]]:
@@ -37,9 +72,10 @@ def pages_for(filename: str) -> list[tuple[int, list[str]]]:
         pages = []
         for index in range(1, len(chunks), 2):
             pages.append((int(chunks[index]), clean_lines(chunks[index + 1])))
-        return pages
+        return repair_page_boundaries(pages)
     reader = PdfReader(str(ROOT / filename))
-    return [(number, clean_lines(page.extract_text() or "")) for number, page in enumerate(reader.pages, 1)]
+    pages = [(number, clean_lines(page.extract_text() or "")) for number, page in enumerate(reader.pages, 1)]
+    return repair_page_boundaries(pages)
 
 
 def flatten(lines: list[str]) -> str:
