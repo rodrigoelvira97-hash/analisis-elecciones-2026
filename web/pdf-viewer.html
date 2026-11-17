@@ -17,9 +17,9 @@
           <p id="pdf-status" class="pdf-status">Cargando la página solicitada…</p>
         </div>
         <div class="pdf-viewer-actions">
-          <button id="previous-page" type="button">‹ Anterior</button>
+          <button id="previous-page" type="button" disabled>‹ Anterior</button>
           <span id="page-indicator">—</span>
-          <button id="next-page" type="button">Siguiente ›</button>
+          <button id="next-page" type="button" disabled>Siguiente ›</button>
         </div>
       </header>
       <section class="pdf-canvas-wrap" aria-label="Página del programa electoral">
@@ -28,9 +28,23 @@
       </section>
       <footer class="pdf-viewer-footer">
         <a id="open-original" class="source-link" href="#" target="_blank" rel="noopener">Abrir PDF completo</a>
-        <p>Este visor muestra directamente la página solicitada y funciona también en dispositivos móviles. Si el documento no carga, utiliza el enlace al PDF completo.</p>
+        <p>Este visor intenta mostrar directamente la página solicitada. Si no puede cargar, el enlace abre el PDF en esa página con el visor del dispositivo.</p>
       </footer>
     </main>
+    <script>
+      (() => {
+        const params = new URLSearchParams(window.location.search);
+        const file = params.get("file");
+        const pageValue = Number.parseInt(params.get("page") || "1", 10);
+        const page = Number.isInteger(pageValue) && pageValue > 0 ? pageValue : 1;
+        const link = document.getElementById("open-original");
+        if (!file || !link) return;
+
+        const pdfUrl = new URL(file, window.location.href);
+        pdfUrl.hash = `page=${page}`;
+        link.href = pdfUrl.href;
+      })();
+    </script>
     <script type="module" src="pdf-viewer.js"></script>
   </body>
 </html>

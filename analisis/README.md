@@ -1,15 +1,5 @@
-# Carpeta de análisis
+# Análisis electoral 2026
 
-Esta carpeta contiene los resultados documentales del proyecto.
+- `inventario-metodo-2026.md`: inventario de las fuentes activas y método de extracción, clasificación y comparación.
 
-## Archivo actual
-
-- `linea-base-2023.md`: análisis de referencia elaborado a partir de los cuatro programas electorales de 2023 disponibles en la carpeta raíz.
-
-## Convención para futuras versiones
-
-- `prioridades-2026.md`: prioridades por partido de la nueva edición.
-- `comparativa-2023-2026.md`: cambios por partido y por tema.
-- `matriz-temas-2026.md`: matriz comparativa de la nueva edición.
-
-Los informes anteriores deben conservarse. No se deben sobrescribir sin una petición expresa.
+Este proyecto trabaja con los cuatro programas electorales de 2026 que están en la carpeta raíz. Los informes y catálogos activos corresponden exclusivamente a esta edición.

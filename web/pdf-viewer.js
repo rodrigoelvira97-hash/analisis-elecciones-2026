@@ -1,6 +1,5 @@
-import * as pdfjsLib from "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.min.mjs";
-
-pdfjsLib.GlobalWorkerOptions.workerSrc = "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.worker.min.mjs";
+const PDFJS_MODULE_URL = "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.min.mjs";
+const PDFJS_WORKER_URL = "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.worker.min.mjs";
 
 const params = new URLSearchParams(window.location.search);
 const fileParam = params.get("file");
@@ -17,9 +16,27 @@ let pdfDocument;
 let currentPage = Number.isInteger(requestedPage) && requestedPage > 0 ? requestedPage : 1;
 let rendering = false;
 
+function withTimeout(promise, milliseconds, message) {
+  return new Promise((resolve, reject) => {
+    const timeoutId = window.setTimeout(() => reject(new Error(message)), milliseconds);
+    promise.then(
+      (value) => {
+        window.clearTimeout(timeoutId);
+        resolve(value);
+      },
+      (error) => {
+        window.clearTimeout(timeoutId);
+        reject(error);
+      }
+    );
+  });
+}
+
 function showError(message) {
   loading.textContent = message;
-  status.textContent = "No se ha podido cargar esta página.";
+  loading.style.display = "block";
+  canvas.style.display = "none";
+  status.textContent = "No se ha podido cargar esta página en el visor interno.";
   previousPage.disabled = true;
   nextPage.disabled = true;
 }
@@ -58,23 +75,43 @@ async function changePage(pageNumber) {
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
-if (!fileParam) {
-  showError("Falta la referencia al documento PDF.");
-} else {
-  const pdfUrl = new URL(fileParam, window.location.href).href;
-  openOriginal.href = `${pdfUrl}#page=${currentPage}`;
-  pdfjsLib.getDocument(pdfUrl).promise
-    .then((document) => {
-      pdfDocument = document;
-      currentPage = Math.max(1, Math.min(currentPage, pdfDocument.numPages));
-      return renderPage(currentPage);
-    })
-    .catch((error) => {
-      console.error(error);
-      showError("El visor interno no ha podido cargar el PDF. Utiliza el enlace al PDF completo.");
-    });
+async function openRequestedPage() {
+  if (!fileParam) {
+    showError("Falta la referencia al documento PDF. Vuelve al análisis y abre la fuente desde una medida.");
+    return;
+  }
+
+  const pdfUrl = new URL(fileParam, window.location.href);
+  const directPdfUrl = new URL(pdfUrl.href);
+  directPdfUrl.hash = `page=${currentPage}`;
+  openOriginal.href = directPdfUrl.href;
+
+  try {
+    const pdfjsLib = await withTimeout(
+      import(PDFJS_MODULE_URL),
+      15000,
+      "El visor PDF tardó demasiado en iniciar."
+    );
+    pdfjsLib.GlobalWorkerOptions.workerSrc = PDFJS_WORKER_URL;
+
+    const loadingTask = pdfjsLib.getDocument(pdfUrl.href);
+    pdfDocument = await withTimeout(
+      loadingTask.promise,
+      30000,
+      "El PDF tardó demasiado en descargarse."
+    );
+    currentPage = Math.max(1, Math.min(currentPage, pdfDocument.numPages));
+    await renderPage(currentPage);
+  } catch (error) {
+    console.error(error);
+    showError("El visor no ha podido cargar el PDF. Usa «Abrir PDF completo» para consultar la página solicitada.");
+  }
 }
 
 previousPage.addEventListener("click", () => changePage(currentPage - 1));
 nextPage.addEventListener("click", () => changePage(currentPage + 1));
 window.addEventListener("resize", () => { if (pdfDocument) renderPage(currentPage); });
+
+previousPage.disabled = true;
+nextPage.disabled = true;
+openRequestedPage();

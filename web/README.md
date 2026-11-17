@@ -1,53 +1,35 @@
-# Visor web del análisis electoral
+# Visor de programas electorales de 2026
 
-Web estática local para consultar el análisis de 2023. La navegación es progresiva y orientada al votante: primero ofrece dos caminos —explorar un programa o comparar por tema—, después muestra índices y subtemas, y solo al entrar en un nodo concreto muestra las propuestas y permite abrir el PDF original.
+Web estática para explorar los cuatro programas de 2026 exclusivamente desde sus PDF locales.
 
-## Abrirla
+## Abrir
 
-Opción rápida: abrir `index.html` en el navegador.
-
-Opción recomendada: desde la raíz del proyecto ejecutar:
+Desde la carpeta raíz del proyecto:
 
 ```powershell
 node web/server.mjs
 ```
 
-Después abrir:
+Abre `http://localhost:8000/web/` en el navegador. El visor integrado dirige a la página física del PDF y ofrece un enlace alternativo al archivo completo.
 
-`http://localhost:8000/web/`
+## GitHub Pages y móviles
 
-La segunda opción facilita que los enlaces relativos a los PDF funcionen correctamente.
+La web se publica desde la raíz del repositorio en la rama `main`; se abre en `/web/` y los PDF permanecen en la raíz. Los enlaces del visor se construyen con rutas relativas al proyecto, así funcionan también bajo la subruta que GitHub Pages asigna a este repositorio. La página raíz redirige a la web.
 
-## Estructura
+El visor carga PDF.js desde cdnjs para renderizar la página solicitada dentro del navegador. Si falla esa carga, el enlace «Abrir PDF completo» ya contiene el archivo y la página solicitada para usar el visor PDF del dispositivo. La guía de PDF.js documenta tanto las compilaciones preconstruidas como la distribución por CDN. [Guía oficial de PDF.js](https://github.com/mozilla/pdf.js/wiki/setup-pdf.js-in-a-website)
 
-- `index.html`: estructura de la interfaz.
-- `styles.css`: diseño responsive.
-- `pdf-viewer.html`, `pdf-viewer.js` y `pdf-viewer.css`: visor interno para abrir una página concreta del PDF también en móviles.
-- `data-2023.js`: datos del análisis y referencias a páginas PDF.
-- `program-structure-2023.js`: índice original de cada programa, con sus bloques y apartados principales.
-- `app.js`: filtros, tarjetas, buscador tolerante y ventana de detalle.
+## Archivos principales
 
-La aplicación mantiene dos capas separadas. El panel `Índice original del programa` conserva la estructura propia de cada documento: bloques, capítulos y apartados principales tal como aparecen en su índice. La taxonomía comparativa separa esa estructura original de los temas madre y subtemas comunes de comparación. El selector jerárquico muestra cada tema como una opción que incluye sus subtemas activos y permite entrar en un subtema concreto. La vista de un subtema presenta primero una comparación resumida por partido —recuento y ejemplos de títulos— y mantiene el listado completo de propuestas cerrado hasta que el usuario abre ese partido. La interfaz explica el alcance de la clasificación seleccionada con lenguaje comprensible. El tema clasifica el ámbito principal de la propuesta; el subtema permite concretar la búsqueda sin convertir categorías distintas —por ejemplo, vivienda, territorio, soberanía o movilidad— en un único grupo. Las etiquetas secundarias permiten que una propuesta pueda pertenecer a más de un subtema cuando el propio contenido lo justifica.
+- `index.html`: interfaz y carga de datos de 2026.
+- `app.js` y `styles.css`: navegación, comparación y presentación adaptable a móvil.
+- `data-2026.js`: temas madre, subtemas y definiciones de alcance.
+- `program-structure-2026.js`: índices originales, bloques y apartados de los programas.
+- `source-catalog-2026.js`: referencias extraídas, con texto, página, bloque, apartado y etiquetas.
+- `measure-relations-2026.js`: sugerencias locales de medidas de otros partidos para revisar.
+- `pdf-viewer.html`, `pdf-viewer.js` y `pdf-viewer.css`: visor PDF con selección de página.
 
-Los bloques originales, los bloques analíticos y las medidas se muestran como niveles distintos para los cuatro programas. La ruta por programa es `partido → índice original → bloque o capítulo → medidas`. La ruta comparativa es `tema madre → subtema → medidas de los partidos seleccionados`. La pantalla inicial no lista el grueso de las medidas: solo ofrece los índices, los temas, los subtemas y sus contadores. La búsqueda libre sí funciona como entrada directa a las medidas coincidentes porque constituye una petición explícita del usuario.
+Los datos se regeneran con `python tools/build_source_catalog_2026.py`. El script lee únicamente los cuatro PDF nombrados en su configuración y produce los tres catálogos JavaScript de 2026. No llama a servicios externos.
 
-Las medidas/propuestas extraídas del PDF aparecen separadas de las síntesis analíticas que ya existían en la línea base. Cada registro documental conserva su página, su numeración original cuando existe, su sección y el bloque original del índice al que se ha vinculado. La extracción se genera desde los cuatro PDF de 2023 mediante `tools/build_source_catalog_2023.py`, de modo que el mismo criterio pueda repetirse al incorporar 2026. El generador corrige también la separación silábica que algunos PDF introducen al final de línea o al cambiar de página, sin modificar los documentos originales.
+La ruta por partido conserva el índice propio de cada programa. La ruta temática usa una clasificación común del proyecto. Las referencias extraídas no equivalen siempre a una propuesta numerada: el PP y el Frente Amplio tienen formatos de extracción distintos, así que sus recuentos no deben compararse como volumen o prioridad.
 
-La búsqueda se evalúa a nivel de medida: la prioridad se conserva como contexto, pero solo se muestran las medidas coincidentes. Ignora tildes y admite términos relacionados controlados; así, `inmigración` no devuelve automáticamente todas las medidas de seguridad, fronteras o personas. Las etiquetas de migración incluyen, entre otros, inmigración, migración, asilo, refugio, extranjería e integración, siempre que la medida esté etiquetada documentalmente como tal.
-
-El orden visual de los partidos es PP, PSOE, VOX y SUMAR, siguiendo la representación parlamentaria indicada para esta comparación. Los enlaces de página no dependen únicamente del fragmento `#page=` del navegador: abren el visor interno basado en PDF.js y ofrecen como alternativa el PDF completo del dispositivo.
-
-El orden de los temas y subtemas es de navegación y no representa un ranking de importancia. Cada medida se etiqueta individualmente para evitar que la selección arrastre una prioridad completa.
-
-## Cómo se actualizará en 2026
-
-La interfaz no debería reescribirse. Se añadirá un nuevo archivo de datos, por ejemplo `data-2026.js`, o se ampliará el modelo para incluir ambos años. Cada medida debe conservar:
-
-- Partido.
-- Año.
-- Tema y prioridad.
-- Resumen de la medida.
-- Archivo PDF de origen.
-- Página PDF.
-
-Así cada nueva medida podrá mostrar el resumen y enlazar directamente al texto completo del programa original.
+Las relaciones son candidatas automáticas que requieren comprobación en el PDF. La aplicación explica que la coincidencia no implica equivalencia, oposición o respuesta directa y que no encontrar una candidata no demuestra ausencia.
